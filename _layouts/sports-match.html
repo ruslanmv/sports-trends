@@ -1,0 +1,13 @@
+---
+layout: sports
+---
+<article class="sports-detail sports-card">
+  <header>
+    <p class="sports-eyebrow">Ruslan Magana Sports Intelligence</p>
+    <h1>{{ page.title | default: 'Match Detail' }}</h1>
+    <p>{{ page.description }}</p>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+</article>

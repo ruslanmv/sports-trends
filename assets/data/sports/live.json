@@ -1,0 +1,14 @@
+{
+  "last_updated": "2026-06-26T08:28:00Z",
+  "matches": [
+    {
+      "sport": "football",
+      "league": "Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Tottenham",
+      "score": "2-1",
+      "status": "78'",
+      "is_live": true
+    }
+  ]
+}

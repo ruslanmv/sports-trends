@@ -1,0 +1,14 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "url": "/sports/",
+  "version": "0.1.0",
+  "data_files": [
+    "status.json",
+    "today.json",
+    "tomorrow.json",
+    "live.json",
+    "trending.json",
+    "predictions.json",
+    "rankings.json"
+  ]
+}

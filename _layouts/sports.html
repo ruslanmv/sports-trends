@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | Ruslan Magana</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="/assets/css/sports.css">
+    <link rel="stylesheet" href="/assets/css/sports-cards.css">
+    <link rel="stylesheet" href="/assets/css/sports-mobile.css">
+    {% include sports/json-ld.html %}
+  </head>
+  <body class="sports-page">
+    {% include sports/sports-nav.html %}
+    <main class="sports-shell">
+      {{ content }}
+    </main>
+    <script src="/assets/js/sports-app.js" defer></script>
+    <script src="/assets/js/sports-live.js" defer></script>
+    <script src="/assets/js/sports-filters.js" defer></script>
+    <script src="/assets/js/sports-countdown.js" defer></script>
+    <script src="/assets/js/sports-share.js" defer></script>
+    <script src="/assets/js/sports-analytics.js" defer></script>
+  </body>
+</html>

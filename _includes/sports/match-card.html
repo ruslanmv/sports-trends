@@ -1,0 +1,26 @@
+<article class="sports-match-card" data-sport="{{ include.sport }}" data-match-id="{{ include.match_id }}">
+  <header>
+    <span>{{ include.league }} · Tomorrow</span>
+    <strong>↗ {{ include.badge }}</strong>
+  </header>
+  <div class="sports-team-row">
+    <span class="sports-team-badge">{{ include.home_abbr }}</span>
+    <b>{{ include.home }}</b>
+    <em>{{ include.home_score }}</em>
+  </div>
+  <div class="sports-vs"><span>vs</span></div>
+  <div class="sports-team-row">
+    <span class="sports-team-badge alt">{{ include.away_abbr }}</span>
+    <b>{{ include.away }}</b>
+    <em>{{ include.away_score }}</em>
+  </div>
+  <p class="sports-ai-chip">✦ {{ include.insight }}</p>
+  <div class="sports-interest-row">
+    <span>↗ Interest score</span>
+    <strong>{{ include.interest }}</strong>
+  </div>
+  <footer>
+    <span>{{ include.time }}</span>
+    <button type="button" data-share-match="{{ include.match_id }}">{{ include.action }}</button>
+  </footer>
+</article>

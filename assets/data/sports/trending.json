@@ -1,0 +1,19 @@
+{
+  "scope": "worldwide",
+  "rankings": [
+    {
+      "rank": 1,
+      "match": "Real Madrid vs Man City",
+      "sport": "football",
+      "interest": "1.2M",
+      "velocity": "+18%"
+    },
+    {
+      "rank": 2,
+      "match": "India vs Australia",
+      "sport": "cricket",
+      "interest": "842K",
+      "velocity": "+15%"
+    }
+  ]
+}

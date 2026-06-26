@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-27",
+  "headline": "Tomorrow’s Biggest Games",
+  "matches": [
+    {
+      "id": "liv-ars-2026-06-27",
+      "sport": "football",
+      "league": "Premier League",
+      "home_team": "Liverpool",
+      "away_team": "Arsenal",
+      "kickoff": "2026-06-27T18:30:00+01:00",
+      "prediction": {
+        "home_score": 2,
+        "away_score": 2,
+        "label": "AI: draw likely",
+        "confidence": 0.72
+      },
+      "interest_score": 96,
+      "trend_badge": "Global #2"
+    },
+    {
+      "id": "lal-bos-2026-06-27",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Lakers",
+      "away_team": "Celtics",
+      "kickoff": "2026-06-27T02:00:00Z",
+      "prediction": {
+        "home_score": 114,
+        "away_score": 109,
+        "label": "AI: Lakers edge",
+        "confidence": 0.68
+      },
+      "interest_score": 91,
+      "trend_badge": "US Hot"
+    },
+    {
+      "id": "sin-alc-2026-06-27",
+      "sport": "tennis",
+      "league": "ATP",
+      "home_team": "J. Sinner",
+      "away_team": "C. Alcaraz",
+      "kickoff": "2026-06-27T15:00:00+02:00",
+      "prediction": {
+        "home_score": 3,
+        "away_score": 2,
+        "label": "AI: five-set thriller",
+        "confidence": 0.64
+      },
+      "interest_score": 88,
+      "trend_badge": "Italy rising"
+    }
+  ]
+}

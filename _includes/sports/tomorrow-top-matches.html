@@ -1,0 +1,20 @@
+<section class="sports-section" id="tomorrow-top-matches">
+  <header class="sports-section-header">
+    <div>
+      <h2>Tomorrow’s Top Matches</h2>
+      <p>Ranked by global interest, league importance, social velocity, and AI model confidence.</p>
+    </div>
+    <div class="sports-filter-pills" data-sports-filters>
+      <button class="active" data-sport="all">All Sports</button>
+      <button data-sport="football">Football</button>
+      <button data-sport="basketball">Basketball</button>
+      <button data-sport="tennis">Tennis</button>
+      <button data-sport="cricket">Cricket</button>
+    </div>
+  </header>
+  <div class="sports-match-grid" data-tomorrow-matches>
+    {% include sports/match-card.html match_id="liv-ars-2026-06-27" sport="football" league="Premier League" badge="Global #2" home_abbr="LIV" home="Liverpool" home_score="2" away_abbr="ARS" away="Arsenal" away_score="2" insight="AI: draw likely" interest="96/100" time="Kickoff 18:30 CET" action="Share" %}
+    {% include sports/match-card.html match_id="lal-bos-2026-06-27" sport="basketball" league="NBA" badge="US Hot" home_abbr="LAL" home="Lakers" home_score="114" away_abbr="BOS" away="Celtics" away_score="109" insight="AI: Lakers edge" interest="91/100" time="Tipoff 02:00 CET" action="Follow" %}
+    {% include sports/match-card.html match_id="sin-alc-2026-06-27" sport="tennis" league="ATP" badge="Italy rising" home_abbr="SIN" home="J. Sinner" home_score="3" away_abbr="ALC" away="C. Alcaraz" away_score="2" insight="AI: five-set thriller" interest="88/100" time="Center Court · 15:00" action="Share" %}
+  </div>
+</section>

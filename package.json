@@ -1,0 +1,19 @@
+{
+  "name": "ruslanmv-sports-intelligence",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend and automation scaffold for ruslanmv.com/sports",
+  "scripts": {
+    "lint:js": "echo 'TODO: add eslint when JS grows'",
+    "build:sports": "python scripts/run_generate_pages.py",
+    "validate:data": "python scripts/validate_json.py"
+  },
+  "keywords": [
+    "sports",
+    "predictions",
+    "live-results",
+    "jekyll",
+    "ruslanmv"
+  ],
+  "license": "MIT"
+}

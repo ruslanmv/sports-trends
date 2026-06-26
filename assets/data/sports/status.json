@@ -1,0 +1,9 @@
+{
+  "status": "live",
+  "last_updated": "2026-06-26T08:28:00Z",
+  "update_cycle_minutes": 30,
+  "providers": [
+    "placeholder-provider"
+  ],
+  "notes": "Demo placeholder data until provider integration is implemented."
+}
