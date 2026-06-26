@@ -1,0 +1,1 @@
+"""sports-trends package module."""

@@ -1,4 +1,4 @@
-from ruslan_sports.providers.fallback_provider import FallbackProvider
+from sports_trends.providers.fallback_provider import FallbackProvider
 
 
 def test_fallback_provider_returns_lists():

@@ -11,6 +11,16 @@ Premium sports intelligence section for `ruslanmv.com/sports/`.
 
 This repository is a complete starter scaffold. It includes the expected Jekyll pages, Liquid includes, frontend assets, JSON data placeholders, Python ingestion/prediction/ranking modules, templates, tests, documentation, and GitHub Actions workflows. The next step is to let an AI coder populate the placeholder modules with provider-specific implementation.
 
+
+## Technical naming
+
+- GitHub repository: `sports-trends`
+- Python package: `sports_trends`
+- Hugging Face dataset: `ruslanmv/sports-trends-dataset`
+- Hugging Face model repo: `ruslanmv/sports-trends-models`
+
+Large raw data, parquet archives, training datasets, and model artifacts belong in Hugging Face repositories. GitHub keeps code, workflows, Jekyll pages, templates, tests, docs, and small frontend JSON files only.
+
 ## Repository purpose
 
 This repo is designed to generate and maintain a premium sports destination that can be copied or deployed into the main `ruslanmv.com` site under `/sports/`.
@@ -52,8 +62,8 @@ Minimum workflows:
 
 ```txt
 .github/workflows/sports-live-refresh.yml
-.github/workflows/sports-tomorrow-predictions.yml
-.github/workflows/sports-build-site.yml
+.github/workflows/sports-predict-tomorrow.yml
+.github/workflows/sports-deploy.yml
 ```
 
 ## Quick start
@@ -62,9 +72,9 @@ Minimum workflows:
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python scripts/run_live_refresh.py
-python scripts/run_tomorrow_predictions.py
-python scripts/run_trending_rankings.py
+python scripts/run_fetch_raw_data.py
+python scripts/run_generate_inference_window.py
+python scripts/run_predict_tomorrow.py
 python scripts/run_generate_pages.py
 ```
 

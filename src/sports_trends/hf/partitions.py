@@ -1,0 +1,11 @@
+"""Placeholder implementation for `partition_path`."""
+
+from __future__ import annotations
+
+from typing import Any
+
+def partition_path(*args: Any, **kwargs: Any) -> Any:
+    """Return a safe placeholder until provider-specific logic is implemented."""
+    if args or kwargs:
+        return {"args": list(args), "kwargs": kwargs}
+    return []

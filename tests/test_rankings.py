@@ -1,4 +1,4 @@
-from ruslan_sports.ranking.rank_top_matches import rank_top_matches
+from sports_trends.ranking.rank_top_matches import rank_top_matches
 
 
 def test_rank_top_matches_orders_interest():
