@@ -1,12 +1,12 @@
 {
-  "name": "ruslanmv-sports-intelligence",
+  "name": "sports-trends",
   "version": "0.1.0",
   "private": true,
   "description": "Frontend and automation scaffold for ruslanmv.com/sports",
   "scripts": {
     "lint:js": "echo 'TODO: add eslint when JS grows'",
     "build:sports": "python scripts/run_generate_pages.py",
-    "validate:data": "python scripts/validate_json.py"
+    "validate:data": "python -m pytest tests/test_json_schemas.py"
   },
   "keywords": [
     "sports",

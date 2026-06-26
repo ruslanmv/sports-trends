@@ -1,7 +1,7 @@
-from ruslan_sports.predictions.generate_predictions import generate_predictions
+from sports_trends.inference.predict import predict_window
+from sports_trends.models.predict import predict_matches
 
 
-def test_generate_predictions_preserves_matches():
-    rows = generate_predictions([{"id": "m1"}])
-    assert rows[0]["id"] == "m1"
-    assert "prediction" in rows[0]
+def test_prediction_placeholders_callable():
+    assert predict_window() == []
+    assert predict_matches() == []

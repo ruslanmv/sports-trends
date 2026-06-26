@@ -1,4 +1,4 @@
-from ruslan_sports.seo.generate_meta_descriptions import generate_meta_descriptions
+from sports_trends.seo.generate_meta_descriptions import generate_meta_descriptions
 
 
 def test_meta_description_placeholder():

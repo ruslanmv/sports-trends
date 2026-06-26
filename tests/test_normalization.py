@@ -1,4 +1,4 @@
-from ruslan_sports.ingestion.normalize_matches import normalize_match
+from sports_trends.ingestion.normalize_matches import normalize_match
 
 
 def test_normalize_match_minimum_fields():
