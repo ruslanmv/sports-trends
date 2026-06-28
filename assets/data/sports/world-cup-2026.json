@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T20:53:51.963236+00:00",
+  "last_updated": "2026-06-28T21:56:33.486809+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -524,24 +524,6 @@
         "confidence": 36
       },
       "interest_score": 41
-    },
-    {
-      "match_id": "wc-2026-southafrica-canada-2026-06-28",
-      "home_team": "South Africa",
-      "away_team": "Canada",
-      "stage": "round_of_32",
-      "kickoff": null,
-      "kickoff_label": "TBD",
-      "prediction": {
-        "home_win": 0.36,
-        "draw": 0.28,
-        "away_win": 0.36,
-        "home_to_advance": 0.5,
-        "away_to_advance": 0.5,
-        "ai_pick": "South Africa favoured",
-        "confidence": 36
-      },
-      "interest_score": 40
     },
     {
       "match_id": "wc-2026-switzerland-algeria-2026-07-02",

@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball",
-  "last_updated": "2026-06-28T20:53:51.963236+00:00",
+  "last_updated": "2026-06-28T21:56:33.486809+00:00",
   "matches": [
     {
       "match_id": "wc-2026-portugal-croatia-2026-07-02",
@@ -842,35 +842,6 @@
       "to_advance": {
         "W85": 0.5,
         "W87": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-southafrica-canada-2026-06-28",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "South Africa",
-      "away_team": "Canada",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "South Africa favoured",
-      "confidence": 0.36,
-      "interest_score": 40,
-      "explanation": [
-        "Elo: South Africa 1750 vs Canada 1750 (Δ +0).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): South Africa 50% · Canada 50%."
-      ],
-      "to_advance": {
-        "South Africa": 0.5,
-        "Canada": 0.5
       },
       "kickoff_label": "TBD"
     },
