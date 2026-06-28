@@ -1,0 +1,86 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "competition": "FIFA World Cup 2026",
+  "source": "mock",
+  "last_updated": "2026-06-28T10:34:47.680134+00:00",
+  "matches": [
+    {
+      "match_id": "wcq-ita-nor",
+      "competition_type": "world_cup_qualifier",
+      "stage": "qualifying_group",
+      "group": "Group I",
+      "home_team": "Italy",
+      "away_team": "Norway",
+      "kickoff": "2026-06-30T20:45:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.51,
+        "draw": 0.202,
+        "team2": 0.288
+      },
+      "prediction_label": "Italy favoured",
+      "confidence": 0.51,
+      "interest_score": 49,
+      "explanation": [
+        "Elo: Italy 1960 vs Norway 1800 (Δ +160, host advantage).",
+        "Stage importance 55/100 (qualifying group).",
+        "Group qualification odds: Italy 66% · Norway 34%."
+      ],
+      "qualification": {
+        "win_draw_loss": {
+          "team1": 0.51,
+          "draw": 0.202,
+          "team2": 0.288
+        },
+        "group_qualification_probability": {
+          "Italy": 0.661,
+          "Norway": 0.339
+        },
+        "elimination_risk": {
+          "Italy": 0.339,
+          "Norway": 0.661
+        }
+      }
+    },
+    {
+      "match_id": "wcq-bra-col",
+      "competition_type": "world_cup_qualifier",
+      "stage": "qualifying_group",
+      "group": "CONMEBOL Table",
+      "home_team": "Brazil",
+      "away_team": "Colombia",
+      "kickoff": "2026-07-01T01:30:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.529,
+        "draw": 0.193,
+        "team2": 0.278
+      },
+      "prediction_label": "Brazil favoured",
+      "confidence": 0.529,
+      "interest_score": 61,
+      "explanation": [
+        "Elo: Brazil 2050 vs Colombia 1870 (Δ +180, host advantage).",
+        "Stage importance 55/100 (qualifying group).",
+        "Group qualification odds: Brazil 68% · Colombia 32%."
+      ],
+      "qualification": {
+        "win_draw_loss": {
+          "team1": 0.529,
+          "draw": 0.193,
+          "team2": 0.278
+        },
+        "group_qualification_probability": {
+          "Brazil": 0.679,
+          "Colombia": 0.321
+        },
+        "elimination_risk": {
+          "Brazil": 0.321,
+          "Colombia": 0.679
+        }
+      }
+    }
+  ]
+}

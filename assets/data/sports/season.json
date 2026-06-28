@@ -1,0 +1,118 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "last_updated": "2026-06-28T10:34:47.413131+00:00",
+  "today": "2026-06-28",
+  "featured": {
+    "key": "worldcup",
+    "name": "FIFA World Cup",
+    "sport": "football",
+    "scope": "international",
+    "importance": 100,
+    "emoji": "🏆"
+  },
+  "worldcup_active": true,
+  "active": [
+    {
+      "key": "worldcup",
+      "name": "FIFA World Cup",
+      "sport": "football",
+      "scope": "international",
+      "importance": 100,
+      "emoji": "🏆"
+    },
+    {
+      "key": "wimbledon",
+      "name": "Wimbledon",
+      "sport": "tennis",
+      "scope": "grand_slam",
+      "importance": 95,
+      "emoji": "🎾"
+    },
+    {
+      "key": "t20wc",
+      "name": "ICC T20 World Cup",
+      "sport": "cricket",
+      "scope": "international",
+      "importance": 88,
+      "emoji": "🏏"
+    },
+    {
+      "key": "mlb",
+      "name": "MLB",
+      "sport": "baseball",
+      "scope": "franchise",
+      "importance": 78,
+      "emoji": "⚾"
+    },
+    {
+      "key": "esports",
+      "name": "Esports Majors",
+      "sport": "esports",
+      "scope": "franchise",
+      "importance": 62,
+      "emoji": "🎮"
+    }
+  ],
+  "upcoming": [
+    {
+      "key": "epl",
+      "name": "Premier League",
+      "sport": "football",
+      "scope": "club",
+      "importance": 90,
+      "emoji": "🏴",
+      "start": "2026-08-10",
+      "starts_in_days": 43
+    },
+    {
+      "key": "laliga",
+      "name": "La Liga",
+      "sport": "football",
+      "scope": "club",
+      "importance": 88,
+      "emoji": "🇪🇸",
+      "start": "2026-08-15",
+      "starts_in_days": 48
+    },
+    {
+      "key": "ligue1",
+      "name": "Ligue 1",
+      "sport": "football",
+      "scope": "club",
+      "importance": 84,
+      "emoji": "🇫🇷",
+      "start": "2026-08-15",
+      "starts_in_days": 48
+    },
+    {
+      "key": "seriea",
+      "name": "Serie A",
+      "sport": "football",
+      "scope": "club",
+      "importance": 87,
+      "emoji": "🇮🇹",
+      "start": "2026-08-18",
+      "starts_in_days": 51
+    },
+    {
+      "key": "bundesliga",
+      "name": "Bundesliga",
+      "sport": "football",
+      "scope": "club",
+      "importance": 86,
+      "emoji": "🇩🇪",
+      "start": "2026-08-22",
+      "starts_in_days": 55
+    },
+    {
+      "key": "usopen",
+      "name": "US Open",
+      "sport": "tennis",
+      "scope": "grand_slam",
+      "importance": 92,
+      "emoji": "🎾",
+      "start": "2026-08-25",
+      "starts_in_days": 58
+    }
+  ]
+}

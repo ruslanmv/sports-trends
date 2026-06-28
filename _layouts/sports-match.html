@@ -1,13 +1,16 @@
 ---
 layout: sports
 ---
-<article class="sports-detail sports-card">
-  <header>
-    <p class="sports-eyebrow">Ruslan Magana Sports Intelligence</p>
-    <h1>{{ page.title | default: 'Match Detail' }}</h1>
-    <p>{{ page.description }}</p>
+<article class="snap-card sports-detail" style="max-width:760px;margin:30px auto">
+  <header style="margin-bottom:14px">
+    <p class="sports-eyebrow" style="color:var(--s-green)"><i></i>{{ page.league }}</p>
+    <h1 style="font-size:34px;letter-spacing:-0.03em;margin:10px 0">{{ page.home_team }} <span style="color:var(--s-muted)">vs</span> {{ page.away_team }}</h1>
+    {% if page.kickoff %}<p class="status-text">Kickoff: {{ page.kickoff }}</p>{% endif %}
   </header>
-  <section>
+  <section class="sports-detail-body">
     {{ content }}
   </section>
+  {% include sports/share-buttons.html %}
+  {% include sports/disclaimer.html %}
 </article>
+<script src="/assets/js/sports-share.js" defer></script>

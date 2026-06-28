@@ -1,0 +1,39 @@
+# Minimal Jekyll config to preview the /sports/ section standalone.
+# In production these pages live inside ruslanmv.github.io.
+title: "Ruslan Magana Sports Intelligence"
+description: "AI predictions, live results, and trending games updated every 30 minutes."
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed
+
+# Only the section's own files need to be processed; keep the Python project out.
+exclude:
+  - src/
+  - tests/
+  - scripts/
+  - docs/
+  - templates/
+  - .venv/
+  - venv/
+  - node_modules/
+  - vendor/
+  - .data_lake/
+  - .models/
+  - .github/
+  - requirements.txt
+  - pyproject.toml
+  - package.json
+  - package-lock.json
+  - README.md
+  - LICENSE
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - .preview_sports.html
+
+keep_files:
+  - assets/data

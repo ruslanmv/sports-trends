@@ -1,4 +1,136 @@
 {
-  "last_updated": "2026-06-26T08:28:00Z",
-  "predictions": []
+  "product": "Ruslan Magana Sports Intelligence",
+  "technical_name": "sports-trends",
+  "last_updated": "2026-06-28T10:34:47.413329+00:00",
+  "source": "ruslanmv/sports-trends-dataset",
+  "model_version": "baseline-v1",
+  "headline": "Tomorrow’s Biggest Games",
+  "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
+  "matches": [
+    {
+      "match_id": "rma-mci",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Real Madrid",
+      "away_team": "Man City",
+      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff_label": "21:00",
+      "probabilities": {
+        "home_win": 0.56,
+        "draw": 0.22,
+        "away_win": 0.22
+      },
+      "prediction_label": "AI: Real Madrid favoured",
+      "confidence": 0.56,
+      "interest_score": 98,
+      "trend_badge": "Global #1",
+      "audience": "1.2M",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Real Madrid 0.60 vs Man City 0.40.",
+        "Head-to-head: 17–0–16 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "lal-bos",
+      "sport": "basketball",
+      "league": "NBA Finals",
+      "home_team": "Lakers",
+      "away_team": "Celtics",
+      "kickoff": "2026-06-29T08:30:00+00:00",
+      "kickoff_label": "08:30",
+      "probabilities": {
+        "home_win": 0.48,
+        "draw": 0.2,
+        "away_win": 0.32
+      },
+      "prediction_label": "AI: Lakers favoured",
+      "confidence": 0.48,
+      "interest_score": 91,
+      "trend_badge": "US Hot",
+      "audience": "689K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lakers 0.60 vs Celtics 0.60.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "sin-alc",
+      "sport": "tennis",
+      "league": "Wimbledon Men's SF",
+      "home_team": "Jannik Sinner",
+      "away_team": "Carlos Alcaraz",
+      "kickoff": "2026-06-29T15:00:00+01:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.44,
+        "draw": 0.16,
+        "away_win": 0.4
+      },
+      "prediction_label": "AI: Jannik Sinner favoured",
+      "confidence": 0.44,
+      "interest_score": 88,
+      "trend_badge": "Italy rising",
+      "audience": "512K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Jannik Sinner 0.00 vs Carlos Alcaraz 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "ind-aus",
+      "sport": "cricket",
+      "league": "ICC Test Championship",
+      "home_team": "India",
+      "away_team": "Australia",
+      "kickoff": "2026-06-29T10:00:00+05:00",
+      "kickoff_label": "10:00",
+      "probabilities": {
+        "home_win": 0.41,
+        "draw": 0.18,
+        "away_win": 0.41
+      },
+      "prediction_label": "AI: India favoured",
+      "confidence": 0.41,
+      "interest_score": 86,
+      "trend_badge": "Global #2",
+      "audience": "842K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): India 0.60 vs Australia 0.60.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "psg-bay",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "PSG",
+      "away_team": "Bayern Munich",
+      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff_label": "21:00",
+      "probabilities": {
+        "home_win": 0.39,
+        "draw": 0.24,
+        "away_win": 0.37
+      },
+      "prediction_label": "AI: PSG favoured",
+      "confidence": 0.39,
+      "interest_score": 83,
+      "trend_badge": "EU Hot",
+      "audience": "451K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): PSG 0.40 vs Bayern Munich 0.60.",
+        "Head-to-head: 16–0–17 (home–draw–away)."
+      ]
+    }
+  ]
 }

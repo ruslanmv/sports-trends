@@ -1,13 +1,14 @@
-<section class="sports-section" id="trending-matches">
-  <header class="sports-section-header compact">
-    <h2>Trending Worldwide</h2>
-    <a href="/sports/trending/">View all trending</a>
-  </header>
-  <ol class="sports-trending-list" data-trending-matches>
-    <li><b>Real Madrid vs Man City</b><span>1.2M · +18%</span></li>
-    <li><b>India vs Australia</b><span>842K · +15%</span></li>
-    <li><b>Lakers vs Celtics</b><span>689K · +12%</span></li>
-    <li><b>Sinner vs Alcaraz</b><span>512K · +9%</span></li>
-    <li><b>PSG vs Bayern Munich</b><span>451K · +7%</span></li>
+<article class="snap-card" id="trending-matches">
+  <div class="snap-head">
+    <h3>Trending Matches</h3>
+    <button type="button" class="snap-region" data-trending-region>Worldwide &#9662;</button>
+  </div>
+  <ol class="trend-list" data-trending-matches>
+    <li class="trend-row top"><span class="trend-rank">&#128293;</span><span class="trend-label">Real Madrid vs Man City</span><span class="trend-aud">1.2M</span>{% include sports/_spark.html %}</li>
+    <li class="trend-row"><span class="trend-rank">2</span><span class="trend-label">India vs Australia (Test)</span><span class="trend-aud">842K</span>{% include sports/_spark.html %}</li>
+    <li class="trend-row"><span class="trend-rank">3</span><span class="trend-label">Lakers vs Celtics</span><span class="trend-aud">689K</span>{% include sports/_spark.html %}</li>
+    <li class="trend-row"><span class="trend-rank">4</span><span class="trend-label">Sinner vs Alcaraz</span><span class="trend-aud">512K</span>{% include sports/_spark.html %}</li>
+    <li class="trend-row"><span class="trend-rank">5</span><span class="trend-label">PSG vs Bayern Munich</span><span class="trend-aud">451K</span>{% include sports/_spark.html %}</li>
   </ol>
-</section>
+  <a class="trend-all" href="/sports/trending/">View all trending &rarr;</a>
+</article>

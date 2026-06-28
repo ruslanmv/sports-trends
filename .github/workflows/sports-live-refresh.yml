@@ -1,3 +1,5 @@
+# Auto-managed workflow for sports-trends. Runs with mock-data fallback when
+# secrets are absent; HF uploads use dry-run unless HF_TOKEN is set.
 name: Sports Live Refresh
 
 on:
@@ -5,12 +7,21 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
-permissions:
-  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_DATASET_REPO: ruslanmv/sports-trends-dataset
+      HF_MODEL_REPO: ruslanmv/sports-trends-models
+      SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+      SPORTS_API_FOOTBALL_KEY: ${{ secrets.SPORTS_API_FOOTBALL_KEY }}
+      SPORTS_BASKETBALL_API_KEY: ${{ secrets.SPORTS_BASKETBALL_API_KEY }}
+      SPORTS_TENNIS_API_KEY: ${{ secrets.SPORTS_TENNIS_API_KEY }}
+      SPORTS_CRICKET_API_KEY: ${{ secrets.SPORTS_CRICKET_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,8 +32,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install -e .
-      - name: Run workflow task
+      - name: Run
         run: |
           python scripts/run_fetch_raw_data.py
           python scripts/run_normalize_data.py
           python scripts/run_publish_frontend_json.py
+          python scripts/run_worldcup_pipeline.py
+      - name: Commit changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/data/sports || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(sports): 30-min live refresh [skip ci]"
+            git push
+          fi
