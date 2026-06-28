@@ -1,69 +1,33 @@
 {
-  "last_updated": "2026-06-28T15:22:46.434966+00:00",
+  "last_updated": "2026-06-28T15:46:52.372925+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
     {
-      "match_id": "wc-fra-sen",
-      "home_team": "France",
-      "away_team": "Senegal",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-29T15:00:00+00:00",
-      "kickoff_label": "29 Jun 15:00",
-      "prediction": {
-        "home_win": 0.594,
-        "draw": 0.163,
-        "away_win": 0.243,
-        "home_to_advance": 0.757,
-        "away_to_advance": 0.243,
-        "ai_pick": "France favoured",
-        "confidence": 59
-      },
-      "interest_score": 71
-    },
-    {
-      "match_id": "wc-esp-cro",
-      "home_team": "Spain",
+      "match_id": "wc-2026-portugal-croatia-2026-07-02",
+      "home_team": "Portugal",
       "away_team": "Croatia",
       "stage": "round_of_32",
-      "kickoff": "2026-06-30T18:00:00+00:00",
-      "kickoff_label": "30 Jun 18:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
-        "home_win": 0.472,
-        "draw": 0.221,
-        "away_win": 0.307,
-        "home_to_advance": 0.633,
-        "away_to_advance": 0.367,
-        "ai_pick": "Spain favoured",
-        "confidence": 47
-      },
-      "interest_score": 71
-    },
-    {
-      "match_id": "wc-arg-nor",
-      "home_team": "Argentina",
-      "away_team": "Norway",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-29T18:00:00+00:00",
-      "kickoff_label": "29 Jun 18:00",
-      "prediction": {
-        "home_win": 0.638,
-        "draw": 0.143,
-        "away_win": 0.219,
-        "home_to_advance": 0.796,
-        "away_to_advance": 0.204,
-        "ai_pick": "Argentina favoured",
-        "confidence": 64
+        "home_win": 0.453,
+        "draw": 0.231,
+        "away_win": 0.317,
+        "home_to_advance": 0.612,
+        "away_to_advance": 0.388,
+        "ai_pick": "Portugal favoured",
+        "confidence": 45
       },
       "interest_score": 70
     },
     {
-      "match_id": "wc-bra-jpn",
+      "match_id": "wc-2026-brazil-japan-2026-06-29",
       "home_team": "Brazil",
       "away_team": "Japan",
       "stage": "round_of_32",
-      "kickoff": "2026-06-29T21:00:00+00:00",
-      "kickoff_label": "29 Jun 21:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
         "home_win": 0.557,
         "draw": 0.18,
@@ -76,76 +40,544 @@
       "interest_score": 69
     },
     {
-      "match_id": "wc-ger-mar",
-      "home_team": "Germany",
+      "match_id": "wc-2026-netherlands-morocco-2026-06-29",
+      "home_team": "Netherlands",
       "away_team": "Morocco",
       "stage": "round_of_32",
-      "kickoff": "2026-06-30T15:00:00+00:00",
-      "kickoff_label": "30 Jun 15:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
-        "home_win": 0.443,
-        "draw": 0.235,
-        "away_win": 0.321,
-        "home_to_advance": 0.601,
-        "away_to_advance": 0.399,
-        "ai_pick": "Germany favoured",
-        "confidence": 44
+        "home_win": 0.453,
+        "draw": 0.231,
+        "away_win": 0.317,
+        "home_to_advance": 0.612,
+        "away_to_advance": 0.388,
+        "ai_pick": "Netherlands favoured",
+        "confidence": 45
+      },
+      "interest_score": 67
+    },
+    {
+      "match_id": "wc-2026-argentina-capeverde-2026-07-03",
+      "home_team": "Argentina",
+      "away_team": "Cape Verde",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.68,
+        "draw": 0.125,
+        "away_win": 0.195,
+        "home_to_advance": 0.831,
+        "away_to_advance": 0.169,
+        "ai_pick": "Argentina favoured",
+        "confidence": 68
       },
       "interest_score": 66
     },
     {
-      "match_id": "wc-eng-mex",
-      "home_team": "England",
-      "away_team": "Mexico",
+      "match_id": "wc-2026-france-sweden-2026-06-30",
+      "home_team": "France",
+      "away_team": "Sweden",
       "stage": "round_of_32",
-      "kickoff": "2026-06-30T21:00:00+00:00",
-      "kickoff_label": "30 Jun 21:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
-        "home_win": 0.51,
-        "draw": 0.202,
-        "away_win": 0.288,
-        "home_to_advance": 0.674,
-        "away_to_advance": 0.326,
-        "ai_pick": "England favoured",
-        "confidence": 51
+        "home_win": 0.664,
+        "draw": 0.132,
+        "away_win": 0.204,
+        "home_to_advance": 0.818,
+        "away_to_advance": 0.182,
+        "ai_pick": "France favoured",
+        "confidence": 66
       },
       "interest_score": 65
     },
     {
-      "match_id": "wc-por-usa",
-      "home_team": "Portugal",
-      "away_team": "USA",
+      "match_id": "wc-2026-england-drcongo-2026-07-01",
+      "home_team": "England",
+      "away_team": "DR Congo",
       "stage": "round_of_32",
-      "kickoff": "2026-06-28T23:00:00+00:00",
-      "kickoff_label": "28 Jun 23:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.621,
+        "draw": 0.151,
+        "away_win": 0.228,
+        "home_to_advance": 0.781,
+        "away_to_advance": 0.219,
+        "ai_pick": "England favoured",
+        "confidence": 62
+      },
+      "interest_score": 61
+    },
+    {
+      "match_id": "wc-2026-spain-austria-2026-07-02",
+      "home_team": "Spain",
+      "away_team": "Austria",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.612,
+        "draw": 0.155,
+        "away_win": 0.233,
+        "home_to_advance": 0.773,
+        "away_to_advance": 0.227,
+        "ai_pick": "Spain favoured",
+        "confidence": 61
+      },
+      "interest_score": 60
+    },
+    {
+      "match_id": "wc-2026-germany-paraguay-2026-06-29",
+      "home_team": "Germany",
+      "away_team": "Paraguay",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.566,
+        "draw": 0.175,
+        "away_win": 0.258,
+        "home_to_advance": 0.731,
+        "away_to_advance": 0.269,
+        "ai_pick": "Germany favoured",
+        "confidence": 57
+      },
+      "interest_score": 56
+    },
+    {
+      "match_id": "wc-2026-colombia-ghana-2026-07-03",
+      "home_team": "Colombia",
+      "away_team": "Ghana",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
         "home_win": 0.472,
         "draw": 0.221,
         "away_win": 0.307,
         "home_to_advance": 0.633,
         "away_to_advance": 0.367,
-        "ai_pick": "Portugal favoured",
+        "ai_pick": "Colombia favoured",
         "confidence": 47
       },
-      "interest_score": 64
+      "interest_score": 49
     },
     {
-      "match_id": "wc-ned-ecu",
-      "home_team": "Netherlands",
+      "match_id": "wc-2026-mexico-ecuador-2026-06-30",
+      "home_team": "Mexico",
       "away_team": "Ecuador",
       "stage": "round_of_32",
-      "kickoff": "2026-06-28T20:00:00+00:00",
-      "kickoff_label": "28 Jun 20:00",
+      "kickoff": null,
+      "kickoff_label": "TBD",
       "prediction": {
-        "home_win": 0.538,
-        "draw": 0.188,
-        "away_win": 0.273,
-        "home_to_advance": 0.703,
-        "away_to_advance": 0.297,
-        "ai_pick": "Netherlands favoured",
-        "confidence": 54
+        "home_win": 0.378,
+        "draw": 0.27,
+        "away_win": 0.352,
+        "home_to_advance": 0.523,
+        "away_to_advance": 0.477,
+        "ai_pick": "Mexico favoured",
+        "confidence": 38
       },
-      "interest_score": 60
+      "interest_score": 47
+    },
+    {
+      "match_id": "wc-2026-w101-w102-2026-07-19",
+      "home_team": "W101",
+      "away_team": "W102",
+      "stage": "final",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W101 favoured",
+        "confidence": 36
+      },
+      "interest_score": 47
+    },
+    {
+      "match_id": "wc-2026-belgium-senegal-2026-07-01",
+      "home_team": "Belgium",
+      "away_team": "Senegal",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.326,
+        "draw": 0.24,
+        "away_win": 0.434,
+        "home_to_advance": 0.41,
+        "away_to_advance": 0.59,
+        "ai_pick": "Senegal favoured",
+        "confidence": 43
+      },
+      "interest_score": 46
+    },
+    {
+      "match_id": "wc-2026-usa-bosnia&herzegovina-2026-07-01",
+      "home_team": "USA",
+      "away_team": "Bosnia & Herzegovina",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.424,
+        "draw": 0.245,
+        "away_win": 0.33,
+        "home_to_advance": 0.579,
+        "away_to_advance": 0.421,
+        "ai_pick": "USA favoured",
+        "confidence": 42
+      },
+      "interest_score": 45
+    },
+    {
+      "match_id": "wc-2026-w97-w98-2026-07-14",
+      "home_team": "W97",
+      "away_team": "W98",
+      "stage": "semifinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W97 favoured",
+        "confidence": 36
+      },
+      "interest_score": 45
+    },
+    {
+      "match_id": "wc-2026-w99-w100-2026-07-15",
+      "home_team": "W99",
+      "away_team": "W100",
+      "stage": "semifinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W99 favoured",
+        "confidence": 36
+      },
+      "interest_score": 45
+    },
+    {
+      "match_id": "wc-2026-ivorycoast-norway-2026-06-30",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.339,
+        "draw": 0.255,
+        "away_win": 0.406,
+        "home_to_advance": 0.443,
+        "away_to_advance": 0.557,
+        "ai_pick": "Norway favoured",
+        "confidence": 41
+      },
+      "interest_score": 44
+    },
+    {
+      "match_id": "wc-2026-w89-w90-2026-07-09",
+      "home_team": "W89",
+      "away_team": "W90",
+      "stage": "quarterfinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W89 favoured",
+        "confidence": 36
+      },
+      "interest_score": 43
+    },
+    {
+      "match_id": "wc-2026-w93-w94-2026-07-10",
+      "home_team": "W93",
+      "away_team": "W94",
+      "stage": "quarterfinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W93 favoured",
+        "confidence": 36
+      },
+      "interest_score": 43
+    },
+    {
+      "match_id": "wc-2026-w91-w92-2026-07-11",
+      "home_team": "W91",
+      "away_team": "W92",
+      "stage": "quarterfinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W91 favoured",
+        "confidence": 36
+      },
+      "interest_score": 43
+    },
+    {
+      "match_id": "wc-2026-w95-w96-2026-07-11",
+      "home_team": "W95",
+      "away_team": "W96",
+      "stage": "quarterfinals",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W95 favoured",
+        "confidence": 36
+      },
+      "interest_score": 43
+    },
+    {
+      "match_id": "wc-2026-australia-egypt-2026-07-03",
+      "home_team": "Australia",
+      "away_team": "Egypt",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.369,
+        "draw": 0.275,
+        "away_win": 0.356,
+        "home_to_advance": 0.511,
+        "away_to_advance": 0.489,
+        "ai_pick": "Australia favoured",
+        "confidence": 37
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w74-w77-2026-07-04",
+      "home_team": "W74",
+      "away_team": "W77",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W74 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w73-w75-2026-07-04",
+      "home_team": "W73",
+      "away_team": "W75",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W73 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w76-w78-2026-07-05",
+      "home_team": "W76",
+      "away_team": "W78",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W76 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w79-w80-2026-07-05",
+      "home_team": "W79",
+      "away_team": "W80",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W79 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w83-w84-2026-07-06",
+      "home_team": "W83",
+      "away_team": "W84",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W83 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w81-w82-2026-07-06",
+      "home_team": "W81",
+      "away_team": "W82",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W81 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w86-w88-2026-07-07",
+      "home_team": "W86",
+      "away_team": "W88",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W86 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-w85-w87-2026-07-07",
+      "home_team": "W85",
+      "away_team": "W87",
+      "stage": "round_of_16",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "W85 favoured",
+        "confidence": 36
+      },
+      "interest_score": 41
+    },
+    {
+      "match_id": "wc-2026-southafrica-canada-2026-06-28",
+      "home_team": "South Africa",
+      "away_team": "Canada",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "South Africa favoured",
+        "confidence": 36
+      },
+      "interest_score": 40
+    },
+    {
+      "match_id": "wc-2026-switzerland-algeria-2026-07-02",
+      "home_team": "Switzerland",
+      "away_team": "Algeria",
+      "stage": "round_of_32",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "Switzerland favoured",
+        "confidence": 36
+      },
+      "interest_score": 40
+    },
+    {
+      "match_id": "wc-2026-l101-l102-2026-07-18",
+      "home_team": "L101",
+      "away_team": "L102",
+      "stage": "third_place",
+      "kickoff": null,
+      "kickoff_label": "TBD",
+      "prediction": {
+        "home_win": 0.36,
+        "draw": 0.28,
+        "away_win": 0.36,
+        "home_to_advance": 0.5,
+        "away_to_advance": 0.5,
+        "ai_pick": "L101 favoured",
+        "confidence": 36
+      },
+      "interest_score": 40
     }
   ]
 }

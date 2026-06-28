@@ -1,43 +1,43 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
-  "source": "mock",
-  "last_updated": "2026-06-28T15:22:46.434966+00:00",
+  "source": "openfootball",
+  "last_updated": "2026-06-28T15:46:52.372925+00:00",
   "region": "Worldwide",
   "matches": [
     {
       "rank": 1,
-      "label": "France vs Senegal",
+      "label": "Portugal vs Croatia",
       "stage": "round_of_32",
-      "interest_score": 71,
+      "interest_score": 70,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Spain vs Croatia",
-      "stage": "round_of_32",
-      "interest_score": 71,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Argentina vs Norway",
-      "stage": "round_of_32",
-      "interest_score": 70,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Brazil vs Japan",
       "stage": "round_of_32",
       "interest_score": 69,
       "hot": false
     },
     {
-      "rank": 5,
-      "label": "Germany vs Morocco",
+      "rank": 3,
+      "label": "Netherlands vs Morocco",
+      "stage": "round_of_32",
+      "interest_score": 67,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Argentina vs Cape Verde",
       "stage": "round_of_32",
       "interest_score": 66,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "France vs Sweden",
+      "stage": "round_of_32",
+      "interest_score": 65,
       "hot": false
     }
   ]
