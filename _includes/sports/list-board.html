@@ -1,0 +1,8 @@
+<div class="sport-board" data-sport-board="{{ page.sport | default: 'all' }}">
+  <section class="sports-section">
+    <h2 class="sports-section-title">{{ page.board_title | default: 'Matches' }}</h2>
+    <div class="board-grid" data-board-{{ page.board_kind | default: 'upcoming' }}>
+      <p class="board-empty">Loading…</p>
+    </div>
+  </section>
+</div>

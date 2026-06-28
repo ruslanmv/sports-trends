@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "model_repo": "ruslanmv/sports-trends-models",
-  "last_trained": "2026-06-28T09:46:10.667790+00:00",
+  "last_trained": "2026-06-28T12:10:23.933868+00:00",
   "mode": "dry-run",
   "models": {
     "football": {

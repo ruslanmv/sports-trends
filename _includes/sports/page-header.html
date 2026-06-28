@@ -1,0 +1,9 @@
+<header class="page-hero {{ include.variant }}">
+  <div class="page-hero-inner">
+    {% include sports/breadcrumb.html %}
+    <p class="sports-eyebrow"><i></i>{{ page.eyebrow | default: 'Ruslan Magana Sports Intelligence' }}</p>
+    <h1 class="page-hero-title">{{ page.h1 | default: page.title }}</h1>
+    {% if page.subtitle %}<p class="page-hero-sub">{{ page.subtitle }}</p>{% endif %}
+    <a class="page-back" href="{{ '/' | relative_url }}">&larr; Back to all sports</a>
+  </div>
+</header>

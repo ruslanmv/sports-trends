@@ -1,0 +1,32 @@
+<div class="sport-board" data-sport-board="{{ page.sport }}">
+
+  {% if page.sport == 'football' %}
+  <section class="sports-section" id="wc-feature">
+    <h2 class="sports-section-title">&#127942; World Cup &amp; International</h2>
+    <div class="wc-feature-grid">
+      <a class="wc-feature-card" href="{{ '/sports/football/world-cup/' | relative_url }}">
+        <span class="wc-feature-tag" data-wc-stage>World Cup 2026</span>
+        <strong>FIFA World Cup 2026</strong>
+        <p>Knockout predictions — 90&prime; result, who advances, standings &amp; qualifiers.</p>
+        <span class="wc-feature-cta">Open the World Cup board &rarr;</span>
+      </a>
+      <ul class="board-ties" data-wc-ties><li class="board-empty">Loading World Cup ties…</li></ul>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="sports-section">
+    <h2 class="sports-section-title">Upcoming Matches</h2>
+    <div class="board-grid" data-board-upcoming><p class="board-empty">Loading fixtures…</p></div>
+  </section>
+
+  <section class="sports-section">
+    <h2 class="sports-section-title">Live &amp; Recent</h2>
+    <ul class="live-list board-live" data-board-live><li class="board-empty">No live games right now.</li></ul>
+  </section>
+
+  <section class="sports-section" data-season-wrap hidden>
+    <h2 class="sports-section-title">In Season Now</h2>
+    <div class="season-strip" data-board-season></div>
+  </section>
+</div>
