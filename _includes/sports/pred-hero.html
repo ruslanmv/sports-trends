@@ -1,0 +1,13 @@
+<section class="pred-hero">
+  <div class="pred-hero-inner">
+    <a class="pred-back" href="{{ '/' | relative_url }}">&larr; All sports</a>
+    <p class="pred-eyebrow" data-hero-eyebrow>{{ page.eyebrow | default: 'Football Intelligence' }}</p>
+    <h1 class="pred-title" data-hero-title>{{ page.h1 | default: page.title }}</h1>
+    <p class="pred-sub" data-hero-sub>{{ page.subtitle }}</p>
+    <label class="pred-search">
+      <span aria-hidden="true">&#128269;</span>
+      <input type="search" placeholder="Search team, league, or competition" data-pred-search aria-label="Search">
+    </label>
+  </div>
+  <div class="pred-hero-art" aria-hidden="true"></div>
+</section>

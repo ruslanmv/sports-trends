@@ -1,15 +1,12 @@
 ---
 layout: sports
 title: "Baseball — AI Predictions"
-h1: "⚾ Baseball"
+h1: "Tomorrow’s Biggest Baseball Games"
 permalink: /sports/baseball/
 sport: baseball
-crumb: "Baseball"
 eyebrow: "Baseball Intelligence"
-subtitle: "MLB predictions, live scores and trending matchups."
-description: "Baseball predictions, live scores, in-season competitions and trending matches — updated every 30 minutes."
+subtitle: "AI predictions for the biggest MLB matchups."
+description: "Baseball AI match predictions, probabilities and confidence — updated every 30 minutes."
 ---
 
-{% include sports/page-header.html %}
-{% include sports/sport-board.html %}
-{% include sports/disclaimer.html %}
+{% include sports/prediction-page.html %}

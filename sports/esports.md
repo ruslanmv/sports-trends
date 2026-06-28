@@ -1,15 +1,12 @@
 ---
 layout: sports
 title: "Esports — AI Predictions"
-h1: "🎮 Esports"
+h1: "Tomorrow’s Biggest Esports Matches"
 permalink: /sports/esports/
 sport: esports
-crumb: "Esports"
 eyebrow: "Esports Intelligence"
-subtitle: "Major tournament predictions, live results and trends."
-description: "Esports predictions, live scores, in-season competitions and trending matches — updated every 30 minutes."
+subtitle: "AI predictions for the biggest tournament matches."
+description: "Esports AI match predictions, probabilities and confidence — updated every 30 minutes."
 ---
 
-{% include sports/page-header.html %}
-{% include sports/sport-board.html %}
-{% include sports/disclaimer.html %}
+{% include sports/prediction-page.html %}

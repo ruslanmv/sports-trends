@@ -1,0 +1,151 @@
+{
+  "last_updated": "2026-06-28T15:22:46.434966+00:00",
+  "competition": "Mundial 2026",
+  "stage": "round_of_32",
+  "matches": [
+    {
+      "match_id": "wc-fra-sen",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-29T15:00:00+00:00",
+      "kickoff_label": "29 Jun 15:00",
+      "prediction": {
+        "home_win": 0.594,
+        "draw": 0.163,
+        "away_win": 0.243,
+        "home_to_advance": 0.757,
+        "away_to_advance": 0.243,
+        "ai_pick": "France favoured",
+        "confidence": 59
+      },
+      "interest_score": 71
+    },
+    {
+      "match_id": "wc-esp-cro",
+      "home_team": "Spain",
+      "away_team": "Croatia",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-30T18:00:00+00:00",
+      "kickoff_label": "30 Jun 18:00",
+      "prediction": {
+        "home_win": 0.472,
+        "draw": 0.221,
+        "away_win": 0.307,
+        "home_to_advance": 0.633,
+        "away_to_advance": 0.367,
+        "ai_pick": "Spain favoured",
+        "confidence": 47
+      },
+      "interest_score": 71
+    },
+    {
+      "match_id": "wc-arg-nor",
+      "home_team": "Argentina",
+      "away_team": "Norway",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-29T18:00:00+00:00",
+      "kickoff_label": "29 Jun 18:00",
+      "prediction": {
+        "home_win": 0.638,
+        "draw": 0.143,
+        "away_win": 0.219,
+        "home_to_advance": 0.796,
+        "away_to_advance": 0.204,
+        "ai_pick": "Argentina favoured",
+        "confidence": 64
+      },
+      "interest_score": 70
+    },
+    {
+      "match_id": "wc-bra-jpn",
+      "home_team": "Brazil",
+      "away_team": "Japan",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-29T21:00:00+00:00",
+      "kickoff_label": "29 Jun 21:00",
+      "prediction": {
+        "home_win": 0.557,
+        "draw": 0.18,
+        "away_win": 0.263,
+        "home_to_advance": 0.722,
+        "away_to_advance": 0.278,
+        "ai_pick": "Brazil favoured",
+        "confidence": 56
+      },
+      "interest_score": 69
+    },
+    {
+      "match_id": "wc-ger-mar",
+      "home_team": "Germany",
+      "away_team": "Morocco",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-30T15:00:00+00:00",
+      "kickoff_label": "30 Jun 15:00",
+      "prediction": {
+        "home_win": 0.443,
+        "draw": 0.235,
+        "away_win": 0.321,
+        "home_to_advance": 0.601,
+        "away_to_advance": 0.399,
+        "ai_pick": "Germany favoured",
+        "confidence": 44
+      },
+      "interest_score": 66
+    },
+    {
+      "match_id": "wc-eng-mex",
+      "home_team": "England",
+      "away_team": "Mexico",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-30T21:00:00+00:00",
+      "kickoff_label": "30 Jun 21:00",
+      "prediction": {
+        "home_win": 0.51,
+        "draw": 0.202,
+        "away_win": 0.288,
+        "home_to_advance": 0.674,
+        "away_to_advance": 0.326,
+        "ai_pick": "England favoured",
+        "confidence": 51
+      },
+      "interest_score": 65
+    },
+    {
+      "match_id": "wc-por-usa",
+      "home_team": "Portugal",
+      "away_team": "USA",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-28T23:00:00+00:00",
+      "kickoff_label": "28 Jun 23:00",
+      "prediction": {
+        "home_win": 0.472,
+        "draw": 0.221,
+        "away_win": 0.307,
+        "home_to_advance": 0.633,
+        "away_to_advance": 0.367,
+        "ai_pick": "Portugal favoured",
+        "confidence": 47
+      },
+      "interest_score": 64
+    },
+    {
+      "match_id": "wc-ned-ecu",
+      "home_team": "Netherlands",
+      "away_team": "Ecuador",
+      "stage": "round_of_32",
+      "kickoff": "2026-06-28T20:00:00+00:00",
+      "kickoff_label": "28 Jun 20:00",
+      "prediction": {
+        "home_win": 0.538,
+        "draw": 0.188,
+        "away_win": 0.273,
+        "home_to_advance": 0.703,
+        "away_to_advance": 0.297,
+        "ai_pick": "Netherlands favoured",
+        "confidence": 54
+      },
+      "interest_score": 60
+    }
+  ]
+}
