@@ -61,6 +61,39 @@
 .sports-nav-tools { display: flex; gap: 18px; align-items: center; color: #fff; }
 .sports-nav-tools button { background: none; border: 0; color: #fff; cursor: pointer; font-size: 18px; line-height: 1; padding: 4px; }
 
+/* ---------- Nav dropdown group ---------- */
+.sports-nav-group { position: relative; display: flex; align-items: center; }
+.sports-nav-group__btn {
+  background: none; border: 0; color: #e7eae8; cursor: pointer;
+  font-weight: 500; font-size: 15px; display: inline-flex; align-items: center; gap: 5px;
+  padding: 22px 0; line-height: 1; font-family: inherit;
+}
+.sports-nav-group__btn:hover { color: #fff; }
+.sports-nav-caret { font-size: 0.68em; opacity: 0.7; transition: transform 0.15s ease; display: inline-block; }
+.sports-nav-group.is-open .sports-nav-caret { transform: rotate(180deg); }
+.sports-nav-group.is-open .sports-nav-group__btn { color: var(--s-emerald); }
+.sports-nav-group__menu {
+  position: absolute; top: calc(100% + 2px); left: 0;
+  padding: 6px 0; min-width: 140px; background: #141f1b;
+  border: 1px solid #293530; border-radius: 10px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+  opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+  z-index: 70;
+}
+.sports-nav-group:hover .sports-nav-group__menu,
+.sports-nav-group.is-open .sports-nav-group__menu {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.sports-nav-group__menu a {
+  display: block; padding: 10px 18px; color: #d6d6d6; text-decoration: none;
+  font-size: 14px; font-weight: 500; white-space: nowrap;
+  position: static; padding-top: 10px; padding-bottom: 10px;
+}
+.sports-nav-group__menu a:hover { background: #1e2e28; color: #fff; }
+.sports-nav-group__menu a.active { color: var(--s-emerald); }
+.sports-nav-group__menu a.active::after { display: none; }
+
 /* ---------- Shell ---------- */
 .sports-shell { max-width: 1240px; margin: 0 auto; padding: 26px 28px 90px; }
 

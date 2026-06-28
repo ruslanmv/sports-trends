@@ -7,11 +7,35 @@
     <a href="https://ruslanmv.com/learn/">Learn</a>
     <a href="https://ruslanmv.com/publications">Publications</a>
     <a href="https://ruslanmv.com/talks/">Talks</a>
-    <a href="https://ruslanmv.com/news-and-trends/">News</a>
-    <a class="active" href="{{ '/' | relative_url }}" aria-current="page">Sports</a>
+    <div class="sports-nav-group">
+      <button class="sports-nav-group__btn" type="button" aria-haspopup="true" aria-expanded="false">
+        News <span class="sports-nav-caret" aria-hidden="true">▾</span>
+      </button>
+      <div class="sports-nav-group__menu">
+        <a href="https://ruslanmv.com/news-and-trends/">News</a>
+        <a class="active" href="{{ '/' | relative_url }}" aria-current="page">Sports</a>
+      </div>
+    </div>
     <a href="https://ruslanmv.com/contact/">Contact</a>
   </nav>
   <div class="sports-nav-tools">
     <button type="button" class="sports-nav-toggle" data-nav-toggle aria-controls="sports-nav" aria-expanded="false" aria-label="Open navigation menu">&#9776;</button>
   </div>
 </header>
+<script>
+(function () {
+  var group = document.querySelector('.sports-nav-group');
+  if (!group) return;
+  var btn = group.querySelector('.sports-nav-group__btn');
+  btn.addEventListener('click', function () {
+    var open = group.classList.toggle('is-open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  document.addEventListener('click', function (e) {
+    if (!group.contains(e.target)) {
+      group.classList.remove('is-open');
+      btn.setAttribute('aria-expanded', 'false');
+    }
+  });
+})();
+</script>
