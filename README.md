@@ -8,7 +8,7 @@
 
 [![Daily Pipeline](https://img.shields.io/github/actions/workflow/status/ruslanmv/sports-trends/sports-daily-pipeline.yml?branch=main&label=daily%20pipeline&logo=githubactions&logoColor=white)](https://github.com/ruslanmv/sports-trends/actions/workflows/sports-daily-pipeline.yml)
 [![Live Refresh](https://img.shields.io/github/actions/workflow/status/ruslanmv/sports-trends/sports-live-refresh.yml?branch=main&label=live%20refresh%20%C2%B7%2030min&logo=githubactions&logoColor=white)](https://github.com/ruslanmv/sports-trends/actions/workflows/sports-live-refresh.yml)
-[![Live Site](https://img.shields.io/badge/live-ruslanmv.com%2Fsports-0aa06e?logo=jekyll&logoColor=white)](https://ruslanmv.com/sports/)
+[![Live Site](https://img.shields.io/badge/live-ruslanmv.com%2Fsports--trends-0aa06e?logo=jekyll&logoColor=white)](https://ruslanmv.com/sports-trends/)
 [![HF Dataset](https://img.shields.io/badge/🤗%20dataset-sports--trends--dataset-ffce00)](https://huggingface.co/datasets/ruslanmv/sports-trends-dataset)
 [![HF Models](https://img.shields.io/badge/🤗%20models-sports--trends--models-ffce00)](https://huggingface.co/ruslanmv/sports-trends-models)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
@@ -53,7 +53,7 @@ Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 5
 | 5 | ⚽ **PSG** vs **Bayern Munich** | UEFA Champions League | 21:00 | PSG favoured | `████░░░░░░` 39% |
 <!-- TOP5:END -->
 
-<div align="center"><a href="https://ruslanmv.com/sports/"><b>▶ See the full live dashboard →</b></a></div>
+<div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
 
 ---
 
@@ -69,7 +69,7 @@ Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 5
 | ⚽ Argentina vs Norway | Round Of 32 | Argentina 64% · draw 14% · Norway 22% | **Argentina** 80% · **Norway** 20% |
 <!-- WORLDCUP:END -->
 
-<div align="center"><a href="https://ruslanmv.com/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
+<div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
 
 ---
 
@@ -112,7 +112,7 @@ flowchart LR
   F --> G[Predict tomorrow<br/>+ explanations]
   C --> G
   G --> H[Small public JSON<br/>assets/data/sports/*.json]
-  H --> I[/sports/ dashboard<br/>+ dynamic README/]
+  H --> I[/sports-trends/ dashboard<br/>+ dynamic README/]
 ```
 
 GitHub keeps only **code, workflows, the UI, and small JSON**. All large data and model artifacts live in Hugging Face.
@@ -133,7 +133,7 @@ GitHub keeps only **code, workflows, the UI, and small JSON**. All large data an
 ```bash
 make install   # Python deps + Ruby/Jekyll gems
 make serve     # generate JSON, then serve the dashboard
-               # → http://127.0.0.1:4000/sports/
+               # → http://127.0.0.1:4000/sports-trends/
 ```
 
 No Ruby? `make preview` runs a zero-dependency Python server. Everything works **offline** with realistic mock data —

@@ -1,0 +1,9 @@
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a class="crumb-home" href="{{ '/' | relative_url }}">&#127968; Home</a>
+  <span class="crumb-sep">&rsaquo;</span>
+  {% if page.crumb_parent %}
+  <a href="{{ page.crumb_parent_url | relative_url }}">{{ page.crumb_parent }}</a>
+  <span class="crumb-sep">&rsaquo;</span>
+  {% endif %}
+  <span class="crumb-current">{{ page.crumb | default: page.title }}</span>
+</nav>

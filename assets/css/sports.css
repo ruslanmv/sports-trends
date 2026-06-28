@@ -155,3 +155,22 @@
 .wc-banner-text b { color: #fff; }
 .wc-banner-cta { font-weight: 800; color: var(--s-emerald); white-space: nowrap; }
 .wc-banner:hover .wc-banner-cta { text-decoration: underline; }
+
+/* ---------- Sub-page header + breadcrumb ---------- */
+.page-hero {
+  position: relative; border-radius: var(--s-radius-lg); margin-bottom: 8px;
+  padding: 30px 36px 34px; color: #fff; overflow: hidden;
+  background: radial-gradient(120% 130% at 88% 0%, rgba(24,208,143,.28), transparent 46%),
+    linear-gradient(135deg, #08140e 0%, #0c3a27 60%, #06160f 100%);
+  box-shadow: var(--s-shadow);
+}
+.page-hero-inner { position: relative; z-index: 2; }
+.page-hero-title { margin: 12px 0 8px; font-size: clamp(30px, 4.5vw, 46px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.02; }
+.page-hero-sub { margin: 0; max-width: 640px; color: rgba(236,253,245,.82); font-size: 16px; line-height: 1.5; }
+.crumbs { display: flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+.crumbs a { color: var(--s-emerald); text-decoration: none; }
+.crumbs a:hover { text-decoration: underline; }
+.crumb-sep { color: rgba(255,255,255,.4); }
+.crumb-current { color: rgba(255,255,255,.85); }
+.page-back { display: inline-block; margin-top: 16px; color: var(--s-emerald); font-weight: 700; font-size: 14px; text-decoration: none; }
+.page-back:hover { text-decoration: underline; }

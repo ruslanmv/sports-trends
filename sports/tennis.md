@@ -1,8 +1,15 @@
 ---
 layout: sports
-title: "Tennis"
+title: "Tennis — AI Predictions"
+h1: "🎾 Tennis"
 permalink: /sports/tennis/
-description: "Tennis predictions, live scores, and trending matches."
+sport: tennis
+crumb: "Tennis"
+eyebrow: "Tennis Intelligence"
+subtitle: "Grand Slam and tour predictions, live scores and trending matches."
+description: "Tennis predictions, live scores, in-season competitions and trending matches — updated every 30 minutes."
 ---
 
-{% include sports/tomorrow-top-matches.html %}
+{% include sports/page-header.html %}
+{% include sports/sport-board.html %}
+{% include sports/disclaimer.html %}

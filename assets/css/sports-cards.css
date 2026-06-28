@@ -136,3 +136,34 @@
 .wc-mini-teams { gap: 8px; }
 .wc-mini-teams span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .wc-mini-teams b { flex: 0 0 auto; }
+
+/* ---------- Sub-page boards ---------- */
+.sport-board { margin-top: 4px; }
+.board-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; }
+.board-card { background: var(--s-card); border: 1px solid var(--s-line); border-radius: var(--s-radius); box-shadow: var(--s-shadow-sm); padding: 16px 16px 14px; }
+.board-card-top { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+.board-league { flex: 1; min-width: 0; font-size: 12px; font-weight: 700; color: var(--s-muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.board-time { font-size: 12px; font-weight: 700; color: var(--s-text); }
+.board-teams { display: flex; align-items: center; justify-content: space-between; gap: 10px; font-weight: 800; font-size: 15px; margin-bottom: 10px; }
+.board-vs { color: var(--s-muted); font-weight: 700; font-size: 12px; }
+.board-ai { margin-top: 10px; background: var(--s-green-soft); color: var(--s-green-d); border-radius: 9px; padding: 8px 11px; font-size: 12.5px; font-weight: 700; }
+.board-empty { color: var(--s-muted); font-size: 14px; padding: 8px 2px; }
+.board-live { border: 1px solid var(--s-line); border-radius: var(--s-radius); background: #fff; padding: 4px 16px; box-shadow: var(--s-shadow-sm); }
+.board-card-list { border: 1px solid var(--s-line); border-radius: var(--s-radius); background: #fff; padding: 4px 16px; box-shadow: var(--s-shadow-sm); max-width: 720px; }
+
+/* World Cup feature (football page) */
+.wc-feature-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 16px; align-items: start; }
+.wc-feature-card { display: block; border-radius: var(--s-radius); padding: 22px; text-decoration: none; color: #eafff6;
+  background: linear-gradient(140deg, #0a1f3a 0%, #0c3a27 70%, #0aa06e 150%); box-shadow: var(--s-shadow-sm); }
+.wc-feature-tag { display: inline-block; background: rgba(24,208,143,.18); border: 1px solid rgba(24,208,143,.4); color: #9af5d2; font-weight: 800; font-size: 12px; padding: 4px 10px; border-radius: 999px; }
+.wc-feature-card strong { display: block; font-size: 22px; font-weight: 800; margin: 12px 0 6px; }
+.wc-feature-card p { margin: 0 0 14px; color: rgba(234,255,246,.8); font-size: 14px; }
+.wc-feature-cta { font-weight: 800; color: var(--s-emerald); }
+.board-ties { list-style: none; margin: 0; padding: 4px 16px; background: #fff; border: 1px solid var(--s-line); border-radius: var(--s-radius); box-shadow: var(--s-shadow-sm); }
+.board-tie { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 12px 0; border-top: 1px solid var(--s-line); font-weight: 700; font-size: 14px; }
+.board-tie:first-child { border-top: 0; }
+.board-tie b { color: var(--s-green); white-space: nowrap; }
+
+/* In-season chips */
+.season-strip { display: flex; flex-wrap: wrap; gap: 10px; }
+.season-chip { background: #fff; border: 1px solid var(--s-line); border-radius: 999px; padding: 8px 14px; font-weight: 700; font-size: 13px; box-shadow: var(--s-shadow-sm); }

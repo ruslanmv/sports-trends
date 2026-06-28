@@ -1,8 +1,15 @@
 ---
 layout: sports
-title: "Cricket"
+title: "Cricket — AI Predictions"
+h1: "🏏 Cricket"
 permalink: /sports/cricket/
-description: "Cricket predictions, live results, and trending games."
+sport: cricket
+crumb: "Cricket"
+eyebrow: "Cricket Intelligence"
+subtitle: "World Cup, Test and franchise predictions, live scores and trends."
+description: "Cricket predictions, live scores, in-season competitions and trending matches — updated every 30 minutes."
 ---
 
-{% include sports/tomorrow-top-matches.html %}
+{% include sports/page-header.html %}
+{% include sports/sport-board.html %}
+{% include sports/disclaimer.html %}
