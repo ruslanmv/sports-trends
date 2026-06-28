@@ -201,12 +201,15 @@ docs/                   Architecture, ML pipeline, data schema, SEO, legal
 
 ## 🚀 Deploy to production
 
-The **data pipeline is already production-ready** — it runs in GitHub Actions and
-only needs the `HF_TOKEN` secret (set ✅). The **website** deploys via **GitHub
-Pages** (recommended): enable *Settings → Pages → Source = GitHub Actions* and the
-included **Sports Deploy (GitHub Pages)** workflow builds + publishes it. Serve at
-`ruslanmv.com/sports/` (sync into your site repo with `scripts/sync_to_site.sh`)
-or on a `sports.ruslanmv.com` subdomain. Full guide: [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md).
+Served entirely from **this repo** via **GitHub Pages** at
+**https://ruslanmv.com/sports-trends/** (no commits ever go into
+`ruslanmv.github.io`). The site is baseurl-aware (`baseurl: /sports-trends`) and
+the dashboard is the project root, so nothing 404s.
+
+**One-time:** push to `main`, then **Settings → Pages → Source = GitHub Actions**.
+The *Sports Deploy (GitHub Pages)* workflow builds + publishes it. The data
+pipeline is already live via Actions + `HF_TOKEN`. Full guide:
+[`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md).
 
 ## ⚖️ Disclaimer
 

@@ -1,7 +1,7 @@
 ---
 layout: sports
 title: "Ruslan Magana Sports Intelligence"
-permalink: /sports/
+permalink: /
 description: "AI predictions, live results, and trending games updated every 30 minutes."
 ---
 
