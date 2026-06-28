@@ -1,15 +1,12 @@
 ---
 layout: sports
 title: "Basketball — AI Predictions"
-h1: "🏀 Basketball"
+h1: "Tomorrow’s Biggest Basketball Games"
 permalink: /sports/basketball/
 sport: basketball
-crumb: "Basketball"
 eyebrow: "Basketball Intelligence"
-subtitle: "NBA and EuroLeague predictions, live scores and trending games."
-description: "Basketball predictions, live scores, in-season competitions and trending matches — updated every 30 minutes."
+subtitle: "AI predictions for the most important NBA and EuroLeague games."
+description: "Basketball AI match predictions, probabilities and confidence — updated every 30 minutes."
 ---
 
-{% include sports/page-header.html %}
-{% include sports/sport-board.html %}
-{% include sports/disclaimer.html %}
+{% include sports/prediction-page.html %}

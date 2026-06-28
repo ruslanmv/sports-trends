@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-06-28T14:21:04.257180+00:00",
+  "last_updated": "2026-06-28T15:22:46.142147+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -25,7 +25,7 @@
       "interest_score": 98,
       "trend_badge": "Global #1",
       "audience": "1.2M",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Real Madrid 0.60 vs Man City 0.40.",
@@ -50,7 +50,7 @@
       "interest_score": 91,
       "trend_badge": "US Hot",
       "audience": "689K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lakers 0.60 vs Celtics 0.60.",
@@ -75,7 +75,7 @@
       "interest_score": 88,
       "trend_badge": "Italy rising",
       "audience": "512K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Jannik Sinner 0.00 vs Carlos Alcaraz 0.00.",
@@ -100,7 +100,7 @@
       "interest_score": 86,
       "trend_badge": "Global #2",
       "audience": "842K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): India 0.60 vs Australia 0.60.",
@@ -125,7 +125,7 @@
       "interest_score": 83,
       "trend_badge": "EU Hot",
       "audience": "451K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): PSG 0.40 vs Bayern Munich 0.60.",

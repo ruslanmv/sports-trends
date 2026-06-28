@@ -60,6 +60,25 @@ def build_season() -> dict[str, Any]:
     return {"product": PRODUCT_NAME, "last_updated": _now(), **season_context()}
 
 
+def build_football_config() -> dict[str, Any]:
+    """Seasonal mode for the football page — flips to Mundial 2026 automatically."""
+    ctx = season_context()
+    wc = bool(ctx.get("worldcup_active"))
+    return {
+        "last_updated": _now(),
+        "page_mode": "world_cup_2026" if wc else "club_season",
+        "default_tab": "Mundial 2026" if wc else "All",
+        "eyebrow": "Mundial 2026 Intelligence" if wc else "Football Intelligence",
+        "headline": "Who Advances Tomorrow?" if wc else "Tomorrow’s Biggest Football Matches",
+        "subtitle": (
+            "AI predictions, to-advance probabilities, and match insights for the World Cup."
+            if wc else "AI predictions for the most important upcoming matches."
+        ),
+        "show_world_cup_strip": wc,
+        "primary_prediction_type": "to_advance" if wc else "match_result",
+    }
+
+
 def build_status() -> dict[str, Any]:
     return {
         "product": PRODUCT_NAME,
@@ -199,6 +218,7 @@ def publish_frontend_json(data_dir: str | Path = DATA_DIR) -> dict[str, Any]:
 
     files = {
         "season.json": build_season(),
+        "football-config.json": build_football_config(),
         "status.json": build_status(),
         "live.json": build_live(),
         "today.json": build_today(),

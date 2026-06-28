@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" fill="none">
+  <defs>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18d08f"/><stop offset="1" stop-color="#0aa06e"/>
+    </linearGradient>
+    <radialGradient id="ballglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#56f5c0" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#18d08f" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#18d08f" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+  <g stroke="url(#wire)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" opacity="0.95">
+    <!-- head -->
+    <circle cx="300" cy="70" r="20"/>
+    <!-- torso -->
+    <path d="M300 90 L292 175 L270 215"/>
+    <!-- left arm back -->
+    <path d="M298 110 L350 96 L392 120"/>
+    <!-- right arm forward -->
+    <path d="M296 120 L250 150 L214 140"/>
+    <!-- hips -->
+    <path d="M270 200 L300 205"/>
+    <!-- planted leg -->
+    <path d="M292 200 L312 290 L300 360"/>
+    <!-- kicking leg -->
+    <path d="M286 200 L235 250 L150 300"/>
+  </g>
+  <!-- joints -->
+  <g fill="#56f5c0">
+    <circle cx="300" cy="70" r="3.2"/><circle cx="350" cy="96" r="3"/><circle cx="392" cy="120" r="3"/>
+    <circle cx="250" cy="150" r="3"/><circle cx="214" cy="140" r="3"/><circle cx="312" cy="290" r="3"/>
+    <circle cx="235" cy="250" r="3"/><circle cx="150" cy="300" r="3"/><circle cx="300" cy="360" r="3"/>
+  </g>
+  <!-- glowing ball -->
+  <circle cx="120" cy="320" r="78" fill="url(#ballglow)"/>
+  <circle cx="120" cy="320" r="26" fill="none" stroke="url(#wire)" stroke-width="2.4"/>
+  <path d="M120 300 l16 12 -6 19 -20 0 -6 -19 z" fill="none" stroke="url(#wire)" stroke-width="1.8"/>
+</svg>
