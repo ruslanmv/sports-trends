@@ -1,6 +1,6 @@
 ---
 layout: sports
-title: "Ruslan Magana Sports Intelligence"
+title: "Tomorrow’s Biggest Games · Live Scores & AI Predictions"
 permalink: /
 description: "AI predictions, live results, and trending games updated every 30 minutes."
 ---

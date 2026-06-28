@@ -143,24 +143,97 @@ _LIVE_RAW: list[dict[str, Any]] = [
 ]
 
 
+# Extra fixtures so every sport page and the all-sports table feel full.
+_EXTRA_TOMORROW: list[dict[str, Any]] = [
+    {"id": "liv-che", "sport": "football", "league": "Premier League", "league_id": "epl",
+     "country": "England", "season": "2026", "home": "Liverpool", "home_id": "liverpool",
+     "away": "Chelsea", "away_id": "chelsea", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 18, 30, 1), "status": "scheduled",
+     "win_prob": {"home": 0.48, "draw": 0.25, "away": 0.27}, "interest_score": 80, "audience": "612K"},
+    {"id": "bar-atm", "sport": "football", "league": "La Liga", "league_id": "laliga",
+     "country": "Spain", "season": "2026", "home": "Barcelona", "home_id": "barcelona",
+     "away": "Atletico Madrid", "away_id": "atletico", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 20, 0, 2), "status": "scheduled",
+     "win_prob": {"home": 0.51, "draw": 0.25, "away": 0.24}, "interest_score": 78, "audience": "498K"},
+    {"id": "gsw-phx", "sport": "basketball", "league": "NBA", "league_id": "nba",
+     "country": "USA", "season": "2026", "home": "Warriors", "home_id": "warriors",
+     "away": "Suns", "away_id": "suns", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 3, 0, 0), "status": "scheduled",
+     "win_prob": {"home": 0.55, "draw": 0.0, "away": 0.45}, "interest_score": 74, "audience": "388K"},
+    {"id": "mil-phi", "sport": "basketball", "league": "NBA", "league_id": "nba",
+     "country": "USA", "season": "2026", "home": "Bucks", "home_id": "bucks",
+     "away": "76ers", "away_id": "sixers", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 1, 30, 0), "status": "scheduled",
+     "win_prob": {"home": 0.58, "draw": 0.0, "away": 0.42}, "interest_score": 70, "audience": "301K"},
+    {"id": "djo-zve", "sport": "tennis", "league": "Wimbledon Men's QF", "league_id": "wimbledon",
+     "country": "United Kingdom", "season": "2026", "home": "Novak Djokovic", "home_id": "djokovic",
+     "away": "A. Zverev", "away_id": "zverev", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 13, 30, 1), "status": "scheduled",
+     "win_prob": {"home": 0.62, "draw": 0.0, "away": 0.38}, "interest_score": 79, "audience": "455K"},
+    {"id": "swi-sab", "sport": "tennis", "league": "Wimbledon Women's SF", "league_id": "wimbledon",
+     "country": "United Kingdom", "season": "2026", "home": "Iga Swiatek", "home_id": "swiatek",
+     "away": "Aryna Sabalenka", "away_id": "sabalenka", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 16, 0, 1), "status": "scheduled",
+     "win_prob": {"home": 0.53, "draw": 0.0, "away": 0.47}, "interest_score": 72, "audience": "362K"},
+    {"id": "pak-nzl", "sport": "cricket", "league": "ICC Test Championship", "league_id": "icc-test",
+     "country": "Pakistan", "season": "2026", "home": "Pakistan", "home_id": "pakistan",
+     "away": "New Zealand", "away_id": "new-zealand", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 6, 0, 5), "status": "scheduled",
+     "win_prob": {"home": 0.45, "draw": 0.22, "away": 0.33}, "interest_score": 66, "audience": "224K"},
+    {"id": "nyy-lad", "sport": "baseball", "league": "MLB", "league_id": "mlb",
+     "country": "USA", "season": "2026", "home": "Yankees", "home_id": "yankees",
+     "away": "Dodgers", "away_id": "dodgers", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 0, 5, 0), "status": "scheduled",
+     "win_prob": {"home": 0.52, "draw": 0.0, "away": 0.48}, "interest_score": 68, "audience": "276K"},
+    {"id": "nym-atl", "sport": "baseball", "league": "MLB", "league_id": "mlb",
+     "country": "USA", "season": "2026", "home": "Mets", "home_id": "mets",
+     "away": "Braves", "away_id": "braves", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 23, 10, 0), "status": "scheduled",
+     "win_prob": {"home": 0.49, "draw": 0.0, "away": 0.51}, "interest_score": 60, "audience": "188K"},
+    {"id": "t1-g2", "sport": "esports", "league": "LoL Worlds", "league_id": "lol-worlds",
+     "country": "Global", "season": "2026", "home": "T1", "home_id": "t1",
+     "away": "G2 Esports", "away_id": "g2", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 12, 0, 0), "status": "scheduled",
+     "win_prob": {"home": 0.60, "draw": 0.0, "away": 0.40}, "interest_score": 75, "audience": "410K"},
+    {"id": "faze-navi", "sport": "esports", "league": "CS2 Major", "league_id": "cs2-major",
+     "country": "Global", "season": "2026", "home": "FaZe", "home_id": "faze",
+     "away": "NAVI", "away_id": "navi", "date": _TOMORROW.isoformat(),
+     "kickoff": _iso(_TOMORROW, 17, 0, 1), "status": "scheduled",
+     "win_prob": {"home": 0.47, "draw": 0.0, "away": 0.53}, "interest_score": 64, "audience": "243K"},
+]
+
+_EXTRA_LIVE: list[dict[str, Any]] = [
+    {"id": "lad-sfg", "sport": "baseball", "league": "MLB", "league_id": "mlb",
+     "country": "USA", "season": "2026", "home": "Dodgers", "home_id": "dodgers",
+     "away": "Giants", "away_id": "giants", "date": _TODAY.isoformat(),
+     "kickoff": _iso(_TODAY, 2, 10, 0), "home_score": 4, "away_score": 3,
+     "status": "live", "status_detail": "Top 8th"},
+    {"id": "geng-t1", "sport": "esports", "league": "LoL Worlds", "league_id": "lol-worlds",
+     "country": "Global", "season": "2026", "home": "Gen.G", "home_id": "geng",
+     "away": "T1", "away_id": "t1", "date": _TODAY.isoformat(),
+     "kickoff": _iso(_TODAY, 11, 0, 0), "home_score": 1, "away_score": 2,
+     "status": "live", "status_detail": "Game 4"},
+]
+
+
 def tomorrow_raw(sport: str | None = None) -> list[dict[str, Any]]:
-    rows = [dict(r) for r in _TOMORROW_RAW]
+    rows = [dict(r) for r in (_TOMORROW_RAW + _EXTRA_TOMORROW)]
     return [r for r in rows if sport is None or r["sport"] == sport]
 
 
 def today_raw(sport: str | None = None) -> list[dict[str, Any]]:
     # "Today" = the live + finished slate (kickoffs are today).
-    rows = [dict(r) for r in _LIVE_RAW]
+    rows = [dict(r) for r in (_LIVE_RAW + _EXTRA_LIVE)]
     return [r for r in rows if sport is None or r["sport"] == sport]
 
 
 def live_raw(sport: str | None = None) -> list[dict[str, Any]]:
-    rows = [dict(r) for r in _LIVE_RAW if r["status"] == "live"]
+    rows = [dict(r) for r in (_LIVE_RAW + _EXTRA_LIVE) if r["status"] == "live"]
     return [r for r in rows if sport is None or r["sport"] == sport]
 
 
 def finished_raw(sport: str | None = None) -> list[dict[str, Any]]:
-    rows = [dict(r) for r in _LIVE_RAW if r["status"] == "finished"]
+    rows = [dict(r) for r in (_LIVE_RAW + _EXTRA_LIVE) if r["status"] == "finished"]
     return [r for r in rows if sport is None or r["sport"] == sport]
 
 
