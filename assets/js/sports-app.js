@@ -5,7 +5,7 @@
 (function () {
   "use strict";
 
-  var BASE = "/assets/data/sports/";
+  var _b=(document.querySelector('meta[name="sports-base"]')||{}).content||"/"; var SITE=_b.replace(/\/$/,""); var BASE=SITE+"/assets/data/sports/";
   var SPORT_ICON = {
     football: "⚽", basketball: "🏀", tennis: "🎾",
     cricket: "🏏", baseball: "⚾", esports: "🎮"
@@ -146,8 +146,8 @@
 
     if (season.worldcup_active) {
       if (title) title.innerHTML = "🏆 World Cup";
-      if (link) { link.textContent = "Board"; link.href = "/sports/football/world-cup/"; }
-      if (cta) cta.href = "/sports/football/world-cup/";
+      if (link) { link.textContent = "Board"; link.href = SITE + "/sports/football/world-cup/"; }
+      if (cta) cta.href = SITE + "/sports/football/world-cup/";
       fetchJson("worldcup-predictions.json").then(function (wc) {
         var ties = (wc.matches || []).filter(function (m) { return m.to_advance; }).slice(0, 2);
         if (tag && ties[0]) tag.textContent = (ties[0].stage || "").replace(/_/g, " ").replace(/\b\w/g, function (c) { return c.toUpperCase(); });
@@ -165,8 +165,8 @@
       // Off-season for the World Cup → feature the top in-season competition.
       if (title) title.innerHTML = (feat.emoji || "🏆") + " In Season";
       if (tag) tag.textContent = (feat.name || "Football");
-      if (link) { link.textContent = "Sports"; link.href = "/sports/"; }
-      if (cta) { cta.textContent = "Explore →"; cta.href = "/sports/"; }
+      if (link) { link.textContent = "Sports"; link.href = SITE + "/"; }
+      if (cta) { cta.textContent = "Explore →"; cta.href = SITE + "/"; }
       var active = (season.active || []).slice(0, 4);
       if (body) body.innerHTML = active.map(function (a) {
         return '<li class="wc-mini-tie"><div class="wc-mini-teams"><span>' + esc(a.emoji) + " " + esc(a.name) +

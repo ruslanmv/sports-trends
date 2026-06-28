@@ -78,7 +78,7 @@
 }
 .sports-hero::after {
   content: ""; position: absolute; inset: 0;
-  background: url('/assets/images/sports/hero-waves.svg') right -2% center / 56% auto no-repeat;
+  background: url('../images/sports/hero-waves.svg') right -2% center / 56% auto no-repeat;
   opacity: 0.85; pointer-events: none;
 }
 .sports-hero-copy { position: relative; z-index: 2; max-width: 680px; }

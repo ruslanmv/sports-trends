@@ -1,7 +1,8 @@
 /* sports-share.js — share buttons (native share, X/WhatsApp intents, copy). */
 (function () {
   "use strict";
-  function matchUrl(id) { return location.origin + "/sports/match/" + id + "/"; }
+  function _base(){var m=document.querySelector('meta[name="sports-base"]');return (m?m.content:"/").replace(/\/$/,"");}
+  function matchUrl(id) { return location.origin + _base() + "/sports/match/" + id + "/"; }
 
   document.addEventListener("click", function (event) {
     var shareBtn = event.target.closest("[data-share-match]");

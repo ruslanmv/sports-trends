@@ -1,7 +1,7 @@
 /* sports-worldcup.js — hydrate the World Cup page from worldcup*.json. */
 (function () {
   "use strict";
-  var BASE = "/assets/data/sports/";
+  var _b=(document.querySelector('meta[name="sports-base"]')||{}).content||"/"; var BASE=(_b.replace(/\/$/,""))+"/assets/data/sports/";
   var FLAG = {
     Argentina:"🇦🇷",Norway:"🇳🇴",Brazil:"🇧🇷",Japan:"🇯🇵",France:"🇫🇷",Senegal:"🇸🇳",
     England:"🏴",Mexico:"🇲🇽",Spain:"🇪🇸",Croatia:"🇭🇷",Germany:"🇩🇪",Morocco:"🇲🇦",

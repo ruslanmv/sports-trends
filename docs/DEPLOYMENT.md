@@ -1,57 +1,45 @@
-# Deployment
+# Deployment — GitHub Pages (this repo only)
 
-Production has **two independent parts**:
+Everything is committed and served from **this repo** (`ruslanmv/sports-trends`).
+Nothing is ever pushed into `ruslanmv.github.io`.
+
+Production has two independent parts:
 
 1. **Data pipeline** (HF dataset refresh + daily model training + JSON). Runs in
-   **GitHub Actions** — needs no hosting. With the `HF_TOKEN` secret set, it is
-   already production-ready. Trigger it from the Actions tab → *Sports Daily
-   Pipeline* → *Run workflow*, or wait for the crons (daily 03:20 UTC, live every
-   30 min).
-2. **Website** (the `/sports/` dashboard). Static Jekyll output — this is the
-   only part that needs hosting.
+   **GitHub Actions** — no hosting needed. With the `HF_TOKEN` secret set it is
+   already live (daily 03:20 UTC + every 30 min). Trigger manually from the
+   Actions tab if you want a run now.
+2. **Website** — a GitHub Pages **project site** for this repo, published at
+   **https://ruslanmv.com/sports-trends/** (a project page served under the user
+   site's custom domain).
 
-> ⚠️ Asset paths are **root-absolute** (`/assets/...`, permalink `/sports/`), so
-> the site must be served at a **domain root** (apex or subdomain), not at a
-> `*.github.io/<repo>/` subpath.
+## Why it was 404'ing — and the fix
 
-## Recommended: GitHub Pages
+A project page lives at the `/sports-trends/` subpath, but the site previously
+used root-absolute paths (`/assets/...`) and had no page at the project root, so
+`ruslanmv.com/sports-trends/` had nothing to serve.
 
-Your main site is already Jekyll on Pages with the `ruslanmv.com` domain, so Pages
-is the natural fit. Two routes:
+Fixed by making the site **baseurl-aware**:
+- `_config.yml`: `url: https://ruslanmv.com`, `baseurl: /sports-trends`.
+- The dashboard now has `permalink: /`, so it renders at the project root
+  (`/sports-trends/`).
+- All asset/link references use Jekyll's `relative_url` (or paths relative to the
+  CSS file), and the JS reads a `<meta name="sports-base">` to build JSON/fetch
+  URLs. So every request resolves under `/sports-trends/`.
 
-### Route A — serve at `ruslanmv.com/sports/` (merge into the main site)
-Matches the product URL and reuses your existing Pages + domain.
+## Enable it (one-time)
 
-```bash
-# from the sports-trends repo, copy the section into your site repo:
-./scripts/sync_to_site.sh ../ruslanmv.github.io
-```
-This copies `sports/`, `_includes/sports/`, `_layouts/sports*.html`,
-`assets/{css,js,images,data}/sports*`, then you commit in `ruslanmv.github.io`.
-To keep it fresh, add a step in this repo's daily workflow to push the generated
-`assets/data/sports/*.json` to `ruslanmv.github.io` (or run the sync in CI).
+1. Push this branch to `main`.
+2. Repo **Settings → Pages → Source = "GitHub Actions"**.
+3. The **Sports Deploy (GitHub Pages)** workflow builds the Jekyll site (with
+   fresh JSON) and publishes it. Done — visit `https://ruslanmv.com/sports-trends/`.
 
-### Route B — standalone on a subdomain (`sports.ruslanmv.com`)
-No changes to your main site. Already wired:
-1. Repo **Settings → Pages → Source = "GitHub Actions"**.
-2. (custom domain) **Settings → Pages → Custom domain =** `sports.ruslanmv.com`,
-   then add a DNS `CNAME` record: `sports` → `ruslanmv.github.io`.
-3. Merge to `main` (or run *Sports Deploy (GitHub Pages)* manually). The workflow
-   builds the site, adds a root → `/sports/` redirect, and deploys.
+No DNS changes are required: the project page is automatically available under
+the existing `ruslanmv.com` custom domain of the user site.
 
-## Alternative: Vercel
-A `vercel.json` is included (Ruby/Jekyll build). Import the repo at vercel.com,
-or:
-```bash
-npm i -g vercel && vercel --prod
-```
-Point a domain/subdomain at Vercel in its dashboard. Note: the apex `ruslanmv.com`
-can only point to one host, so use a subdomain if Pages keeps the apex.
+## Notes
 
-## Summary
-| Goal | Do this |
-|------|---------|
-| Live data + daily models | ✅ already done (Actions + `HF_TOKEN`) |
-| Site at `ruslanmv.com/sports/` | Route A (sync into `ruslanmv.github.io`) |
-| Isolated site, no main-site changes | Route B (Pages + `sports.ruslanmv.com`) |
-| Preview deploys / separate stack | Vercel |
+- The daily/30-min workflows commit the generated `assets/data/sports/*.json`
+  into this repo; the deploy workflow then republishes the site.
+- A `vercel.json` is included if you ever want a Vercel preview, but the
+  supported production target is GitHub Pages on this repo.

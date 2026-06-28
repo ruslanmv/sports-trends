@@ -1,9 +1,11 @@
-# Minimal Jekyll config to preview the /sports/ section standalone.
-# In production these pages live inside ruslanmv.github.io.
+# GitHub Pages PROJECT site for the sports-trends repo.
+# Published at https://ruslanmv.com/sports-trends/ (project page under the
+# user site's custom domain). The baseurl makes every asset/link resolve under
+# /sports-trends/ so nothing 404s. All deploys stay inside THIS repo.
 title: "Ruslan Magana Sports Intelligence"
 description: "AI predictions, live results, and trending games updated every 30 minutes."
-url: ""
-baseurl: ""
+url: "https://ruslanmv.com"
+baseurl: "/sports-trends"
 markdown: kramdown
 permalink: pretty
 
