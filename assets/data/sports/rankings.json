@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T15:46:51.447342+00:00",
+  "last_updated": "2026-06-28T15:58:23.014537+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -62,6 +62,72 @@
       "match_id": "psg-bay",
       "label": "PSG vs Bayern Munich",
       "interest_score": 83
+    },
+    {
+      "rank": 6,
+      "match_id": "liv-che",
+      "label": "Liverpool vs Chelsea",
+      "interest_score": 80
+    },
+    {
+      "rank": 7,
+      "match_id": "djo-zve",
+      "label": "Novak Djokovic vs A. Zverev",
+      "interest_score": 79
+    },
+    {
+      "rank": 8,
+      "match_id": "bar-atm",
+      "label": "Barcelona vs Atletico Madrid",
+      "interest_score": 78
+    },
+    {
+      "rank": 9,
+      "match_id": "t1-g2",
+      "label": "T1 vs G2 Esports",
+      "interest_score": 75
+    },
+    {
+      "rank": 10,
+      "match_id": "gsw-phx",
+      "label": "Warriors vs Suns",
+      "interest_score": 74
+    },
+    {
+      "rank": 11,
+      "match_id": "swi-sab",
+      "label": "Iga Swiatek vs Aryna Sabalenka",
+      "interest_score": 72
+    },
+    {
+      "rank": 12,
+      "match_id": "mil-phi",
+      "label": "Bucks vs 76ers",
+      "interest_score": 70
+    },
+    {
+      "rank": 13,
+      "match_id": "nyy-lad",
+      "label": "Yankees vs Dodgers",
+      "interest_score": 68
+    },
+    {
+      "rank": 14,
+      "match_id": "pak-nzl",
+      "label": "Pakistan vs New Zealand",
+      "interest_score": 66
+    },
+    {
+      "rank": 15,
+      "match_id": "faze-navi",
+      "label": "FaZe vs NAVI",
+      "interest_score": 64
+    },
+    {
+      "rank": 16,
+      "match_id": "nym-atl",
+      "label": "Mets vs Braves",
+      "interest_score": 60
     }
   ]
 }

@@ -137,3 +137,20 @@
   .pt-sort { display: none; }
   .sf-inner { grid-template-columns: 1fr 1fr; gap: 22px; }
 }
+
+/* a11y focus + table scroll affordance */
+.pt-row:focus-visible { outline: 2px solid var(--s-green); outline-offset: -2px; border-radius: 8px; }
+.pred-search:focus-within { border-color: var(--s-emerald); box-shadow: 0 0 0 3px rgba(24,208,143,.18); }
+.pt-tab:focus-visible, .pf-reason-btn:focus-visible { outline: 2px solid var(--s-green); outline-offset: 2px; }
+.pt-scroll { position: relative; }
+@media (max-width: 760px) {
+  .pt-scroll::after { content: ""; position: absolute; top: 0; right: 0; width: 28px; height: 100%;
+    background: linear-gradient(90deg, transparent, #fff); pointer-events: none; }
+  .pt-scroll { -webkit-overflow-scrolling: touch; }
+}
+
+/* freshness + methodology trust line */
+.pred-trust { margin: 12px 2px 0; font-size: 12.5px; color: var(--s-muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.pred-trust a { color: var(--s-green); font-weight: 700; text-decoration: none; }
+.pred-trust a:hover { text-decoration: underline; }
+.pred-trust-badge { background: #fff4e6; color: #b45309; border: 1px solid #fde2bd; border-radius: 999px; padding: 3px 10px; font-weight: 700; }

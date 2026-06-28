@@ -1,6 +1,7 @@
 <div class="pred" data-pred="{{ page.sport }}" data-pred-mode="{{ page.page_mode | default: 'club' }}">
   {% include sports/pred-hero.html %}
   {% include sports/pred-status.html %}
+  <p class="pred-trust">Updated <span data-pred-updated>just now</span> · <span class="pred-trust-badge">Informational only — not betting advice</span> · <a href="https://huggingface.co/ruslanmv/sports-trends-models" rel="noopener">How predictions work &rarr;</a></p>
   {% include sports/pred-mundial-strip.html %}
   {% include sports/pred-featured.html %}
   {% include sports/pred-table.html %}
