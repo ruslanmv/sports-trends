@@ -1,54 +1,134 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "headline": "Tomorrow’s Biggest Games",
+  "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
+  "last_updated": "2026-06-28T10:34:47.413325+00:00",
+  "count": 5,
   "matches": [
     {
-      "id": "liv-ars-2026-06-27",
+      "match_id": "rma-mci",
       "sport": "football",
-      "league": "Premier League",
-      "home_team": "Liverpool",
-      "away_team": "Arsenal",
-      "kickoff": "2026-06-27T18:30:00+01:00",
-      "prediction": {
-        "home_score": 2,
-        "away_score": 2,
-        "label": "AI: draw likely",
-        "confidence": 0.72
+      "league": "UEFA Champions League",
+      "home_team": "Real Madrid",
+      "away_team": "Man City",
+      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff_label": "21:00",
+      "probabilities": {
+        "home_win": 0.56,
+        "draw": 0.22,
+        "away_win": 0.22
       },
-      "interest_score": 96,
-      "trend_badge": "Global #2"
+      "prediction_label": "AI: Real Madrid favoured",
+      "confidence": 0.56,
+      "interest_score": 98,
+      "trend_badge": "Global #1",
+      "audience": "1.2M",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Real Madrid 0.60 vs Man City 0.40.",
+        "Head-to-head: 17–0–16 (home–draw–away)."
+      ]
     },
     {
-      "id": "lal-bos-2026-06-27",
+      "match_id": "lal-bos",
       "sport": "basketball",
-      "league": "NBA",
+      "league": "NBA Finals",
       "home_team": "Lakers",
       "away_team": "Celtics",
-      "kickoff": "2026-06-27T02:00:00Z",
-      "prediction": {
-        "home_score": 114,
-        "away_score": 109,
-        "label": "AI: Lakers edge",
-        "confidence": 0.68
+      "kickoff": "2026-06-29T08:30:00+00:00",
+      "kickoff_label": "08:30",
+      "probabilities": {
+        "home_win": 0.48,
+        "draw": 0.2,
+        "away_win": 0.32
       },
+      "prediction_label": "AI: Lakers favoured",
+      "confidence": 0.48,
       "interest_score": 91,
-      "trend_badge": "US Hot"
+      "trend_badge": "US Hot",
+      "audience": "689K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lakers 0.60 vs Celtics 0.60.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
     },
     {
-      "id": "sin-alc-2026-06-27",
+      "match_id": "sin-alc",
       "sport": "tennis",
-      "league": "ATP",
-      "home_team": "J. Sinner",
-      "away_team": "C. Alcaraz",
-      "kickoff": "2026-06-27T15:00:00+02:00",
-      "prediction": {
-        "home_score": 3,
-        "away_score": 2,
-        "label": "AI: five-set thriller",
-        "confidence": 0.64
+      "league": "Wimbledon Men's SF",
+      "home_team": "Jannik Sinner",
+      "away_team": "Carlos Alcaraz",
+      "kickoff": "2026-06-29T15:00:00+01:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.44,
+        "draw": 0.16,
+        "away_win": 0.4
       },
+      "prediction_label": "AI: Jannik Sinner favoured",
+      "confidence": 0.44,
       "interest_score": 88,
-      "trend_badge": "Italy rising"
+      "trend_badge": "Italy rising",
+      "audience": "512K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Jannik Sinner 0.00 vs Carlos Alcaraz 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "ind-aus",
+      "sport": "cricket",
+      "league": "ICC Test Championship",
+      "home_team": "India",
+      "away_team": "Australia",
+      "kickoff": "2026-06-29T10:00:00+05:00",
+      "kickoff_label": "10:00",
+      "probabilities": {
+        "home_win": 0.41,
+        "draw": 0.18,
+        "away_win": 0.41
+      },
+      "prediction_label": "AI: India favoured",
+      "confidence": 0.41,
+      "interest_score": 86,
+      "trend_badge": "Global #2",
+      "audience": "842K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): India 0.60 vs Australia 0.60.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "psg-bay",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "PSG",
+      "away_team": "Bayern Munich",
+      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff_label": "21:00",
+      "probabilities": {
+        "home_win": 0.39,
+        "draw": 0.24,
+        "away_win": 0.37
+      },
+      "prediction_label": "AI: PSG favoured",
+      "confidence": 0.39,
+      "interest_score": 83,
+      "trend_badge": "EU Hot",
+      "audience": "451K",
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): PSG 0.40 vs Bayern Munich 0.60.",
+        "Head-to-head: 16–0–17 (home–draw–away)."
+      ]
     }
   ]
 }

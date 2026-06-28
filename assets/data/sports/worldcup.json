@@ -1,0 +1,242 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "competition": "FIFA World Cup 2026",
+  "source": "mock",
+  "last_updated": "2026-06-28T10:34:47.680134+00:00",
+  "headline": "World Cup — Biggest Games",
+  "count": 8,
+  "matches": [
+    {
+      "match_id": "wc-fra-sen",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "kickoff": "2026-06-29T15:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.594,
+        "draw": 0.163,
+        "team2": 0.243
+      },
+      "prediction_label": "France favoured",
+      "confidence": 0.594,
+      "interest_score": 71,
+      "explanation": [
+        "Elo: France 2080 vs Senegal 1830 (Δ +250).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): France 76% · Senegal 24%."
+      ],
+      "to_advance": {
+        "France": 0.757,
+        "Senegal": 0.243
+      },
+      "kickoff_label": "29 Jun 15:00"
+    },
+    {
+      "match_id": "wc-esp-cro",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Spain",
+      "away_team": "Croatia",
+      "kickoff": "2026-06-30T18:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.472,
+        "draw": 0.221,
+        "team2": 0.307
+      },
+      "prediction_label": "Spain favoured",
+      "confidence": 0.472,
+      "interest_score": 71,
+      "explanation": [
+        "Elo: Spain 2020 vs Croatia 1900 (Δ +120).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Spain 63% · Croatia 37%."
+      ],
+      "to_advance": {
+        "Spain": 0.633,
+        "Croatia": 0.367
+      },
+      "kickoff_label": "30 Jun 18:00"
+    },
+    {
+      "match_id": "wc-arg-nor",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Argentina",
+      "away_team": "Norway",
+      "kickoff": "2026-06-29T18:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.638,
+        "draw": 0.143,
+        "team2": 0.219
+      },
+      "prediction_label": "Argentina favoured",
+      "confidence": 0.638,
+      "interest_score": 70,
+      "explanation": [
+        "Elo: Argentina 2100 vs Norway 1800 (Δ +300).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Argentina 80% · Norway 20%."
+      ],
+      "to_advance": {
+        "Argentina": 0.796,
+        "Norway": 0.204
+      },
+      "kickoff_label": "29 Jun 18:00"
+    },
+    {
+      "match_id": "wc-bra-jpn",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Brazil",
+      "away_team": "Japan",
+      "kickoff": "2026-06-29T21:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.557,
+        "draw": 0.18,
+        "team2": 0.263
+      },
+      "prediction_label": "Brazil favoured",
+      "confidence": 0.557,
+      "interest_score": 69,
+      "explanation": [
+        "Elo: Brazil 2050 vs Japan 1840 (Δ +210).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Brazil 72% · Japan 28%."
+      ],
+      "to_advance": {
+        "Brazil": 0.722,
+        "Japan": 0.278
+      },
+      "kickoff_label": "29 Jun 21:00"
+    },
+    {
+      "match_id": "wc-ger-mar",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Germany",
+      "away_team": "Morocco",
+      "kickoff": "2026-06-30T15:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.443,
+        "draw": 0.235,
+        "team2": 0.321
+      },
+      "prediction_label": "Germany favoured",
+      "confidence": 0.443,
+      "interest_score": 66,
+      "explanation": [
+        "Elo: Germany 1970 vs Morocco 1880 (Δ +90).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Germany 60% · Morocco 40%."
+      ],
+      "to_advance": {
+        "Germany": 0.601,
+        "Morocco": 0.399
+      },
+      "kickoff_label": "30 Jun 15:00"
+    },
+    {
+      "match_id": "wc-eng-mex",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "England",
+      "away_team": "Mexico",
+      "kickoff": "2026-06-30T21:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.51,
+        "draw": 0.202,
+        "team2": 0.288
+      },
+      "prediction_label": "England favoured",
+      "confidence": 0.51,
+      "interest_score": 65,
+      "explanation": [
+        "Elo: England 2030 vs Mexico 1870 (Δ +160, host advantage).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): England 67% · Mexico 33%."
+      ],
+      "to_advance": {
+        "England": 0.674,
+        "Mexico": 0.326
+      },
+      "kickoff_label": "30 Jun 21:00"
+    },
+    {
+      "match_id": "wc-por-usa",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Portugal",
+      "away_team": "USA",
+      "kickoff": "2026-06-28T23:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.472,
+        "draw": 0.221,
+        "team2": 0.307
+      },
+      "prediction_label": "Portugal favoured",
+      "confidence": 0.472,
+      "interest_score": 64,
+      "explanation": [
+        "Elo: Portugal 2000 vs USA 1880 (Δ +120, host advantage).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Portugal 63% · USA 37%."
+      ],
+      "to_advance": {
+        "Portugal": 0.633,
+        "USA": 0.367
+      },
+      "kickoff_label": "28 Jun 23:00"
+    },
+    {
+      "match_id": "wc-ned-ecu",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Netherlands",
+      "away_team": "Ecuador",
+      "kickoff": "2026-06-28T20:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.538,
+        "draw": 0.188,
+        "team2": 0.273
+      },
+      "prediction_label": "Netherlands favoured",
+      "confidence": 0.538,
+      "interest_score": 60,
+      "explanation": [
+        "Elo: Netherlands 1980 vs Ecuador 1790 (Δ +190).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Netherlands 70% · Ecuador 30%."
+      ],
+      "to_advance": {
+        "Netherlands": 0.703,
+        "Ecuador": 0.297
+      },
+      "kickoff_label": "28 Jun 20:00"
+    }
+  ]
+}

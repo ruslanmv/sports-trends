@@ -1,15 +1,9 @@
-"""Placeholder baseball provider."""
+"""Baseball data provider (live API when keyed, mock data otherwise)."""
 
 from __future__ import annotations
 
-class BaseballProvider:
+from .base import BaseSportsProvider
+
+
+class BaseballProvider(BaseSportsProvider):
     sport = "baseball"
-
-    def fetch_today(self) -> list[dict]:
-        return []
-
-    def fetch_tomorrow(self) -> list[dict]:
-        return []
-
-    def fetch_live(self) -> list[dict]:
-        return []

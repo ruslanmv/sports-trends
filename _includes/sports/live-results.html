@@ -1,12 +1,44 @@
-<section class="sports-section" id="live-results">
-  <header class="sports-section-header compact">
-    <h2>Live Results</h2>
-    <a href="/sports/live/">View all</a>
-  </header>
-  <div class="sports-live-list" data-live-results>
-    <article><span>Premier League</span><b>Arsenal 2–1 Tottenham</b><em>LIVE · 78′</em></article>
-    <article><span>NBA</span><b>Heat 89–94 Nuggets</b><em>LIVE · Q4 03:12</em></article>
-    <article><span>T20 World Cup</span><b>England 147/6 South Africa</b><em>LIVE · 18.2 overs</em></article>
-    <article><span>ATP Halle</span><b>A. Zverev 6-4, 3-6, 6-2 D. Medvedev</b><em>Final</em></article>
+<article class="snap-card" id="live-results">
+  <div class="snap-head">
+    <h3>Live Results</h3>
+    <a class="snap-link" href="/sports/live/">View all</a>
   </div>
-</section>
+  <ul class="live-list" data-live-results>
+    <li class="live-row" data-sport="football">
+      <span class="sport-ic">&#9917;</span>
+      <div class="lr-main">
+        <div class="lr-league">Premier League</div>
+        <div class="lr-teams">Arsenal <span class="lr-score">2 - 1</span> Tottenham</div>
+        <div class="lr-detail">2H 78&rsquo;</div>
+      </div>
+      <span class="badge-live">LIVE</span>
+    </li>
+    <li class="live-row" data-sport="basketball">
+      <span class="sport-ic">&#127936;</span>
+      <div class="lr-main">
+        <div class="lr-league">NBA</div>
+        <div class="lr-teams">Heat <span class="lr-score">89 - 94</span> Nuggets</div>
+        <div class="lr-detail">4Q 03:12</div>
+      </div>
+      <span class="badge-live">LIVE</span>
+    </li>
+    <li class="live-row" data-sport="cricket">
+      <span class="sport-ic">&#127951;</span>
+      <div class="lr-main">
+        <div class="lr-league">T20 World Cup</div>
+        <div class="lr-teams">England <span class="lr-score">147/6</span> South Africa</div>
+        <div class="lr-detail">18.2 overs</div>
+      </div>
+      <span class="badge-live">LIVE</span>
+    </li>
+    <li class="live-row" data-sport="tennis">
+      <span class="sport-ic">&#127934;</span>
+      <div class="lr-main">
+        <div class="lr-league">ATP Halle</div>
+        <div class="lr-teams">A. Zverev <span class="lr-score sets">6-4, 3-6, 6-2</span> D. Medvedev</div>
+        <div class="lr-detail">Finished</div>
+      </div>
+      <span class="badge-done">FT</span>
+    </li>
+  </ul>
+</article>

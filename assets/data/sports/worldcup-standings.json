@@ -1,0 +1,84 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "competition": "FIFA World Cup 2026",
+  "source": "mock",
+  "last_updated": "2026-06-28T10:34:47.680134+00:00",
+  "groups": {
+    "Group A": [
+      {
+        "team": "Mexico",
+        "played": 3,
+        "won": 2,
+        "draw": 1,
+        "lost": 0,
+        "gd": 4,
+        "points": 7
+      },
+      {
+        "team": "Norway",
+        "played": 3,
+        "won": 2,
+        "draw": 0,
+        "lost": 1,
+        "gd": 2,
+        "points": 6
+      },
+      {
+        "team": "Saudi Arabia",
+        "played": 3,
+        "won": 1,
+        "draw": 0,
+        "lost": 2,
+        "gd": -2,
+        "points": 3
+      },
+      {
+        "team": "Canada",
+        "played": 3,
+        "won": 0,
+        "draw": 1,
+        "lost": 2,
+        "gd": -4,
+        "points": 1
+      }
+    ],
+    "Group G": [
+      {
+        "team": "Brazil",
+        "played": 3,
+        "won": 3,
+        "draw": 0,
+        "lost": 0,
+        "gd": 6,
+        "points": 9
+      },
+      {
+        "team": "Senegal",
+        "played": 3,
+        "won": 1,
+        "draw": 1,
+        "lost": 1,
+        "gd": 0,
+        "points": 4
+      },
+      {
+        "team": "Japan",
+        "played": 3,
+        "won": 1,
+        "draw": 1,
+        "lost": 1,
+        "gd": 1,
+        "points": 4
+      },
+      {
+        "team": "Nigeria",
+        "played": 3,
+        "won": 0,
+        "draw": 0,
+        "lost": 3,
+        "gd": -7,
+        "points": 0
+      }
+    ]
+  }
+}

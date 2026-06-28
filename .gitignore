@@ -32,3 +32,16 @@ _site/
 # Secrets and provider responses
 provider_raw/
 *.secret.json
+
+# Local data lake + model artifacts (belong in Hugging Face, not GitHub)
+.data_lake/
+.models/
+*.parquet
+*.pkl
+.preview_sports.html
+
+# Jekyll local preview
+_site/
+.jekyll-cache/
+.jekyll-metadata
+vendor/

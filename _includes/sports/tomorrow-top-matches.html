@@ -1,20 +1,44 @@
-<section class="sports-section" id="tomorrow-top-matches">
-  <header class="sports-section-header">
-    <div>
-      <h2>Tomorrow’s Top Matches</h2>
-      <p>Ranked by global interest, league importance, social velocity, and AI model confidence.</p>
-    </div>
-    <div class="sports-filter-pills" data-sports-filters>
-      <button class="active" data-sport="all">All Sports</button>
-      <button data-sport="football">Football</button>
-      <button data-sport="basketball">Basketball</button>
-      <button data-sport="tennis">Tennis</button>
-      <button data-sport="cricket">Cricket</button>
-    </div>
-  </header>
-  <div class="sports-match-grid" data-tomorrow-matches>
-    {% include sports/match-card.html match_id="liv-ars-2026-06-27" sport="football" league="Premier League" badge="Global #2" home_abbr="LIV" home="Liverpool" home_score="2" away_abbr="ARS" away="Arsenal" away_score="2" insight="AI: draw likely" interest="96/100" time="Kickoff 18:30 CET" action="Share" %}
-    {% include sports/match-card.html match_id="lal-bos-2026-06-27" sport="basketball" league="NBA" badge="US Hot" home_abbr="LAL" home="Lakers" home_score="114" away_abbr="BOS" away="Celtics" away_score="109" insight="AI: Lakers edge" interest="91/100" time="Tipoff 02:00 CET" action="Follow" %}
-    {% include sports/match-card.html match_id="sin-alc-2026-06-27" sport="tennis" league="ATP" badge="Italy rising" home_abbr="SIN" home="J. Sinner" home_score="3" away_abbr="ALC" away="C. Alcaraz" away_score="2" insight="AI: five-set thriller" interest="88/100" time="Center Court · 15:00" action="Share" %}
+<article class="snap-card" id="tomorrow-top-matches">
+  <div class="snap-head">
+    <h3>Tomorrow&rsquo;s Top Matches</h3>
+    <a class="snap-link" href="/sports/tomorrow/">View all</a>
   </div>
-</section>
+  <ul class="match-list" data-tomorrow-matches>
+    <li class="match-row" data-sport="football">
+      <div class="mr-top"><span class="sport-ic">&#9917;</span><span class="mr-league">UEFA Champions League</span><span class="mr-time"><b>21:00</b>Tomorrow</span></div>
+      <div class="mr-teams">
+        <span class="mr-team"><span class="mr-logo">&#9917;</span>Real Madrid</span>
+        <span class="mr-team away"><span class="mr-logo">&#9917;</span>Man City</span>
+      </div>
+      <div class="mr-bar"><i class="home" style="width:56%"></i><i class="draw" style="width:22%"></i><i class="away" style="width:22%"></i></div>
+      <div class="mr-pcts"><span class="home">56%</span><span class="draw">DRAW 22%</span><span class="away">22%</span></div>
+    </li>
+    <li class="match-row" data-sport="basketball">
+      <div class="mr-top"><span class="sport-ic">&#127936;</span><span class="mr-league">NBA Finals</span><span class="mr-time"><b>08:30</b>Tomorrow</span></div>
+      <div class="mr-teams">
+        <span class="mr-team"><span class="mr-logo">&#127936;</span>Lakers</span>
+        <span class="mr-team away"><span class="mr-logo">&#127936;</span>Celtics</span>
+      </div>
+      <div class="mr-bar"><i class="home" style="width:48%"></i><i class="draw" style="width:20%"></i><i class="away" style="width:32%"></i></div>
+      <div class="mr-pcts"><span class="home">48%</span><span class="draw">DRAW 20%</span><span class="away">32%</span></div>
+    </li>
+    <li class="match-row" data-sport="tennis">
+      <div class="mr-top"><span class="sport-ic">&#127934;</span><span class="mr-league">Wimbledon Men&rsquo;s SF</span><span class="mr-time"><b>15:00</b>Tomorrow</span></div>
+      <div class="mr-teams">
+        <span class="mr-team"><span class="mr-logo">&#127934;</span>Jannik Sinner</span>
+        <span class="mr-team away"><span class="mr-logo">&#127934;</span>Carlos Alcaraz</span>
+      </div>
+      <div class="mr-bar"><i class="home" style="width:44%"></i><i class="draw" style="width:16%"></i><i class="away" style="width:40%"></i></div>
+      <div class="mr-pcts"><span class="home">44%</span><span class="draw">DRAW 16%</span><span class="away">40%</span></div>
+    </li>
+    <li class="match-row" data-sport="cricket">
+      <div class="mr-top"><span class="sport-ic">&#127951;</span><span class="mr-league">ICC Test Championship</span><span class="mr-time"><b>10:00</b>Tomorrow</span></div>
+      <div class="mr-teams">
+        <span class="mr-team"><span class="mr-logo">&#127951;</span>India</span>
+        <span class="mr-team away"><span class="mr-logo">&#127951;</span>Australia</span>
+      </div>
+      <div class="mr-bar"><i class="home" style="width:41%"></i><i class="draw" style="width:18%"></i><i class="away" style="width:41%"></i></div>
+      <div class="mr-pcts"><span class="home">41%</span><span class="draw">DRAW 18%</span><span class="away">41%</span></div>
+    </li>
+  </ul>
+</article>

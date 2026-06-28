@@ -1,4 +1,67 @@
 {
-  "last_updated": "2026-06-26T08:28:00Z",
-  "rankings": []
+  "last_updated": "2026-06-28T10:34:47.413352+00:00",
+  "explore_sports": [
+    {
+      "sport": "football",
+      "label": "Football",
+      "live": 1842
+    },
+    {
+      "sport": "basketball",
+      "label": "Basketball",
+      "live": 320
+    },
+    {
+      "sport": "tennis",
+      "label": "Tennis",
+      "live": 156
+    },
+    {
+      "sport": "cricket",
+      "label": "Cricket",
+      "live": 98
+    },
+    {
+      "sport": "baseball",
+      "label": "Baseball",
+      "live": 64
+    },
+    {
+      "sport": "esports",
+      "label": "Esports",
+      "live": 212
+    }
+  ],
+  "top_matches": [
+    {
+      "rank": 1,
+      "match_id": "rma-mci",
+      "label": "Real Madrid vs Man City",
+      "interest_score": 98
+    },
+    {
+      "rank": 2,
+      "match_id": "lal-bos",
+      "label": "Lakers vs Celtics",
+      "interest_score": 91
+    },
+    {
+      "rank": 3,
+      "match_id": "sin-alc",
+      "label": "Jannik Sinner vs Carlos Alcaraz",
+      "interest_score": 88
+    },
+    {
+      "rank": 4,
+      "match_id": "ind-aus",
+      "label": "India vs Australia",
+      "interest_score": 86
+    },
+    {
+      "rank": 5,
+      "match_id": "psg-bay",
+      "label": "PSG vs Bayern Munich",
+      "interest_score": 83
+    }
+  ]
 }

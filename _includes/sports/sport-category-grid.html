@@ -1,11 +1,26 @@
-<section class="sports-section" id="explore-sports">
-  <header class="sports-section-header compact"><h2>Explore Sports</h2></header>
-  <div class="sports-category-grid">
-    {% include sports/league-card.html name="Football" count="1,842 live" url="/sports/football/" %}
-    {% include sports/league-card.html name="Basketball" count="320 live" url="/sports/basketball/" %}
-    {% include sports/league-card.html name="Tennis" count="156 live" url="/sports/tennis/" %}
-    {% include sports/league-card.html name="Cricket" count="98 live" url="/sports/cricket/" %}
-    {% include sports/league-card.html name="Baseball" count="64 live" url="/sports/baseball/" %}
-    {% include sports/league-card.html name="Esports" count="212 live" url="/sports/esports/" %}
-  </div>
-</section>
+<div class="sports-explore-grid" data-explore-sports>
+  <a class="explore-card" href="/sports/football/" data-sport="football">
+    <span class="ex-img"></span><span class="ex-ic">&#9917;</span>
+    <span class="ex-body"><strong>Football</strong><span class="ex-live"><i></i>1,842 Live</span></span>
+  </a>
+  <a class="explore-card" href="/sports/basketball/" data-sport="basketball">
+    <span class="ex-img"></span><span class="ex-ic">&#127936;</span>
+    <span class="ex-body"><strong>Basketball</strong><span class="ex-live"><i></i>320 Live</span></span>
+  </a>
+  <a class="explore-card" href="/sports/tennis/" data-sport="tennis">
+    <span class="ex-img"></span><span class="ex-ic">&#127934;</span>
+    <span class="ex-body"><strong>Tennis</strong><span class="ex-live"><i></i>156 Live</span></span>
+  </a>
+  <a class="explore-card" href="/sports/cricket/" data-sport="cricket">
+    <span class="ex-img"></span><span class="ex-ic">&#127951;</span>
+    <span class="ex-body"><strong>Cricket</strong><span class="ex-live"><i></i>98 Live</span></span>
+  </a>
+  <a class="explore-card" href="/sports/baseball/" data-sport="baseball">
+    <span class="ex-img"></span><span class="ex-ic">&#9918;</span>
+    <span class="ex-body"><strong>Baseball</strong><span class="ex-live"><i></i>64 Live</span></span>
+  </a>
+  <a class="explore-card" href="/sports/esports/" data-sport="esports">
+    <span class="ex-img"></span><span class="ex-ic">&#127918;</span>
+    <span class="ex-body"><strong>Esports</strong><span class="ex-live"><i></i>212 Live</span></span>
+  </a>
+</div>

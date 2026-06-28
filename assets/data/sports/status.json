@@ -1,9 +1,54 @@
 {
+  "product": "Ruslan Magana Sports Intelligence",
+  "technical_name": "sports-trends",
   "status": "live",
-  "last_updated": "2026-06-26T08:28:00Z",
+  "last_updated": "2026-06-28T10:34:47.413249+00:00",
   "update_cycle_minutes": 30,
+  "dataset_repo": "ruslanmv/sports-trends-dataset",
+  "model_repo": "ruslanmv/sports-trends-models",
+  "website_url": "https://ruslanmv.com/sports/",
+  "stats": {
+    "top_matches": 24,
+    "live_games": 128,
+    "update_cycle_minutes": 30,
+    "global_fans": "4.8M"
+  },
   "providers": [
-    "placeholder-provider"
-  ],
-  "notes": "Demo placeholder data until provider integration is implemented."
+    {
+      "provider": "FootballProvider",
+      "sport": "football",
+      "has_api_key": false,
+      "mode": "fallback"
+    },
+    {
+      "provider": "BasketballProvider",
+      "sport": "basketball",
+      "has_api_key": false,
+      "mode": "fallback"
+    },
+    {
+      "provider": "TennisProvider",
+      "sport": "tennis",
+      "has_api_key": false,
+      "mode": "fallback"
+    },
+    {
+      "provider": "CricketProvider",
+      "sport": "cricket",
+      "has_api_key": false,
+      "mode": "fallback"
+    },
+    {
+      "provider": "BaseballProvider",
+      "sport": "baseball",
+      "has_api_key": false,
+      "mode": "fallback"
+    },
+    {
+      "provider": "EsportsProvider",
+      "sport": "esports",
+      "has_api_key": false,
+      "mode": "fallback"
+    }
+  ]
 }

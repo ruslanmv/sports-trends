@@ -1,0 +1,60 @@
+{
+  "product": "Ruslan Magana Sports Intelligence",
+  "model_repo": "ruslanmv/sports-trends-models",
+  "last_trained": "2026-06-28T09:46:10.667790+00:00",
+  "mode": "dry-run",
+  "models": {
+    "football": {
+      "version": "football-hist_gradient_boosting-20260628",
+      "algo": "hist_gradient_boosting",
+      "model_name": "football-hgb",
+      "task": "multiclass: home / draw / away",
+      "rationale": "Gradient-boosted trees capture non-linear Elo×form interactions and the 3-way draw outcome.",
+      "metrics": {
+        "n": 30,
+        "accuracy": 1.0,
+        "log_loss": 0.0143,
+        "calibrated": true
+      }
+    },
+    "basketball": {
+      "version": "basketball-logistic_regression-20260628",
+      "algo": "logistic_regression",
+      "model_name": "basketball-logreg",
+      "task": "binary: home / away win",
+      "rationale": "No draws and a strong linear Elo signal — calibrated logistic regression gives clean probabilities.",
+      "metrics": {
+        "n": 30,
+        "accuracy": 1.0,
+        "log_loss": 0.0385,
+        "calibrated": true
+      }
+    },
+    "tennis": {
+      "version": "tennis-gradient_boosting-20260628",
+      "algo": "gradient_boosting",
+      "model_name": "tennis-gbdt",
+      "task": "binary: player 1 / player 2 win",
+      "rationale": "Head-to-head and form interactions are non-linear; boosting models them on short player histories.",
+      "metrics": {
+        "n": 30,
+        "accuracy": 1.0,
+        "log_loss": 0.0,
+        "calibrated": true
+      }
+    },
+    "cricket": {
+      "version": "cricket-random_forest-20260628",
+      "algo": "random_forest",
+      "model_name": "cricket-rf",
+      "task": "binary: home / away win",
+      "rationale": "Format-dependent, noisy results — bagged trees are robust to variance and outliers.",
+      "metrics": {
+        "n": 30,
+        "accuracy": 1.0,
+        "log_loss": 0.0,
+        "calibrated": true
+      }
+    }
+  }
+}
