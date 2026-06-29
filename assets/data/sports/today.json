@@ -1,14 +1,14 @@
 {
   "date": "2026-06-29",
-  "last_updated": "2026-06-29T21:05:53.747103+00:00",
+  "last_updated": "2026-06-29T22:35:27.532421+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388148",
+      "match_id": "tsdb-2388141",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Chicago White Sox",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
