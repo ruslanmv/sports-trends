@@ -20,6 +20,11 @@ Three cadences, no model retraining on the hot path:
    retrained **daily** by `sports-daily-pipeline.yml` and published to HF.
 6. **Inference** (`inference/*`) — window → model (or Elo heuristic) → probabilities + explanations.
 7. **Publish** (`inference/publish_json.py`) — the seven public JSON files.
+8. **Feedback loop** (`datasets/prediction_ledger.py`) — log every prediction with
+   its feature snapshot + model version, reconcile against real results once the
+   match finishes (label + score), and fold the settled outcomes back into the
+   training data so retrains stay coherent with the latest results. See
+   [FEEDBACK_LOOP.md](FEEDBACK_LOOP.md).
 
 ## Leakage prevention
 

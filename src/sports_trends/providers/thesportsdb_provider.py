@@ -61,10 +61,55 @@ def fetch_next_events(league_id: int, timeout: int = 15) -> list[dict[str, Any]]
     return out
 
 
+def fetch_past_events(league_id: int, timeout: int = 15) -> list[dict[str, Any]]:
+    """Recent FINISHED events for a league (keyless), with scores."""
+    try:
+        import requests
+        r = requests.get(f"{BASE}/eventspastleague.php?id={league_id}", timeout=timeout)
+        r.raise_for_status()
+        events = r.json().get("events") or []
+    except Exception as exc:
+        logger.warning("TheSportsDB past fetch failed for league %s: %s", league_id, exc)
+        return []
+    out = []
+    for e in events:
+        home, away = e.get("strHomeTeam"), e.get("strAwayTeam")
+        if not home or not away:
+            continue
+        hs, as_ = e.get("intHomeScore"), e.get("intAwayScore")
+        date_s = e.get("dateEvent")
+        out.append({
+            "id": "tsdb-" + str(e.get("idEvent")),
+            "sport": _sport_of(e.get("strSport")),
+            "league": e.get("strLeague", ""), "league_id": str(e.get("idLeague", "")),
+            "season": e.get("strSeason", ""), "country": e.get("strCountry", ""),
+            "home": home, "home_id": (home or "").lower().replace(" ", "-"),
+            "away": away, "away_id": (away or "").lower().replace(" ", "-"),
+            "date": date_s,
+            "kickoff": (date_s + "T" + (e.get("strTime") or "00:00:00")) if date_s else None,
+            "home_score": int(hs) if hs not in (None, "") else None,
+            "away_score": int(as_) if as_ not in (None, "") else None,
+            "status": "finished" if hs not in (None, "") else "scheduled",
+            "venue": e.get("strVenue", ""), "provider": "thesportsdb",
+        })
+    return out
+
+
 def fetch_for_keys(keys: list[str] | None = None) -> list[dict[str, Any]]:
+    """Upcoming (scheduled) events across the configured leagues."""
     rows: list[dict[str, Any]] = []
     for k in (keys or list(LEAGUES)):
         lid = LEAGUES.get(k)
         if lid:
             rows.extend(fetch_next_events(lid))
+    return rows
+
+
+def fetch_results_for_keys(keys: list[str] | None = None) -> list[dict[str, Any]]:
+    """Recent finished results across the configured leagues."""
+    rows: list[dict[str, Any]] = []
+    for k in (keys or list(LEAGUES)):
+        lid = LEAGUES.get(k)
+        if lid:
+            rows.extend(r for r in fetch_past_events(lid) if r.get("status") == "finished")
     return rows

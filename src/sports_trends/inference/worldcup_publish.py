@@ -26,6 +26,43 @@ def _kickoff_label(iso: str | None) -> str:
         return "TBD"
 
 
+_STAGE_LABEL = {
+    "group_stage": "Group Stage", "round_of_32": "Round of 32",
+    "round_of_16": "Round of 16", "quarterfinals": "Quarter-finals",
+    "semifinals": "Semi-finals", "third_place": "Third-place Play-off",
+    "final": "Final",
+}
+
+
+def _fixtures_payload(provider: WorldCupProvider) -> dict[str, Any]:
+    """Full schedule grouped by round (group → final) for the page's schedule tab."""
+    rows = provider.fetch_fixtures()
+    by_stage: dict[str, list[dict[str, Any]]] = {}
+    for r in rows:
+        item = {
+            "match_id": r.get("id"),
+            "home_team": r.get("home"), "away_team": r.get("away"),
+            "home_confederation": r.get("home_confederation"),
+            "away_confederation": r.get("away_confederation"),
+            "stage": r.get("stage"), "group": r.get("group", ""),
+            "date": r.get("date"), "kickoff": r.get("kickoff"),
+            "kickoff_label": _kickoff_label(r.get("kickoff")),
+            "venue": r.get("venue", ""), "host_city": r.get("host_city", ""),
+            "status": r.get("status"),
+            "home_score": r.get("home_score"), "away_score": r.get("away_score"),
+        }
+        by_stage.setdefault(r.get("stage", "group_stage"), []).append(item)
+
+    order = ["group_stage", "round_of_32", "round_of_16", "quarterfinals",
+             "semifinals", "third_place", "final"]
+    sections = [{
+        "stage": s, "label": _STAGE_LABEL.get(s, s.replace("_", " ").title()),
+        "matches": by_stage[s],
+    } for s in order if s in by_stage]
+    upcoming_count = sum(1 for r in rows if r.get("status") != "finished")
+    return {"sections": sections, "total": len(rows), "upcoming": upcoming_count}
+
+
 def build_worldcup_json(provider: WorldCupProvider | None = None) -> dict[str, dict[str, Any]]:
     provider = provider or WorldCupProvider()
     upcoming = provider.fetch_upcoming()
@@ -65,6 +102,7 @@ def build_worldcup_json(provider: WorldCupProvider | None = None) -> dict[str, d
         "worldcup-predictions.json": {**meta, "matches": preds},
         "worldcup-live.json": {**meta, "matches": provider.fetch_live()},
         "worldcup-qualifiers.json": {**meta, "matches": qual_preds},
+        "worldcup-fixtures.json": {**meta, **_fixtures_payload(provider)},
         "worldcup-standings.json": {**meta, "groups": provider.fetch_standings()},
         "worldcup-trending.json": {**meta, "region": "Worldwide",
                                    "matches": [

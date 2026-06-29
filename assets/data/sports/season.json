@@ -1,6 +1,6 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-06-29T10:05:15.382202+00:00",
+  "last_updated": "2026-06-29T08:26:48.715743+00:00",
   "today": "2026-06-29",
   "featured": {
     "key": "worldcup",
@@ -9,6 +9,15 @@
     "scope": "international",
     "importance": 100,
     "emoji": "🏆"
+  },
+  "featured_football": {
+    "key": "worldcup",
+    "name": "FIFA World Cup",
+    "sport": "football",
+    "scope": "international",
+    "importance": 100,
+    "emoji": "🏆",
+    "status": "active"
   },
   "worldcup_active": true,
   "active": [

@@ -29,6 +29,8 @@ jobs:
     env:
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
       HF_DATASET_REPO: ruslanmv/sports-trends-dataset
+      # Real keyless feed (TheSportsDB) in production; mock is only a safety net.
+      SPORTS_ENABLE_LIVE_FEED: "1"
       HF_MODEL_REPO: ruslanmv/sports-trends-models
       SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
       SPORTS_API_FOOTBALL_KEY: ${{ secrets.SPORTS_API_FOOTBALL_KEY }}
@@ -49,6 +51,9 @@ jobs:
       - name: 1) Refresh Hugging Face dataset (raw + manifest)
         run: python scripts/run_upload_to_hf_dataset.py
 
+      - name: 1b) Reconcile open predictions vs real results (feedback loop)
+        run: python scripts/run_reconcile_outcomes.py
+
       - name: 2) Generate leakage-safe features
         run: python scripts/run_generate_features.py
 
@@ -63,6 +68,9 @@ jobs:
 
       - name: 6) Predict tomorrow + publish public JSON
         run: python scripts/run_predict_tomorrow.py
+
+      - name: 6a) Log predictions to the ledger (feedback loop step 1)
+        run: python scripts/run_log_predictions.py
 
       - name: 6b) World Cup — fetch, predict, publish (free OpenFootball + mock fallback)
         run: python scripts/run_worldcup_pipeline.py

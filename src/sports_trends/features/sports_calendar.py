@@ -119,6 +119,42 @@ def worldcup_active(d: Optional[date] = None) -> bool:
     return _BY_KEY["worldcup"].is_active(d) or _BY_KEY["worldcup_q"].is_active(d)
 
 
+def featured_football_competition(d: Optional[date] = None) -> dict[str, Any]:
+    """The top **football** event to headline right now — soccer always leads.
+
+    When the World Cup ends, this is what the World Cup section rolls over to so
+    there is *always* a marquee soccer event:
+
+      * the highest-importance **active** football tournament (World Cup, then
+        UCL, top leagues, …); or
+      * if none is active (the short gap after the World Cup before club leagues
+        restart), the **next football tournament to begin**.
+
+    Unlike :func:`featured_competition`, this never returns a non-football event,
+    guaranteeing the soccer surface stays on a soccer competition year-round.
+    """
+    d = d or date.today()
+    football = [t for t in CALENDAR if t.sport == "football"]
+
+    active = sorted((t for t in football if t.is_active(d)),
+                    key=lambda t: t.importance, reverse=True)
+    if active:
+        return {**_row(active[0]), "status": "active"}
+
+    upcoming: list[tuple[date, Tournament]] = []
+    for t in football:
+        nxt = t.next_start(d)
+        if nxt:
+            upcoming.append((nxt, t))
+    if upcoming:
+        upcoming.sort(key=lambda x: (x[0], -x[1].importance))
+        nxt, t = upcoming[0]
+        return {**_row(t), "status": "upcoming", "start": nxt.isoformat(),
+                "starts_in_days": (nxt - d).days}
+
+    return {**_row(_BY_KEY["epl"]), "status": "upcoming"}
+
+
 def upcoming_tournaments(d: Optional[date] = None, within_days: int = 60) -> list[dict[str, Any]]:
     d = d or date.today()
     out = []
@@ -136,6 +172,7 @@ def season_context(d: Optional[date] = None) -> dict[str, Any]:
     return {
         "today": d.isoformat(),
         "featured": featured_competition(d),
+        "featured_football": featured_football_competition(d),
         "worldcup_active": worldcup_active(d),
         "active": active_tournaments(d),
         "upcoming": upcoming_tournaments(d),

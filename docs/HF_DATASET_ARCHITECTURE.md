@@ -21,6 +21,19 @@ registry/{dataset_manifest,latest_versions}.json
 ML datasets are **partitioned Parquet** (by sport/date/layer) — never one giant CSV.
 Frontend files are JSON only.
 
+### Feedback-loop partitions
+
+```
+predictions/<sport>/date=YYYY-MM-DD/predictions.parquet   # prediction ledger (open)
+gold/outcomes/<sport>/date=YYYY-MM-DD/settled.parquet      # prediction ⨝ real result (labelled)
+quality/model_performance.json                             # rolling accuracy/log-loss/Brier/calibration
+```
+
+Predictions are logged at inference time (with their feature snapshot + model
+version), reconciled against real results after each match, and folded back into
+`gold/training` so retraining uses fresh, real outcomes. See
+[FEEDBACK_LOOP.md](FEEDBACK_LOOP.md).
+
 ## Model layout
 
 ```
@@ -33,3 +46,18 @@ registry/latest_versions.json
 `hf/dataset_client.py::DatasetClient` and `models/registry.py::ModelRegistry`
 both run **live** when `HF_TOKEN` is set and **dry-run** (local `.data_lake/`,
 `.models/`) otherwise. The same scripts work in CI and on a laptop with no token.
+
+## Repo cards (READMEs)
+
+The public "front page" of each HF repo is version-controlled in GitHub:
+
+```
+huggingface/sports-trends-models/README.md   -> HF model repo card
+huggingface/sports-trends-dataset/README.md  -> HF dataset repo card
+```
+
+Publish them with `scripts/publish_hf_cards.py` (live when `HF_TOKEN` is set,
+otherwise dry-run — it validates the YAML front-matter and logs what it would
+upload). The cards explain how predictions work, the per-sport model zoo,
+calibration and leakage prevention, and link back to
+[ruslanmv.com/sports-trends](https://ruslanmv.com/sports-trends/).

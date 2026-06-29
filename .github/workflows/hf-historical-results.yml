@@ -34,3 +34,6 @@ jobs:
         run: |
           python scripts/run_fetch_raw_data.py
           python scripts/run_upload_to_hf_dataset.py
+          # Feedback loop step 2: join open predictions to the real results,
+          # settle them (label + score), and refresh model-performance metrics.
+          python scripts/run_reconcile_outcomes.py

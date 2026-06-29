@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-06-29 08:30 UTC** — refreshed automatically every day._
+_Last updated: **2026-06-28 10:36 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-06-29 08:30 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 42d) · La Liga (in 47d) · Ligue 1 (in 47d) · Serie A (in 50d)
+Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 51d)
 <!-- SEASON:END -->
 
 ---
@@ -64,9 +64,9 @@ Premier League (in 42d) · La Liga (in 47d) · Ligue 1 (in 47d) · Serie A (in 5
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ Portugal vs Croatia | Round Of 32 | Portugal 45% · draw 23% · Croatia 32% | **Portugal** 61% · **Croatia** 39% |
-| ⚽ Brazil vs Japan | Round Of 32 | Brazil 56% · draw 18% · Japan 26% | **Brazil** 72% · **Japan** 28% |
-| ⚽ Netherlands vs Morocco | Round Of 32 | Netherlands 45% · draw 23% · Morocco 32% | **Netherlands** 61% · **Morocco** 39% |
+| ⚽ France vs Senegal | Round Of 32 | France 59% · draw 16% · Senegal 24% | **France** 76% · **Senegal** 24% |
+| ⚽ Spain vs Croatia | Round Of 32 | Spain 47% · draw 22% · Croatia 31% | **Spain** 63% · **Croatia** 37% |
+| ⚽ Argentina vs Norway | Round Of 32 | Argentina 64% · draw 14% · Norway 22% | **Argentina** 80% · **Norway** 20% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
@@ -169,15 +169,21 @@ or via `Settings → Secrets and variables → Actions → New repository secret
 | Source | Key? | Covers | Status |
 |--------|------|--------|--------|
 | [OpenFootball](https://github.com/openfootball/football.json) | none | Soccer leagues + World Cup (many seasons) | ✅ HTTP 200, public domain |
-| [TheSportsDB](https://www.thesportsdb.com/free_sports_api) | free test key | Multi-sport next/live events | ✅ reachable, keyless |
+| [TheSportsDB](https://www.thesportsdb.com/free_sports_api) | none (free key) | Multi-sport upcoming + finished results | ✅ reachable, keyless |
+| [TheStatsAPI](https://www.thestatsapi.com/world-cup/data) | none (attribution) | World Cup 2026 fixtures + kickoff times | ✅ reachable, keyless |
 | [football-data.org](https://www.football-data.org) | free token | Top leagues + WC fixtures/tables | 🔑 reachable (403 w/o token) |
 | [API-Football](https://www.api-football.com) | free key (100/day) | Best live incl. World Cup | 🔑 reachable (403 w/o key) |
 
 The provider stack tries the richest available source and **always falls back** to
 the next, ending at bundled mock data — so the portal works with or without keys.
+In production the workflows set **`SPORTS_ENABLE_LIVE_FEED=1`**, so the public
+dashboard is built from the **real keyless feeds** (TheSportsDB for leagues,
+OpenFootball + TheStatsAPI for the World Cup); deterministic mock data is only a
+safety net for offline/CI and is never the production default.
 A built-in **tournament calendar** (`features/sports_calendar.py`) keeps the
 featured competition correct all year: World Cup → club leagues → tennis Slams →
-NBA → IPL → qualifiers, automatically.
+NBA → IPL → qualifiers, automatically. The models learn continuously via a
+[prediction feedback loop](docs/FEEDBACK_LOOP.md) (log → reconcile → retrain).
 
 ## 🗂️ Project layout
 

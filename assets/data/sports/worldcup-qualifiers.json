@@ -1,8 +1,8 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
-  "source": "openfootball",
-  "last_updated": "2026-06-29T10:05:16.249001+00:00",
+  "source": "openfootball+thestatsapi",
+  "last_updated": "2026-06-29T06:03:16.921477+00:00",
   "matches": [
     {
       "match_id": "wcq-ita-nor",
@@ -15,31 +15,31 @@
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {
-        "team1": 0.51,
-        "draw": 0.202,
-        "team2": 0.288
+        "team1": 0.486,
+        "draw": 0.214,
+        "team2": 0.3
       },
       "prediction_label": "Italy favoured",
-      "confidence": 0.51,
-      "interest_score": 49,
+      "confidence": 0.486,
+      "interest_score": 51,
       "explanation": [
-        "Elo: Italy 1960 vs Norway 1800 (Δ +160, host advantage).",
+        "Elo: Italy 1965 vs Norway 1830 (Δ +135, host advantage).",
         "Stage importance 55/100 (qualifying group).",
-        "Group qualification odds: Italy 66% · Norway 34%."
+        "Group qualification odds: Italy 64% · Norway 36%."
       ],
       "qualification": {
         "win_draw_loss": {
-          "team1": 0.51,
-          "draw": 0.202,
-          "team2": 0.288
+          "team1": 0.486,
+          "draw": 0.214,
+          "team2": 0.3
         },
         "group_qualification_probability": {
-          "Italy": 0.661,
-          "Norway": 0.339
+          "Italy": 0.637,
+          "Norway": 0.363
         },
         "elimination_risk": {
-          "Italy": 0.339,
-          "Norway": 0.661
+          "Italy": 0.363,
+          "Norway": 0.637
         }
       }
     },
@@ -54,31 +54,31 @@
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {
-        "team1": 0.529,
-        "draw": 0.193,
-        "team2": 0.278
+        "team1": 0.5,
+        "draw": 0.207,
+        "team2": 0.293
       },
       "prediction_label": "Brazil favoured",
-      "confidence": 0.529,
-      "interest_score": 61,
+      "confidence": 0.5,
+      "interest_score": 63,
       "explanation": [
-        "Elo: Brazil 2050 vs Colombia 1870 (Δ +180, host advantage).",
+        "Elo: Brazil 2050 vs Colombia 1900 (Δ +150, host advantage).",
         "Stage importance 55/100 (qualifying group).",
-        "Group qualification odds: Brazil 68% · Colombia 32%."
+        "Group qualification odds: Brazil 65% · Colombia 35%."
       ],
       "qualification": {
         "win_draw_loss": {
-          "team1": 0.529,
-          "draw": 0.193,
-          "team2": 0.278
+          "team1": 0.5,
+          "draw": 0.207,
+          "team2": 0.293
         },
         "group_qualification_probability": {
-          "Brazil": 0.679,
-          "Colombia": 0.321
+          "Brazil": 0.651,
+          "Colombia": 0.349
         },
         "elimination_risk": {
-          "Brazil": 0.321,
-          "Colombia": 0.679
+          "Brazil": 0.349,
+          "Colombia": 0.651
         }
       }
     }

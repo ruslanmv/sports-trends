@@ -30,6 +30,16 @@ def inference_partition(day: str, filename: str) -> str:
     return f"gold/inference/tomorrow/date={day}/{filename}"
 
 
+def predictions_partition(sport: str, day: str, filename: str = "predictions.parquet") -> str:
+    """Prediction ledger (open rows logged at prediction time)."""
+    return f"predictions/{sport}/date={day}/{filename}"
+
+
+def outcomes_partition(sport: str, day: str, filename: str = "settled.parquet") -> str:
+    """Settled outcomes (prediction joined to the real result), gold layer."""
+    return f"gold/outcomes/{sport}/date={day}/{filename}"
+
+
 def registry_path(filename: str) -> str:
     return f"registry/{filename}"
 
