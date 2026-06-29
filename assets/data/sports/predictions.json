@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-06-29T10:27:43.746007+00:00",
+  "last_updated": "2026-06-29T14:32:49.293175+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -62,7 +62,7 @@
       "league": "Italian Serie A",
       "home_team": "Udinese",
       "away_team": "Como",
-      "kickoff": "2026-08-23T16:30:00",
+      "kickoff": "2026-08-22T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,

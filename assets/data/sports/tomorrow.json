@@ -2,7 +2,7 @@
   "date": "2026-06-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-06-29T10:27:43.746003+00:00",
+  "last_updated": "2026-06-29T14:32:49.293172+00:00",
   "count": 5,
   "matches": [
     {
@@ -60,7 +60,7 @@
       "league": "Italian Serie A",
       "home_team": "Udinese",
       "away_team": "Como",
-      "kickoff": "2026-08-23T16:30:00",
+      "kickoff": "2026-08-22T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
