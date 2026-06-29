@@ -36,3 +36,19 @@ def test_live_feed_flag_respects_network_disable(monkeypatch):
     p = FallbackProvider()
     assert p.mode == "fallback"  # network disabled wins -> deterministic mock
     assert p.fetch_tomorrow_matches()
+
+
+def test_live_feed_empty_response_falls_back_to_mock(monkeypatch):
+    """A rate-limited/empty live feed must not publish a blank slate."""
+    monkeypatch.setenv("SPORTS_ENABLE_LIVE_FEED", "1")
+    monkeypatch.delenv("SPORTS_DISABLE_NETWORK", raising=False)
+    import sports_trends.providers.fallback_provider as m
+
+    monkeypatch.setattr(m.tsd, "fetch_for_keys", lambda: [])
+    monkeypatch.setattr(m.tsd, "fetch_results_for_keys", lambda: [])
+
+    p = m.FallbackProvider()
+    assert p.mode == "live-feed"
+    assert len(p.fetch_today_matches()) >= 1
+    assert len(p.fetch_tomorrow_matches()) >= 4
+    assert len(p.fetch_finished_results()) >= 1

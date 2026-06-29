@@ -44,7 +44,10 @@ class FallbackProvider(BaseSportsProvider):
     def fetch_today_matches(self) -> list[dict[str, Any]]:
         if self.live_feed:
             try:
-                return self._on_date(tsd.fetch_for_keys(), date.today().isoformat())
+                rows = self._on_date(tsd.fetch_for_keys(), date.today().isoformat())
+                if rows:
+                    return rows
+                logger.warning("live feed (today) returned no rows, using mock")
             except Exception as exc:  # network failure → don't blank the board
                 logger.warning("live feed (today) failed, using mock: %s", exc)
         return _mock_data.today_raw()
@@ -53,10 +56,16 @@ class FallbackProvider(BaseSportsProvider):
         if self.live_feed:
             try:
                 tomorrow = (date.today() + timedelta(days=1)).isoformat()
-                rows = self._on_date(tsd.fetch_for_keys(), tomorrow)
+                all_rows = tsd.fetch_for_keys()
+                rows = self._on_date(all_rows, tomorrow)
                 # Free tier is sparse per-day — fall back to the next scheduled
-                # fixtures so predictions always have a slate.
-                return rows or tsd.fetch_for_keys()
+                # fixtures so predictions always have a slate. If the provider is
+                # rate-limited or empty, use bundled mock data instead of
+                # publishing a blank dashboard.
+                live_rows = rows or all_rows
+                if live_rows:
+                    return live_rows
+                logger.warning("live feed (tomorrow) returned no rows, using mock")
             except Exception as exc:
                 logger.warning("live feed (tomorrow) failed, using mock: %s", exc)
         return _mock_data.tomorrow_raw()
@@ -71,7 +80,10 @@ class FallbackProvider(BaseSportsProvider):
     def fetch_finished_results(self) -> list[dict[str, Any]]:
         if self.live_feed:
             try:
-                return tsd.fetch_results_for_keys()
+                rows = tsd.fetch_results_for_keys()
+                if rows:
+                    return rows
+                logger.warning("live feed (results) returned no rows, using mock")
             except Exception as exc:
                 logger.warning("live feed (results) failed, using mock: %s", exc)
         return _mock_data.finished_raw()

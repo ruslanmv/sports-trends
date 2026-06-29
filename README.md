@@ -176,14 +176,25 @@ or via `Settings → Secrets and variables → Actions → New repository secret
 
 The provider stack tries the richest available source and **always falls back** to
 the next, ending at bundled mock data — so the portal works with or without keys.
-In production the workflows set **`SPORTS_ENABLE_LIVE_FEED=1`**, so the public
-dashboard is built from the **real keyless feeds** (TheSportsDB for leagues,
-OpenFootball + TheStatsAPI for the World Cup); deterministic mock data is only a
-safety net for offline/CI and is never the production default.
+In production only the publishing steps set **`SPORTS_ENABLE_LIVE_FEED=1`**, so
+the public dashboard is built from the **real keyless feeds** (TheSportsDB for
+leagues, OpenFootball + TheStatsAPI for the World Cup); deterministic mock data
+is the safety net for offline/CI, empty responses, and free-tier rate limits.
+Tests force **`SPORTS_DISABLE_NETWORK=1`** so CI never consumes third-party quota.
 A built-in **tournament calendar** (`features/sports_calendar.py`) keeps the
 featured competition correct all year: World Cup → club leagues → tennis Slams →
 NBA → IPL → qualifiers, automatically. The models learn continuously via a
 [prediction feedback loop](docs/FEEDBACK_LOOP.md) (log → reconcile → retrain).
+
+
+### Free-tier API key policy
+
+The project should prefer free, public, or keyless sources. For TheSportsDB, keep
+`THESPORTSDB_KEY` unset to use the public free/test key, or create a free account
+at [TheSportsDB](https://www.thesportsdb.com/) and copy the key from your user
+profile if you need your own free key. If TheSportsDB returns HTTP 429, do **not**
+fail the build and do **not** add a paid-only dependency: reduce live-feed calls,
+let the provider fall back to bundled mock data, and keep tests network-disabled.
 
 ## 🗂️ Project layout
 

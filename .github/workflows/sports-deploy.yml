@@ -40,8 +40,6 @@ jobs:
     env:
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
       HF_DATASET_REPO: ruslanmv/sports-trends-dataset
-      # Real keyless feed (TheSportsDB) in production; mock is only a safety net.
-      SPORTS_ENABLE_LIVE_FEED: "1"
       HF_MODEL_REPO: ruslanmv/sports-trends-models
       SPORTS_API_FOOTBALL_KEY: ${{ secrets.SPORTS_API_FOOTBALL_KEY }}
     steps:
@@ -63,6 +61,10 @@ jobs:
           python -c "from sports_trends.datasets.validate_dataset import validate_frontend_json as v; import sys; r=v(); print(r); sys.exit(1 if r.get('schema_errors') else 0)"
           pytest -q
       - name: Refresh public JSON (mock fallback if no keys)
+        env:
+          # Real keyless feed (TheSportsDB) in production; mock is only a safety net.
+          # Keep this scoped away from pytest so tests remain hermetic.
+          SPORTS_ENABLE_LIVE_FEED: "1"
         run: |
           python scripts/run_publish_frontend_json.py
           python scripts/run_worldcup_pipeline.py || true
