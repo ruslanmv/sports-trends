@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T22:35:27.884712+00:00",
+  "last_updated": "2026-06-29T23:56:31.700529+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -128,24 +128,6 @@
         "confidence": 64
       },
       "interest_score": 59
-    },
-    {
-      "match_id": "wc-2026-germany-paraguay-2026-06-29",
-      "home_team": "Germany",
-      "away_team": "Paraguay",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-29T20:30:00+00:00",
-      "kickoff_label": "29 Jun 20:30",
-      "prediction": {
-        "home_win": 0.562,
-        "draw": 0.177,
-        "away_win": 0.261,
-        "home_to_advance": 0.727,
-        "away_to_advance": 0.273,
-        "ai_pick": "Germany favoured",
-        "confidence": 56
-      },
-      "interest_score": 57
     },
     {
       "match_id": "wc-2026-colombia-ghana-2026-07-03",

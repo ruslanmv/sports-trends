@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-06-29T22:35:27.884712+00:00",
+  "last_updated": "2026-06-29T23:56:31.700529+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1285,9 +1285,9 @@
           "kickoff_label": "29 Jun 20:30",
           "venue": "Boston (Foxborough)",
           "host_city": "Boston",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-netherlands-morocco-2026-06-29",
@@ -1514,5 +1514,5 @@
     }
   ],
   "total": 88,
-  "upcoming": 14
+  "upcoming": 13
 }
