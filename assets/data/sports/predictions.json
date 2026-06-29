@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-06-28T22:58:46.875308+00:00",
+  "last_updated": "2026-06-29T00:10:35.150964+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -13,7 +13,7 @@
       "league": "UEFA Champions League",
       "home_team": "Real Madrid",
       "away_team": "Man City",
-      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff": "2026-06-30T21:00:00+02:00",
       "kickoff_label": "21:00",
       "probabilities": {
         "home_win": 0.56,
@@ -38,7 +38,7 @@
       "league": "NBA Finals",
       "home_team": "Lakers",
       "away_team": "Celtics",
-      "kickoff": "2026-06-29T08:30:00+00:00",
+      "kickoff": "2026-06-30T08:30:00+00:00",
       "kickoff_label": "08:30",
       "probabilities": {
         "home_win": 0.48,
@@ -63,7 +63,7 @@
       "league": "Wimbledon Men's SF",
       "home_team": "Jannik Sinner",
       "away_team": "Carlos Alcaraz",
-      "kickoff": "2026-06-29T15:00:00+01:00",
+      "kickoff": "2026-06-30T15:00:00+01:00",
       "kickoff_label": "15:00",
       "probabilities": {
         "home_win": 0.44,
@@ -88,7 +88,7 @@
       "league": "ICC Test Championship",
       "home_team": "India",
       "away_team": "Australia",
-      "kickoff": "2026-06-29T10:00:00+05:00",
+      "kickoff": "2026-06-30T10:00:00+05:00",
       "kickoff_label": "10:00",
       "probabilities": {
         "home_win": 0.41,
@@ -113,7 +113,7 @@
       "league": "UEFA Champions League",
       "home_team": "PSG",
       "away_team": "Bayern Munich",
-      "kickoff": "2026-06-29T21:00:00+02:00",
+      "kickoff": "2026-06-30T21:00:00+02:00",
       "kickoff_label": "21:00",
       "probabilities": {
         "home_win": 0.39,
@@ -138,7 +138,7 @@
       "league": "Premier League",
       "home_team": "Liverpool",
       "away_team": "Chelsea",
-      "kickoff": "2026-06-29T18:30:00+01:00",
+      "kickoff": "2026-06-30T18:30:00+01:00",
       "kickoff_label": "18:30",
       "probabilities": {
         "home_win": 0.48,
@@ -163,7 +163,7 @@
       "league": "Wimbledon Men's QF",
       "home_team": "Novak Djokovic",
       "away_team": "A. Zverev",
-      "kickoff": "2026-06-29T13:30:00+01:00",
+      "kickoff": "2026-06-30T13:30:00+01:00",
       "kickoff_label": "13:30",
       "probabilities": {
         "home_win": 0.62,
@@ -188,7 +188,7 @@
       "league": "La Liga",
       "home_team": "Barcelona",
       "away_team": "Atletico Madrid",
-      "kickoff": "2026-06-29T20:00:00+02:00",
+      "kickoff": "2026-06-30T20:00:00+02:00",
       "kickoff_label": "20:00",
       "probabilities": {
         "home_win": 0.51,
@@ -213,7 +213,7 @@
       "league": "LoL Worlds",
       "home_team": "T1",
       "away_team": "G2 Esports",
-      "kickoff": "2026-06-29T12:00:00+00:00",
+      "kickoff": "2026-06-30T12:00:00+00:00",
       "kickoff_label": "12:00",
       "probabilities": {
         "home_win": 0.6,
@@ -238,7 +238,7 @@
       "league": "NBA",
       "home_team": "Warriors",
       "away_team": "Suns",
-      "kickoff": "2026-06-29T03:00:00+00:00",
+      "kickoff": "2026-06-30T03:00:00+00:00",
       "kickoff_label": "03:00",
       "probabilities": {
         "home_win": 0.55,
@@ -263,7 +263,7 @@
       "league": "Wimbledon Women's SF",
       "home_team": "Iga Swiatek",
       "away_team": "Aryna Sabalenka",
-      "kickoff": "2026-06-29T16:00:00+01:00",
+      "kickoff": "2026-06-30T16:00:00+01:00",
       "kickoff_label": "16:00",
       "probabilities": {
         "home_win": 0.53,
@@ -288,7 +288,7 @@
       "league": "NBA",
       "home_team": "Bucks",
       "away_team": "76ers",
-      "kickoff": "2026-06-29T01:30:00+00:00",
+      "kickoff": "2026-06-30T01:30:00+00:00",
       "kickoff_label": "01:30",
       "probabilities": {
         "home_win": 0.58,
@@ -313,7 +313,7 @@
       "league": "MLB",
       "home_team": "Yankees",
       "away_team": "Dodgers",
-      "kickoff": "2026-06-29T00:05:00+00:00",
+      "kickoff": "2026-06-30T00:05:00+00:00",
       "kickoff_label": "00:05",
       "probabilities": {
         "home_win": 0.52,
@@ -338,7 +338,7 @@
       "league": "ICC Test Championship",
       "home_team": "Pakistan",
       "away_team": "New Zealand",
-      "kickoff": "2026-06-29T06:00:00+05:00",
+      "kickoff": "2026-06-30T06:00:00+05:00",
       "kickoff_label": "06:00",
       "probabilities": {
         "home_win": 0.45,
@@ -363,7 +363,7 @@
       "league": "CS2 Major",
       "home_team": "FaZe",
       "away_team": "NAVI",
-      "kickoff": "2026-06-29T17:00:00+01:00",
+      "kickoff": "2026-06-30T17:00:00+01:00",
       "kickoff_label": "17:00",
       "probabilities": {
         "home_win": 0.47,
@@ -388,7 +388,7 @@
       "league": "MLB",
       "home_team": "Mets",
       "away_team": "Braves",
-      "kickoff": "2026-06-29T23:10:00+00:00",
+      "kickoff": "2026-06-30T23:10:00+00:00",
       "kickoff_label": "23:10",
       "probabilities": {
         "home_win": 0.49,
