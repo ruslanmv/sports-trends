@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T08:26:48.716124+00:00",
+  "last_updated": "2026-06-29T10:27:43.746038+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,99 +35,33 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "rma-mci",
-      "label": "Real Madrid vs Man City",
-      "interest_score": 98
+      "match_id": "tsdb-2388148",
+      "label": "Baltimore Orioles vs Chicago White Sox",
+      "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "lal-bos",
-      "label": "Lakers vs Celtics",
-      "interest_score": 91
+      "match_id": "tsdb-2494000",
+      "label": "Arsenal vs Coventry City",
+      "interest_score": 50
     },
     {
       "rank": 3,
-      "match_id": "sin-alc",
-      "label": "Jannik Sinner vs Carlos Alcaraz",
-      "interest_score": 88
+      "match_id": "tsdb-2482138",
+      "label": "Udinese vs Como",
+      "interest_score": 50
     },
     {
       "rank": 4,
-      "match_id": "ind-aus",
-      "label": "India vs Australia",
-      "interest_score": 86
+      "match_id": "tsdb-2489462",
+      "label": "Angers vs Lille",
+      "interest_score": 50
     },
     {
       "rank": 5,
-      "match_id": "psg-bay",
-      "label": "PSG vs Bayern Munich",
-      "interest_score": 83
-    },
-    {
-      "rank": 6,
-      "match_id": "liv-che",
-      "label": "Liverpool vs Chelsea",
-      "interest_score": 80
-    },
-    {
-      "rank": 7,
-      "match_id": "djo-zve",
-      "label": "Novak Djokovic vs A. Zverev",
-      "interest_score": 79
-    },
-    {
-      "rank": 8,
-      "match_id": "bar-atm",
-      "label": "Barcelona vs Atletico Madrid",
-      "interest_score": 78
-    },
-    {
-      "rank": 9,
-      "match_id": "t1-g2",
-      "label": "T1 vs G2 Esports",
-      "interest_score": 75
-    },
-    {
-      "rank": 10,
-      "match_id": "gsw-phx",
-      "label": "Warriors vs Suns",
-      "interest_score": 74
-    },
-    {
-      "rank": 11,
-      "match_id": "swi-sab",
-      "label": "Iga Swiatek vs Aryna Sabalenka",
-      "interest_score": 72
-    },
-    {
-      "rank": 12,
-      "match_id": "mil-phi",
-      "label": "Bucks vs 76ers",
-      "interest_score": 70
-    },
-    {
-      "rank": 13,
-      "match_id": "nyy-lad",
-      "label": "Yankees vs Dodgers",
-      "interest_score": 68
-    },
-    {
-      "rank": 14,
-      "match_id": "pak-nzl",
-      "label": "Pakistan vs New Zealand",
-      "interest_score": 66
-    },
-    {
-      "rank": 15,
-      "match_id": "faze-navi",
-      "label": "FaZe vs NAVI",
-      "interest_score": 64
-    },
-    {
-      "rank": 16,
-      "match_id": "nym-atl",
-      "label": "Mets vs Braves",
-      "interest_score": 60
+      "match_id": "tsdb-2491734",
+      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "interest_score": 50
     }
   ]
 }

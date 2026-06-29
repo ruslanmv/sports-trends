@@ -1,409 +1,133 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-06-29T08:26:48.716063+00:00",
+  "last_updated": "2026-06-29T10:27:43.746007+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "rma-mci",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Real Madrid",
-      "away_team": "Man City",
-      "kickoff": "2026-06-30T21:00:00+02:00",
-      "kickoff_label": "21:00",
-      "probabilities": {
-        "home_win": 0.56,
-        "draw": 0.22,
-        "away_win": 0.22
-      },
-      "prediction_label": "AI: Real Madrid favoured",
-      "confidence": 0.56,
-      "interest_score": 98,
-      "trend_badge": "Global #1",
-      "audience": "1.2M",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Madrid 0.60 vs Man City 0.40.",
-        "Head-to-head: 17–0–16 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "lal-bos",
-      "sport": "basketball",
-      "league": "NBA Finals",
-      "home_team": "Lakers",
-      "away_team": "Celtics",
-      "kickoff": "2026-06-30T08:30:00+00:00",
-      "kickoff_label": "08:30",
-      "probabilities": {
-        "home_win": 0.48,
-        "draw": 0.2,
-        "away_win": 0.32
-      },
-      "prediction_label": "AI: Lakers favoured",
-      "confidence": 0.48,
-      "interest_score": 91,
-      "trend_badge": "US Hot",
-      "audience": "689K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lakers 0.60 vs Celtics 0.60.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "sin-alc",
-      "sport": "tennis",
-      "league": "Wimbledon Men's SF",
-      "home_team": "Jannik Sinner",
-      "away_team": "Carlos Alcaraz",
-      "kickoff": "2026-06-30T15:00:00+01:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.44,
-        "draw": 0.16,
-        "away_win": 0.4
-      },
-      "prediction_label": "AI: Jannik Sinner favoured",
-      "confidence": 0.44,
-      "interest_score": 88,
-      "trend_badge": "Italy rising",
-      "audience": "512K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Jannik Sinner 0.00 vs Carlos Alcaraz 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "ind-aus",
-      "sport": "cricket",
-      "league": "ICC Test Championship",
-      "home_team": "India",
-      "away_team": "Australia",
-      "kickoff": "2026-06-30T10:00:00+05:00",
-      "kickoff_label": "10:00",
-      "probabilities": {
-        "home_win": 0.41,
-        "draw": 0.18,
-        "away_win": 0.41
-      },
-      "prediction_label": "AI: India favoured",
-      "confidence": 0.41,
-      "interest_score": 86,
-      "trend_badge": "Global #2",
-      "audience": "842K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): India 0.60 vs Australia 0.60.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "psg-bay",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "PSG",
-      "away_team": "Bayern Munich",
-      "kickoff": "2026-06-30T21:00:00+02:00",
-      "kickoff_label": "21:00",
-      "probabilities": {
-        "home_win": 0.39,
-        "draw": 0.24,
-        "away_win": 0.37
-      },
-      "prediction_label": "AI: PSG favoured",
-      "confidence": 0.39,
-      "interest_score": 83,
-      "trend_badge": "EU Hot",
-      "audience": "451K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): PSG 0.40 vs Bayern Munich 0.60.",
-        "Head-to-head: 16–0–17 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "liv-che",
-      "sport": "football",
-      "league": "Premier League",
-      "home_team": "Liverpool",
-      "away_team": "Chelsea",
-      "kickoff": "2026-06-30T18:30:00+01:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.48,
-        "draw": 0.25,
-        "away_win": 0.27
-      },
-      "prediction_label": "AI: Liverpool favoured",
-      "confidence": 0.48,
-      "interest_score": 80,
-      "trend_badge": null,
-      "audience": "612K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Liverpool 0.00 vs Chelsea 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "djo-zve",
-      "sport": "tennis",
-      "league": "Wimbledon Men's QF",
-      "home_team": "Novak Djokovic",
-      "away_team": "A. Zverev",
-      "kickoff": "2026-06-30T13:30:00+01:00",
-      "kickoff_label": "13:30",
-      "probabilities": {
-        "home_win": 0.62,
-        "draw": 0.0,
-        "away_win": 0.38
-      },
-      "prediction_label": "AI: Novak Djokovic favoured",
-      "confidence": 0.62,
-      "interest_score": 79,
-      "trend_badge": null,
-      "audience": "455K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Novak Djokovic 0.00 vs A. Zverev 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "bar-atm",
-      "sport": "football",
-      "league": "La Liga",
-      "home_team": "Barcelona",
-      "away_team": "Atletico Madrid",
-      "kickoff": "2026-06-30T20:00:00+02:00",
-      "kickoff_label": "20:00",
-      "probabilities": {
-        "home_win": 0.51,
-        "draw": 0.25,
-        "away_win": 0.24
-      },
-      "prediction_label": "AI: Barcelona favoured",
-      "confidence": 0.51,
-      "interest_score": 78,
-      "trend_badge": null,
-      "audience": "498K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Barcelona 0.00 vs Atletico Madrid 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "t1-g2",
-      "sport": "esports",
-      "league": "LoL Worlds",
-      "home_team": "T1",
-      "away_team": "G2 Esports",
-      "kickoff": "2026-06-30T12:00:00+00:00",
-      "kickoff_label": "12:00",
-      "probabilities": {
-        "home_win": 0.6,
-        "draw": 0.0,
-        "away_win": 0.4
-      },
-      "prediction_label": "AI: T1 favoured",
-      "confidence": 0.6,
-      "interest_score": 75,
-      "trend_badge": null,
-      "audience": "410K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): T1 0.00 vs G2 Esports 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "gsw-phx",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Warriors",
-      "away_team": "Suns",
-      "kickoff": "2026-06-30T03:00:00+00:00",
-      "kickoff_label": "03:00",
-      "probabilities": {
-        "home_win": 0.55,
-        "draw": 0.0,
-        "away_win": 0.45
-      },
-      "prediction_label": "AI: Warriors favoured",
-      "confidence": 0.55,
-      "interest_score": 74,
-      "trend_badge": null,
-      "audience": "388K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Warriors 0.00 vs Suns 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "swi-sab",
-      "sport": "tennis",
-      "league": "Wimbledon Women's SF",
-      "home_team": "Iga Swiatek",
-      "away_team": "Aryna Sabalenka",
-      "kickoff": "2026-06-30T16:00:00+01:00",
-      "kickoff_label": "16:00",
-      "probabilities": {
-        "home_win": 0.53,
-        "draw": 0.0,
-        "away_win": 0.47
-      },
-      "prediction_label": "AI: Iga Swiatek favoured",
-      "confidence": 0.53,
-      "interest_score": 72,
-      "trend_badge": null,
-      "audience": "362K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Iga Swiatek 0.00 vs Aryna Sabalenka 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "mil-phi",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Bucks",
-      "away_team": "76ers",
-      "kickoff": "2026-06-30T01:30:00+00:00",
-      "kickoff_label": "01:30",
-      "probabilities": {
-        "home_win": 0.58,
-        "draw": 0.0,
-        "away_win": 0.42
-      },
-      "prediction_label": "AI: Bucks favoured",
-      "confidence": 0.58,
-      "interest_score": 70,
-      "trend_badge": null,
-      "audience": "301K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bucks 0.00 vs 76ers 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "nyy-lad",
+      "match_id": "tsdb-2388148",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Yankees",
-      "away_team": "Dodgers",
-      "kickoff": "2026-06-30T00:05:00+00:00",
-      "kickoff_label": "00:05",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-06-29T22:35:00",
+      "kickoff_label": "22:35",
       "probabilities": {
-        "home_win": 0.52,
-        "draw": 0.0,
-        "away_win": 0.48
+        "home_win": 0.585,
+        "away_win": 0.415
       },
-      "prediction_label": "AI: Yankees favoured",
-      "confidence": 0.52,
-      "interest_score": 68,
+      "prediction_label": "AI: Baltimore Orioles favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
       "trend_badge": null,
-      "audience": "276K",
+      "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Yankees 0.00 vs Dodgers 0.00.",
+        "Recent form (last 5): Baltimore Orioles 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "pak-nzl",
-      "sport": "cricket",
-      "league": "ICC Test Championship",
-      "home_team": "Pakistan",
-      "away_team": "New Zealand",
-      "kickoff": "2026-06-30T06:00:00+05:00",
-      "kickoff_label": "06:00",
-      "probabilities": {
-        "home_win": 0.45,
-        "draw": 0.22,
-        "away_win": 0.33
-      },
-      "prediction_label": "AI: Pakistan favoured",
-      "confidence": 0.45,
-      "interest_score": 66,
-      "trend_badge": null,
-      "audience": "224K",
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Pakistan 0.00 vs New Zealand 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "faze-navi",
-      "sport": "esports",
-      "league": "CS2 Major",
-      "home_team": "FaZe",
-      "away_team": "NAVI",
-      "kickoff": "2026-06-30T17:00:00+01:00",
-      "kickoff_label": "17:00",
+      "match_id": "tsdb-2494000",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.47,
-        "draw": 0.0,
-        "away_win": 0.53
+        "draw": 0.21,
+        "away_win": 0.319
       },
-      "prediction_label": "AI: NAVI favoured",
-      "confidence": 0.53,
-      "interest_score": 64,
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
+      "interest_score": 50,
       "trend_badge": null,
-      "audience": "243K",
+      "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): FaZe 0.00 vs NAVI 0.00.",
+        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "nym-atl",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Mets",
-      "away_team": "Braves",
-      "kickoff": "2026-06-30T23:10:00+00:00",
-      "kickoff_label": "23:10",
+      "match_id": "tsdb-2482138",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-23T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
-        "home_win": 0.49,
-        "draw": 0.0,
-        "away_win": 0.51
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Braves favoured",
-      "confidence": 0.51,
-      "interest_score": 60,
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
       "trend_badge": null,
-      "audience": "188K",
+      "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Mets 0.00 vs Braves 0.00.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489462",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Angers",
+      "away_team": "Lille",
+      "kickoff": "2026-08-22T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Angers favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2491734",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Inter Club d'Escaldes",
+      "kickoff": "2026-07-07T16:00:00",
+      "kickoff_label": "16:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lincoln Red Imps favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lincoln Red Imps 0.00 vs Inter Club d'Escaldes 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

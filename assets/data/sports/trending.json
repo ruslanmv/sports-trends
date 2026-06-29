@@ -1,118 +1,41 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-06-29T08:26:48.716118+00:00",
-  "count": 16,
+  "last_updated": "2026-06-29T10:27:43.746034+00:00",
+  "count": 5,
   "matches": [
     {
       "rank": 1,
-      "label": "Real Madrid vs Man City",
-      "sport": "football",
-      "audience": "1.2M",
+      "label": "Baltimore Orioles vs Chicago White Sox",
+      "sport": "baseball",
+      "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "India vs Australia",
-      "sport": "cricket",
-      "audience": "842K",
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Lakers vs Celtics",
-      "sport": "basketball",
-      "audience": "689K",
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Liverpool vs Chelsea",
+      "label": "Angers vs Lille",
       "sport": "football",
-      "audience": "612K",
+      "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Jannik Sinner vs Carlos Alcaraz",
-      "sport": "tennis",
-      "audience": "512K",
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Barcelona vs Atletico Madrid",
+      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
       "sport": "football",
-      "audience": "498K",
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Novak Djokovic vs A. Zverev",
-      "sport": "tennis",
-      "audience": "455K",
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "PSG vs Bayern Munich",
-      "sport": "football",
-      "audience": "451K",
-      "hot": false
-    },
-    {
-      "rank": 9,
-      "label": "T1 vs G2 Esports",
-      "sport": "esports",
-      "audience": "410K",
-      "hot": false
-    },
-    {
-      "rank": 10,
-      "label": "Warriors vs Suns",
-      "sport": "basketball",
-      "audience": "388K",
-      "hot": false
-    },
-    {
-      "rank": 11,
-      "label": "Iga Swiatek vs Aryna Sabalenka",
-      "sport": "tennis",
-      "audience": "362K",
-      "hot": false
-    },
-    {
-      "rank": 12,
-      "label": "Bucks vs 76ers",
-      "sport": "basketball",
-      "audience": "301K",
-      "hot": false
-    },
-    {
-      "rank": 13,
-      "label": "Yankees vs Dodgers",
-      "sport": "baseball",
-      "audience": "276K",
-      "hot": false
-    },
-    {
-      "rank": 14,
-      "label": "FaZe vs NAVI",
-      "sport": "esports",
-      "audience": "243K",
-      "hot": false
-    },
-    {
-      "rank": 15,
-      "label": "Pakistan vs New Zealand",
-      "sport": "cricket",
-      "audience": "224K",
-      "hot": false
-    },
-    {
-      "rank": 16,
-      "label": "Mets vs Braves",
-      "sport": "baseball",
-      "audience": "188K",
+      "audience": null,
       "hot": false
     }
   ]
