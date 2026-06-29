@@ -64,17 +64,31 @@ def build_football_config() -> dict[str, Any]:
     """Seasonal mode for the football page — flips to Mundial 2026 automatically."""
     ctx = season_context()
     wc = bool(ctx.get("worldcup_active"))
+    ff = ctx.get("featured_football") or {}
+    ff_name = ff.get("name", "Football")
+    ff_active = ff.get("status") == "active"
+    # Off the World Cup, the soccer surface rolls over to the top football event
+    # (UCL, a top league, …) — named so the page always leads with a real
+    # marquee competition instead of a generic label.
+    club_eyebrow = f"{ff_name} Intelligence" if ff_name != "Football" else "Football Intelligence"
+    if ff_active:
+        club_headline = f"{ff.get('emoji', '⚽')} {ff_name} — Tomorrow’s Biggest Matches"
+    else:
+        days = ff.get("starts_in_days")
+        club_headline = (f"{ff_name} starts in {days}d — Tomorrow’s Biggest Football Matches"
+                         if days is not None else "Tomorrow’s Biggest Football Matches")
     return {
         "last_updated": _now(),
         "page_mode": "world_cup_2026" if wc else "club_season",
         "default_tab": "Mundial 2026" if wc else "All",
-        "eyebrow": "Mundial 2026 Intelligence" if wc else "Football Intelligence",
-        "headline": "Who Advances Tomorrow?" if wc else "Tomorrow’s Biggest Football Matches",
+        "eyebrow": "Mundial 2026 Intelligence" if wc else club_eyebrow,
+        "headline": "Who Advances Tomorrow?" if wc else club_headline,
         "subtitle": (
             "AI predictions, to-advance probabilities, and match insights for the World Cup."
             if wc else "AI predictions for the most important upcoming matches."
         ),
         "show_world_cup_strip": wc,
+        "featured_football": ff,
         "primary_prediction_type": "to_advance" if wc else "match_result",
     }
 

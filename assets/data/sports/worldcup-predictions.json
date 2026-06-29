@@ -1,37 +1,37 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
-  "source": "openfootball",
-  "last_updated": "2026-06-29T10:05:16.249001+00:00",
+  "source": "openfootball+thestatsapi",
+  "last_updated": "2026-06-29T06:03:16.921477+00:00",
   "matches": [
     {
-      "match_id": "wc-2026-portugal-croatia-2026-07-02",
+      "match_id": "wc-2026-france-sweden-2026-06-30",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Portugal",
-      "away_team": "Croatia",
-      "kickoff": null,
+      "home_team": "France",
+      "away_team": "Sweden",
+      "kickoff": "2026-06-30T21:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.453,
-        "draw": 0.231,
-        "team2": 0.317
+        "team1": 0.603,
+        "draw": 0.159,
+        "team2": 0.238
       },
-      "prediction_label": "Portugal favoured",
-      "confidence": 0.453,
+      "prediction_label": "France favoured",
+      "confidence": 0.603,
       "interest_score": 70,
       "explanation": [
-        "Elo: Portugal 2000 vs Croatia 1900 (Δ +100).",
+        "Elo: France 2080 vs Sweden 1820 (Δ +260).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Portugal 61% · Croatia 39%."
+        "To advance (incl. extra time / penalties): France 77% · Sweden 23%."
       ],
       "to_advance": {
-        "Portugal": 0.612,
-        "Croatia": 0.388
+        "France": 0.765,
+        "Sweden": 0.235
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "30 Jun 21:00"
     },
     {
       "match_id": "wc-2026-brazil-japan-2026-06-29",
@@ -40,143 +40,56 @@
       "group": "",
       "home_team": "Brazil",
       "away_team": "Japan",
-      "kickoff": null,
+      "kickoff": "2026-06-29T17:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.557,
-        "draw": 0.18,
-        "team2": 0.263
+        "team1": 0.548,
+        "draw": 0.184,
+        "team2": 0.268
       },
       "prediction_label": "Brazil favoured",
-      "confidence": 0.557,
-      "interest_score": 69,
+      "confidence": 0.548,
+      "interest_score": 70,
       "explanation": [
-        "Elo: Brazil 2050 vs Japan 1840 (Δ +210).",
+        "Elo: Brazil 2050 vs Japan 1850 (Δ +200).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Brazil 72% · Japan 28%."
+        "To advance (incl. extra time / penalties): Brazil 71% · Japan 29%."
       ],
       "to_advance": {
-        "Brazil": 0.722,
-        "Japan": 0.278
+        "Brazil": 0.713,
+        "Japan": 0.287
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "29 Jun 17:00"
     },
     {
-      "match_id": "wc-2026-netherlands-morocco-2026-06-29",
+      "match_id": "wc-2026-portugal-croatia-2026-07-02",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "kickoff": null,
+      "home_team": "Portugal",
+      "away_team": "Croatia",
+      "kickoff": "2026-07-02T23:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.453,
-        "draw": 0.231,
-        "team2": 0.317
+        "team1": 0.448,
+        "draw": 0.233,
+        "team2": 0.319
       },
-      "prediction_label": "Netherlands favoured",
-      "confidence": 0.453,
-      "interest_score": 67,
+      "prediction_label": "Portugal favoured",
+      "confidence": 0.448,
+      "interest_score": 70,
       "explanation": [
-        "Elo: Netherlands 1980 vs Morocco 1880 (Δ +100).",
+        "Elo: Portugal 2000 vs Croatia 1905 (Δ +95).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Netherlands 61% · Morocco 39%."
+        "To advance (incl. extra time / penalties): Portugal 61% · Croatia 39%."
       ],
       "to_advance": {
-        "Netherlands": 0.612,
-        "Morocco": 0.388
+        "Portugal": 0.606,
+        "Croatia": 0.394
       },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-argentina-capeverde-2026-07-03",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Argentina",
-      "away_team": "Cape Verde",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.68,
-        "draw": 0.125,
-        "team2": 0.195
-      },
-      "prediction_label": "Argentina favoured",
-      "confidence": 0.68,
-      "interest_score": 66,
-      "explanation": [
-        "Elo: Argentina 2100 vs Cape Verde 1750 (Δ +350).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Argentina 83% · Cape Verde 17%."
-      ],
-      "to_advance": {
-        "Argentina": 0.831,
-        "Cape Verde": 0.169
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-france-sweden-2026-06-30",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "France",
-      "away_team": "Sweden",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.664,
-        "draw": 0.132,
-        "team2": 0.204
-      },
-      "prediction_label": "France favoured",
-      "confidence": 0.664,
-      "interest_score": 65,
-      "explanation": [
-        "Elo: France 2080 vs Sweden 1750 (Δ +330).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): France 82% · Sweden 18%."
-      ],
-      "to_advance": {
-        "France": 0.818,
-        "Sweden": 0.182
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-england-drcongo-2026-07-01",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "England",
-      "away_team": "DR Congo",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.621,
-        "draw": 0.151,
-        "team2": 0.228
-      },
-      "prediction_label": "England favoured",
-      "confidence": 0.621,
-      "interest_score": 61,
-      "explanation": [
-        "Elo: England 2030 vs DR Congo 1750 (Δ +280).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): England 78% · DR Congo 22%."
-      ],
-      "to_advance": {
-        "England": 0.781,
-        "DR Congo": 0.219
-      },
-      "kickoff_label": "TBD"
+      "kickoff_label": "02 Jul 23:00"
     },
     {
       "match_id": "wc-2026-spain-austria-2026-07-02",
@@ -185,143 +98,85 @@
       "group": "",
       "home_team": "Spain",
       "away_team": "Austria",
-      "kickoff": null,
+      "kickoff": "2026-07-02T19:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.612,
-        "draw": 0.155,
-        "team2": 0.233
+        "team1": 0.534,
+        "draw": 0.191,
+        "team2": 0.276
       },
       "prediction_label": "Spain favoured",
-      "confidence": 0.612,
-      "interest_score": 60,
+      "confidence": 0.534,
+      "interest_score": 69,
       "explanation": [
-        "Elo: Spain 2020 vs Austria 1750 (Δ +270).",
+        "Elo: Spain 2040 vs Austria 1855 (Δ +185).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Spain 77% · Austria 23%."
+        "To advance (incl. extra time / penalties): Spain 70% · Austria 30%."
       ],
       "to_advance": {
-        "Spain": 0.773,
-        "Austria": 0.227
+        "Spain": 0.699,
+        "Austria": 0.301
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "02 Jul 19:00"
     },
     {
-      "match_id": "wc-2026-germany-paraguay-2026-06-29",
+      "match_id": "wc-2026-netherlands-morocco-2026-06-29",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Germany",
-      "away_team": "Paraguay",
-      "kickoff": null,
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
+      "kickoff": "2026-06-30T01:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.566,
-        "draw": 0.175,
-        "team2": 0.258
+        "team1": 0.448,
+        "draw": 0.233,
+        "team2": 0.319
       },
-      "prediction_label": "Germany favoured",
-      "confidence": 0.566,
-      "interest_score": 56,
+      "prediction_label": "Netherlands favoured",
+      "confidence": 0.448,
+      "interest_score": 68,
       "explanation": [
-        "Elo: Germany 1970 vs Paraguay 1750 (Δ +220).",
+        "Elo: Netherlands 1985 vs Morocco 1890 (Δ +95).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Germany 73% · Paraguay 27%."
+        "To advance (incl. extra time / penalties): Netherlands 61% · Morocco 39%."
       ],
       "to_advance": {
-        "Germany": 0.731,
-        "Paraguay": 0.269
+        "Netherlands": 0.606,
+        "Morocco": 0.394
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "30 Jun 01:00"
     },
     {
-      "match_id": "wc-2026-colombia-ghana-2026-07-03",
+      "match_id": "wc-2026-argentina-capeverde-2026-07-03",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Colombia",
-      "away_team": "Ghana",
-      "kickoff": null,
+      "home_team": "Argentina",
+      "away_team": "Cape Verde",
+      "kickoff": "2026-07-03T22:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.472,
-        "draw": 0.221,
-        "team2": 0.307
+        "team1": 0.73,
+        "draw": 0.104,
+        "team2": 0.166
       },
-      "prediction_label": "Colombia favoured",
-      "confidence": 0.472,
-      "interest_score": 49,
+      "prediction_label": "Argentina favoured",
+      "confidence": 0.73,
+      "interest_score": 62,
       "explanation": [
-        "Elo: Colombia 1870 vs Ghana 1750 (Δ +120).",
+        "Elo: Argentina 2105 vs Cape Verde 1690 (Δ +415).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Colombia 63% · Ghana 37%."
+        "To advance (incl. extra time / penalties): Argentina 87% · Cape Verde 13%."
       ],
       "to_advance": {
-        "Colombia": 0.633,
-        "Ghana": 0.367
+        "Argentina": 0.868,
+        "Cape Verde": 0.132
       },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-mexico-ecuador-2026-06-30",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Mexico",
-      "away_team": "Ecuador",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.378,
-        "draw": 0.27,
-        "team2": 0.352
-      },
-      "prediction_label": "Mexico favoured",
-      "confidence": 0.378,
-      "interest_score": 47,
-      "explanation": [
-        "Elo: Mexico 1810 vs Ecuador 1790 (Δ +20).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Mexico 52% · Ecuador 48%."
-      ],
-      "to_advance": {
-        "Mexico": 0.523,
-        "Ecuador": 0.477
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w101-w102-2026-07-19",
-      "competition_type": "world_cup",
-      "stage": "final",
-      "group": "",
-      "home_team": "W101",
-      "away_team": "W102",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W101 favoured",
-      "confidence": 0.36,
-      "interest_score": 47,
-      "explanation": [
-        "Elo: W101 1750 vs W102 1750 (Δ +0).",
-        "Stage importance 100/100 (final).",
-        "To advance (incl. extra time / penalties): W101 50% · W102 50%."
-      ],
-      "to_advance": {
-        "W101": 0.5,
-        "W102": 0.5
-      },
-      "kickoff_label": "TBD"
+      "kickoff_label": "03 Jul 22:00"
     },
     {
       "match_id": "wc-2026-belgium-senegal-2026-07-01",
@@ -330,520 +185,114 @@
       "group": "",
       "home_team": "Belgium",
       "away_team": "Senegal",
-      "kickoff": null,
+      "kickoff": "2026-07-01T20:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.326,
-        "draw": 0.24,
-        "team2": 0.434
+        "team1": 0.462,
+        "draw": 0.226,
+        "team2": 0.312
       },
-      "prediction_label": "Senegal favoured",
-      "confidence": 0.434,
-      "interest_score": 46,
+      "prediction_label": "Belgium favoured",
+      "confidence": 0.462,
+      "interest_score": 62,
       "explanation": [
-        "Elo: Belgium 1750 vs Senegal 1830 (Δ -80).",
+        "Elo: Belgium 1955 vs Senegal 1845 (Δ +110).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Belgium 41% · Senegal 59%."
+        "To advance (incl. extra time / penalties): Belgium 62% · Senegal 38%."
       ],
       "to_advance": {
-        "Belgium": 0.41,
-        "Senegal": 0.59
+        "Belgium": 0.622,
+        "Senegal": 0.378
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "01 Jul 20:00"
     },
     {
-      "match_id": "wc-2026-usa-bosnia&herzegovina-2026-07-01",
+      "match_id": "wc-2026-england-drcongo-2026-07-01",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "USA",
-      "away_team": "Bosnia & Herzegovina",
-      "kickoff": null,
+      "home_team": "England",
+      "away_team": "DR Congo",
+      "kickoff": "2026-07-01T16:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.424,
-        "draw": 0.245,
-        "team2": 0.33
+        "team1": 0.638,
+        "draw": 0.143,
+        "team2": 0.219
       },
-      "prediction_label": "USA favoured",
-      "confidence": 0.424,
-      "interest_score": 45,
+      "prediction_label": "England favoured",
+      "confidence": 0.638,
+      "interest_score": 59,
       "explanation": [
-        "Elo: USA 1820 vs Bosnia & Herzegovina 1750 (Δ +70).",
+        "Elo: England 2030 vs DR Congo 1730 (Δ +300).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): USA 58% · Bosnia & Herzegovina 42%."
+        "To advance (incl. extra time / penalties): England 80% · DR Congo 20%."
       ],
       "to_advance": {
-        "USA": 0.579,
-        "Bosnia & Herzegovina": 0.421
+        "England": 0.796,
+        "DR Congo": 0.204
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "01 Jul 16:00"
     },
     {
-      "match_id": "wc-2026-w97-w98-2026-07-14",
-      "competition_type": "world_cup",
-      "stage": "semifinals",
-      "group": "",
-      "home_team": "W97",
-      "away_team": "W98",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W97 favoured",
-      "confidence": 0.36,
-      "interest_score": 45,
-      "explanation": [
-        "Elo: W97 1750 vs W98 1750 (Δ +0).",
-        "Stage importance 95/100 (semifinals).",
-        "To advance (incl. extra time / penalties): W97 50% · W98 50%."
-      ],
-      "to_advance": {
-        "W97": 0.5,
-        "W98": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w99-w100-2026-07-15",
-      "competition_type": "world_cup",
-      "stage": "semifinals",
-      "group": "",
-      "home_team": "W99",
-      "away_team": "W100",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W99 favoured",
-      "confidence": 0.36,
-      "interest_score": 45,
-      "explanation": [
-        "Elo: W99 1750 vs W100 1750 (Δ +0).",
-        "Stage importance 95/100 (semifinals).",
-        "To advance (incl. extra time / penalties): W99 50% · W100 50%."
-      ],
-      "to_advance": {
-        "W99": 0.5,
-        "W100": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-ivorycoast-norway-2026-06-30",
+      "match_id": "wc-2026-germany-paraguay-2026-06-29",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Ivory Coast",
-      "away_team": "Norway",
-      "kickoff": null,
+      "home_team": "Germany",
+      "away_team": "Paraguay",
+      "kickoff": "2026-06-29T20:30:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.339,
-        "draw": 0.255,
-        "team2": 0.406
+        "team1": 0.562,
+        "draw": 0.177,
+        "team2": 0.261
       },
-      "prediction_label": "Norway favoured",
-      "confidence": 0.406,
-      "interest_score": 44,
+      "prediction_label": "Germany favoured",
+      "confidence": 0.562,
+      "interest_score": 57,
       "explanation": [
-        "Elo: Ivory Coast 1750 vs Norway 1800 (Δ -50).",
+        "Elo: Germany 1975 vs Paraguay 1760 (Δ +215).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Ivory Coast 44% · Norway 56%."
+        "To advance (incl. extra time / penalties): Germany 73% · Paraguay 27%."
       ],
       "to_advance": {
-        "Ivory Coast": 0.443,
-        "Norway": 0.557
+        "Germany": 0.727,
+        "Paraguay": 0.273
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "29 Jun 20:30"
     },
     {
-      "match_id": "wc-2026-w89-w90-2026-07-09",
-      "competition_type": "world_cup",
-      "stage": "quarterfinals",
-      "group": "",
-      "home_team": "W89",
-      "away_team": "W90",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W89 favoured",
-      "confidence": 0.36,
-      "interest_score": 43,
-      "explanation": [
-        "Elo: W89 1750 vs W90 1750 (Δ +0).",
-        "Stage importance 90/100 (quarterfinals).",
-        "To advance (incl. extra time / penalties): W89 50% · W90 50%."
-      ],
-      "to_advance": {
-        "W89": 0.5,
-        "W90": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w93-w94-2026-07-10",
-      "competition_type": "world_cup",
-      "stage": "quarterfinals",
-      "group": "",
-      "home_team": "W93",
-      "away_team": "W94",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W93 favoured",
-      "confidence": 0.36,
-      "interest_score": 43,
-      "explanation": [
-        "Elo: W93 1750 vs W94 1750 (Δ +0).",
-        "Stage importance 90/100 (quarterfinals).",
-        "To advance (incl. extra time / penalties): W93 50% · W94 50%."
-      ],
-      "to_advance": {
-        "W93": 0.5,
-        "W94": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w91-w92-2026-07-11",
-      "competition_type": "world_cup",
-      "stage": "quarterfinals",
-      "group": "",
-      "home_team": "W91",
-      "away_team": "W92",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W91 favoured",
-      "confidence": 0.36,
-      "interest_score": 43,
-      "explanation": [
-        "Elo: W91 1750 vs W92 1750 (Δ +0).",
-        "Stage importance 90/100 (quarterfinals).",
-        "To advance (incl. extra time / penalties): W91 50% · W92 50%."
-      ],
-      "to_advance": {
-        "W91": 0.5,
-        "W92": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w95-w96-2026-07-11",
-      "competition_type": "world_cup",
-      "stage": "quarterfinals",
-      "group": "",
-      "home_team": "W95",
-      "away_team": "W96",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W95 favoured",
-      "confidence": 0.36,
-      "interest_score": 43,
-      "explanation": [
-        "Elo: W95 1750 vs W96 1750 (Δ +0).",
-        "Stage importance 90/100 (quarterfinals).",
-        "To advance (incl. extra time / penalties): W95 50% · W96 50%."
-      ],
-      "to_advance": {
-        "W95": 0.5,
-        "W96": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-australia-egypt-2026-07-03",
+      "match_id": "wc-2026-colombia-ghana-2026-07-03",
       "competition_type": "world_cup",
       "stage": "round_of_32",
       "group": "",
-      "home_team": "Australia",
-      "away_team": "Egypt",
-      "kickoff": null,
+      "home_team": "Colombia",
+      "away_team": "Ghana",
+      "kickoff": "2026-07-04T01:30:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.369,
-        "draw": 0.275,
-        "team2": 0.356
+        "team1": 0.491,
+        "draw": 0.211,
+        "team2": 0.298
       },
-      "prediction_label": "Australia favoured",
-      "confidence": 0.369,
-      "interest_score": 41,
+      "prediction_label": "Colombia favoured",
+      "confidence": 0.491,
+      "interest_score": 52,
       "explanation": [
-        "Elo: Australia 1760 vs Egypt 1750 (Δ +10).",
+        "Elo: Colombia 1900 vs Ghana 1760 (Δ +140).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Australia 51% · Egypt 49%."
+        "To advance (incl. extra time / penalties): Colombia 65% · Ghana 35%."
       ],
       "to_advance": {
-        "Australia": 0.511,
-        "Egypt": 0.489
+        "Colombia": 0.654,
+        "Ghana": 0.346
       },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w74-w77-2026-07-04",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W74",
-      "away_team": "W77",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W74 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W74 1750 vs W77 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W74 50% · W77 50%."
-      ],
-      "to_advance": {
-        "W74": 0.5,
-        "W77": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w73-w75-2026-07-04",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W73",
-      "away_team": "W75",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W73 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W73 1750 vs W75 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W73 50% · W75 50%."
-      ],
-      "to_advance": {
-        "W73": 0.5,
-        "W75": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w76-w78-2026-07-05",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W76",
-      "away_team": "W78",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W76 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W76 1750 vs W78 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W76 50% · W78 50%."
-      ],
-      "to_advance": {
-        "W76": 0.5,
-        "W78": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w79-w80-2026-07-05",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W79",
-      "away_team": "W80",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W79 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W79 1750 vs W80 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W79 50% · W80 50%."
-      ],
-      "to_advance": {
-        "W79": 0.5,
-        "W80": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w83-w84-2026-07-06",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W83",
-      "away_team": "W84",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W83 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W83 1750 vs W84 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W83 50% · W84 50%."
-      ],
-      "to_advance": {
-        "W83": 0.5,
-        "W84": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w81-w82-2026-07-06",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W81",
-      "away_team": "W82",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W81 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W81 1750 vs W82 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W81 50% · W82 50%."
-      ],
-      "to_advance": {
-        "W81": 0.5,
-        "W82": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w86-w88-2026-07-07",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W86",
-      "away_team": "W88",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W86 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W86 1750 vs W88 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W86 50% · W88 50%."
-      ],
-      "to_advance": {
-        "W86": 0.5,
-        "W88": 0.5
-      },
-      "kickoff_label": "TBD"
-    },
-    {
-      "match_id": "wc-2026-w85-w87-2026-07-07",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "W85",
-      "away_team": "W87",
-      "kickoff": null,
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
-      },
-      "prediction_label": "W85 favoured",
-      "confidence": 0.36,
-      "interest_score": 41,
-      "explanation": [
-        "Elo: W85 1750 vs W87 1750 (Δ +0).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): W85 50% · W87 50%."
-      ],
-      "to_advance": {
-        "W85": 0.5,
-        "W87": 0.5
-      },
-      "kickoff_label": "TBD"
+      "kickoff_label": "04 Jul 01:30"
     },
     {
       "match_id": "wc-2026-switzerland-algeria-2026-07-02",
@@ -852,56 +301,143 @@
       "group": "",
       "home_team": "Switzerland",
       "away_team": "Algeria",
-      "kickoff": null,
+      "kickoff": "2026-07-03T03:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
+        "team1": 0.415,
+        "draw": 0.25,
+        "team2": 0.335
       },
       "prediction_label": "Switzerland favoured",
-      "confidence": 0.36,
-      "interest_score": 40,
+      "confidence": 0.415,
+      "interest_score": 52,
       "explanation": [
-        "Elo: Switzerland 1750 vs Algeria 1750 (Δ +0).",
+        "Elo: Switzerland 1860 vs Algeria 1800 (Δ +60).",
         "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Switzerland 50% · Algeria 50%."
+        "To advance (incl. extra time / penalties): Switzerland 57% · Algeria 43%."
       ],
       "to_advance": {
-        "Switzerland": 0.5,
-        "Algeria": 0.5
+        "Switzerland": 0.568,
+        "Algeria": 0.432
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "03 Jul 03:00"
     },
     {
-      "match_id": "wc-2026-l101-l102-2026-07-18",
+      "match_id": "wc-2026-mexico-ecuador-2026-06-30",
       "competition_type": "world_cup",
-      "stage": "third_place",
+      "stage": "round_of_32",
       "group": "",
-      "home_team": "L101",
-      "away_team": "L102",
-      "kickoff": null,
+      "home_team": "Mexico",
+      "away_team": "Ecuador",
+      "kickoff": "2026-07-01T01:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.41,
+        "draw": 0.253,
+        "team2": 0.337
+      },
+      "prediction_label": "Mexico favoured",
+      "confidence": 0.41,
+      "interest_score": 50,
+      "explanation": [
+        "Elo: Mexico 1875 vs Ecuador 1820 (Δ +55, host advantage).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Mexico 56% · Ecuador 44%."
+      ],
+      "to_advance": {
+        "Mexico": 0.562,
+        "Ecuador": 0.438
+      },
+      "kickoff_label": "01 Jul 01:00"
+    },
+    {
+      "match_id": "wc-2026-ivorycoast-norway-2026-06-30",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
+      "kickoff": "2026-06-30T17:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.36,
-        "draw": 0.28,
-        "team2": 0.36
+        "team1": 0.348,
+        "draw": 0.265,
+        "team2": 0.387
       },
-      "prediction_label": "L101 favoured",
-      "confidence": 0.36,
-      "interest_score": 40,
+      "prediction_label": "Norway favoured",
+      "confidence": 0.387,
+      "interest_score": 50,
       "explanation": [
-        "Elo: L101 1750 vs L102 1750 (Δ +0).",
-        "Stage importance 80/100 (third place).",
-        "To advance (incl. extra time / penalties): L101 50% · L102 50%."
+        "Elo: Ivory Coast 1800 vs Norway 1830 (Δ -30).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Ivory Coast 47% · Norway 53%."
       ],
       "to_advance": {
-        "L101": 0.5,
-        "L102": 0.5
+        "Ivory Coast": 0.466,
+        "Norway": 0.534
       },
-      "kickoff_label": "TBD"
+      "kickoff_label": "30 Jun 17:00"
+    },
+    {
+      "match_id": "wc-2026-australia-egypt-2026-07-03",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "Australia",
+      "away_team": "Egypt",
+      "kickoff": "2026-07-03T18:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.348,
+        "draw": 0.265,
+        "team2": 0.387
+      },
+      "prediction_label": "Egypt favoured",
+      "confidence": 0.387,
+      "interest_score": 47,
+      "explanation": [
+        "Elo: Australia 1780 vs Egypt 1810 (Δ -30).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): Australia 47% · Egypt 53%."
+      ],
+      "to_advance": {
+        "Australia": 0.466,
+        "Egypt": 0.534
+      },
+      "kickoff_label": "03 Jul 18:00"
+    },
+    {
+      "match_id": "wc-2026-usa-bosnia&herzegovina-2026-07-01",
+      "competition_type": "world_cup",
+      "stage": "round_of_32",
+      "group": "",
+      "home_team": "USA",
+      "away_team": "Bosnia & Herzegovina",
+      "kickoff": "2026-07-02T00:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.477,
+        "draw": 0.219,
+        "team2": 0.305
+      },
+      "prediction_label": "USA favoured",
+      "confidence": 0.477,
+      "interest_score": 46,
+      "explanation": [
+        "Elo: USA 1885 vs Bosnia & Herzegovina 1760 (Δ +125, host advantage).",
+        "Stage importance 82/100 (round of 32).",
+        "To advance (incl. extra time / penalties): USA 64% · Bosnia & Herzegovina 36%."
+      ],
+      "to_advance": {
+        "USA": 0.638,
+        "Bosnia & Herzegovina": 0.362
+      },
+      "kickoff_label": "02 Jul 00:00"
     }
   ]
 }

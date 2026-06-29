@@ -10,29 +10,17 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 from typing import Any
 
+# Reference tables (all 48 finalists) live in worldcup_reference; re-exported
+# here so existing imports (`from ._worldcup_mock import NATIONAL_ELO`) keep
+# working.
+from .worldcup_reference import (  # noqa: F401  (re-exported for compatibility)
+    CONFEDERATION,
+    HOSTS_2026,
+    NATIONAL_ELO,
+)
+
 _NOW = datetime.now(timezone.utc)
 _TODAY = _NOW.date()
-
-HOSTS_2026 = {"USA", "Canada", "Mexico"}
-
-CONFEDERATION = {
-    "Brazil": "CONMEBOL", "Argentina": "CONMEBOL", "Uruguay": "CONMEBOL", "Colombia": "CONMEBOL",
-    "France": "UEFA", "England": "UEFA", "Spain": "UEFA", "Germany": "UEFA", "Portugal": "UEFA",
-    "Netherlands": "UEFA", "Croatia": "UEFA", "Norway": "UEFA", "Italy": "UEFA",
-    "USA": "CONCACAF", "Mexico": "CONCACAF", "Canada": "CONCACAF",
-    "Morocco": "CAF", "Senegal": "CAF", "Nigeria": "CAF",
-    "Japan": "AFC", "South Korea": "AFC", "Saudi Arabia": "AFC", "Australia": "AFC",
-    "Ecuador": "CONMEBOL",
-}
-
-# Approx national-team Elo seeds (relative strength) for offline predictions.
-NATIONAL_ELO = {
-    "Argentina": 2100, "France": 2080, "Brazil": 2050, "England": 2030, "Spain": 2020,
-    "Portugal": 2000, "Netherlands": 1980, "Germany": 1970, "Croatia": 1900, "Morocco": 1880,
-    "Uruguay": 1900, "Colombia": 1870, "USA": 1820, "Mexico": 1810, "Senegal": 1830,
-    "Japan": 1840, "South Korea": 1790, "Australia": 1760, "Norway": 1800, "Ecuador": 1790,
-    "Canada": 1750, "Nigeria": 1800, "Saudi Arabia": 1700, "Italy": 1960,
-}
 
 
 def _iso(days_from_today: int, hh: int, mm: int) -> str:

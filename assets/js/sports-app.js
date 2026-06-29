@@ -162,12 +162,18 @@
         }).join("");
       }).catch(warn);
     } else {
-      // Off-season for the World Cup → feature the top in-season competition.
-      if (title) title.innerHTML = (feat.emoji || "🏆") + " In Season";
-      if (tag) tag.textContent = (feat.name || "Football");
-      if (link) { link.textContent = "Sports"; link.href = SITE + "/"; }
-      if (cta) { cta.textContent = "Explore →"; cta.href = SITE + "/"; }
-      var active = (season.active || []).slice(0, 4);
+      // World Cup over → the soccer section rolls over to the top football
+      // event (UCL, a top league, …) so there is always a marquee soccer event.
+      var ff = season.featured_football || feat;
+      var upcoming = ff.status === "upcoming";
+      if (title) title.innerHTML = (ff.emoji || "⚽") + " " + esc(ff.name || "Football");
+      if (tag) tag.textContent = upcoming
+        ? ("Starts in " + (ff.starts_in_days != null ? ff.starts_in_days + "d" : "soon"))
+        : "In season now";
+      if (link) { link.textContent = "Board"; link.href = SITE + "/sports/football/"; }
+      if (cta) { cta.textContent = "Full board →"; cta.href = SITE + "/sports/football/"; }
+      // Body: the other big competitions in season right now, for context.
+      var active = (season.active || []).filter(function (a) { return a.name !== ff.name; }).slice(0, 3);
       if (body) body.innerHTML = active.map(function (a) {
         return '<li class="wc-mini-tie"><div class="wc-mini-teams"><span>' + esc(a.emoji) + " " + esc(a.name) +
           '</span><b>' + esc(a.importance) + '</b></div>' +

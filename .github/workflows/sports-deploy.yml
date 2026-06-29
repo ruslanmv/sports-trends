@@ -15,6 +15,15 @@ on:
       - "_layouts/sports*.html"
       - "sports/**"
       - "_config.yml"
+  # Data-refresh commits are made with "[skip ci]" (to avoid CI loops), so they
+  # do NOT trigger the path filter above. This schedule rebuilds + redeploys the
+  # site with fresh JSON (the build step regenerates it) so the live dashboard
+  # always reflects the latest results. Runs after the daily pipeline + a midday
+  # top-up; the 30-min data commits land on the next scheduled deploy.
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 21 * * *"
 
 permissions:
   contents: read
@@ -31,6 +40,8 @@ jobs:
     env:
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
       HF_DATASET_REPO: ruslanmv/sports-trends-dataset
+      # Real keyless feed (TheSportsDB) in production; mock is only a safety net.
+      SPORTS_ENABLE_LIVE_FEED: "1"
       HF_MODEL_REPO: ruslanmv/sports-trends-models
       SPORTS_API_FOOTBALL_KEY: ${{ secrets.SPORTS_API_FOOTBALL_KEY }}
     steps:

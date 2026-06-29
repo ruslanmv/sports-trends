@@ -16,6 +16,8 @@ jobs:
     env:
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
       HF_DATASET_REPO: ruslanmv/sports-trends-dataset
+      # Real keyless feed (TheSportsDB) in production; mock is only a safety net.
+      SPORTS_ENABLE_LIVE_FEED: "1"
       HF_MODEL_REPO: ruslanmv/sports-trends-models
       SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
       SPORTS_API_FOOTBALL_KEY: ${{ secrets.SPORTS_API_FOOTBALL_KEY }}
@@ -35,6 +37,9 @@ jobs:
       - name: Run
         run: |
           python scripts/run_predict_tomorrow.py
+          # Feedback loop step 1: log each prediction (feature snapshot + model
+          # version + probabilities) to the prediction ledger for later scoring.
+          python scripts/run_log_predictions.py
       - name: Commit changed files
         run: |
           git config user.name "github-actions[bot]"

@@ -20,12 +20,26 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 import pandas as pd
 
 from sports_trends.config import LOCAL_LAKE_DIR
+from sports_trends.datasets.build_prediction_dataset import (
+    build_prediction_dataset, merge_training_rows,
+)
 from sports_trends.datasets.build_training_dataset import build_training_dataset, time_split
 from sports_trends.datasets.leakage_checks import leakage_report
 from sports_trends.hf.dataset_client import DatasetClient
 from sports_trends.hf.partitions import quality_path, training_partition
 from sports_trends.logging_config import get_logger
 from sports_trends.providers import _mock_data
+
+
+def _settled_outcomes(lake: Path, sport: str) -> list[dict]:
+    """Real, accumulated settled-prediction rows for ``sport`` from the lake."""
+    rows: list[dict] = []
+    for f in sorted((lake / "gold" / "outcomes" / sport).glob("date=*/settled.parquet")):
+        try:
+            rows.extend(pd.read_parquet(f).to_dict("records"))
+        except Exception:  # pragma: no cover - skip unreadable partition
+            continue
+    return rows
 
 logger = get_logger("run_build_training_dataset")
 TRAIN_SPORTS = ("football", "basketball", "tennis", "cricket")
@@ -39,9 +53,15 @@ def main() -> int:
 
     summary = {}
     leak_errors_total = 0
+    lake = Path(client.local_dir)
     for sport in TRAIN_SPORTS:
         history = _mock_data.historical_results(sport, n_matches=200)
-        rows = build_training_dataset(history, sport)
+        history_rows = build_training_dataset(history, sport)
+        # Feedback loop: fold in real, accumulated settled predictions so each
+        # retrain is coherent with the latest observed results.
+        settled = _settled_outcomes(lake, sport)
+        prediction_rows = build_prediction_dataset(settled, sport=sport)
+        rows = merge_training_rows(history_rows, prediction_rows)
         report = leakage_report(rows, sport)
         leak_errors_total += report["leakage_errors"]
         splits = time_split(rows)
@@ -57,11 +77,14 @@ def main() -> int:
 
         summary[sport] = {
             "rows": len(rows),
+            "history_rows": len(history_rows),
+            "settled_prediction_rows": len(prediction_rows),
             "splits": {k: len(v) for k, v in splits.items()},
             "leakage_passed": report["passed"],
         }
-        logger.info("%-10s rows=%d splits=%s leakage_ok=%s",
-                    sport, len(rows), summary[sport]["splits"], report["passed"])
+        logger.info("%-10s rows=%d (+%d settled) splits=%s leakage_ok=%s",
+                    sport, len(rows), len(prediction_rows), summary[sport]["splits"],
+                    report["passed"])
 
     # Publish a combined leakage report to quality/.
     quality_local = Path(client.local_dir) / quality_path("leakage_report.json")

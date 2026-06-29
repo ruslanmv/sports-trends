@@ -1,10 +1,19 @@
 {
-  "last_updated": "2026-06-29T10:05:15.382481+00:00",
+  "last_updated": "2026-06-29T08:26:48.715976+00:00",
   "page_mode": "world_cup_2026",
   "default_tab": "Mundial 2026",
   "eyebrow": "Mundial 2026 Intelligence",
   "headline": "Who Advances Tomorrow?",
   "subtitle": "AI predictions, to-advance probabilities, and match insights for the World Cup.",
   "show_world_cup_strip": true,
+  "featured_football": {
+    "key": "worldcup",
+    "name": "FIFA World Cup",
+    "sport": "football",
+    "scope": "international",
+    "importance": 100,
+    "emoji": "🏆",
+    "status": "active"
+  },
   "primary_prediction_type": "to_advance"
 }
