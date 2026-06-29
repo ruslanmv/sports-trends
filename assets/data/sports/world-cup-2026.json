@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T17:30:04.612009+00:00",
+  "last_updated": "2026-06-29T19:22:17.531820+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -18,24 +18,6 @@
         "away_to_advance": 0.235,
         "ai_pick": "France favoured",
         "confidence": 60
-      },
-      "interest_score": 70
-    },
-    {
-      "match_id": "wc-2026-brazil-japan-2026-06-29",
-      "home_team": "Brazil",
-      "away_team": "Japan",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-29T17:00:00+00:00",
-      "kickoff_label": "29 Jun 17:00",
-      "prediction": {
-        "home_win": 0.548,
-        "draw": 0.184,
-        "away_win": 0.268,
-        "home_to_advance": 0.713,
-        "away_to_advance": 0.287,
-        "ai_pick": "Brazil favoured",
-        "confidence": 55
       },
       "interest_score": 70
     },
