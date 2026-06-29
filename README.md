@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-06-28 10:36 UTC** — refreshed automatically every day._
+_Last updated: **2026-06-29 08:30 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-06-28 10:36 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 51d)
+Premier League (in 42d) · La Liga (in 47d) · Ligue 1 (in 47d) · Serie A (in 50d)
 <!-- SEASON:END -->
 
 ---
@@ -64,9 +64,9 @@ Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 5
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ France vs Senegal | Round Of 32 | France 59% · draw 16% · Senegal 24% | **France** 76% · **Senegal** 24% |
-| ⚽ Spain vs Croatia | Round Of 32 | Spain 47% · draw 22% · Croatia 31% | **Spain** 63% · **Croatia** 37% |
-| ⚽ Argentina vs Norway | Round Of 32 | Argentina 64% · draw 14% · Norway 22% | **Argentina** 80% · **Norway** 20% |
+| ⚽ Portugal vs Croatia | Round Of 32 | Portugal 45% · draw 23% · Croatia 32% | **Portugal** 61% · **Croatia** 39% |
+| ⚽ Brazil vs Japan | Round Of 32 | Brazil 56% · draw 18% · Japan 26% | **Brazil** 72% · **Japan** 28% |
+| ⚽ Netherlands vs Morocco | Round Of 32 | Netherlands 45% · draw 23% · Morocco 32% | **Netherlands** 61% · **Morocco** 39% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>

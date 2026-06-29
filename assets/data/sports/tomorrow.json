@@ -2,7 +2,7 @@
   "date": "2026-06-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-06-29T05:09:44.806476+00:00",
+  "last_updated": "2026-06-29T08:30:56.789054+00:00",
   "count": 16,
   "matches": [
     {
@@ -23,7 +23,7 @@
       "interest_score": 98,
       "trend_badge": "Global #1",
       "audience": "1.2M",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Real Madrid 0.60 vs Man City 0.40.",
@@ -48,7 +48,7 @@
       "interest_score": 91,
       "trend_badge": "US Hot",
       "audience": "689K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lakers 0.60 vs Celtics 0.60.",
@@ -73,7 +73,7 @@
       "interest_score": 88,
       "trend_badge": "Italy rising",
       "audience": "512K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Jannik Sinner 0.00 vs Carlos Alcaraz 0.00.",
@@ -98,7 +98,7 @@
       "interest_score": 86,
       "trend_badge": "Global #2",
       "audience": "842K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): India 0.60 vs Australia 0.60.",
@@ -123,7 +123,7 @@
       "interest_score": 83,
       "trend_badge": "EU Hot",
       "audience": "451K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): PSG 0.40 vs Bayern Munich 0.60.",
@@ -148,7 +148,7 @@
       "interest_score": 80,
       "trend_badge": null,
       "audience": "612K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Liverpool 0.00 vs Chelsea 0.00.",
@@ -173,7 +173,7 @@
       "interest_score": 79,
       "trend_badge": null,
       "audience": "455K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Novak Djokovic 0.00 vs A. Zverev 0.00.",
@@ -198,7 +198,7 @@
       "interest_score": 78,
       "trend_badge": null,
       "audience": "498K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Barcelona 0.00 vs Atletico Madrid 0.00.",
@@ -248,7 +248,7 @@
       "interest_score": 74,
       "trend_badge": null,
       "audience": "388K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Warriors 0.00 vs Suns 0.00.",
@@ -273,7 +273,7 @@
       "interest_score": 72,
       "trend_badge": null,
       "audience": "362K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Iga Swiatek 0.00 vs Aryna Sabalenka 0.00.",
@@ -298,7 +298,7 @@
       "interest_score": 70,
       "trend_badge": null,
       "audience": "301K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bucks 0.00 vs 76ers 0.00.",
@@ -348,7 +348,7 @@
       "interest_score": 66,
       "trend_badge": null,
       "audience": "224K",
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Pakistan 0.00 vs New Zealand 0.00.",
