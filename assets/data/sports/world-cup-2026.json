@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:49:42.142999+00:00",
+  "last_updated": "2026-06-30T06:50:59.768016+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -56,24 +56,6 @@
         "confidence": 53
       },
       "interest_score": 69
-    },
-    {
-      "match_id": "wc-2026-netherlands-morocco-2026-06-29",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-30T01:00:00+00:00",
-      "kickoff_label": "30 Jun 01:00",
-      "prediction": {
-        "home_win": 0.448,
-        "draw": 0.233,
-        "away_win": 0.319,
-        "home_to_advance": 0.606,
-        "away_to_advance": 0.394,
-        "ai_pick": "Netherlands favoured",
-        "confidence": 45
-      },
-      "interest_score": 68
     },
     {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",

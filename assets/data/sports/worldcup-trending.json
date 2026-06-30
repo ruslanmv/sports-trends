@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-06-30T02:49:42.142999+00:00",
+  "last_updated": "2026-06-30T06:50:59.768016+00:00",
   "region": "Worldwide",
   "matches": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "rank": 4,
-      "label": "Netherlands vs Morocco",
+      "label": "Argentina vs Cape Verde",
       "stage": "round_of_32",
-      "interest_score": 68,
+      "interest_score": 62,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Argentina vs Cape Verde",
+      "label": "Belgium vs Senegal",
       "stage": "round_of_32",
       "interest_score": 62,
       "hot": false

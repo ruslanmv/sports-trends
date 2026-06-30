@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-06-30T02:49:42.142999+00:00",
+  "last_updated": "2026-06-30T06:50:59.768016+00:00",
   "matches": [
     {
       "match_id": "wc-2026-france-sweden-2026-06-30",
@@ -90,35 +90,6 @@
         "Austria": 0.301
       },
       "kickoff_label": "02 Jul 19:00"
-    },
-    {
-      "match_id": "wc-2026-netherlands-morocco-2026-06-29",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "kickoff": "2026-06-30T01:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.448,
-        "draw": 0.233,
-        "team2": 0.319
-      },
-      "prediction_label": "Netherlands favoured",
-      "confidence": 0.448,
-      "interest_score": 68,
-      "explanation": [
-        "Elo: Netherlands 1985 vs Morocco 1890 (Δ +95).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Netherlands 61% · Morocco 39%."
-      ],
-      "to_advance": {
-        "Netherlands": 0.606,
-        "Morocco": 0.394
-      },
-      "kickoff_label": "30 Jun 01:00"
     },
     {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",

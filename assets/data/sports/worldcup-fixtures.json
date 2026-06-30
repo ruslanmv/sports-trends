@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-06-30T02:49:42.142999+00:00",
+  "last_updated": "2026-06-30T06:50:59.768016+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1302,9 +1302,9 @@
           "kickoff_label": "30 Jun 01:00",
           "venue": "Monterrey (Guadalupe)",
           "host_city": "Monterrey",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-ivorycoast-norway-2026-06-30",
@@ -1514,5 +1514,5 @@
     }
   ],
   "total": 88,
-  "upcoming": 13
+  "upcoming": 12
 }
