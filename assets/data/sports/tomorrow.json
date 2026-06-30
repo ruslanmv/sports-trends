@@ -2,9 +2,105 @@
   "date": "2026-06-30",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-06-30T06:50:59.472655+00:00",
+  "last_updated": "2026-06-30T07:06:43.189251+00:00",
   "count": 5,
   "matches": [
+    {
+      "match_id": "tsdb-2494000",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.103,
+        "away_win": 0.897
+      },
+      "prediction_label": "AI: Coventry City favoured",
+      "confidence": 0.897,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482138",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489462",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Angers",
+      "away_team": "Lille",
+      "kickoff": "2026-08-22T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Angers favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2491734",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Inter Club d'Escaldes",
+      "kickoff": "2026-07-07T16:00:00",
+      "kickoff_label": "16:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Lincoln Red Imps favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lincoln Red Imps 0.00 vs Inter Club d'Escaldes 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2388162",
       "sport": "baseball",
@@ -26,106 +122,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Baltimore Orioles 0.00 vs Chicago White Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489462",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Angers",
-      "away_team": "Lille",
-      "kickoff": "2026-08-22T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Angers favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2491734",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lincoln Red Imps",
-      "away_team": "Inter Club d'Escaldes",
-      "kickoff": "2026-07-07T16:00:00",
-      "kickoff_label": "16:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lincoln Red Imps favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lincoln Red Imps 0.00 vs Inter Club d'Escaldes 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

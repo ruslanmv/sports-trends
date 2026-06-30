@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-06-28 10:36 UTC** — refreshed automatically every day._
+_Last updated: **2026-06-30 07:06 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-06-28 10:36 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 51d)
+Premier League (in 41d) · La Liga (in 46d) · Ligue 1 (in 46d) · Serie A (in 49d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 5
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Real Madrid** vs **Man City** | UEFA Champions League | 21:00 | Real Madrid favoured | `██████░░░░` 56% |
-| 2 | 🏀 **Lakers** vs **Celtics** | NBA Finals | 08:30 | Lakers favoured | `█████░░░░░` 48% |
-| 3 | 🎾 **Jannik Sinner** vs **Carlos Alcaraz** | Wimbledon Men's SF | 15:00 | Jannik Sinner favoured | `████░░░░░░` 44% |
-| 4 | 🏏 **India** vs **Australia** | ICC Test Championship | 10:00 | India favoured | `████░░░░░░` 41% |
-| 5 | ⚽ **PSG** vs **Bayern Munich** | UEFA Champions League | 21:00 | PSG favoured | `████░░░░░░` 39% |
+| 1 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
+| 2 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Angers** vs **Lille** | French Ligue 1 | 15:00 | Angers favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Lincoln Red Imps** vs **Inter Club d'Escaldes** | UEFA Champions League | 16:00 | Lincoln Red Imps favoured | `██████░░░░` 60% |
+| 5 | ⚾ **Baltimore Orioles** vs **Chicago White Sox** | MLB | 22:35 | Baltimore Orioles favoured | `██████░░░░` 58% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
@@ -64,9 +64,9 @@ Premier League (in 43d) · La Liga (in 48d) · Ligue 1 (in 48d) · Serie A (in 5
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ France vs Senegal | Round Of 32 | France 59% · draw 16% · Senegal 24% | **France** 76% · **Senegal** 24% |
-| ⚽ Spain vs Croatia | Round Of 32 | Spain 47% · draw 22% · Croatia 31% | **Spain** 63% · **Croatia** 37% |
-| ⚽ Argentina vs Norway | Round Of 32 | Argentina 64% · draw 14% · Norway 22% | **Argentina** 80% · **Norway** 20% |
+| ⚽ France vs Sweden | Round Of 32 | France 60% · draw 16% · Sweden 24% | **France** 76% · **Sweden** 24% |
+| ⚽ Portugal vs Croatia | Round Of 32 | Portugal 45% · draw 23% · Croatia 32% | **Portugal** 61% · **Croatia** 39% |
+| ⚽ Spain vs Austria | Round Of 32 | Spain 53% · draw 19% · Austria 28% | **Spain** 70% · **Austria** 30% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>

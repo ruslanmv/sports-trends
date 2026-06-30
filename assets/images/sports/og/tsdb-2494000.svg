@@ -7,5 +7,5 @@
   <text x="80" y="300" fill="#ffffff" font-family="Inter,Arial" font-size="84" font-weight="800">Arsenal</text>
   <text x="80" y="360" fill="#9aa6b0" font-family="Inter,Arial" font-size="40">vs</text>
   <text x="80" y="450" fill="#ffffff" font-family="Inter,Arial" font-size="84" font-weight="800">Coventry City</text>
-  <text x="80" y="560" fill="#18d08f" font-family="Inter,Arial" font-size="34" font-weight="700">AI: Arsenal favoured</text>
+  <text x="80" y="560" fill="#18d08f" font-family="Inter,Arial" font-size="34" font-weight="700">AI: Coventry City favoured</text>
 </svg>
