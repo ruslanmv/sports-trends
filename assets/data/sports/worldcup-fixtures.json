@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-06-30T17:22:09.257761+00:00",
+  "last_updated": "2026-06-30T19:16:06.480476+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1319,9 +1319,9 @@
           "kickoff_label": "30 Jun 17:00",
           "venue": "Dallas (Arlington)",
           "host_city": "Dallas",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 2
         },
         {
           "match_id": "wc-2026-france-sweden-2026-06-30",
@@ -1514,5 +1514,5 @@
     }
   ],
   "total": 88,
-  "upcoming": 12
+  "upcoming": 11
 }

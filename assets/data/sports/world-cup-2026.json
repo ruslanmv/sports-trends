@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T17:22:09.257761+00:00",
+  "last_updated": "2026-06-30T19:16:06.480476+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -162,24 +162,6 @@
         "away_to_advance": 0.438,
         "ai_pick": "Mexico favoured",
         "confidence": 41
-      },
-      "interest_score": 50
-    },
-    {
-      "match_id": "wc-2026-ivorycoast-norway-2026-06-30",
-      "home_team": "Ivory Coast",
-      "away_team": "Norway",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-30T17:00:00+00:00",
-      "kickoff_label": "30 Jun 17:00",
-      "prediction": {
-        "home_win": 0.348,
-        "draw": 0.265,
-        "away_win": 0.387,
-        "home_to_advance": 0.466,
-        "away_to_advance": 0.534,
-        "ai_pick": "Norway favoured",
-        "confidence": 39
       },
       "interest_score": 50
     },
