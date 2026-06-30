@@ -1,14 +1,14 @@
 {
   "date": "2026-06-30",
-  "last_updated": "2026-06-30T21:13:22.264496+00:00",
+  "last_updated": "2026-06-30T22:49:01.819847+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388162",
+      "match_id": "tsdb-2388155",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Chicago White Sox",
+      "home_team": "New York Yankees",
+      "away_team": "Detroit Tigers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
