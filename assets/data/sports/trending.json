@@ -1,14 +1,42 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-06-29T23:56:31.360957+00:00",
-  "count": 1,
+  "last_updated": "2026-06-30T02:49:41.772291+00:00",
+  "count": 5,
   "matches": [
     {
       "rank": 1,
-      "label": "Chicago Cubs vs San Diego Padres",
+      "label": "Baltimore Orioles vs Chicago White Sox",
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Angers vs Lille",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-06-29T23:56:29.363386+00:00",
-  "today": "2026-06-29",
+  "last_updated": "2026-06-30T02:49:39.049725+00:00",
+  "today": "2026-06-30",
   "featured": {
     "key": "worldcup",
     "name": "FIFA World Cup",
@@ -71,7 +71,7 @@
       "importance": 90,
       "emoji": "🏴",
       "start": "2026-08-10",
-      "starts_in_days": 42
+      "starts_in_days": 41
     },
     {
       "key": "laliga",
@@ -81,7 +81,7 @@
       "importance": 88,
       "emoji": "🇪🇸",
       "start": "2026-08-15",
-      "starts_in_days": 47
+      "starts_in_days": 46
     },
     {
       "key": "ligue1",
@@ -91,7 +91,7 @@
       "importance": 84,
       "emoji": "🇫🇷",
       "start": "2026-08-15",
-      "starts_in_days": 47
+      "starts_in_days": 46
     },
     {
       "key": "seriea",
@@ -101,7 +101,7 @@
       "importance": 87,
       "emoji": "🇮🇹",
       "start": "2026-08-18",
-      "starts_in_days": 50
+      "starts_in_days": 49
     },
     {
       "key": "bundesliga",
@@ -111,7 +111,7 @@
       "importance": 86,
       "emoji": "🇩🇪",
       "start": "2026-08-22",
-      "starts_in_days": 54
+      "starts_in_days": 53
     },
     {
       "key": "usopen",
@@ -121,7 +121,7 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2026-08-25",
-      "starts_in_days": 57
+      "starts_in_days": 56
     }
   ]
 }
