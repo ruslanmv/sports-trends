@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-01T11:54:04.993715+00:00",
+  "last_updated": "2026-07-01T14:13:46.935007+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -103,6 +103,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506169",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "kickoff": "2026-08-16T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Barcelona favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Barcelona 0.00 vs Athletic Bilbao 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

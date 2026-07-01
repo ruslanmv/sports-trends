@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T11:54:04.993743+00:00",
+  "last_updated": "2026-07-01T14:13:46.935039+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -59,6 +59,12 @@
     },
     {
       "rank": 5,
+      "match_id": "tsdb-2506169",
+      "label": "Barcelona vs Athletic Bilbao",
+      "interest_score": 50
+    },
+    {
+      "rank": 6,
       "match_id": "tsdb-2491734",
       "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
       "interest_score": 50
