@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T18:56:18.356678+00:00",
+  "last_updated": "2026-07-01T20:46:50.456238+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,12 +94,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388176",
+      "match_id": "tsdb-2388168",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "San Diego Padres",
-      "home_score": 4,
+      "home_team": "Toronto Blue Jays",
+      "away_team": "New York Mets",
+      "home_score": 5,
       "away_score": null,
       "status": "finished",
       "status_detail": null,

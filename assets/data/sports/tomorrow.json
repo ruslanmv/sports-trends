@@ -2,22 +2,22 @@
   "date": "2026-07-01",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-01T18:56:19.728700+00:00",
+  "last_updated": "2026-07-01T20:46:51.890334+00:00",
   "count": 6,
   "matches": [
     {
-      "match_id": "tsdb-2388168",
+      "match_id": "tsdb-2388169",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Toronto Blue Jays",
-      "away_team": "New York Mets",
-      "kickoff": "2026-07-01T19:07:00",
-      "kickoff_label": "19:07",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Pittsburgh Pirates",
+      "kickoff": "2026-07-01T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Toronto Blue Jays favoured",
+      "prediction_label": "AI: Philadelphia Phillies favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Toronto Blue Jays 0.00 vs New York Mets 0.00.",
+        "Recent form (last 5): Philadelphia Phillies 0.00 vs Pittsburgh Pirates 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
