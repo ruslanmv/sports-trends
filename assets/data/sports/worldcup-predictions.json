@@ -2,8 +2,37 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T04:21:59.593245+00:00",
+  "last_updated": "2026-07-01T08:35:45.398962+00:00",
   "matches": [
+    {
+      "match_id": "wc-2026-brazil-norway-2026-07-05",
+      "competition_type": "world_cup",
+      "stage": "round_of_16",
+      "group": "",
+      "home_team": "Brazil",
+      "away_team": "Norway",
+      "kickoff": "2026-07-05T20:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.566,
+        "draw": 0.175,
+        "team2": 0.258
+      },
+      "prediction_label": "Brazil favoured",
+      "confidence": 0.566,
+      "interest_score": 70,
+      "explanation": [
+        "Elo: Brazil 2050 vs Norway 1830 (Δ +220).",
+        "Stage importance 86/100 (round of 16).",
+        "To advance (incl. extra time / penalties): Brazil 73% · Norway 27%."
+      ],
+      "to_advance": {
+        "Brazil": 0.731,
+        "Norway": 0.269
+      },
+      "kickoff_label": "05 Jul 20:00"
+    },
     {
       "match_id": "wc-2026-portugal-croatia-2026-07-02",
       "competition_type": "world_cup",
@@ -61,6 +90,35 @@
         "Austria": 0.301
       },
       "kickoff_label": "02 Jul 19:00"
+    },
+    {
+      "match_id": "wc-2026-paraguay-france-2026-07-04",
+      "competition_type": "world_cup",
+      "stage": "round_of_16",
+      "group": "",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "kickoff": "2026-07-04T21:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.209,
+        "draw": 0.135,
+        "team2": 0.656
+      },
+      "prediction_label": "France favoured",
+      "confidence": 0.656,
+      "interest_score": 67,
+      "explanation": [
+        "Elo: Paraguay 1760 vs France 2080 (Δ -320).",
+        "Stage importance 86/100 (round of 16).",
+        "To advance (incl. extra time / penalties): Paraguay 19% · France 81%."
+      ],
+      "to_advance": {
+        "Paraguay": 0.189,
+        "France": 0.811
+      },
+      "kickoff_label": "04 Jul 21:00"
     },
     {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",
@@ -150,6 +208,35 @@
       "kickoff_label": "01 Jul 16:00"
     },
     {
+      "match_id": "wc-2026-canada-morocco-2026-07-04",
+      "competition_type": "world_cup",
+      "stage": "round_of_16",
+      "group": "",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "kickoff": "2026-07-04T17:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.307,
+        "draw": 0.221,
+        "team2": 0.472
+      },
+      "prediction_label": "Morocco favoured",
+      "confidence": 0.472,
+      "interest_score": 53,
+      "explanation": [
+        "Elo: Canada 1770 vs Morocco 1890 (Δ -120).",
+        "Stage importance 86/100 (round of 16).",
+        "To advance (incl. extra time / penalties): Canada 37% · Morocco 63%."
+      ],
+      "to_advance": {
+        "Canada": 0.367,
+        "Morocco": 0.633
+      },
+      "kickoff_label": "04 Jul 17:00"
+    },
+    {
       "match_id": "wc-2026-colombia-ghana-2026-07-03",
       "competition_type": "world_cup",
       "stage": "round_of_32",
@@ -206,35 +293,6 @@
         "Algeria": 0.432
       },
       "kickoff_label": "03 Jul 03:00"
-    },
-    {
-      "match_id": "wc-2026-mexico-ecuador-2026-06-30",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Mexico",
-      "away_team": "Ecuador",
-      "kickoff": "2026-07-01T01:00:00+00:00",
-      "neutral_venue": false,
-      "host_advantage": true,
-      "result_90": {
-        "team1": 0.41,
-        "draw": 0.253,
-        "team2": 0.337
-      },
-      "prediction_label": "Mexico favoured",
-      "confidence": 0.41,
-      "interest_score": 50,
-      "explanation": [
-        "Elo: Mexico 1875 vs Ecuador 1820 (Δ +55, host advantage).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Mexico 56% · Ecuador 44%."
-      ],
-      "to_advance": {
-        "Mexico": 0.562,
-        "Ecuador": 0.438
-      },
-      "kickoff_label": "01 Jul 01:00"
     },
     {
       "match_id": "wc-2026-australia-egypt-2026-07-03",

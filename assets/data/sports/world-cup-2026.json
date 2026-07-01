@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-07-01T04:21:59.593245+00:00",
+  "last_updated": "2026-07-01T08:35:45.398962+00:00",
   "competition": "Mundial 2026",
-  "stage": "round_of_32",
+  "stage": "round_of_16",
   "matches": [
+    {
+      "match_id": "wc-2026-brazil-norway-2026-07-05",
+      "home_team": "Brazil",
+      "away_team": "Norway",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-05T20:00:00+00:00",
+      "kickoff_label": "05 Jul 20:00",
+      "prediction": {
+        "home_win": 0.566,
+        "draw": 0.175,
+        "away_win": 0.258,
+        "home_to_advance": 0.731,
+        "away_to_advance": 0.269,
+        "ai_pick": "Brazil favoured",
+        "confidence": 57
+      },
+      "interest_score": 70
+    },
     {
       "match_id": "wc-2026-portugal-croatia-2026-07-02",
       "home_team": "Portugal",
@@ -38,6 +56,24 @@
         "confidence": 53
       },
       "interest_score": 69
+    },
+    {
+      "match_id": "wc-2026-paraguay-france-2026-07-04",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-04T21:00:00+00:00",
+      "kickoff_label": "04 Jul 21:00",
+      "prediction": {
+        "home_win": 0.209,
+        "draw": 0.135,
+        "away_win": 0.656,
+        "home_to_advance": 0.189,
+        "away_to_advance": 0.811,
+        "ai_pick": "France favoured",
+        "confidence": 66
+      },
+      "interest_score": 67
     },
     {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",
@@ -94,6 +130,24 @@
       "interest_score": 59
     },
     {
+      "match_id": "wc-2026-canada-morocco-2026-07-04",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-04T17:00:00+00:00",
+      "kickoff_label": "04 Jul 17:00",
+      "prediction": {
+        "home_win": 0.307,
+        "draw": 0.221,
+        "away_win": 0.472,
+        "home_to_advance": 0.367,
+        "away_to_advance": 0.633,
+        "ai_pick": "Morocco favoured",
+        "confidence": 47
+      },
+      "interest_score": 53
+    },
+    {
       "match_id": "wc-2026-colombia-ghana-2026-07-03",
       "home_team": "Colombia",
       "away_team": "Ghana",
@@ -128,24 +182,6 @@
         "confidence": 42
       },
       "interest_score": 52
-    },
-    {
-      "match_id": "wc-2026-mexico-ecuador-2026-06-30",
-      "home_team": "Mexico",
-      "away_team": "Ecuador",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-01T01:00:00+00:00",
-      "kickoff_label": "01 Jul 01:00",
-      "prediction": {
-        "home_win": 0.41,
-        "draw": 0.253,
-        "away_win": 0.337,
-        "home_to_advance": 0.562,
-        "away_to_advance": 0.438,
-        "ai_pick": "Mexico favoured",
-        "confidence": 41
-      },
-      "interest_score": 50
     },
     {
       "match_id": "wc-2026-australia-egypt-2026-07-03",

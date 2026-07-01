@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T04:21:59.593245+00:00",
+  "last_updated": "2026-07-01T08:35:45.398962+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1353,9 +1353,9 @@
           "kickoff_label": "01 Jul 01:00",
           "venue": "Mexico City",
           "host_city": "Mexico City",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 0
         },
         {
           "match_id": "wc-2026-england-drcongo-2026-07-01",
@@ -1511,8 +1511,65 @@
           "away_score": null
         }
       ]
+    },
+    {
+      "stage": "round_of_16",
+      "label": "Round of 16",
+      "matches": [
+        {
+          "match_id": "wc-2026-canada-morocco-2026-07-04",
+          "home_team": "Canada",
+          "away_team": "Morocco",
+          "home_confederation": "CONCACAF",
+          "away_confederation": "CAF",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-04",
+          "kickoff": "2026-07-04T17:00:00+00:00",
+          "kickoff_label": "04 Jul 17:00",
+          "venue": "Houston",
+          "host_city": "Houston",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
+          "match_id": "wc-2026-paraguay-france-2026-07-04",
+          "home_team": "Paraguay",
+          "away_team": "France",
+          "home_confederation": "CONMEBOL",
+          "away_confederation": "UEFA",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-04",
+          "kickoff": "2026-07-04T21:00:00+00:00",
+          "kickoff_label": "04 Jul 21:00",
+          "venue": "Philadelphia",
+          "host_city": "Philadelphia",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
+          "match_id": "wc-2026-brazil-norway-2026-07-05",
+          "home_team": "Brazil",
+          "away_team": "Norway",
+          "home_confederation": "CONMEBOL",
+          "away_confederation": "UEFA",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-05T20:00:00+00:00",
+          "kickoff_label": "05 Jul 20:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "host_city": "New York/New Jersey",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        }
+      ]
     }
   ],
-  "total": 88,
-  "upcoming": 10
+  "total": 91,
+  "upcoming": 12
 }
