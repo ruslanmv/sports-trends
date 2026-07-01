@@ -1,26 +1,8 @@
 {
-  "last_updated": "2026-06-30T22:49:02.227511+00:00",
+  "last_updated": "2026-07-01T00:00:29.210751+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
-    {
-      "match_id": "wc-2026-france-sweden-2026-06-30",
-      "home_team": "France",
-      "away_team": "Sweden",
-      "stage": "round_of_32",
-      "kickoff": "2026-06-30T21:00:00+00:00",
-      "kickoff_label": "30 Jun 21:00",
-      "prediction": {
-        "home_win": 0.603,
-        "draw": 0.159,
-        "away_win": 0.238,
-        "home_to_advance": 0.765,
-        "away_to_advance": 0.235,
-        "ai_pick": "France favoured",
-        "confidence": 60
-      },
-      "interest_score": 70
-    },
     {
       "match_id": "wc-2026-portugal-croatia-2026-07-02",
       "home_team": "Portugal",

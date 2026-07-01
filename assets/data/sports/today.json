@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-30",
-  "last_updated": "2026-06-30T22:49:01.819847+00:00",
+  "date": "2026-07-01",
+  "last_updated": "2026-07-01T00:00:28.861720+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388155",
+      "match_id": "tsdb-2388160",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Detroit Tigers",
+      "home_team": "Chicago Cubs",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
