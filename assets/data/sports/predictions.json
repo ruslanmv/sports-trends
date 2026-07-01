@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-01T00:00:28.861733+00:00",
+  "last_updated": "2026-07-01T04:21:59.216543+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388160",
+      "match_id": "tsdb-2388177",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "San Diego Padres",
-      "kickoff": "2026-07-01T00:05:00",
-      "kickoff_label": "00:05",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-07-01T16:35:00",
+      "kickoff_label": "16:35",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Chicago Cubs favoured",
+      "prediction_label": "AI: Baltimore Orioles favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago Cubs 0.00 vs San Diego Padres 0.00.",
+        "Recent form (last 5): Baltimore Orioles 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

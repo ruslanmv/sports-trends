@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T00:00:27.768516+00:00",
+  "last_updated": "2026-07-01T04:21:58.168645+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388157",
+      "match_id": "tsdb-2388165",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Kansas City Royals",
-      "away_team": "Tampa Bay Rays",
-      "home_score": 1,
-      "away_score": null,
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "San Francisco Giants",
+      "home_score": 8,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
