@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:46:50.456238+00:00",
+  "last_updated": "2026-07-01T22:14:19.136000+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Toronto Blue Jays",
       "away_team": "New York Mets",
-      "home_score": 5,
-      "away_score": null,
+      "home_score": 9,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
