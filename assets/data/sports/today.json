@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "last_updated": "2026-07-01T14:13:46.934991+00:00",
+  "last_updated": "2026-07-01T16:43:32.121815+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388177",
+      "match_id": "tsdb-2388175",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Chicago White Sox",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Texas Rangers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
