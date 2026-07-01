@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T22:14:20.546070+00:00",
+  "last_updated": "2026-07-01T23:50:57.049601+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 11,
+  "count": 10,
   "matches": [
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -150,35 +150,6 @@
         "Cape Verde": 0.132
       },
       "kickoff_label": "03 Jul 22:00"
-    },
-    {
-      "match_id": "wc-2026-belgium-senegal-2026-07-01",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Belgium",
-      "away_team": "Senegal",
-      "kickoff": "2026-07-01T20:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.462,
-        "draw": 0.226,
-        "team2": 0.312
-      },
-      "prediction_label": "Belgium favoured",
-      "confidence": 0.462,
-      "interest_score": 62,
-      "explanation": [
-        "Elo: Belgium 1955 vs Senegal 1845 (Δ +110).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Belgium 62% · Senegal 38%."
-      ],
-      "to_advance": {
-        "Belgium": 0.622,
-        "Senegal": 0.378
-      },
-      "kickoff_label": "01 Jul 20:00"
     },
     {
       "match_id": "wc-2026-canada-morocco-2026-07-04",

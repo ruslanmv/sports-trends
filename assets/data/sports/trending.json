@@ -1,49 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-01T22:14:20.197328+00:00",
-  "count": 6,
+  "last_updated": "2026-07-01T23:50:56.754033+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Philadelphia Phillies vs Pittsburgh Pirates",
+      "label": "Houston Astros vs Minnesota Twins",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Angers vs Lille",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Barcelona vs Athletic Bilbao",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

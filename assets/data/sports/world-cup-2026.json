@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T22:14:20.546070+00:00",
+  "last_updated": "2026-07-01T23:50:57.049601+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -90,24 +90,6 @@
         "away_to_advance": 0.132,
         "ai_pick": "Argentina favoured",
         "confidence": 73
-      },
-      "interest_score": 62
-    },
-    {
-      "match_id": "wc-2026-belgium-senegal-2026-07-01",
-      "home_team": "Belgium",
-      "away_team": "Senegal",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-01T20:00:00+00:00",
-      "kickoff_label": "01 Jul 20:00",
-      "prediction": {
-        "home_win": 0.462,
-        "draw": 0.226,
-        "away_win": 0.312,
-        "home_to_advance": 0.622,
-        "away_to_advance": 0.378,
-        "ai_pick": "Belgium favoured",
-        "confidence": 46
       },
       "interest_score": 62
     },

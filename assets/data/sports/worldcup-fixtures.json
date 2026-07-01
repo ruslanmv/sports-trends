@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T22:14:20.546070+00:00",
+  "last_updated": "2026-07-01T23:50:57.049601+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1387,9 +1387,9 @@
           "kickoff_label": "01 Jul 20:00",
           "venue": "Seattle",
           "host_city": "Seattle",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 2
         },
         {
           "match_id": "wc-2026-usa-bosnia&herzegovina-2026-07-01",
@@ -1571,5 +1571,5 @@
     }
   ],
   "total": 91,
-  "upcoming": 11
+  "upcoming": 10
 }
