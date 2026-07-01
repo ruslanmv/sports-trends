@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T16:43:32.622803+00:00",
+  "last_updated": "2026-07-01T18:56:20.073718+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 12,
+  "count": 11,
   "matches": [
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -179,35 +179,6 @@
         "Senegal": 0.378
       },
       "kickoff_label": "01 Jul 20:00"
-    },
-    {
-      "match_id": "wc-2026-england-drcongo-2026-07-01",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "England",
-      "away_team": "DR Congo",
-      "kickoff": "2026-07-01T16:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.638,
-        "draw": 0.143,
-        "team2": 0.219
-      },
-      "prediction_label": "England favoured",
-      "confidence": 0.638,
-      "interest_score": 59,
-      "explanation": [
-        "Elo: England 2030 vs DR Congo 1730 (Δ +300).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): England 80% · DR Congo 20%."
-      ],
-      "to_advance": {
-        "England": 0.796,
-        "DR Congo": 0.204
-      },
-      "kickoff_label": "01 Jul 16:00"
     },
     {
       "match_id": "wc-2026-canada-morocco-2026-07-04",

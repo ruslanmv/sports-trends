@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "last_updated": "2026-07-01T16:43:32.121815+00:00",
+  "last_updated": "2026-07-01T18:56:19.728690+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388175",
+      "match_id": "tsdb-2388168",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Texas Rangers",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "New York Mets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

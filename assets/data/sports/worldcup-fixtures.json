@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-01T16:43:32.622803+00:00",
+  "last_updated": "2026-07-01T18:56:20.073718+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1370,9 +1370,9 @@
           "kickoff_label": "01 Jul 16:00",
           "venue": "Atlanta",
           "host_city": "Atlanta",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-belgium-senegal-2026-07-01",
@@ -1571,5 +1571,5 @@
     }
   ],
   "total": 91,
-  "upcoming": 12
+  "upcoming": 11
 }
