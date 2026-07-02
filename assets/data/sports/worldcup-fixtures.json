@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-02T06:33:11.248899+00:00",
+  "last_updated": "2026-07-02T09:54:56.790826+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1566,10 +1566,44 @@
           "status": "scheduled",
           "home_score": null,
           "away_score": null
+        },
+        {
+          "match_id": "wc-2026-mexico-england-2026-07-05",
+          "home_team": "Mexico",
+          "away_team": "England",
+          "home_confederation": "CONCACAF",
+          "away_confederation": "UEFA",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-05",
+          "kickoff": "2026-07-06T00:00:00+00:00",
+          "kickoff_label": "06 Jul 00:00",
+          "venue": "Mexico City",
+          "host_city": "Mexico City",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
+          "match_id": "wc-2026-usa-belgium-2026-07-06",
+          "home_team": "USA",
+          "away_team": "Belgium",
+          "home_confederation": "CONCACAF",
+          "away_confederation": "UEFA",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-06",
+          "kickoff": "2026-07-07T00:00:00+00:00",
+          "kickoff_label": "07 Jul 00:00",
+          "venue": "Seattle",
+          "host_city": "Seattle",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
         }
       ]
     }
   ],
-  "total": 91,
-  "upcoming": 9
+  "total": 93,
+  "upcoming": 11
 }

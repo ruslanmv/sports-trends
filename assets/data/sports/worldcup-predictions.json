@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-02T06:33:11.248899+00:00",
+  "last_updated": "2026-07-02T09:54:56.790826+00:00",
   "matches": [
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -121,6 +121,35 @@
       "kickoff_label": "04 Jul 21:00"
     },
     {
+      "match_id": "wc-2026-mexico-england-2026-07-05",
+      "competition_type": "world_cup",
+      "stage": "round_of_16",
+      "group": "",
+      "home_team": "Mexico",
+      "away_team": "England",
+      "kickoff": "2026-07-06T00:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.29,
+        "draw": 0.204,
+        "team2": 0.505
+      },
+      "prediction_label": "England favoured",
+      "confidence": 0.505,
+      "interest_score": 67,
+      "explanation": [
+        "Elo: Mexico 1875 vs England 2030 (Δ -155, host advantage).",
+        "Stage importance 86/100 (round of 16).",
+        "To advance (incl. extra time / penalties): Mexico 33% · England 67%."
+      ],
+      "to_advance": {
+        "Mexico": 0.331,
+        "England": 0.669
+      },
+      "kickoff_label": "06 Jul 00:00"
+    },
+    {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",
       "competition_type": "world_cup",
       "stage": "round_of_32",
@@ -148,6 +177,35 @@
         "Cape Verde": 0.132
       },
       "kickoff_label": "03 Jul 22:00"
+    },
+    {
+      "match_id": "wc-2026-usa-belgium-2026-07-06",
+      "competition_type": "world_cup",
+      "stage": "round_of_16",
+      "group": "",
+      "home_team": "USA",
+      "away_team": "Belgium",
+      "kickoff": "2026-07-07T00:00:00+00:00",
+      "neutral_venue": false,
+      "host_advantage": true,
+      "result_90": {
+        "team1": 0.33,
+        "draw": 0.245,
+        "team2": 0.424
+      },
+      "prediction_label": "Belgium favoured",
+      "confidence": 0.424,
+      "interest_score": 62,
+      "explanation": [
+        "Elo: USA 1885 vs Belgium 1955 (Δ -70, host advantage).",
+        "Stage importance 86/100 (round of 16).",
+        "To advance (incl. extra time / penalties): USA 42% · Belgium 58%."
+      ],
+      "to_advance": {
+        "USA": 0.421,
+        "Belgium": 0.579
+      },
+      "kickoff_label": "07 Jul 00:00"
     },
     {
       "match_id": "wc-2026-canada-morocco-2026-07-04",

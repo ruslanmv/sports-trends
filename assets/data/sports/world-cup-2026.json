@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T06:33:11.248899+00:00",
+  "last_updated": "2026-07-02T09:54:56.790826+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -76,6 +76,24 @@
       "interest_score": 67
     },
     {
+      "match_id": "wc-2026-mexico-england-2026-07-05",
+      "home_team": "Mexico",
+      "away_team": "England",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-06T00:00:00+00:00",
+      "kickoff_label": "06 Jul 00:00",
+      "prediction": {
+        "home_win": 0.29,
+        "draw": 0.204,
+        "away_win": 0.505,
+        "home_to_advance": 0.331,
+        "away_to_advance": 0.669,
+        "ai_pick": "England favoured",
+        "confidence": 50
+      },
+      "interest_score": 67
+    },
+    {
       "match_id": "wc-2026-argentina-capeverde-2026-07-03",
       "home_team": "Argentina",
       "away_team": "Cape Verde",
@@ -90,6 +108,24 @@
         "away_to_advance": 0.132,
         "ai_pick": "Argentina favoured",
         "confidence": 73
+      },
+      "interest_score": 62
+    },
+    {
+      "match_id": "wc-2026-usa-belgium-2026-07-06",
+      "home_team": "USA",
+      "away_team": "Belgium",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-07T00:00:00+00:00",
+      "kickoff_label": "07 Jul 00:00",
+      "prediction": {
+        "home_win": 0.33,
+        "draw": 0.245,
+        "away_win": 0.424,
+        "home_to_advance": 0.421,
+        "away_to_advance": 0.579,
+        "ai_pick": "Belgium favoured",
+        "confidence": 42
       },
       "interest_score": 62
     },
