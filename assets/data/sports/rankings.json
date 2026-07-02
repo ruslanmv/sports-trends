@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:36:59.464264+00:00",
+  "last_updated": "2026-07-02T16:45:49.761932+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388184",
-      "label": "Philadelphia Phillies vs Pittsburgh Pirates",
+      "match_id": "tsdb-2388181",
+      "label": "Milwaukee Brewers vs Cincinnati Reds",
       "interest_score": 50
     },
     {
