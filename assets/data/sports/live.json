@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T20:00:00.083548+00:00",
+  "last_updated": "2026-07-02T21:12:45.278592+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Colorado Rockies",
       "away_team": "Miami Marlins",
-      "home_score": 1,
-      "away_score": 3,
+      "home_score": 5,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

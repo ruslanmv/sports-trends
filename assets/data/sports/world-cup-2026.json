@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T20:00:01.861394+00:00",
+  "last_updated": "2026-07-02T21:12:46.654337+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -38,24 +38,6 @@
         "confidence": 45
       },
       "interest_score": 70
-    },
-    {
-      "match_id": "wc-2026-spain-austria-2026-07-02",
-      "home_team": "Spain",
-      "away_team": "Austria",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-02T19:00:00+00:00",
-      "kickoff_label": "02 Jul 19:00",
-      "prediction": {
-        "home_win": 0.534,
-        "draw": 0.191,
-        "away_win": 0.276,
-        "home_to_advance": 0.699,
-        "away_to_advance": 0.301,
-        "ai_pick": "Spain favoured",
-        "confidence": 53
-      },
-      "interest_score": 69
     },
     {
       "match_id": "wc-2026-paraguay-france-2026-07-04",

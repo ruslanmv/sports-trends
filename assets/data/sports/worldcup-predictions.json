@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-02T20:00:01.861394+00:00",
+  "last_updated": "2026-07-02T21:12:46.654337+00:00",
   "matches": [
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -61,35 +61,6 @@
         "Croatia": 0.394
       },
       "kickoff_label": "02 Jul 23:00"
-    },
-    {
-      "match_id": "wc-2026-spain-austria-2026-07-02",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Spain",
-      "away_team": "Austria",
-      "kickoff": "2026-07-02T19:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.534,
-        "draw": 0.191,
-        "team2": 0.276
-      },
-      "prediction_label": "Spain favoured",
-      "confidence": 0.534,
-      "interest_score": 69,
-      "explanation": [
-        "Elo: Spain 2040 vs Austria 1855 (Δ +185).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Spain 70% · Austria 30%."
-      ],
-      "to_advance": {
-        "Spain": 0.699,
-        "Austria": 0.301
-      },
-      "kickoff_label": "02 Jul 19:00"
     },
     {
       "match_id": "wc-2026-paraguay-france-2026-07-04",
