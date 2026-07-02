@@ -2,22 +2,22 @@
   "date": "2026-07-02",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-02T18:23:32.510284+00:00",
+  "last_updated": "2026-07-02T20:00:01.548995+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388187",
+      "match_id": "tsdb-2388188",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "Miami Marlins",
-      "kickoff": "2026-07-02T19:10:00",
-      "kickoff_label": "19:10",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-07-02T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Colorado Rockies favoured",
+      "prediction_label": "AI: Cleveland Guardians favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Colorado Rockies 0.00 vs Miami Marlins 0.00.",
+        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
