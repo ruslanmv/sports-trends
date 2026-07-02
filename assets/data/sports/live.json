@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T23:50:55.303783+00:00",
-  "count": 7,
+  "last_updated": "2026-07-02T02:32:29.517407+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388180",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "San Francisco Giants",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
