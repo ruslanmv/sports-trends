@@ -2,22 +2,22 @@
   "date": "2026-07-03",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-03T21:59:14.025055+00:00",
+  "last_updated": "2026-07-03T23:06:30.524001+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388191",
+      "match_id": "tsdb-2388197",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Pittsburgh Pirates",
-      "kickoff": "2026-07-03T22:45:00",
-      "kickoff_label": "22:45",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-07-03T23:10:00",
+      "kickoff_label": "23:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Washington Nationals favoured",
+      "prediction_label": "AI: Cleveland Guardians favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Washington Nationals 0.00 vs Pittsburgh Pirates 0.00.",
+        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
