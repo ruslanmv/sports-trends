@@ -2,41 +2,41 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-03T14:38:35.535869+00:00",
+  "last_updated": "2026-07-03T16:20:20.866686+00:00",
   "region": "Worldwide",
   "matches": [
     {
       "rank": 1,
-      "label": "Brazil vs Norway",
+      "label": "Portugal vs Spain",
       "stage": "round_of_16",
-      "interest_score": 70,
+      "interest_score": 82,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Brazil vs Norway",
+      "stage": "round_of_16",
+      "interest_score": 70,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Paraguay vs France",
       "stage": "round_of_16",
       "interest_score": 67,
       "hot": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "label": "Mexico vs England",
       "stage": "round_of_16",
       "interest_score": 67,
       "hot": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "label": "Argentina vs Cape Verde",
       "stage": "round_of_32",
-      "interest_score": 62,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "USA vs Belgium",
-      "stage": "round_of_16",
       "interest_score": 62,
       "hot": false
     }

@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-07-03T14:38:35.535869+00:00",
+  "last_updated": "2026-07-03T16:20:20.866686+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
+    {
+      "match_id": "wc-2026-portugal-spain-2026-07-06",
+      "home_team": "Portugal",
+      "away_team": "Spain",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-06T19:00:00+00:00",
+      "kickoff_label": "06 Jul 19:00",
+      "prediction": {
+        "home_win": 0.344,
+        "draw": 0.26,
+        "away_win": 0.396,
+        "home_to_advance": 0.455,
+        "away_to_advance": 0.545,
+        "ai_pick": "Spain favoured",
+        "confidence": 40
+      },
+      "interest_score": 82
+    },
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
       "home_team": "Brazil",

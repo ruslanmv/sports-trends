@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-03T14:38:35.535869+00:00",
+  "last_updated": "2026-07-03T16:20:20.866686+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1585,6 +1585,23 @@
           "away_score": null
         },
         {
+          "match_id": "wc-2026-portugal-spain-2026-07-06",
+          "home_team": "Portugal",
+          "away_team": "Spain",
+          "home_confederation": "UEFA",
+          "away_confederation": "UEFA",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-06",
+          "kickoff": "2026-07-06T19:00:00+00:00",
+          "kickoff_label": "06 Jul 19:00",
+          "venue": "Dallas (Arlington)",
+          "host_city": "Dallas",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
           "match_id": "wc-2026-usa-belgium-2026-07-06",
           "home_team": "USA",
           "away_team": "Belgium",
@@ -1604,6 +1621,6 @@
       ]
     }
   ],
-  "total": 93,
-  "upcoming": 8
+  "total": 94,
+  "upcoming": 9
 }
