@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-06-30 07:06 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-03 06:45 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-06-30 07:06 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-🏆 FIFA World Cup · 🎾 Wimbledon · 🏏 ICC T20 World Cup · ⚾ MLB · 🎮 Esports Majors
+🏆 FIFA World Cup · 🎾 Wimbledon · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-Premier League (in 41d) · La Liga (in 46d) · Ligue 1 (in 46d) · Serie A (in 49d)
+Premier League (in 38d) · La Liga (in 43d) · Ligue 1 (in 43d) · Serie A (in 46d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ Premier League (in 41d) · La Liga (in 46d) · Ligue 1 (in 46d) · Serie A (in 4
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 2 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Angers** vs **Lille** | French Ligue 1 | 15:00 | Angers favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Lincoln Red Imps** vs **Inter Club d'Escaldes** | UEFA Champions League | 16:00 | Lincoln Red Imps favoured | `██████░░░░` 60% |
-| 5 | ⚾ **Baltimore Orioles** vs **Chicago White Sox** | MLB | 22:35 | Baltimore Orioles favoured | `██████░░░░` 58% |
+| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
+| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Angers** vs **Lille** | French Ligue 1 | 15:00 | Angers favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Barcelona** vs **Athletic Bilbao** | Spanish La Liga | 15:00 | Barcelona favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
@@ -64,9 +64,9 @@ Premier League (in 41d) · La Liga (in 46d) · Ligue 1 (in 46d) · Serie A (in 4
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ France vs Sweden | Round Of 32 | France 60% · draw 16% · Sweden 24% | **France** 76% · **Sweden** 24% |
-| ⚽ Portugal vs Croatia | Round Of 32 | Portugal 45% · draw 23% · Croatia 32% | **Portugal** 61% · **Croatia** 39% |
-| ⚽ Spain vs Austria | Round Of 32 | Spain 53% · draw 19% · Austria 28% | **Spain** 70% · **Austria** 30% |
+| ⚽ Brazil vs Norway | Round Of 16 | Brazil 57% · draw 18% · Norway 26% | **Brazil** 73% · **Norway** 27% |
+| ⚽ Paraguay vs France | Round Of 16 | Paraguay 21% · draw 14% · France 66% | **France** 81% · **Paraguay** 19% |
+| ⚽ Mexico vs England | Round Of 16 | Mexico 29% · draw 20% · England 50% | **England** 67% · **Mexico** 33% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
