@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-02T23:57:46.386007+00:00",
+  "last_updated": "2026-07-03T02:45:54.254692+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1438,9 +1438,9 @@
           "kickoff_label": "02 Jul 23:00",
           "venue": "Toronto",
           "host_city": "Toronto",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-switzerland-algeria-2026-07-02",
@@ -1605,5 +1605,5 @@
     }
   ],
   "total": 93,
-  "upcoming": 10
+  "upcoming": 9
 }
