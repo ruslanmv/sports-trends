@@ -1,54 +1,54 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-03T06:45:25.743342+00:00",
+  "last_updated": "2026-07-03T09:40:59.598827+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Chicago Cubs vs St. Louis Cardinals",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Udinese vs Como",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Angers vs Lille",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Barcelona vs Athletic Bilbao",
+      "label": "Angers vs Lille",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "label": "Barcelona vs Athletic Bilbao",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Chicago Cubs vs St. Louis Cardinals",
-      "sport": "baseball",
+      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "sport": "football",
       "audience": null,
       "hot": false
     }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T06:45:25.442360+00:00",
-  "count": 5,
+  "last_updated": "2026-07-03T09:40:58.643867+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -62,6 +62,45 @@
       "away_team": "St Etienne",
       "home_score": 4,
       "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2470477",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Paris SG",
+      "away_team": "Arsenal",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2483461",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "San Antonio Spurs",
+      "away_team": "New York Knicks",
+      "home_score": 90,
+      "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388185",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "San Diego Padres",
+      "home_score": 12,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
