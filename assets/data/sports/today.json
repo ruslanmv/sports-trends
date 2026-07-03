@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "last_updated": "2026-07-03T19:05:16.315548+00:00",
+  "last_updated": "2026-07-03T20:36:24.786464+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388199",
+      "match_id": "tsdb-2388191",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Washington Nationals",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

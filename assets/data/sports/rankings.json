@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:05:16.315585+00:00",
+  "last_updated": "2026-07-03T20:36:24.786513+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388199",
-      "label": "Chicago Cubs vs St. Louis Cardinals",
+      "match_id": "tsdb-2388191",
+      "label": "Washington Nationals vs Pittsburgh Pirates",
       "interest_score": 50
     },
     {
