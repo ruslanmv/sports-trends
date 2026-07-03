@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-03T02:45:54.254692+00:00",
+  "last_updated": "2026-07-03T06:24:01.670613+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1455,9 +1455,9 @@
           "kickoff_label": "03 Jul 03:00",
           "venue": "Vancouver",
           "host_city": "Vancouver",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 0
         },
         {
           "match_id": "wc-2026-australia-egypt-2026-07-03",
@@ -1605,5 +1605,5 @@
     }
   ],
   "total": 93,
-  "upcoming": 9
+  "upcoming": 8
 }

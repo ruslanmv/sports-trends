@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T02:45:52.829529+00:00",
+  "last_updated": "2026-07-03T06:24:00.359126+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Los Angeles Dodgers",
       "away_team": "San Diego Padres",
-      "home_score": 0,
-      "away_score": 3,
+      "home_score": 12,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

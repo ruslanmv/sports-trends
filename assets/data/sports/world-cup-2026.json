@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T02:45:54.254692+00:00",
+  "last_updated": "2026-07-03T06:24:01.670613+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -126,24 +126,6 @@
         "away_to_advance": 0.346,
         "ai_pick": "Colombia favoured",
         "confidence": 49
-      },
-      "interest_score": 52
-    },
-    {
-      "match_id": "wc-2026-switzerland-algeria-2026-07-02",
-      "home_team": "Switzerland",
-      "away_team": "Algeria",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-03T03:00:00+00:00",
-      "kickoff_label": "03 Jul 03:00",
-      "prediction": {
-        "home_win": 0.415,
-        "draw": 0.25,
-        "away_win": 0.335,
-        "home_to_advance": 0.568,
-        "away_to_advance": 0.432,
-        "ai_pick": "Switzerland favoured",
-        "confidence": 42
       },
       "interest_score": 52
     },
