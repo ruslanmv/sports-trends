@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-03T20:36:25.203060+00:00",
+  "last_updated": "2026-07-03T21:59:14.343162+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1472,9 +1472,9 @@
           "kickoff_label": "03 Jul 18:00",
           "venue": "Dallas (Arlington)",
           "host_city": "Dallas",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-argentina-capeverde-2026-07-03",
@@ -1622,5 +1622,5 @@
     }
   ],
   "total": 94,
-  "upcoming": 9
+  "upcoming": 8
 }

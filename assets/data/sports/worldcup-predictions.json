@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-03T20:36:25.203060+00:00",
+  "last_updated": "2026-07-03T21:59:14.343162+00:00",
   "matches": [
     {
       "match_id": "wc-2026-portugal-spain-2026-07-06",
@@ -235,35 +235,6 @@
         "Ghana": 0.346
       },
       "kickoff_label": "04 Jul 01:30"
-    },
-    {
-      "match_id": "wc-2026-australia-egypt-2026-07-03",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Australia",
-      "away_team": "Egypt",
-      "kickoff": "2026-07-03T18:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.348,
-        "draw": 0.265,
-        "team2": 0.387
-      },
-      "prediction_label": "Egypt favoured",
-      "confidence": 0.387,
-      "interest_score": 47,
-      "explanation": [
-        "Elo: Australia 1780 vs Egypt 1810 (Δ -30).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Australia 47% · Egypt 53%."
-      ],
-      "to_advance": {
-        "Australia": 0.466,
-        "Egypt": 0.534
-      },
-      "kickoff_label": "03 Jul 18:00"
     }
   ]
 }
