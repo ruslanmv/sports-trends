@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:05:55.482906+00:00",
+  "last_updated": "2026-07-04T05:03:07.766319+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -110,24 +110,6 @@
         "confidence": 47
       },
       "interest_score": 53
-    },
-    {
-      "match_id": "wc-2026-colombia-ghana-2026-07-03",
-      "home_team": "Colombia",
-      "away_team": "Ghana",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-04T01:30:00+00:00",
-      "kickoff_label": "04 Jul 01:30",
-      "prediction": {
-        "home_win": 0.491,
-        "draw": 0.211,
-        "away_win": 0.298,
-        "home_to_advance": 0.654,
-        "away_to_advance": 0.346,
-        "ai_pick": "Colombia favoured",
-        "confidence": 49
-      },
-      "interest_score": 52
     }
   ]
 }

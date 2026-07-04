@@ -2,22 +2,22 @@
   "date": "2026-07-04",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-04T01:05:54.970111+00:00",
+  "last_updated": "2026-07-04T05:03:07.476713+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388190",
+      "match_id": "tsdb-2388204",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-07-04T01:38:00",
-      "kickoff_label": "01:38",
+      "home_team": "Washington Nationals",
+      "away_team": "Pittsburgh Pirates",
+      "kickoff": "2026-07-04T15:05:00",
+      "kickoff_label": "15:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Los Angeles Angels favoured",
+      "prediction_label": "AI: Washington Nationals favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Angels 0.00 vs Boston Red Sox 0.00.",
+        "Recent form (last 5): Washington Nationals 0.00 vs Pittsburgh Pirates 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

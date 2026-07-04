@@ -1,14 +1,14 @@
 {
   "date": "2026-07-04",
-  "last_updated": "2026-07-04T01:05:54.970098+00:00",
+  "last_updated": "2026-07-04T05:03:07.476703+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388190",
+      "match_id": "tsdb-2388204",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Boston Red Sox",
+      "home_team": "Washington Nationals",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

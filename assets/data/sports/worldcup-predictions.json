@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-04T01:05:55.482906+00:00",
+  "last_updated": "2026-07-04T05:03:07.766319+00:00",
   "matches": [
     {
       "match_id": "wc-2026-portugal-spain-2026-07-06",
@@ -177,35 +177,6 @@
         "Morocco": 0.633
       },
       "kickoff_label": "04 Jul 17:00"
-    },
-    {
-      "match_id": "wc-2026-colombia-ghana-2026-07-03",
-      "competition_type": "world_cup",
-      "stage": "round_of_32",
-      "group": "",
-      "home_team": "Colombia",
-      "away_team": "Ghana",
-      "kickoff": "2026-07-04T01:30:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.491,
-        "draw": 0.211,
-        "team2": 0.298
-      },
-      "prediction_label": "Colombia favoured",
-      "confidence": 0.491,
-      "interest_score": 52,
-      "explanation": [
-        "Elo: Colombia 1900 vs Ghana 1760 (Δ +140).",
-        "Stage importance 82/100 (round of 32).",
-        "To advance (incl. extra time / penalties): Colombia 65% · Ghana 35%."
-      ],
-      "to_advance": {
-        "Colombia": 0.654,
-        "Ghana": 0.346
-      },
-      "kickoff_label": "04 Jul 01:30"
     }
   ]
 }
