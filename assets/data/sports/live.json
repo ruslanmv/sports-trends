@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T14:07:30.196871+00:00",
+  "last_updated": "2026-07-04T15:40:08.659989+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388194",
+      "match_id": "tsdb-2388204",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "San Diego Padres",
-      "home_score": 4,
-      "away_score": 3,
+      "home_team": "Washington Nationals",
+      "away_team": "Pittsburgh Pirates",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
