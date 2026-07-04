@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T17:58:21.364224+00:00",
-  "count": 7,
+  "last_updated": "2026-07-04T19:11:58.158298+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388206",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "New York Yankees",
+      "away_team": "Minnesota Twins",
+      "home_score": 1,
+      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

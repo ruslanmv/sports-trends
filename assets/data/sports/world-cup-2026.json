@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T17:58:23.460344+00:00",
+  "last_updated": "2026-07-04T19:11:59.863561+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -128,24 +128,6 @@
         "confidence": 40
       },
       "interest_score": 61
-    },
-    {
-      "match_id": "wc-2026-canada-morocco-2026-07-04",
-      "home_team": "Canada",
-      "away_team": "Morocco",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-04T17:00:00+00:00",
-      "kickoff_label": "04 Jul 17:00",
-      "prediction": {
-        "home_win": 0.307,
-        "draw": 0.221,
-        "away_win": 0.472,
-        "home_to_advance": 0.367,
-        "away_to_advance": 0.633,
-        "ai_pick": "Morocco favoured",
-        "confidence": 47
-      },
-      "interest_score": 53
     }
   ]
 }

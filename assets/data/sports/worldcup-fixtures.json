@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-04T17:58:23.460344+00:00",
+  "last_updated": "2026-07-04T19:11:59.863561+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1529,9 +1529,9 @@
           "kickoff_label": "04 Jul 17:00",
           "venue": "Houston",
           "host_city": "Houston",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 0,
+          "away_score": 3
         },
         {
           "match_id": "wc-2026-paraguay-france-2026-07-04",
@@ -1656,5 +1656,5 @@
     }
   ],
   "total": 96,
-  "upcoming": 8
+  "upcoming": 7
 }
