@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T10:31:11.826608+00:00",
+  "last_updated": "2026-07-04T12:02:37.886248+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -20,6 +20,24 @@
         "confidence": 40
       },
       "interest_score": 82
+    },
+    {
+      "match_id": "wc-2026-argentina-egypt-2026-07-07",
+      "home_team": "Argentina",
+      "away_team": "Egypt",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-07T16:00:00+00:00",
+      "kickoff_label": "07 Jul 16:00",
+      "prediction": {
+        "home_win": 0.634,
+        "draw": 0.145,
+        "away_win": 0.221,
+        "home_to_advance": 0.793,
+        "away_to_advance": 0.207,
+        "ai_pick": "Argentina favoured",
+        "confidence": 63
+      },
+      "interest_score": 73
     },
     {
       "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -92,6 +110,24 @@
         "confidence": 42
       },
       "interest_score": 62
+    },
+    {
+      "match_id": "wc-2026-switzerland-colombia-2026-07-07",
+      "home_team": "Switzerland",
+      "away_team": "Colombia",
+      "stage": "round_of_16",
+      "kickoff": "2026-07-07T20:00:00+00:00",
+      "kickoff_label": "07 Jul 20:00",
+      "prediction": {
+        "home_win": 0.344,
+        "draw": 0.26,
+        "away_win": 0.396,
+        "home_to_advance": 0.455,
+        "away_to_advance": 0.545,
+        "ai_pick": "Colombia favoured",
+        "confidence": 40
+      },
+      "interest_score": 61
     },
     {
       "match_id": "wc-2026-canada-morocco-2026-07-04",

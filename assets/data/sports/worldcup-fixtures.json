@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-04T10:31:11.826608+00:00",
+  "last_updated": "2026-07-04T12:02:37.886248+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1617,10 +1617,44 @@
           "status": "scheduled",
           "home_score": null,
           "away_score": null
+        },
+        {
+          "match_id": "wc-2026-argentina-egypt-2026-07-07",
+          "home_team": "Argentina",
+          "away_team": "Egypt",
+          "home_confederation": "CONMEBOL",
+          "away_confederation": "CAF",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-07",
+          "kickoff": "2026-07-07T16:00:00+00:00",
+          "kickoff_label": "07 Jul 16:00",
+          "venue": "Atlanta",
+          "host_city": "Atlanta",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
+          "match_id": "wc-2026-switzerland-colombia-2026-07-07",
+          "home_team": "Switzerland",
+          "away_team": "Colombia",
+          "home_confederation": "UEFA",
+          "away_confederation": "CONMEBOL",
+          "stage": "round_of_16",
+          "group": "",
+          "date": "2026-07-07",
+          "kickoff": "2026-07-07T20:00:00+00:00",
+          "kickoff_label": "07 Jul 20:00",
+          "venue": "Vancouver",
+          "host_city": "Vancouver",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
         }
       ]
     }
   ],
-  "total": 94,
-  "upcoming": 6
+  "total": 96,
+  "upcoming": 8
 }
