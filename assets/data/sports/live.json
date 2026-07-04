@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T15:40:08.659989+00:00",
+  "last_updated": "2026-07-04T16:55:35.402888+00:00",
   "count": 8,
   "matches": [
     {
@@ -100,7 +100,7 @@
       "home_team": "Washington Nationals",
       "away_team": "Pittsburgh Pirates",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
