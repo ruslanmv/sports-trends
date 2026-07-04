@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-03 06:45 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-04 06:32 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-07-03 06:45 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 38d) · La Liga (in 43d) · Ligue 1 (in 43d) · Serie A (in 46d)
+Premier League (in 37d) · La Liga (in 42d) · Ligue 1 (in 42d) · Serie A (in 45d)
 <!-- SEASON:END -->
 
 ---
@@ -64,9 +64,9 @@ Premier League (in 38d) · La Liga (in 43d) · Ligue 1 (in 43d) · Serie A (in 4
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
+| ⚽ Portugal vs Spain | Round Of 16 | Portugal 34% · draw 26% · Spain 40% | **Spain** 55% · **Portugal** 46% |
 | ⚽ Brazil vs Norway | Round Of 16 | Brazil 57% · draw 18% · Norway 26% | **Brazil** 73% · **Norway** 27% |
 | ⚽ Paraguay vs France | Round Of 16 | Paraguay 21% · draw 14% · France 66% | **France** 81% · **Paraguay** 19% |
-| ⚽ Mexico vs England | Round Of 16 | Mexico 29% · draw 20% · England 50% | **England** 67% · **Mexico** 33% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>

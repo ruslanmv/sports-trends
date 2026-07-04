@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T05:03:07.476749+00:00",
+  "last_updated": "2026-07-04T06:32:27.942540+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,44 +35,44 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388204",
-      "label": "Washington Nationals vs Pittsburgh Pirates",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
       "match_id": "tsdb-2508333",
       "label": "Bayern Munich vs Stuttgart",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 2,
       "match_id": "tsdb-2494000",
       "label": "Arsenal vs Coventry City",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 3,
       "match_id": "tsdb-2482138",
       "label": "Udinese vs Como",
       "interest_score": 50
     },
     {
-      "rank": 5,
+      "rank": 4,
       "match_id": "tsdb-2489462",
       "label": "Angers vs Lille",
       "interest_score": 50
     },
     {
-      "rank": 6,
+      "rank": 5,
       "match_id": "tsdb-2506169",
       "label": "Barcelona vs Athletic Bilbao",
       "interest_score": 50
     },
     {
-      "rank": 7,
+      "rank": 6,
       "match_id": "tsdb-2491734",
       "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "interest_score": 50
+    },
+    {
+      "rank": 7,
+      "match_id": "tsdb-2388204",
+      "label": "Washington Nationals vs Pittsburgh Pirates",
       "interest_score": 50
     }
   ]
