@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-04T22:27:51.664558+00:00",
+  "last_updated": "2026-07-04T23:31:07.556023+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 7,
+  "count": 6,
   "matches": [
     {
       "match_id": "wc-2026-portugal-spain-2026-07-06",
@@ -92,35 +92,6 @@
         "Norway": 0.269
       },
       "kickoff_label": "05 Jul 20:00"
-    },
-    {
-      "match_id": "wc-2026-paraguay-france-2026-07-04",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "Paraguay",
-      "away_team": "France",
-      "kickoff": "2026-07-04T21:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.209,
-        "draw": 0.135,
-        "team2": 0.656
-      },
-      "prediction_label": "France favoured",
-      "confidence": 0.656,
-      "interest_score": 67,
-      "explanation": [
-        "Elo: Paraguay 1760 vs France 2080 (Δ -320).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): Paraguay 19% · France 81%."
-      ],
-      "to_advance": {
-        "Paraguay": 0.189,
-        "France": 0.811
-      },
-      "kickoff_label": "04 Jul 21:00"
     },
     {
       "match_id": "wc-2026-mexico-england-2026-07-05",

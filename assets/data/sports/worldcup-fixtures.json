@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-04T22:27:51.664558+00:00",
+  "last_updated": "2026-07-04T23:31:07.556023+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1546,9 +1546,9 @@
           "kickoff_label": "04 Jul 21:00",
           "venue": "Philadelphia",
           "host_city": "Philadelphia",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 0,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-brazil-norway-2026-07-05",
@@ -1656,5 +1656,5 @@
     }
   ],
   "total": 96,
-  "upcoming": 7
+  "upcoming": 6
 }
