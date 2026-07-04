@@ -1,14 +1,14 @@
 {
   "date": "2026-07-04",
-  "last_updated": "2026-07-04T19:11:59.571684+00:00",
+  "last_updated": "2026-07-04T20:28:23.726563+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388209",
+      "match_id": "tsdb-2388210",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Detroit Tigers",
+      "home_team": "Houston Astros",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
