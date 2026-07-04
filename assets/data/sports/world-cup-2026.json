@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T23:06:30.904441+00:00",
+  "last_updated": "2026-07-04T01:05:55.482906+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -74,24 +74,6 @@
         "confidence": 50
       },
       "interest_score": 67
-    },
-    {
-      "match_id": "wc-2026-argentina-capeverde-2026-07-03",
-      "home_team": "Argentina",
-      "away_team": "Cape Verde",
-      "stage": "round_of_32",
-      "kickoff": "2026-07-03T22:00:00+00:00",
-      "kickoff_label": "03 Jul 22:00",
-      "prediction": {
-        "home_win": 0.73,
-        "draw": 0.104,
-        "away_win": 0.166,
-        "home_to_advance": 0.868,
-        "away_to_advance": 0.132,
-        "ai_pick": "Argentina favoured",
-        "confidence": 73
-      },
-      "interest_score": 62
     },
     {
       "match_id": "wc-2026-usa-belgium-2026-07-06",

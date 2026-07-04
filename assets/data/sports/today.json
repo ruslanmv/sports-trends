@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-03",
-  "last_updated": "2026-07-03T23:06:30.523990+00:00",
+  "date": "2026-07-04",
+  "last_updated": "2026-07-04T01:05:54.970098+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388197",
+      "match_id": "tsdb-2388190",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

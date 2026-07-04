@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-03T23:06:30.524005+00:00",
+  "last_updated": "2026-07-04T01:05:54.970115+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388197",
+      "match_id": "tsdb-2388190",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-07-03T23:10:00",
-      "kickoff_label": "23:10",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Boston Red Sox",
+      "kickoff": "2026-07-04T01:38:00",
+      "kickoff_label": "01:38",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cleveland Guardians favoured",
+      "prediction_label": "AI: Los Angeles Angels favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
+        "Recent form (last 5): Los Angeles Angels 0.00 vs Boston Red Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
