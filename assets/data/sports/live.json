@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T16:55:35.402888+00:00",
-  "count": 8,
+  "last_updated": "2026-07-04T17:58:21.364224+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388204",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Pittsburgh Pirates",
-      "home_score": 1,
-      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

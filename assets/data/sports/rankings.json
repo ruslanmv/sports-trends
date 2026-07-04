@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T16:55:36.800921+00:00",
+  "last_updated": "2026-07-04T17:58:22.940935+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388206",
-      "label": "New York Yankees vs Minnesota Twins",
+      "match_id": "tsdb-2388209",
+      "label": "Texas Rangers vs Detroit Tigers",
       "interest_score": 50
     },
     {
