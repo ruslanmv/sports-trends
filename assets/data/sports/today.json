@@ -1,14 +1,14 @@
 {
   "date": "2026-07-05",
-  "last_updated": "2026-07-05T19:49:14.987436+00:00",
+  "last_updated": "2026-07-05T20:49:43.330410+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388226",
+      "match_id": "tsdb-2388221",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "San Francisco Giants",
+      "home_team": "Seattle Mariners",
+      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

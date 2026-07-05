@@ -2,22 +2,22 @@
   "date": "2026-07-05",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-05T19:49:14.987448+00:00",
+  "last_updated": "2026-07-05T20:49:43.330422+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388226",
+      "match_id": "tsdb-2388221",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "San Francisco Giants",
-      "kickoff": "2026-07-05T20:00:00",
-      "kickoff_label": "20:00",
+      "home_team": "Seattle Mariners",
+      "away_team": "Toronto Blue Jays",
+      "kickoff": "2026-07-05T21:00:00",
+      "kickoff_label": "21:00",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Colorado Rockies favoured",
+      "prediction_label": "AI: Seattle Mariners favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Colorado Rockies 0.00 vs San Francisco Giants 0.00.",
+        "Recent form (last 5): Seattle Mariners 0.00 vs Toronto Blue Jays 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
