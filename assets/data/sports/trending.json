@@ -1,56 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-05T22:55:17.202167+00:00",
-  "count": 7,
+  "last_updated": "2026-07-05T23:59:47.795867+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Los Angeles Dodgers vs San Diego Padres",
+      "label": "Los Angeles Angels vs Boston Red Sox",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Angers vs Lille",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Barcelona vs Athletic Bilbao",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Lincoln Red Imps vs Inter Club d'Escaldes",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
