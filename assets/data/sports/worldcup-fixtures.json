@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-05T18:05:00.803481+00:00",
+  "last_updated": "2026-07-05T19:49:15.382951+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1653,8 +1653,31 @@
           "away_score": null
         }
       ]
+    },
+    {
+      "stage": "quarterfinals",
+      "label": "Quarter-finals",
+      "matches": [
+        {
+          "match_id": "wc-2026-france-morocco-2026-07-09",
+          "home_team": "France",
+          "away_team": "Morocco",
+          "home_confederation": "UEFA",
+          "away_confederation": "CAF",
+          "stage": "quarterfinals",
+          "group": "",
+          "date": "2026-07-09",
+          "kickoff": "2026-07-09T20:00:00+00:00",
+          "kickoff_label": "09 Jul 20:00",
+          "venue": "Boston (Foxborough)",
+          "host_city": "Boston",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        }
+      ]
     }
   ],
-  "total": 96,
-  "upcoming": 6
+  "total": 97,
+  "upcoming": 7
 }

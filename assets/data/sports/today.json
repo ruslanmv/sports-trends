@@ -1,14 +1,14 @@
 {
   "date": "2026-07-05",
-  "last_updated": "2026-07-05T18:05:00.454378+00:00",
+  "last_updated": "2026-07-05T19:49:14.987436+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388229",
+      "match_id": "tsdb-2388226",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Colorado Rockies",
+      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
