@@ -1,14 +1,14 @@
 {
   "date": "2026-07-05",
-  "last_updated": "2026-07-05T20:49:43.330410+00:00",
+  "last_updated": "2026-07-05T21:54:14.429917+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388221",
+      "match_id": "tsdb-2388224",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Toronto Blue Jays",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
