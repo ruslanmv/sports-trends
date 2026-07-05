@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T21:54:14.820303+00:00",
+  "last_updated": "2026-07-05T22:55:17.617404+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -56,24 +56,6 @@
         "confidence": 63
       },
       "interest_score": 73
-    },
-    {
-      "match_id": "wc-2026-brazil-norway-2026-07-05",
-      "home_team": "Brazil",
-      "away_team": "Norway",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-05T20:00:00+00:00",
-      "kickoff_label": "05 Jul 20:00",
-      "prediction": {
-        "home_win": 0.566,
-        "draw": 0.175,
-        "away_win": 0.258,
-        "home_to_advance": 0.731,
-        "away_to_advance": 0.269,
-        "ai_pick": "Brazil favoured",
-        "confidence": 57
-      },
-      "interest_score": 70
     },
     {
       "match_id": "wc-2026-mexico-england-2026-07-05",

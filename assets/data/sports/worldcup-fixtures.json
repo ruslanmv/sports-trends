@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-05T21:54:14.820303+00:00",
+  "last_updated": "2026-07-05T22:55:17.617404+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1563,9 +1563,9 @@
           "kickoff_label": "05 Jul 20:00",
           "venue": "New York/New Jersey (East Rutherford)",
           "host_city": "New York/New Jersey",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 2
         },
         {
           "match_id": "wc-2026-mexico-england-2026-07-05",
@@ -1679,5 +1679,5 @@
     }
   ],
   "total": 97,
-  "upcoming": 7
+  "upcoming": 6
 }
