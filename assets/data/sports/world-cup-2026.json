@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T12:22:39.600165+00:00",
+  "last_updated": "2026-07-06T15:58:58.498894+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -56,6 +56,24 @@
         "confidence": 63
       },
       "interest_score": 73
+    },
+    {
+      "match_id": "wc-2026-norway-england-2026-07-11",
+      "home_team": "Norway",
+      "away_team": "England",
+      "stage": "quarterfinals",
+      "kickoff": "2026-07-11T21:00:00+00:00",
+      "kickoff_label": "11 Jul 21:00",
+      "prediction": {
+        "home_win": 0.268,
+        "draw": 0.184,
+        "away_win": 0.548,
+        "home_to_advance": 0.287,
+        "away_to_advance": 0.713,
+        "ai_pick": "England favoured",
+        "confidence": 55
+      },
+      "interest_score": 70
     },
     {
       "match_id": "wc-2026-usa-belgium-2026-07-06",

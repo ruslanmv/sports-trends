@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-06T12:22:39.600165+00:00",
+  "last_updated": "2026-07-06T15:58:58.498894+00:00",
   "region": "Worldwide",
   "matches": [
     {
@@ -28,16 +28,16 @@
     },
     {
       "rank": 4,
-      "label": "USA vs Belgium",
-      "stage": "round_of_16",
-      "interest_score": 62,
+      "label": "Norway vs England",
+      "stage": "quarterfinals",
+      "interest_score": 70,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Switzerland vs Colombia",
+      "label": "USA vs Belgium",
       "stage": "round_of_16",
-      "interest_score": 61,
+      "interest_score": 62,
       "hot": false
     }
   ]
