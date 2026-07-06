@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-06T20:20:50.086777+00:00",
+  "last_updated": "2026-07-06T21:53:05.267285+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1597,9 +1597,9 @@
           "kickoff_label": "06 Jul 19:00",
           "venue": "Dallas (Arlington)",
           "host_city": "Dallas",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 0,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-usa-belgium-2026-07-06",
@@ -1696,5 +1696,5 @@
     }
   ],
   "total": 98,
-  "upcoming": 6
+  "upcoming": 5
 }

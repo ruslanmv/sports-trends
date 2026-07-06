@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T20:20:48.803706+00:00",
+  "last_updated": "2026-07-06T21:53:04.012817+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Kansas City Royals",
       "away_team": "Philadelphia Phillies",
-      "home_score": 10,
+      "home_score": 15,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,

@@ -2,39 +2,10 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-06T20:20:50.086777+00:00",
+  "last_updated": "2026-07-06T21:53:05.267285+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 6,
+  "count": 5,
   "matches": [
-    {
-      "match_id": "wc-2026-portugal-spain-2026-07-06",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "Portugal",
-      "away_team": "Spain",
-      "kickoff": "2026-07-06T19:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.344,
-        "draw": 0.26,
-        "team2": 0.396
-      },
-      "prediction_label": "Spain favoured",
-      "confidence": 0.396,
-      "interest_score": 82,
-      "explanation": [
-        "Elo: Portugal 2000 vs Spain 2040 (Δ -40).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): Portugal 45% · Spain 55%."
-      ],
-      "to_advance": {
-        "Portugal": 0.455,
-        "Spain": 0.545
-      },
-      "kickoff_label": "06 Jul 19:00"
-    },
     {
       "match_id": "wc-2026-france-morocco-2026-07-09",
       "competition_type": "world_cup",
