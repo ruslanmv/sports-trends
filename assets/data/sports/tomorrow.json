@@ -1,31 +1,32 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-05T23:59:47.795845+00:00",
+  "last_updated": "2026-07-06T03:53:47.617972+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388223",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-07-06T01:30:00",
-      "kickoff_label": "01:30",
+      "match_id": "tsdb-2491734",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Inter Club d'Escaldes",
+      "kickoff": "2026-07-07T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Los Angeles Angels favoured",
-      "confidence": 0.585,
+      "prediction_label": "AI: Lincoln Red Imps favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Angels 0.00 vs Boston Red Sox 0.00.",
+        "Recent form (last 5): Lincoln Red Imps 0.00 vs Inter Club d'Escaldes 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

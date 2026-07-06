@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-05T23:59:48.181437+00:00",
+  "last_updated": "2026-07-06T03:53:47.983032+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 6,
+  "count": 5,
   "matches": [
     {
       "match_id": "wc-2026-portugal-spain-2026-07-06",
@@ -92,35 +92,6 @@
         "Egypt": 0.207
       },
       "kickoff_label": "07 Jul 16:00"
-    },
-    {
-      "match_id": "wc-2026-mexico-england-2026-07-05",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "Mexico",
-      "away_team": "England",
-      "kickoff": "2026-07-06T00:00:00+00:00",
-      "neutral_venue": false,
-      "host_advantage": true,
-      "result_90": {
-        "team1": 0.29,
-        "draw": 0.204,
-        "team2": 0.505
-      },
-      "prediction_label": "England favoured",
-      "confidence": 0.505,
-      "interest_score": 67,
-      "explanation": [
-        "Elo: Mexico 1875 vs England 2030 (Δ -155, host advantage).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): Mexico 33% · England 67%."
-      ],
-      "to_advance": {
-        "Mexico": 0.331,
-        "England": 0.669
-      },
-      "kickoff_label": "06 Jul 00:00"
     },
     {
       "match_id": "wc-2026-usa-belgium-2026-07-06",

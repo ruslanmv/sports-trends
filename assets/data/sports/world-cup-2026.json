@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T23:59:48.181437+00:00",
+  "last_updated": "2026-07-06T03:53:47.983032+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_16",
   "matches": [
@@ -56,24 +56,6 @@
         "confidence": 63
       },
       "interest_score": 73
-    },
-    {
-      "match_id": "wc-2026-mexico-england-2026-07-05",
-      "home_team": "Mexico",
-      "away_team": "England",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-06T00:00:00+00:00",
-      "kickoff_label": "06 Jul 00:00",
-      "prediction": {
-        "home_win": 0.29,
-        "draw": 0.204,
-        "away_win": 0.505,
-        "home_to_advance": 0.331,
-        "away_to_advance": 0.669,
-        "ai_pick": "England favoured",
-        "confidence": 50
-      },
-      "interest_score": 67
     },
     {
       "match_id": "wc-2026-usa-belgium-2026-07-06",
