@@ -1,14 +1,14 @@
 {
   "date": "2026-07-06",
-  "last_updated": "2026-07-06T15:58:58.199067+00:00",
+  "last_updated": "2026-07-06T18:12:06.824330+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388239",
+      "match_id": "tsdb-2388234",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Kansas City Royals",
-      "away_team": "Philadelphia Phillies",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "New York Yankees",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
