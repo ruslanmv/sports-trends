@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:23:16.734021+00:00",
+  "last_updated": "2026-07-07T21:50:46.460047+00:00",
   "count": 8,
   "matches": [
     {
@@ -73,7 +73,7 @@
       "league": "UEFA Champions League",
       "home_team": "Víkingur Reykjavík",
       "away_team": "Győri ETO",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
