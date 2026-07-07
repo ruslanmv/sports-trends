@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T22:53:21.522305+00:00",
+  "last_updated": "2026-07-07T23:51:09.111623+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
@@ -56,24 +56,6 @@
         "confidence": 55
       },
       "interest_score": 70
-    },
-    {
-      "match_id": "wc-2026-switzerland-colombia-2026-07-07",
-      "home_team": "Switzerland",
-      "away_team": "Colombia",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-07T20:00:00+00:00",
-      "kickoff_label": "07 Jul 20:00",
-      "prediction": {
-        "home_win": 0.344,
-        "draw": 0.26,
-        "away_win": 0.396,
-        "home_to_advance": 0.455,
-        "away_to_advance": 0.545,
-        "ai_pick": "Colombia favoured",
-        "confidence": 40
-      },
-      "interest_score": 61
     }
   ]
 }

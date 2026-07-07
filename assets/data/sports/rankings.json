@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T22:53:21.108831+00:00",
+  "last_updated": "2026-07-07T23:51:08.676362+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,12 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388243",
+      "label": "Texas Rangers vs Los Angeles Angels",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2491733",
       "label": "Kairat Almaty vs Sutjeska",
       "interest_score": 50

@@ -2,9 +2,33 @@
   "date": "2026-07-07",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-07T22:53:21.108807+00:00",
-  "count": 1,
+  "last_updated": "2026-07-07T23:51:08.676322+00:00",
+  "count": 2,
   "matches": [
+    {
+      "match_id": "tsdb-2388243",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Texas Rangers",
+      "away_team": "Los Angeles Angels",
+      "kickoff": "2026-07-08T00:05:00",
+      "kickoff_label": "00:05",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Texas Rangers favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Texas Rangers 0.00 vs Los Angeles Angels 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2491733",
       "sport": "football",
