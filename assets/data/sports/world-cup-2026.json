@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T00:12:47.804935+00:00",
+  "last_updated": "2026-07-07T04:30:57.967171+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
@@ -56,24 +56,6 @@
         "confidence": 55
       },
       "interest_score": 70
-    },
-    {
-      "match_id": "wc-2026-usa-belgium-2026-07-06",
-      "home_team": "USA",
-      "away_team": "Belgium",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-07T00:00:00+00:00",
-      "kickoff_label": "07 Jul 00:00",
-      "prediction": {
-        "home_win": 0.33,
-        "draw": 0.245,
-        "away_win": 0.424,
-        "home_to_advance": 0.421,
-        "away_to_advance": 0.579,
-        "ai_pick": "Belgium favoured",
-        "confidence": 42
-      },
-      "interest_score": 62
     },
     {
       "match_id": "wc-2026-switzerland-colombia-2026-07-07",

@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-07T00:12:47.804935+00:00",
+  "last_updated": "2026-07-07T04:30:57.967171+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1614,9 +1614,9 @@
           "kickoff_label": "07 Jul 00:00",
           "venue": "Seattle",
           "host_city": "Seattle",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 4
         },
         {
           "match_id": "wc-2026-argentina-egypt-2026-07-07",
@@ -1696,5 +1696,5 @@
     }
   ],
   "total": 98,
-  "upcoming": 5
+  "upcoming": 4
 }

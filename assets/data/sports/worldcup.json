@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-07T00:12:47.804935+00:00",
+  "last_updated": "2026-07-07T04:30:57.967171+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 5,
+  "count": 4,
   "matches": [
     {
       "match_id": "wc-2026-france-morocco-2026-07-09",
@@ -92,35 +92,6 @@
         "England": 0.713
       },
       "kickoff_label": "11 Jul 21:00"
-    },
-    {
-      "match_id": "wc-2026-usa-belgium-2026-07-06",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "USA",
-      "away_team": "Belgium",
-      "kickoff": "2026-07-07T00:00:00+00:00",
-      "neutral_venue": false,
-      "host_advantage": true,
-      "result_90": {
-        "team1": 0.33,
-        "draw": 0.245,
-        "team2": 0.424
-      },
-      "prediction_label": "Belgium favoured",
-      "confidence": 0.424,
-      "interest_score": 62,
-      "explanation": [
-        "Elo: USA 1885 vs Belgium 1955 (Δ -70, host advantage).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): USA 42% · Belgium 58%."
-      ],
-      "to_advance": {
-        "USA": 0.421,
-        "Belgium": 0.579
-      },
-      "kickoff_label": "07 Jul 00:00"
     },
     {
       "match_id": "wc-2026-switzerland-colombia-2026-07-07",

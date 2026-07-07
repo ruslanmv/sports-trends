@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "last_updated": "2026-07-07T00:12:47.503960+00:00",
+  "last_updated": "2026-07-07T04:30:57.607209+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388236",
+      "match_id": "tsdb-2387404",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
