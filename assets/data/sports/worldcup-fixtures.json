@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-07T16:21:08.984553+00:00",
+  "last_updated": "2026-07-07T18:26:57.773374+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1631,9 +1631,9 @@
           "kickoff_label": "07 Jul 16:00",
           "venue": "Atlanta",
           "host_city": "Atlanta",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 3,
+          "away_score": 2
         },
         {
           "match_id": "wc-2026-switzerland-colombia-2026-07-07",
@@ -1713,5 +1713,5 @@
     }
   ],
   "total": 99,
-  "upcoming": 5
+  "upcoming": 4
 }

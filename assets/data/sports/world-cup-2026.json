@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T16:21:08.984553+00:00",
+  "last_updated": "2026-07-07T18:26:57.773374+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
@@ -38,24 +38,6 @@
         "confidence": 54
       },
       "interest_score": 78
-    },
-    {
-      "match_id": "wc-2026-argentina-egypt-2026-07-07",
-      "home_team": "Argentina",
-      "away_team": "Egypt",
-      "stage": "round_of_16",
-      "kickoff": "2026-07-07T16:00:00+00:00",
-      "kickoff_label": "07 Jul 16:00",
-      "prediction": {
-        "home_win": 0.634,
-        "draw": 0.145,
-        "away_win": 0.221,
-        "home_to_advance": 0.793,
-        "away_to_advance": 0.207,
-        "ai_pick": "Argentina favoured",
-        "confidence": 63
-      },
-      "interest_score": 73
     },
     {
       "match_id": "wc-2026-norway-england-2026-07-11",

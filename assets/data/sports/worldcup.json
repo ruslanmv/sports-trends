@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-07T16:21:08.984553+00:00",
+  "last_updated": "2026-07-07T18:26:57.773374+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 5,
+  "count": 4,
   "matches": [
     {
       "match_id": "wc-2026-spain-belgium-2026-07-10",
@@ -63,35 +63,6 @@
         "Morocco": 0.297
       },
       "kickoff_label": "09 Jul 20:00"
-    },
-    {
-      "match_id": "wc-2026-argentina-egypt-2026-07-07",
-      "competition_type": "world_cup",
-      "stage": "round_of_16",
-      "group": "",
-      "home_team": "Argentina",
-      "away_team": "Egypt",
-      "kickoff": "2026-07-07T16:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.634,
-        "draw": 0.145,
-        "team2": 0.221
-      },
-      "prediction_label": "Argentina favoured",
-      "confidence": 0.634,
-      "interest_score": 73,
-      "explanation": [
-        "Elo: Argentina 2105 vs Egypt 1810 (Δ +295).",
-        "Stage importance 86/100 (round of 16).",
-        "To advance (incl. extra time / penalties): Argentina 79% · Egypt 21%."
-      ],
-      "to_advance": {
-        "Argentina": 0.793,
-        "Egypt": 0.207
-      },
-      "kickoff_label": "07 Jul 16:00"
     },
     {
       "match_id": "wc-2026-norway-england-2026-07-11",

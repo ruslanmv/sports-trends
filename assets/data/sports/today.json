@@ -1,14 +1,14 @@
 {
   "date": "2026-07-07",
-  "last_updated": "2026-07-07T16:21:08.679628+00:00",
+  "last_updated": "2026-07-07T18:26:57.479820+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2491732",
+      "match_id": "tsdb-2491737",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Vardar",
-      "away_team": "KuPS",
+      "home_team": "Tre Fiori",
+      "away_team": "Larne",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2387404",
+      "match_id": "tsdb-2388252",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "St. Louis Cardinals",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-07T16:21:08.679677+00:00",
+  "last_updated": "2026-07-07T18:26:57.479861+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "St. Louis Cardinals vs Milwaukee Brewers",
+      "label": "Baltimore Orioles vs Chicago Cubs",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -47,7 +47,7 @@
     },
     {
       "rank": 7,
-      "label": "Vardar vs KuPS",
+      "label": "Tre Fiori vs Larne",
       "sport": "football",
       "audience": null,
       "hot": false

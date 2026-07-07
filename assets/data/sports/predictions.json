@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-07T16:21:08.679643+00:00",
+  "last_updated": "2026-07-07T18:26:57.479834+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2387404",
+      "match_id": "tsdb-2388252",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "St. Louis Cardinals",
-      "away_team": "Milwaukee Brewers",
-      "kickoff": "2026-07-07T18:15:00",
-      "kickoff_label": "18:15",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Chicago Cubs",
+      "kickoff": "2026-07-07T22:35:00",
+      "kickoff_label": "22:35",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: St. Louis Cardinals favoured",
+      "prediction_label": "AI: Baltimore Orioles favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): St. Louis Cardinals 0.00 vs Milwaukee Brewers 0.00.",
+        "Recent form (last 5): Baltimore Orioles 0.00 vs Chicago Cubs 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -157,19 +157,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2491732",
+      "match_id": "tsdb-2491737",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Vardar",
-      "away_team": "KuPS",
-      "kickoff": "2026-07-07T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Tre Fiori",
+      "away_team": "Larne",
+      "kickoff": "2026-07-07T18:30:00",
+      "kickoff_label": "18:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Vardar favoured",
+      "prediction_label": "AI: Tre Fiori favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -177,7 +177,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Vardar 0.00 vs KuPS 0.00.",
+        "Recent form (last 5): Tre Fiori 0.00 vs Larne 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
