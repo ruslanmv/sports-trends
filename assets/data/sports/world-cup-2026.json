@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-07-07T08:16:35.870513+00:00",
+  "last_updated": "2026-07-07T11:22:54.509598+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
+    {
+      "match_id": "wc-2026-spain-belgium-2026-07-10",
+      "home_team": "Spain",
+      "away_team": "Belgium",
+      "stage": "quarterfinals",
+      "kickoff": "2026-07-10T19:00:00+00:00",
+      "kickoff_label": "10 Jul 19:00",
+      "prediction": {
+        "home_win": 0.438,
+        "draw": 0.238,
+        "away_win": 0.324,
+        "home_to_advance": 0.595,
+        "away_to_advance": 0.405,
+        "ai_pick": "Spain favoured",
+        "confidence": 44
+      },
+      "interest_score": 80
+    },
     {
       "match_id": "wc-2026-france-morocco-2026-07-09",
       "home_team": "France",

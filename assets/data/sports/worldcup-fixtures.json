@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-07T08:16:35.870513+00:00",
+  "last_updated": "2026-07-07T11:22:54.509598+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1676,6 +1676,23 @@
           "away_score": null
         },
         {
+          "match_id": "wc-2026-spain-belgium-2026-07-10",
+          "home_team": "Spain",
+          "away_team": "Belgium",
+          "home_confederation": "UEFA",
+          "away_confederation": "UEFA",
+          "stage": "quarterfinals",
+          "group": "",
+          "date": "2026-07-10",
+          "kickoff": "2026-07-10T19:00:00+00:00",
+          "kickoff_label": "10 Jul 19:00",
+          "venue": "Los Angeles (Inglewood)",
+          "host_city": "Los Angeles",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        },
+        {
           "match_id": "wc-2026-norway-england-2026-07-11",
           "home_team": "Norway",
           "away_team": "England",
@@ -1695,6 +1712,6 @@
       ]
     }
   ],
-  "total": 98,
-  "upcoming": 4
+  "total": 99,
+  "upcoming": 5
 }
