@@ -1,14 +1,27 @@
 {
-  "date": "2026-07-06",
-  "last_updated": "2026-07-06T23:00:08.022383+00:00",
-  "count": 1,
+  "date": "2026-07-07",
+  "last_updated": "2026-07-07T00:12:47.503960+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2388240",
+      "match_id": "tsdb-2491734",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Inter Club d'Escaldes",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2388236",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "New York Mets",
+      "home_team": "San Diego Padres",
+      "away_team": "Arizona Diamondbacks",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
