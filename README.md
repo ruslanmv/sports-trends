@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-06 07:59 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-07 06:59 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-07-06 07:59 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 35d) · La Liga (in 40d) · Ligue 1 (in 40d) · Serie A (in 43d)
+Premier League (in 34d) · La Liga (in 39d) · Ligue 1 (in 39d) · Serie A (in 42d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,11 @@ Premier League (in 35d) · La Liga (in 40d) · Ligue 1 (in 40d) · Serie A (in 4
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Lincoln Red Imps** vs **Inter Club d'Escaldes** | UEFA Champions League | 16:00 | Lincoln Red Imps favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
+| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Angers** vs **Lille** | French Ligue 1 | 15:00 | Angers favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Barcelona** vs **Athletic Bilbao** | Spanish La Liga | 15:00 | Barcelona favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
@@ -60,9 +64,9 @@ Premier League (in 35d) · La Liga (in 40d) · Ligue 1 (in 40d) · Serie A (in 4
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ Portugal vs Spain | Round Of 16 | Portugal 34% · draw 26% · Spain 40% | **Spain** 55% · **Portugal** 46% |
 | ⚽ France vs Morocco | Quarterfinals | France 54% · draw 19% · Morocco 27% | **France** 70% · **Morocco** 30% |
 | ⚽ Argentina vs Egypt | Round Of 16 | Argentina 63% · draw 14% · Egypt 22% | **Argentina** 79% · **Egypt** 21% |
+| ⚽ Norway vs England | Quarterfinals | Norway 27% · draw 18% · England 55% | **England** 71% · **Norway** 29% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
