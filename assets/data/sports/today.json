@@ -1,14 +1,14 @@
 {
   "date": "2026-07-07",
-  "last_updated": "2026-07-07T13:31:31.431705+00:00",
+  "last_updated": "2026-07-07T16:21:08.679628+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2491734",
+      "match_id": "tsdb-2491732",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Lincoln Red Imps",
-      "away_team": "Inter Club d'Escaldes",
+      "home_team": "Vardar",
+      "away_team": "KuPS",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
