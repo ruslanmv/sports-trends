@@ -1,12 +1,36 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-07T06:58:57.548079+00:00",
+  "last_updated": "2026-07-07T06:59:51.296994+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
+    {
+      "match_id": "tsdb-2387404",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Milwaukee Brewers",
+      "kickoff": "2026-07-07T18:15:00",
+      "kickoff_label": "18:15",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: St. Louis Cardinals favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): St. Louis Cardinals 0.00 vs Milwaukee Brewers 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2508333",
       "sport": "football",
@@ -16,15 +40,16 @@
       "kickoff": "2026-08-28T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.072,
-        "away_win": 0.928
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
       },
-      "prediction_label": "AI: Stuttgart favoured",
-      "confidence": 0.928,
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
@@ -40,15 +65,16 @@
       "kickoff": "2026-08-21T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.103,
-        "away_win": 0.897
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
       },
-      "prediction_label": "AI: Coventry City favoured",
-      "confidence": 0.897,
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
@@ -64,15 +90,16 @@
       "kickoff": "2026-08-22T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
@@ -88,15 +115,16 @@
       "kickoff": "2026-08-22T15:00:00",
       "kickoff_label": "15:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Angers favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
@@ -112,15 +140,16 @@
       "kickoff": "2026-08-16T15:00:00",
       "kickoff_label": "15:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Barcelona favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Barcelona 0.00 vs Athletic Bilbao 0.00.",
@@ -136,15 +165,16 @@
       "kickoff": "2026-07-07T16:00:00",
       "kickoff_label": "16:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Lincoln Red Imps favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lincoln Red Imps 0.00 vs Inter Club d'Escaldes 0.00.",
