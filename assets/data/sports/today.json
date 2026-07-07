@@ -1,21 +1,8 @@
 {
   "date": "2026-07-07",
-  "last_updated": "2026-07-07T18:26:57.479820+00:00",
-  "count": 2,
+  "last_updated": "2026-07-07T20:23:17.820435+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2491737",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Tre Fiori",
-      "away_team": "Larne",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388252",
       "sport": "baseball",

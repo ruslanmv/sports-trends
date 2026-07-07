@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T18:26:56.045255+00:00",
-  "count": 7,
+  "last_updated": "2026-07-07T20:23:16.734021+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -68,12 +68,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2491742",
+      "match_id": "tsdb-2491731",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Floriana",
-      "away_team": "Shamrock Rovers",
-      "home_score": 1,
+      "home_team": "Víkingur Reykjavík",
+      "away_team": "Győri ETO",
+      "home_score": 0,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2387404",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Milwaukee Brewers",
+      "home_score": 3,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

@@ -1,56 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-07T18:26:57.479861+00:00",
-  "count": 7,
+  "last_updated": "2026-07-07T20:23:17.820469+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Baltimore Orioles vs Chicago Cubs",
-      "sport": "baseball",
+      "label": "Kairat Almaty vs Sutjeska",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Angers vs Lille",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Barcelona vs Athletic Bilbao",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Tre Fiori vs Larne",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
