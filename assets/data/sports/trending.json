@@ -1,17 +1,52 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-07T23:51:08.676356+00:00",
-  "count": 2,
+  "last_updated": "2026-07-08T01:55:02.775618+00:00",
+  "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Texas Rangers vs Los Angeles Angels",
+      "label": "Los Angeles Dodgers vs Colorado Rockies",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Angers vs Lille",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Barcelona vs Athletic Bilbao",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
       "label": "Kairat Almaty vs Sutjeska",
       "sport": "football",
       "audience": null,
