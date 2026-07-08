@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T01:55:02.775622+00:00",
+  "last_updated": "2026-07-08T05:14:47.072262+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388250",
-      "label": "Los Angeles Dodgers vs Colorado Rockies",
+      "match_id": "tsdb-2388260",
+      "label": "San Francisco Giants vs Toronto Blue Jays",
       "interest_score": 50
     },
     {

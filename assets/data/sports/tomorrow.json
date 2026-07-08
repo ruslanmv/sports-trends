@@ -2,22 +2,22 @@
   "date": "2026-07-08",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-08T01:55:02.775582+00:00",
+  "last_updated": "2026-07-08T05:14:47.072232+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388250",
+      "match_id": "tsdb-2388260",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Colorado Rockies",
-      "kickoff": "2026-07-08T02:10:00",
-      "kickoff_label": "02:10",
+      "home_team": "San Francisco Giants",
+      "away_team": "Toronto Blue Jays",
+      "kickoff": "2026-07-08T19:45:00",
+      "kickoff_label": "19:45",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Los Angeles Dodgers favoured",
+      "prediction_label": "AI: San Francisco Giants favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Colorado Rockies 0.00.",
+        "Recent form (last 5): San Francisco Giants 0.00 vs Toronto Blue Jays 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
