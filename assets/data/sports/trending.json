@@ -1,54 +1,54 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-08T06:10:34.234887+00:00",
+  "last_updated": "2026-07-08T06:11:37.113202+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "San Francisco Giants vs Toronto Blue Jays",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Udinese vs Como",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Angers vs Lille",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Barcelona vs Athletic Bilbao",
+      "label": "Angers vs Lille",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Kairat Almaty vs Sutjeska",
+      "label": "Barcelona vs Athletic Bilbao",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "San Francisco Giants vs Toronto Blue Jays",
-      "sport": "baseball",
+      "label": "Kairat Almaty vs Sutjeska",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
