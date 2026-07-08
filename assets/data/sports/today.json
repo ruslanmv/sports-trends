@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "last_updated": "2026-07-08T14:54:10.252049+00:00",
+  "last_updated": "2026-07-08T16:26:03.177662+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2491733",
+      "match_id": "tsdb-2491738",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Kairat Almaty",
-      "away_team": "Sutjeska",
+      "home_team": "Petrocub Hîncești",
+      "away_team": "Egnatia",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

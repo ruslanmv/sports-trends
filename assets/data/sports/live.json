@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:54:08.849394+00:00",
+  "last_updated": "2026-07-08T16:26:02.093221+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2491731",
+      "match_id": "tsdb-2491735",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Víkingur Reykjavík",
-      "away_team": "Győri ETO",
-      "home_score": 1,
-      "away_score": 0,
+      "home_team": "Flora Tallinn",
+      "away_team": "Iberia 1999",
+      "home_score": 0,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
