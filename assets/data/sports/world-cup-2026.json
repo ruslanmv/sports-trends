@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T10:09:36.435927+00:00",
+  "last_updated": "2026-07-08T12:01:20.867286+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
@@ -20,6 +20,24 @@
         "confidence": 44
       },
       "interest_score": 80
+    },
+    {
+      "match_id": "wc-2026-argentina-switzerland-2026-07-11",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "stage": "quarterfinals",
+      "kickoff": "2026-07-12T01:00:00+00:00",
+      "kickoff_label": "12 Jul 01:00",
+      "prediction": {
+        "home_win": 0.589,
+        "draw": 0.165,
+        "away_win": 0.246,
+        "home_to_advance": 0.753,
+        "away_to_advance": 0.247,
+        "ai_pick": "Argentina favoured",
+        "confidence": 59
+      },
+      "interest_score": 78
     },
     {
       "match_id": "wc-2026-france-morocco-2026-07-09",

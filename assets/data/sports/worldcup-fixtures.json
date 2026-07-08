@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-08T10:09:36.435927+00:00",
+  "last_updated": "2026-07-08T12:01:20.867286+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1708,10 +1708,27 @@
           "status": "scheduled",
           "home_score": null,
           "away_score": null
+        },
+        {
+          "match_id": "wc-2026-argentina-switzerland-2026-07-11",
+          "home_team": "Argentina",
+          "away_team": "Switzerland",
+          "home_confederation": "CONMEBOL",
+          "away_confederation": "UEFA",
+          "stage": "quarterfinals",
+          "group": "",
+          "date": "2026-07-11",
+          "kickoff": "2026-07-12T01:00:00+00:00",
+          "kickoff_label": "12 Jul 01:00",
+          "venue": "Kansas City",
+          "host_city": "Kansas City",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
         }
       ]
     }
   ],
-  "total": 99,
-  "upcoming": 3
+  "total": 100,
+  "upcoming": 4
 }
