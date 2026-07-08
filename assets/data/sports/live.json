@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T17:57:38.095058+00:00",
+  "last_updated": "2026-07-08T19:21:46.464969+00:00",
   "count": 8,
   "matches": [
     {
@@ -74,7 +74,7 @@
       "home_team": "Maxline Vitebsk",
       "away_team": "Universitatea Craiova",
       "home_score": 1,
-      "away_score": 3,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
