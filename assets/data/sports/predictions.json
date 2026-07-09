@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-09T17:49:22.308501+00:00",
+  "last_updated": "2026-07-09T19:25:07.718612+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388282",
+      "match_id": "tsdb-2388279",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-07-09T18:10:00",
-      "kickoff_label": "18:10",
+      "home_team": "Miami Marlins",
+      "away_team": "Seattle Mariners",
+      "kickoff": "2026-07-09T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Chicago White Sox favoured",
+      "prediction_label": "AI: Miami Marlins favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago White Sox 0.00 vs Boston Red Sox 0.00.",
+        "Recent form (last 5): Miami Marlins 0.00 vs Seattle Mariners 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
