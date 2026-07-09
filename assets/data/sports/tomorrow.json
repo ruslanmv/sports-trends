@@ -2,9 +2,153 @@
   "date": "2026-07-09",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-09T05:31:11.177960+00:00",
+  "last_updated": "2026-07-09T06:59:08.266816+00:00",
   "count": 7,
   "matches": [
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.072,
+        "away_win": 0.928
+      },
+      "prediction_label": "AI: Stuttgart favoured",
+      "confidence": 0.928,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494000",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.103,
+        "away_win": 0.897
+      },
+      "prediction_label": "AI: Coventry City favoured",
+      "confidence": 0.897,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482138",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489462",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Angers",
+      "away_team": "Lille",
+      "kickoff": "2026-08-22T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Angers favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506169",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "kickoff": "2026-08-16T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Barcelona favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Barcelona 0.00 vs Athletic Bilbao 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2491750",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "KuPS",
+      "away_team": "Vardar",
+      "kickoff": "2026-07-14T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: KuPS favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): KuPS 0.00 vs Vardar 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2388276",
       "sport": "baseball",
@@ -26,156 +170,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Pittsburgh Pirates 0.00 vs Atlanta Braves 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489462",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Angers",
-      "away_team": "Lille",
-      "kickoff": "2026-08-22T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Angers favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506169",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Barcelona",
-      "away_team": "Athletic Bilbao",
-      "kickoff": "2026-08-16T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Barcelona favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Barcelona 0.00 vs Athletic Bilbao 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2491750",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Vardar",
-      "kickoff": "2026-07-14T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: KuPS favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): KuPS 0.00 vs Vardar 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
