@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-09T01:08:48.027520+00:00",
+  "last_updated": "2026-07-09T05:31:11.177964+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388261",
+      "match_id": "tsdb-2388276",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Arizona Diamondbacks",
-      "kickoff": "2026-07-09T02:10:00",
-      "kickoff_label": "02:10",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Atlanta Braves",
+      "kickoff": "2026-07-09T16:35:00",
+      "kickoff_label": "16:35",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Diego Padres favoured",
+      "prediction_label": "AI: Pittsburgh Pirates favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Diego Padres 0.00 vs Arizona Diamondbacks 0.00.",
+        "Recent form (last 5): Pittsburgh Pirates 0.00 vs Atlanta Braves 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

@@ -1,14 +1,14 @@
 {
   "date": "2026-07-09",
-  "last_updated": "2026-07-09T01:08:48.027501+00:00",
+  "last_updated": "2026-07-09T05:31:11.177950+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388261",
+      "match_id": "tsdb-2388276",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
