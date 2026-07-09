@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-08",
-  "last_updated": "2026-07-08T23:11:53.208214+00:00",
+  "date": "2026-07-09",
+  "last_updated": "2026-07-09T01:08:48.027501+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388264",
+      "match_id": "tsdb-2388261",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Cleveland Guardians",
+      "home_team": "San Diego Padres",
+      "away_team": "Arizona Diamondbacks",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

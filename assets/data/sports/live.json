@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T23:11:52.193421+00:00",
-  "count": 7,
+  "last_updated": "2026-07-09T01:08:46.208258+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388262",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Texas Rangers",
+      "away_team": "Los Angeles Angels",
+      "home_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

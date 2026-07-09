@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T23:11:53.208259+00:00",
+  "last_updated": "2026-07-09T01:08:48.027562+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388264",
-      "label": "Minnesota Twins vs Cleveland Guardians",
+      "match_id": "tsdb-2388261",
+      "label": "San Diego Padres vs Arizona Diamondbacks",
       "interest_score": 50
     },
     {
