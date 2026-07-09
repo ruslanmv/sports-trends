@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-09T21:01:13.938429+00:00",
+  "last_updated": "2026-07-09T22:48:18.128805+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1671,9 +1671,9 @@
           "kickoff_label": "09 Jul 20:00",
           "venue": "Boston (Foxborough)",
           "host_city": "Boston",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 0
         },
         {
           "match_id": "wc-2026-spain-belgium-2026-07-10",
@@ -1730,5 +1730,5 @@
     }
   ],
   "total": 100,
-  "upcoming": 4
+  "upcoming": 3
 }

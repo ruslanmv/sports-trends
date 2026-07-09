@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-09T21:01:13.938429+00:00",
+  "last_updated": "2026-07-09T22:48:18.128805+00:00",
   "region": "Worldwide",
   "matches": [
     {
@@ -21,13 +21,6 @@
     },
     {
       "rank": 3,
-      "label": "France vs Morocco",
-      "stage": "quarterfinals",
-      "interest_score": 78,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Norway vs England",
       "stage": "quarterfinals",
       "interest_score": 70,

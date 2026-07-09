@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T21:01:11.532529+00:00",
-  "count": 8,
+  "last_updated": "2026-07-09T22:48:16.490972+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388282",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Boston Red Sox",
-      "home_score": 1,
-      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

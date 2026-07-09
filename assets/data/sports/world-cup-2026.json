@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T21:01:13.938429+00:00",
+  "last_updated": "2026-07-09T22:48:18.128805+00:00",
   "competition": "Mundial 2026",
   "stage": "quarterfinals",
   "matches": [
@@ -36,24 +36,6 @@
         "away_to_advance": 0.247,
         "ai_pick": "Argentina favoured",
         "confidence": 59
-      },
-      "interest_score": 78
-    },
-    {
-      "match_id": "wc-2026-france-morocco-2026-07-09",
-      "home_team": "France",
-      "away_team": "Morocco",
-      "stage": "quarterfinals",
-      "kickoff": "2026-07-09T20:00:00+00:00",
-      "kickoff_label": "09 Jul 20:00",
-      "prediction": {
-        "home_win": 0.538,
-        "draw": 0.188,
-        "away_win": 0.273,
-        "home_to_advance": 0.703,
-        "away_to_advance": 0.297,
-        "ai_pick": "France favoured",
-        "confidence": 54
       },
       "interest_score": 78
     },
