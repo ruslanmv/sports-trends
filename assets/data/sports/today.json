@@ -1,14 +1,14 @@
 {
   "date": "2026-07-09",
-  "last_updated": "2026-07-09T15:40:27.599819+00:00",
+  "last_updated": "2026-07-09T17:49:22.308485+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388276",
+      "match_id": "tsdb-2388282",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Atlanta Braves",
+      "home_team": "Chicago White Sox",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
