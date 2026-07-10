@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-10T20:47:52.574191+00:00",
+  "last_updated": "2026-07-10T21:53:51.044318+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1688,9 +1688,9 @@
           "kickoff_label": "10 Jul 19:00",
           "venue": "Los Angeles (Inglewood)",
           "host_city": "Los Angeles",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 2,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-norway-england-2026-07-11",
@@ -1730,5 +1730,5 @@
     }
   ],
   "total": 100,
-  "upcoming": 3
+  "upcoming": 2
 }
