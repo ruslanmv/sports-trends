@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "last_updated": "2026-07-10T21:53:50.734091+00:00",
+  "last_updated": "2026-07-10T22:53:34.651613+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388284",
+      "match_id": "tsdb-2388291",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Kansas City Royals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
