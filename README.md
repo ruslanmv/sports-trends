@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-10 06:58 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-11 05:57 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-07-10 06:58 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 31d) · La Liga (in 36d) · Ligue 1 (in 36d) · Serie A (in 39d)
+Premier League (in 30d) · La Liga (in 35d) · Ligue 1 (in 35d) · Serie A (in 38d)
 <!-- SEASON:END -->
 
 ---
@@ -64,7 +64,6 @@ Premier League (in 31d) · La Liga (in 36d) · Ligue 1 (in 36d) · Serie A (in 3
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ Spain vs Belgium | Quarterfinals | Spain 44% · draw 24% · Belgium 32% | **Spain** 60% · **Belgium** 40% |
 | ⚽ Argentina vs Switzerland | Quarterfinals | Argentina 59% · draw 16% · Switzerland 25% | **Argentina** 75% · **Switzerland** 25% |
 | ⚽ Norway vs England | Quarterfinals | Norway 27% · draw 18% · England 55% | **England** 71% · **Norway** 29% |
 <!-- WORLDCUP:END -->
