@@ -1,14 +1,14 @@
 {
   "date": "2026-07-11",
-  "last_updated": "2026-07-11T19:40:23.711733+00:00",
+  "last_updated": "2026-07-11T20:40:05.919547+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388299",
+      "match_id": "tsdb-2388310",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "New York Yankees",
+      "home_team": "Detroit Tigers",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

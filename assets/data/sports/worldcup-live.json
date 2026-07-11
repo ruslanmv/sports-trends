@@ -2,6 +2,33 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-11T19:40:24.060921+00:00",
-  "matches": []
+  "last_updated": "2026-07-11T20:40:06.397588+00:00",
+  "matches": [
+    {
+      "id": "wc-ned-ecu",
+      "sport": "football",
+      "league": "FIFA World Cup",
+      "league_id": "fifa-world-cup",
+      "season": "2026",
+      "country": "USA/Canada/Mexico",
+      "home": "Netherlands",
+      "home_id": "netherlands",
+      "away": "Ecuador",
+      "away_id": "ecuador",
+      "date": "2026-07-11",
+      "kickoff": "2026-07-11T20:00:00+00:00",
+      "home_score": null,
+      "away_score": null,
+      "status": "live",
+      "status_detail": "Round of 32",
+      "competition_type": "world_cup",
+      "confederation": "INTERNATIONAL",
+      "stage": "round_of_32",
+      "group": "",
+      "is_country_match": true,
+      "neutral_venue": true,
+      "host_advantage": false,
+      "venue": "USA stadium"
+    }
+  ]
 }
