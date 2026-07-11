@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T15:28:54.531394+00:00",
+  "last_updated": "2026-07-11T16:25:26.723393+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388289",
+      "match_id": "tsdb-2388284",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Colorado Rockies",
-      "home_score": 3,
-      "away_score": 4,
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Milwaukee Brewers",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
