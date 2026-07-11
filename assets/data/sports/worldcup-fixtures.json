@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-11T13:00:00.255953+00:00",
+  "last_updated": "2026-07-11T14:23:45.455999+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1727,8 +1727,31 @@
           "away_score": null
         }
       ]
+    },
+    {
+      "stage": "semifinals",
+      "label": "Semi-finals",
+      "matches": [
+        {
+          "match_id": "wc-2026-france-spain-2026-07-14",
+          "home_team": "France",
+          "away_team": "Spain",
+          "home_confederation": "UEFA",
+          "away_confederation": "UEFA",
+          "stage": "semifinals",
+          "group": "",
+          "date": "2026-07-14",
+          "kickoff": "2026-07-14T19:00:00+00:00",
+          "kickoff_label": "14 Jul 19:00",
+          "venue": "Dallas (Arlington)",
+          "host_city": "Dallas",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        }
+      ]
     }
   ],
-  "total": 100,
-  "upcoming": 2
+  "total": 101,
+  "upcoming": 3
 }
