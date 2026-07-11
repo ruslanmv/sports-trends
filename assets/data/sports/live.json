@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T22:39:42.924095+00:00",
-  "count": 7,
+  "last_updated": "2026-07-11T23:45:29.622118+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388302",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Atlanta Braves",
+      "home_score": 3,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
