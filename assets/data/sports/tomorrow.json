@@ -2,22 +2,22 @@
   "date": "2026-07-11",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-11T21:41:40.360580+00:00",
+  "last_updated": "2026-07-11T22:39:44.521316+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388310",
+      "match_id": "tsdb-2388300",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Philadelphia Phillies",
-      "kickoff": "2026-07-11T22:10:00",
-      "kickoff_label": "22:10",
+      "home_team": "Texas Rangers",
+      "away_team": "Houston Astros",
+      "kickoff": "2026-07-11T23:05:00",
+      "kickoff_label": "23:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Detroit Tigers favoured",
+      "prediction_label": "AI: Texas Rangers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Detroit Tigers 0.00 vs Philadelphia Phillies 0.00.",
+        "Recent form (last 5): Texas Rangers 0.00 vs Houston Astros 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
