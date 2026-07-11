@@ -1,14 +1,14 @@
 {
   "date": "2026-07-11",
-  "last_updated": "2026-07-11T01:53:27.569800+00:00",
+  "last_updated": "2026-07-11T04:57:46.156268+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388295",
+      "match_id": "tsdb-2388284",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
