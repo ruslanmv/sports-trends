@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T17:28:48.537405+00:00",
+  "last_updated": "2026-07-11T18:26:40.277807+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388307",
-      "label": "Minnesota Twins vs Los Angeles Angels",
+      "match_id": "tsdb-2388299",
+      "label": "Washington Nationals vs New York Yankees",
       "interest_score": 50
     },
     {

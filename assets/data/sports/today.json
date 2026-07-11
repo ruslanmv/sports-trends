@@ -1,14 +1,14 @@
 {
   "date": "2026-07-11",
-  "last_updated": "2026-07-11T17:28:48.537358+00:00",
+  "last_updated": "2026-07-11T18:26:40.277755+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388307",
+      "match_id": "tsdb-2388299",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Los Angeles Angels",
+      "home_team": "Washington Nationals",
+      "away_team": "New York Yankees",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

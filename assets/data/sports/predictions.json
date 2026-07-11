@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-11T17:28:48.537372+00:00",
+  "last_updated": "2026-07-11T18:26:40.277771+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388307",
+      "match_id": "tsdb-2388299",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Los Angeles Angels",
-      "kickoff": "2026-07-11T18:10:00",
-      "kickoff_label": "18:10",
+      "home_team": "Washington Nationals",
+      "away_team": "New York Yankees",
+      "kickoff": "2026-07-11T20:05:00",
+      "kickoff_label": "20:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Minnesota Twins favoured",
+      "prediction_label": "AI: Washington Nationals favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Minnesota Twins 0.00 vs Los Angeles Angels 0.00.",
+        "Recent form (last 5): Washington Nationals 0.00 vs New York Yankees 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
