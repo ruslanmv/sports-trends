@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T16:25:26.723393+00:00",
+  "last_updated": "2026-07-11T17:28:47.112198+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Pittsburgh Pirates",
       "away_team": "Milwaukee Brewers",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 3,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
