@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-12T01:56:39.095748+00:00",
+  "last_updated": "2026-07-12T05:23:48.991250+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "match_id": "wc-2026-france-spain-2026-07-14",
@@ -34,35 +34,6 @@
         "Spain": 0.455
       },
       "kickoff_label": "14 Jul 19:00"
-    },
-    {
-      "match_id": "wc-2026-argentina-switzerland-2026-07-11",
-      "competition_type": "world_cup",
-      "stage": "quarterfinals",
-      "group": "",
-      "home_team": "Argentina",
-      "away_team": "Switzerland",
-      "kickoff": "2026-07-12T01:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.589,
-        "draw": 0.165,
-        "team2": 0.246
-      },
-      "prediction_label": "Argentina favoured",
-      "confidence": 0.589,
-      "interest_score": 78,
-      "explanation": [
-        "Elo: Argentina 2105 vs Switzerland 1860 (Δ +245).",
-        "Stage importance 90/100 (quarterfinals).",
-        "To advance (incl. extra time / penalties): Argentina 75% · Switzerland 25%."
-      ],
-      "to_advance": {
-        "Argentina": 0.753,
-        "Switzerland": 0.247
-      },
-      "kickoff_label": "12 Jul 01:00"
     }
   ]
 }
