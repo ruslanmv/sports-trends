@@ -2,10 +2,39 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-12T14:02:06.232652+00:00",
+  "last_updated": "2026-07-12T15:32:53.752273+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 1,
+  "count": 2,
   "matches": [
+    {
+      "match_id": "wc-2026-england-argentina-2026-07-15",
+      "competition_type": "world_cup",
+      "stage": "semifinals",
+      "group": "",
+      "home_team": "England",
+      "away_team": "Argentina",
+      "kickoff": "2026-07-15T19:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.328,
+        "draw": 0.243,
+        "team2": 0.429
+      },
+      "prediction_label": "Argentina favoured",
+      "confidence": 0.429,
+      "interest_score": 93,
+      "explanation": [
+        "Elo: England 2030 vs Argentina 2105 (Δ -75).",
+        "Stage importance 95/100 (semifinals).",
+        "To advance (incl. extra time / penalties): England 42% · Argentina 58%."
+      ],
+      "to_advance": {
+        "England": 0.416,
+        "Argentina": 0.584
+      },
+      "kickoff_label": "15 Jul 19:00"
+    },
     {
       "match_id": "wc-2026-france-spain-2026-07-14",
       "competition_type": "world_cup",

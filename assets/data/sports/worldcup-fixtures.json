@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-12T14:02:06.232652+00:00",
+  "last_updated": "2026-07-12T15:32:53.752273+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1748,10 +1748,27 @@
           "status": "scheduled",
           "home_score": null,
           "away_score": null
+        },
+        {
+          "match_id": "wc-2026-england-argentina-2026-07-15",
+          "home_team": "England",
+          "away_team": "Argentina",
+          "home_confederation": "UEFA",
+          "away_confederation": "CONMEBOL",
+          "stage": "semifinals",
+          "group": "",
+          "date": "2026-07-15",
+          "kickoff": "2026-07-15T19:00:00+00:00",
+          "kickoff_label": "15 Jul 19:00",
+          "venue": "Atlanta",
+          "host_city": "Atlanta",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
         }
       ]
     }
   ],
-  "total": 101,
-  "upcoming": 1
+  "total": 102,
+  "upcoming": 2
 }

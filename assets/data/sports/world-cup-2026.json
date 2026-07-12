@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-07-12T14:02:06.232652+00:00",
+  "last_updated": "2026-07-12T15:32:53.752273+00:00",
   "competition": "Mundial 2026",
   "stage": "semifinals",
   "matches": [
+    {
+      "match_id": "wc-2026-england-argentina-2026-07-15",
+      "home_team": "England",
+      "away_team": "Argentina",
+      "stage": "semifinals",
+      "kickoff": "2026-07-15T19:00:00+00:00",
+      "kickoff_label": "15 Jul 19:00",
+      "prediction": {
+        "home_win": 0.328,
+        "draw": 0.243,
+        "away_win": 0.429,
+        "home_to_advance": 0.416,
+        "away_to_advance": 0.584,
+        "ai_pick": "Argentina favoured",
+        "confidence": 43
+      },
+      "interest_score": 93
+    },
     {
       "match_id": "wc-2026-france-spain-2026-07-14",
       "home_team": "France",
