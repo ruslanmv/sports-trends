@@ -1,14 +1,14 @@
 {
   "date": "2026-07-12",
-  "last_updated": "2026-07-12T17:53:47.695649+00:00",
+  "last_updated": "2026-07-12T18:54:01.767419+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388321",
+      "match_id": "tsdb-2388319",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Athletics",
+      "home_team": "San Francisco Giants",
+      "away_team": "Colorado Rockies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
