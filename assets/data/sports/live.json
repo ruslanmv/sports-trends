@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T22:13:20.897626+00:00",
+  "last_updated": "2026-07-12T23:15:04.617427+00:00",
   "count": 8,
   "matches": [
     {
@@ -100,7 +100,7 @@
       "home_team": "Los Angeles Dodgers",
       "away_team": "Arizona Diamondbacks",
       "home_score": 3,
-      "away_score": 4,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
