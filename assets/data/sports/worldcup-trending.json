@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-11T23:45:31.192103+00:00",
+  "last_updated": "2026-07-12T01:56:39.095748+00:00",
   "region": "Worldwide",
   "matches": [
     {
@@ -17,13 +17,6 @@
       "label": "Argentina vs Switzerland",
       "stage": "quarterfinals",
       "interest_score": 78,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Norway vs England",
-      "stage": "quarterfinals",
-      "interest_score": 70,
       "hot": false
     }
   ]

@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-11T23:45:31.192103+00:00",
+  "last_updated": "2026-07-12T01:56:39.095748+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1705,9 +1705,9 @@
           "kickoff_label": "11 Jul 21:00",
           "venue": "Miami (Miami Gardens)",
           "host_city": "Miami",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 1
         },
         {
           "match_id": "wc-2026-argentina-switzerland-2026-07-11",
@@ -1753,5 +1753,5 @@
     }
   ],
   "total": 101,
-  "upcoming": 3
+  "upcoming": 2
 }
