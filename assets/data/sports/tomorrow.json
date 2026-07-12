@@ -2,22 +2,22 @@
   "date": "2026-07-12",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-12T20:03:06.994352+00:00",
+  "last_updated": "2026-07-12T21:12:54.906329+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388319",
+      "match_id": "tsdb-2388332",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Colorado Rockies",
-      "kickoff": "2026-07-12T20:05:00",
-      "kickoff_label": "20:05",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "New York Mets",
+      "kickoff": "2026-07-16T23:10:00",
+      "kickoff_label": "23:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Francisco Giants favoured",
+      "prediction_label": "AI: Philadelphia Phillies favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Francisco Giants 0.00 vs Colorado Rockies 0.00.",
+        "Recent form (last 5): Philadelphia Phillies 0.00 vs New York Mets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

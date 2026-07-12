@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:03:05.912074+00:00",
+  "last_updated": "2026-07-12T21:12:53.871776+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388316",
+      "match_id": "tsdb-2388327",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Houston Astros",
-      "home_score": 3,
-      "away_score": 1,
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Arizona Diamondbacks",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
