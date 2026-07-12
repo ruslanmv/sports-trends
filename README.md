@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-11 05:57 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-12 06:16 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-07-11 05:57 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 30d) · La Liga (in 35d) · Ligue 1 (in 35d) · Serie A (in 38d)
+Premier League (in 29d) · La Liga (in 34d) · Ligue 1 (in 34d) · Serie A (in 37d)
 <!-- SEASON:END -->
 
 ---
@@ -64,8 +64,7 @@ Premier League (in 30d) · La Liga (in 35d) · Ligue 1 (in 35d) · Serie A (in 3
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
-| ⚽ Argentina vs Switzerland | Quarterfinals | Argentina 59% · draw 16% · Switzerland 25% | **Argentina** 75% · **Switzerland** 25% |
-| ⚽ Norway vs England | Quarterfinals | Norway 27% · draw 18% · England 55% | **England** 71% · **Norway** 29% |
+| ⚽ France vs Spain | Semifinals | France 40% · draw 26% · Spain 34% | **France** 55% · **Spain** 46% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
