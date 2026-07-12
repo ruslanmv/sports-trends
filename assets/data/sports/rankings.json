@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:32:53.187576+00:00",
+  "last_updated": "2026-07-12T16:50:13.983402+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388315",
-      "label": "Pittsburgh Pirates vs Milwaukee Brewers",
+      "match_id": "tsdb-2388314",
+      "label": "Washington Nationals vs New York Yankees",
       "interest_score": 50
     },
     {
