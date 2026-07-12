@@ -2,22 +2,22 @@
   "date": "2026-07-12",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-12T16:50:13.983361+00:00",
+  "last_updated": "2026-07-12T17:53:47.695660+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388314",
+      "match_id": "tsdb-2388321",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "New York Yankees",
-      "kickoff": "2026-07-12T17:35:00",
-      "kickoff_label": "17:35",
+      "home_team": "Chicago White Sox",
+      "away_team": "Athletics",
+      "kickoff": "2026-07-12T18:10:00",
+      "kickoff_label": "18:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Washington Nationals favoured",
+      "prediction_label": "AI: Chicago White Sox favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Washington Nationals 0.00 vs New York Yankees 0.00.",
+        "Recent form (last 5): Chicago White Sox 0.00 vs Athletics 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
