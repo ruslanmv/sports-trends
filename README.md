@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-12 06:16 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-13 06:34 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-07-12 06:16 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 29d) · La Liga (in 34d) · Ligue 1 (in 34d) · Serie A (in 37d)
+Premier League (in 28d) · La Liga (in 33d) · Ligue 1 (in 33d) · Serie A (in 36d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,7 @@ Premier League (in 29d) · La Liga (in 34d) · Ligue 1 (in 34d) · Serie A (in 3
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Angers** vs **Lille** | French Ligue 1 | 15:00 | Angers favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Barcelona** vs **Athletic Bilbao** | Spanish La Liga | 15:00 | Barcelona favoured | `██████░░░░` 60% |
+| 1 | ⚽ **KuPS** vs **Vardar** | UEFA Champions League | 15:00 | KuPS favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
@@ -64,6 +60,7 @@ Premier League (in 29d) · La Liga (in 34d) · Ligue 1 (in 34d) · Serie A (in 3
 <!-- WORLDCUP:START -->
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
+| ⚽ England vs Argentina | Semifinals | England 33% · draw 24% · Argentina 43% | **Argentina** 58% · **England** 42% |
 | ⚽ France vs Spain | Semifinals | France 40% · draw 26% · Spain 34% | **France** 55% · **Spain** 46% |
 <!-- WORLDCUP:END -->
 
