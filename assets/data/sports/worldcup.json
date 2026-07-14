@@ -2,9 +2,9 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-14T20:36:05.070180+00:00",
+  "last_updated": "2026-07-14T21:50:46.929835+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "match_id": "wc-2026-england-argentina-2026-07-15",
@@ -34,35 +34,6 @@
         "Argentina": 0.584
       },
       "kickoff_label": "15 Jul 19:00"
-    },
-    {
-      "match_id": "wc-2026-france-spain-2026-07-14",
-      "competition_type": "world_cup",
-      "stage": "semifinals",
-      "group": "",
-      "home_team": "France",
-      "away_team": "Spain",
-      "kickoff": "2026-07-14T19:00:00+00:00",
-      "neutral_venue": true,
-      "host_advantage": false,
-      "result_90": {
-        "team1": 0.396,
-        "draw": 0.26,
-        "team2": 0.344
-      },
-      "prediction_label": "France favoured",
-      "confidence": 0.396,
-      "interest_score": 92,
-      "explanation": [
-        "Elo: France 2080 vs Spain 2040 (Δ +40).",
-        "Stage importance 95/100 (semifinals).",
-        "To advance (incl. extra time / penalties): France 55% · Spain 45%."
-      ],
-      "to_advance": {
-        "France": 0.545,
-        "Spain": 0.455
-      },
-      "kickoff_label": "14 Jul 19:00"
     }
   ]
 }
