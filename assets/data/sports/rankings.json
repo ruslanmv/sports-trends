@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T23:44:53.836593+00:00",
+  "last_updated": "2026-07-14T01:45:30.856523+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,42 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388332",
+      "label": "Philadelphia Phillies vs New York Mets",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
+      "match_id": "tsdb-2508333",
+      "label": "Bayern Munich vs Stuttgart",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2494000",
+      "label": "Arsenal vs Coventry City",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2482138",
+      "label": "Udinese vs Como",
+      "interest_score": 50
+    },
+    {
+      "rank": 5,
+      "match_id": "tsdb-2489463",
+      "label": "Marseille vs Strasbourg",
+      "interest_score": 50
+    },
+    {
+      "rank": 6,
+      "match_id": "tsdb-2506169",
+      "label": "Barcelona vs Athletic Bilbao",
+      "interest_score": 50
+    },
+    {
+      "rank": 7,
       "match_id": "tsdb-2491750",
       "label": "KuPS vs Vardar",
       "interest_score": 50
