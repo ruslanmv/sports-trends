@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-14T14:43:31.336410+00:00",
+  "last_updated": "2026-07-14T16:09:37.497734+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -157,19 +157,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2491750",
+      "match_id": "tsdb-2491751",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Vardar",
-      "kickoff": "2026-07-14T15:00:00",
-      "kickoff_label": "15:00",
+      "home_team": "Győri ETO",
+      "away_team": "Víkingur Reykjavík",
+      "kickoff": "2026-07-14T17:00:00",
+      "kickoff_label": "17:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: KuPS favoured",
+      "prediction_label": "AI: Győri ETO favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -177,7 +177,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): KuPS 0.00 vs Vardar 0.00.",
+        "Recent form (last 5): Győri ETO 0.00 vs Víkingur Reykjavík 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

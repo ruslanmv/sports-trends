@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T14:43:30.346015+00:00",
+  "last_updated": "2026-07-14T16:09:35.904100+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2491743",
+      "match_id": "tsdb-2491754",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Maxline Vitebsk",
-      "away_team": "Universitatea Craiova",
-      "home_score": 1,
-      "away_score": 4,
+      "home_team": "Iberia 1999",
+      "away_team": "Flora Tallinn",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

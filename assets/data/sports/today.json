@@ -1,14 +1,14 @@
 {
   "date": "2026-07-14",
-  "last_updated": "2026-07-14T14:43:31.336396+00:00",
+  "last_updated": "2026-07-14T16:09:37.497718+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2491750",
+      "match_id": "tsdb-2491751",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Vardar",
+      "home_team": "Győri ETO",
+      "away_team": "Víkingur Reykjavík",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
