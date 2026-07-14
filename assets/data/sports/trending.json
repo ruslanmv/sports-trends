@@ -1,56 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-14T17:39:47.829509+00:00",
-  "count": 7,
+  "last_updated": "2026-07-14T19:06:03.609993+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Philadelphia Phillies vs New York Mets",
-      "sport": "baseball",
+      "label": "Universitatea Craiova vs Maxline Vitebsk",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Barcelona vs Athletic Bilbao",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Drita vs Kauno Žalgiris",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

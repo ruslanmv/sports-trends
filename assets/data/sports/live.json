@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T17:39:46.459493+00:00",
+  "last_updated": "2026-07-14T19:06:02.580567+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,11 +68,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2491747",
+      "match_id": "tsdb-2491755",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Levski Sofia",
-      "away_team": "Borac Banja Luka",
+      "home_team": "Larne",
+      "away_team": "Tre Fiori",
       "home_score": 0,
       "away_score": 0,
       "status": "finished",
