@@ -1,14 +1,14 @@
 {
   "date": "2026-07-14",
-  "last_updated": "2026-07-14T16:09:37.497718+00:00",
+  "last_updated": "2026-07-14T17:39:47.829481+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2491751",
+      "match_id": "tsdb-2491757",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Győri ETO",
-      "away_team": "Víkingur Reykjavík",
+      "home_team": "Drita",
+      "away_team": "Kauno Žalgiris",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

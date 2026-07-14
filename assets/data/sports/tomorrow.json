@@ -2,7 +2,7 @@
   "date": "2026-07-14",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-14T16:09:37.497730+00:00",
+  "last_updated": "2026-07-14T17:39:47.829488+00:00",
   "count": 7,
   "matches": [
     {
@@ -155,19 +155,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2491751",
+      "match_id": "tsdb-2491757",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Győri ETO",
-      "away_team": "Víkingur Reykjavík",
-      "kickoff": "2026-07-14T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Drita",
+      "away_team": "Kauno Žalgiris",
+      "kickoff": "2026-07-14T18:00:00",
+      "kickoff_label": "18:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Győri ETO favoured",
+      "prediction_label": "AI: Drita favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -175,7 +175,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Győri ETO 0.00 vs Víkingur Reykjavík 0.00.",
+        "Recent form (last 5): Drita 0.00 vs Kauno Žalgiris 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
