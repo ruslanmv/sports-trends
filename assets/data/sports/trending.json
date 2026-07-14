@@ -1,54 +1,54 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-14T05:43:16.480378+00:00",
+  "last_updated": "2026-07-14T05:44:53.748891+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Philadelphia Phillies vs New York Mets",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Udinese vs Como",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Marseille vs Strasbourg",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Barcelona vs Athletic Bilbao",
+      "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "KuPS vs Vardar",
+      "label": "Barcelona vs Athletic Bilbao",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Philadelphia Phillies vs New York Mets",
-      "sport": "baseball",
+      "label": "KuPS vs Vardar",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
