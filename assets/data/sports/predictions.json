@@ -1,34 +1,33 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-14T23:44:00.876281+00:00",
+  "last_updated": "2026-07-15T01:41:54.479275+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2491746",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Universitatea Craiova",
-      "away_team": "Maxline Vitebsk",
-      "kickoff": "2026-07-15T17:30:00",
-      "kickoff_label": "17:30",
+      "match_id": "tsdb-2388332",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "New York Mets",
+      "kickoff": "2026-07-16T23:10:00",
+      "kickoff_label": "23:10",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.585,
+        "away_win": 0.415
       },
-      "prediction_label": "AI: Universitatea Craiova favoured",
-      "confidence": 0.459,
+      "prediction_label": "AI: Philadelphia Phillies favoured",
+      "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Universitatea Craiova 0.00 vs Maxline Vitebsk 0.00.",
+        "Recent form (last 5): Philadelphia Phillies 0.00 vs New York Mets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
