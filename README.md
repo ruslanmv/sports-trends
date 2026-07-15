@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-14 05:43 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-15 05:44 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-07-14 05:43 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-🏆 FIFA World Cup · 🎾 Wimbledon · ⚾ MLB · 🎮 Esports Majors
+🏆 FIFA World Cup · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-Premier League (in 27d) · La Liga (in 32d) · Ligue 1 (in 32d) · Serie A (in 35d)
+Premier League (in 26d) · La Liga (in 31d) · Ligue 1 (in 31d) · Serie A (in 34d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,7 @@ Premier League (in 27d) · La Liga (in 32d) · Ligue 1 (in 32d) · Serie A (in 3
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Barcelona** vs **Athletic Bilbao** | Spanish La Liga | 15:00 | Barcelona favoured | `██████░░░░` 60% |
+| 1 | ⚾ **Philadelphia Phillies** vs **New York Mets** | MLB | 23:10 | Philadelphia Phillies favoured | `██████░░░░` 58% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
@@ -65,7 +61,6 @@ Premier League (in 27d) · La Liga (in 32d) · Ligue 1 (in 32d) · Serie A (in 3
 | Tie | Stage | 90' result | To advance |
 |:----|:-----:|:-----------|:-----------|
 | ⚽ England vs Argentina | Semifinals | England 33% · draw 24% · Argentina 43% | **Argentina** 58% · **England** 42% |
-| ⚽ France vs Spain | Semifinals | France 40% · draw 26% · Spain 34% | **France** 55% · **Spain** 46% |
 <!-- WORLDCUP:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/sports/football/world-cup/"><b>▶ Full World Cup board →</b></a></div>
