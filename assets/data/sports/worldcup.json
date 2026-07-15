@@ -2,38 +2,67 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-15T20:08:19.847809+00:00",
+  "last_updated": "2026-07-15T21:28:47.920143+00:00",
   "headline": "World Cup — Biggest Games",
-  "count": 1,
+  "count": 2,
   "matches": [
     {
-      "match_id": "wc-2026-england-argentina-2026-07-15",
+      "match_id": "wc-2026-spain-argentina-2026-07-19",
       "competition_type": "world_cup",
-      "stage": "semifinals",
+      "stage": "final",
       "group": "",
-      "home_team": "England",
+      "home_team": "Spain",
       "away_team": "Argentina",
-      "kickoff": "2026-07-15T19:00:00+00:00",
+      "kickoff": "2026-07-19T19:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
-        "team1": 0.328,
-        "draw": 0.243,
-        "team2": 0.429
+        "team1": 0.333,
+        "draw": 0.248,
+        "team2": 0.42
       },
       "prediction_label": "Argentina favoured",
-      "confidence": 0.429,
-      "interest_score": 93,
+      "confidence": 0.42,
+      "interest_score": 95,
       "explanation": [
-        "Elo: England 2030 vs Argentina 2105 (Δ -75).",
-        "Stage importance 95/100 (semifinals).",
-        "To advance (incl. extra time / penalties): England 42% · Argentina 58%."
+        "Elo: Spain 2040 vs Argentina 2105 (Δ -65).",
+        "Stage importance 100/100 (final).",
+        "To advance (incl. extra time / penalties): Spain 43% · Argentina 57%."
       ],
       "to_advance": {
-        "England": 0.416,
-        "Argentina": 0.584
+        "Spain": 0.427,
+        "Argentina": 0.573
       },
-      "kickoff_label": "15 Jul 19:00"
+      "kickoff_label": "19 Jul 19:00"
+    },
+    {
+      "match_id": "wc-2026-france-england-2026-07-18",
+      "competition_type": "world_cup",
+      "stage": "third_place",
+      "group": "",
+      "home_team": "France",
+      "away_team": "England",
+      "kickoff": "2026-07-18T21:00:00+00:00",
+      "neutral_venue": true,
+      "host_advantage": false,
+      "result_90": {
+        "team1": 0.406,
+        "draw": 0.255,
+        "team2": 0.339
+      },
+      "prediction_label": "France favoured",
+      "confidence": 0.406,
+      "interest_score": 85,
+      "explanation": [
+        "Elo: France 2080 vs England 2030 (Δ +50).",
+        "Stage importance 80/100 (third place).",
+        "To advance (incl. extra time / penalties): France 56% · England 44%."
+      ],
+      "to_advance": {
+        "France": 0.557,
+        "England": 0.443
+      },
+      "kickoff_label": "18 Jul 21:00"
     }
   ]
 }

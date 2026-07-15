@@ -2,15 +2,22 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-15T20:08:19.847809+00:00",
+  "last_updated": "2026-07-15T21:28:47.920143+00:00",
   "region": "Worldwide",
   "matches": [
     {
       "rank": 1,
-      "label": "England vs Argentina",
-      "stage": "semifinals",
-      "interest_score": 93,
+      "label": "Spain vs Argentina",
+      "stage": "final",
+      "interest_score": 95,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "France vs England",
+      "stage": "third_place",
+      "interest_score": 85,
+      "hot": false
     }
   ]
 }

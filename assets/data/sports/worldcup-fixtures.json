@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-15T20:08:19.847809+00:00",
+  "last_updated": "2026-07-15T21:28:47.920143+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1762,6 +1762,52 @@
           "kickoff_label": "15 Jul 19:00",
           "venue": "Atlanta",
           "host_city": "Atlanta",
+          "status": "finished",
+          "home_score": 1,
+          "away_score": 2
+        }
+      ]
+    },
+    {
+      "stage": "third_place",
+      "label": "Third-place Play-off",
+      "matches": [
+        {
+          "match_id": "wc-2026-france-england-2026-07-18",
+          "home_team": "France",
+          "away_team": "England",
+          "home_confederation": "UEFA",
+          "away_confederation": "UEFA",
+          "stage": "third_place",
+          "group": "",
+          "date": "2026-07-18",
+          "kickoff": "2026-07-18T21:00:00+00:00",
+          "kickoff_label": "18 Jul 21:00",
+          "venue": "Miami (Miami Gardens)",
+          "host_city": "Miami",
+          "status": "scheduled",
+          "home_score": null,
+          "away_score": null
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "label": "Final",
+      "matches": [
+        {
+          "match_id": "wc-2026-spain-argentina-2026-07-19",
+          "home_team": "Spain",
+          "away_team": "Argentina",
+          "home_confederation": "UEFA",
+          "away_confederation": "CONMEBOL",
+          "stage": "final",
+          "group": "",
+          "date": "2026-07-19",
+          "kickoff": "2026-07-19T19:00:00+00:00",
+          "kickoff_label": "19 Jul 19:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "host_city": "New York/New Jersey",
           "status": "scheduled",
           "home_score": null,
           "away_score": null
@@ -1769,6 +1815,6 @@
       ]
     }
   ],
-  "total": 102,
-  "upcoming": 1
+  "total": 104,
+  "upcoming": 2
 }
