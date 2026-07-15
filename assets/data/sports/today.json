@@ -1,14 +1,14 @@
 {
   "date": "2026-07-15",
-  "last_updated": "2026-07-15T17:44:46.600240+00:00",
+  "last_updated": "2026-07-15T18:58:12.206439+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2491758",
+      "match_id": "tsdb-2491749",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Atert Bissen",
-      "away_team": "KÍ Klaksvík",
+      "home_team": "Sutjeska",
+      "away_team": "Kairat Almaty",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
