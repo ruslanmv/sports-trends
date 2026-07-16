@@ -2,7 +2,7 @@
   "date": "2026-07-16",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-16T04:53:53.674716+00:00",
+  "last_updated": "2026-07-16T05:58:48.434216+00:00",
   "count": 7,
   "matches": [
     {
@@ -130,19 +130,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2506169",
+      "match_id": "tsdb-2506176",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Barcelona",
-      "away_team": "Athletic Bilbao",
-      "kickoff": "2026-08-16T15:00:00",
-      "kickoff_label": "15:00",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Getafe",
+      "kickoff": "2026-08-15T17:30:00",
+      "kickoff_label": "17:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Barcelona favoured",
+      "prediction_label": "AI: Deportivo Alavés favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -150,7 +150,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Barcelona 0.00 vs Athletic Bilbao 0.00.",
+        "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
