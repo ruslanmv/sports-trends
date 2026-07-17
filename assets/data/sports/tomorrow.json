@@ -2,9 +2,33 @@
   "date": "2026-07-17",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-17T05:58:59.993865+00:00",
-  "count": 6,
+  "last_updated": "2026-07-17T07:14:25.481322+00:00",
+  "count": 7,
   "matches": [
+    {
+      "match_id": "tsdb-2387466",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Boston Red Sox",
+      "away_team": "Tampa Bay Rays",
+      "kickoff": "2026-07-17T17:35:00",
+      "kickoff_label": "17:35",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Boston Red Sox favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Boston Red Sox 0.00 vs Tampa Bay Rays 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2508333",
       "sport": "football",
@@ -14,15 +38,16 @@
       "kickoff": "2026-08-28T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.072,
-        "away_win": 0.928
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
       },
-      "prediction_label": "AI: Stuttgart favoured",
-      "confidence": 0.928,
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
@@ -38,15 +63,16 @@
       "kickoff": "2026-08-21T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.103,
-        "away_win": 0.897
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
       },
-      "prediction_label": "AI: Coventry City favoured",
-      "confidence": 0.897,
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
@@ -62,15 +88,16 @@
       "kickoff": "2026-08-22T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
@@ -86,15 +113,16 @@
       "kickoff": "2026-08-21T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
@@ -110,15 +138,16 @@
       "kickoff": "2026-08-15T17:30:00",
       "kickoff_label": "17:30",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Deportivo Alavés favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
@@ -126,26 +155,27 @@
       ]
     },
     {
-      "match_id": "tsdb-2492395",
+      "match_id": "tsdb-2532700",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "AGF Aarhus",
-      "away_team": "Lech Poznań",
-      "kickoff": "2026-07-21T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Mjällby",
+      "away_team": "Lincoln Red Imps",
+      "kickoff": "2026-07-21T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: AGF Aarhus favoured",
-      "confidence": 0.597,
+      "prediction_label": "AI: Mjällby favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): AGF Aarhus 0.00 vs Lech Poznań 0.00.",
+        "Recent form (last 5): Mjällby 0.00 vs Lincoln Red Imps 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
