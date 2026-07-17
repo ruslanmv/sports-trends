@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:32:34.791708+00:00",
+  "last_updated": "2026-07-17T20:00:16.397036+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Boston Red Sox",
       "away_team": "Tampa Bay Rays",
-      "home_score": 2,
+      "home_score": 10,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
