@@ -1,14 +1,14 @@
 {
   "date": "2026-07-17",
-  "last_updated": "2026-07-17T17:02:57.221794+00:00",
+  "last_updated": "2026-07-17T18:32:36.215879+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2387466",
+      "match_id": "tsdb-2388333",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Boston Red Sox",
-      "away_team": "Tampa Bay Rays",
+      "home_team": "New York Yankees",
+      "away_team": "Los Angeles Dodgers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

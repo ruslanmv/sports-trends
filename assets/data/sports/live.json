@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T17:02:55.441195+00:00",
+  "last_updated": "2026-07-17T18:32:34.791708+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388332",
+      "match_id": "tsdb-2387466",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "New York Mets",
-      "home_score": 1,
-      "away_score": 4,
+      "home_team": "Boston Red Sox",
+      "away_team": "Tampa Bay Rays",
+      "home_score": 2,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

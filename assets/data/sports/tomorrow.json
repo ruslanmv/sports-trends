@@ -2,22 +2,22 @@
   "date": "2026-07-17",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-17T17:02:57.221804+00:00",
+  "last_updated": "2026-07-17T18:32:36.215888+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2387466",
+      "match_id": "tsdb-2388333",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Boston Red Sox",
-      "away_team": "Tampa Bay Rays",
-      "kickoff": "2026-07-17T17:35:00",
-      "kickoff_label": "17:35",
+      "home_team": "New York Yankees",
+      "away_team": "Los Angeles Dodgers",
+      "kickoff": "2026-07-17T23:05:00",
+      "kickoff_label": "23:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Boston Red Sox favoured",
+      "prediction_label": "AI: New York Yankees favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Boston Red Sox 0.00 vs Tampa Bay Rays 0.00.",
+        "Recent form (last 5): New York Yankees 0.00 vs Los Angeles Dodgers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
