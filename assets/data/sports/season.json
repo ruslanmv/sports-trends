@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-07-16T23:52:39.083481+00:00",
-  "today": "2026-07-16",
+  "last_updated": "2026-07-17T01:55:39.729838+00:00",
+  "today": "2026-07-17",
   "featured": {
     "key": "worldcup",
     "name": "FIFA World Cup",
@@ -55,7 +55,7 @@
       "importance": 90,
       "emoji": "🏴",
       "start": "2026-08-10",
-      "starts_in_days": 25
+      "starts_in_days": 24
     },
     {
       "key": "laliga",
@@ -65,7 +65,7 @@
       "importance": 88,
       "emoji": "🇪🇸",
       "start": "2026-08-15",
-      "starts_in_days": 30
+      "starts_in_days": 29
     },
     {
       "key": "ligue1",
@@ -75,7 +75,7 @@
       "importance": 84,
       "emoji": "🇫🇷",
       "start": "2026-08-15",
-      "starts_in_days": 30
+      "starts_in_days": 29
     },
     {
       "key": "seriea",
@@ -85,7 +85,7 @@
       "importance": 87,
       "emoji": "🇮🇹",
       "start": "2026-08-18",
-      "starts_in_days": 33
+      "starts_in_days": 32
     },
     {
       "key": "bundesliga",
@@ -95,7 +95,7 @@
       "importance": 86,
       "emoji": "🇩🇪",
       "start": "2026-08-22",
-      "starts_in_days": 37
+      "starts_in_days": 36
     },
     {
       "key": "usopen",
@@ -105,7 +105,17 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2026-08-25",
-      "starts_in_days": 40
+      "starts_in_days": 39
+    },
+    {
+      "key": "ucl",
+      "name": "UEFA Champions League",
+      "sport": "football",
+      "scope": "club",
+      "importance": 96,
+      "emoji": "⭐",
+      "start": "2026-09-15",
+      "starts_in_days": 60
     }
   ]
 }
