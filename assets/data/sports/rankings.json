@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T18:51:41.716419+00:00",
+  "last_updated": "2026-07-18T20:00:04.446428+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388345",
-      "label": "Toronto Blue Jays vs Chicago White Sox",
+      "match_id": "tsdb-2388344",
+      "label": "Kansas City Royals vs San Diego Padres",
       "interest_score": 50
     },
     {

@@ -1,14 +1,14 @@
 {
   "date": "2026-07-18",
-  "last_updated": "2026-07-18T18:51:41.716330+00:00",
+  "last_updated": "2026-07-18T20:00:04.446375+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388345",
+      "match_id": "tsdb-2388344",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Toronto Blue Jays",
-      "away_team": "Chicago White Sox",
+      "home_team": "Kansas City Royals",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

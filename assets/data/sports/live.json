@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T18:51:40.333752+00:00",
+  "last_updated": "2026-07-18T20:00:02.005258+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,12 +94,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388354",
+      "match_id": "tsdb-2388352",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Minnesota Twins",
-      "home_score": 1,
+      "home_team": "Colorado Rockies",
+      "away_team": "Cincinnati Reds",
+      "home_score": 6,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
