@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T16:46:59.059270+00:00",
+  "last_updated": "2026-07-18T17:49:26.126028+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388331",
+      "match_id": "tsdb-2388338",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "San Francisco Giants",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Pittsburgh Pirates",
       "home_score": 0,
-      "away_score": 7,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

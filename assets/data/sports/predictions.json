@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-18T16:47:00.339732+00:00",
+  "last_updated": "2026-07-18T17:49:27.335202+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388338",
+      "match_id": "tsdb-2388354",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Pittsburgh Pirates",
-      "kickoff": "2026-07-18T17:10:00",
-      "kickoff_label": "17:10",
+      "home_team": "Chicago Cubs",
+      "away_team": "Minnesota Twins",
+      "kickoff": "2026-07-18T18:20:00",
+      "kickoff_label": "18:20",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cleveland Guardians favoured",
+      "prediction_label": "AI: Chicago Cubs favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Pittsburgh Pirates 0.00.",
+        "Recent form (last 5): Chicago Cubs 0.00 vs Minnesota Twins 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
