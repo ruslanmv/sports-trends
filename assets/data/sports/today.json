@@ -1,14 +1,14 @@
 {
   "date": "2026-07-18",
-  "last_updated": "2026-07-18T20:00:04.446375+00:00",
+  "last_updated": "2026-07-18T20:54:57.274353+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388344",
+      "match_id": "tsdb-2388353",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Kansas City Royals",
-      "away_team": "San Diego Padres",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
