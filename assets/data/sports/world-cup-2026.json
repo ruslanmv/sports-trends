@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:40:42.463616+00:00",
+  "last_updated": "2026-07-18T23:44:20.982464+00:00",
   "competition": "Mundial 2026",
   "stage": "final",
   "matches": [
@@ -20,24 +20,6 @@
         "confidence": 42
       },
       "interest_score": 95
-    },
-    {
-      "match_id": "wc-2026-france-england-2026-07-18",
-      "home_team": "France",
-      "away_team": "England",
-      "stage": "third_place",
-      "kickoff": "2026-07-18T21:00:00+00:00",
-      "kickoff_label": "18 Jul 21:00",
-      "prediction": {
-        "home_win": 0.406,
-        "draw": 0.255,
-        "away_win": 0.339,
-        "home_to_advance": 0.557,
-        "away_to_advance": 0.443,
-        "ai_pick": "France favoured",
-        "confidence": 41
-      },
-      "interest_score": 85
     }
   ]
 }

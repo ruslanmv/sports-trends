@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-18T22:40:42.463616+00:00",
+  "last_updated": "2026-07-18T23:44:20.982464+00:00",
   "region": "Worldwide",
   "matches": [
     {
@@ -11,13 +11,6 @@
       "stage": "final",
       "interest_score": 95,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "France vs England",
-      "stage": "third_place",
-      "interest_score": 85,
-      "hot": false
     }
   ]
 }

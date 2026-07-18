@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-18T22:40:42.463616+00:00",
+  "last_updated": "2026-07-18T23:44:20.982464+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1785,9 +1785,9 @@
           "kickoff_label": "18 Jul 21:00",
           "venue": "Miami (Miami Gardens)",
           "host_city": "Miami",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 4,
+          "away_score": 6
         }
       ]
     },
@@ -1816,5 +1816,5 @@
     }
   ],
   "total": 104,
-  "upcoming": 2
+  "upcoming": 1
 }
