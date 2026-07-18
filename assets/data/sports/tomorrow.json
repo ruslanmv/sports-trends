@@ -2,22 +2,22 @@
   "date": "2026-07-18",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-18T17:49:27.335197+00:00",
+  "last_updated": "2026-07-18T18:51:41.716341+00:00",
   "count": 7,
   "matches": [
     {
-      "match_id": "tsdb-2388354",
+      "match_id": "tsdb-2388345",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Minnesota Twins",
-      "kickoff": "2026-07-18T18:20:00",
-      "kickoff_label": "18:20",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-07-18T19:07:00",
+      "kickoff_label": "19:07",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Chicago Cubs favoured",
+      "prediction_label": "AI: Toronto Blue Jays favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago Cubs 0.00 vs Minnesota Twins 0.00.",
+        "Recent form (last 5): Toronto Blue Jays 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

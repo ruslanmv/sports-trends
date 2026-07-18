@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T17:49:26.126028+00:00",
+  "last_updated": "2026-07-18T18:51:40.333752+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388338",
+      "match_id": "tsdb-2388354",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Pittsburgh Pirates",
-      "home_score": 0,
-      "away_score": 2,
+      "home_team": "Chicago Cubs",
+      "away_team": "Minnesota Twins",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
