@@ -2,22 +2,22 @@
   "date": "2026-07-19",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-19T22:42:46.652320+00:00",
-  "count": 7,
+  "last_updated": "2026-07-19T23:50:45.013643+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388362",
+      "match_id": "tsdb-2388383",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Los Angeles Dodgers",
-      "kickoff": "2026-07-19T23:20:00",
-      "kickoff_label": "23:20",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Minnesota Twins",
+      "kickoff": "2026-07-20T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: New York Yankees favoured",
+      "prediction_label": "AI: Cleveland Guardians favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,157 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): New York Yankees 0.00 vs Los Angeles Dodgers 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489463",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Strasbourg",
-      "kickoff": "2026-08-21T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506176",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo Alavés",
-      "away_team": "Getafe",
-      "kickoff": "2026-08-15T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Deportivo Alavés favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2532700",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Mjällby",
-      "away_team": "Lincoln Red Imps",
-      "kickoff": "2026-07-21T16:00:00",
-      "kickoff_label": "16:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Mjällby favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Mjällby 0.00 vs Lincoln Red Imps 0.00.",
+        "Recent form (last 5): Cleveland Guardians 0.00 vs Minnesota Twins 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

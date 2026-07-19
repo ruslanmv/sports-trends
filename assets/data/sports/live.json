@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T22:42:45.621321+00:00",
+  "last_updated": "2026-07-19T23:50:43.686357+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388373",
+      "match_id": "tsdb-2388362",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "St. Louis Cardinals",
-      "home_score": 3,
-      "away_score": 7,
+      "home_team": "New York Yankees",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
