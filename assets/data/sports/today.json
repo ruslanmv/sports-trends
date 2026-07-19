@@ -1,14 +1,14 @@
 {
   "date": "2026-07-19",
-  "last_updated": "2026-07-19T15:59:33.705570+00:00",
+  "last_updated": "2026-07-19T17:00:29.937082+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388359",
+      "match_id": "tsdb-2388361",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Toronto Blue Jays",
-      "away_team": "Chicago White Sox",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "New York Mets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
