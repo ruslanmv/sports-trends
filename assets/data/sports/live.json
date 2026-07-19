@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T18:02:20.657746+00:00",
-  "count": 7,
+  "last_updated": "2026-07-19T19:39:00.020865+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388367",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Colorado Rockies",
+      "away_team": "Cincinnati Reds",
+      "home_score": 1,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

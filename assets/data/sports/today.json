@@ -1,14 +1,14 @@
 {
   "date": "2026-07-19",
-  "last_updated": "2026-07-19T18:02:22.481329+00:00",
+  "last_updated": "2026-07-19T19:39:01.636421+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388363",
+      "match_id": "tsdb-2388372",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Miami Marlins",
+      "home_team": "Athletics",
+      "away_team": "Washington Nationals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
