@@ -1,14 +1,56 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-18T23:44:20.045180+00:00",
-  "count": 1,
+  "last_updated": "2026-07-19T01:53:58.892266+00:00",
+  "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Seattle Mariners vs San Francisco Giants",
+      "label": "Athletics vs Washington Nationals",
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Marseille vs Strasbourg",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Mjällby vs Lincoln Red Imps",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T23:44:18.670013+00:00",
-  "count": 7,
+  "last_updated": "2026-07-19T01:53:57.490598+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388346",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Seattle Mariners",
+      "away_team": "San Francisco Giants",
+      "home_score": 0,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
