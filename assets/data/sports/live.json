@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T06:11:24.429646+00:00",
-  "count": 5,
+  "last_updated": "2026-07-19T06:12:31.781965+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -62,6 +62,45 @@
       "away_team": "St Etienne",
       "home_score": 4,
       "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2491752",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Egnatia",
+      "away_team": "Petrocub Hîncești",
+      "home_score": 6,
+      "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2483461",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "San Antonio Spurs",
+      "away_team": "New York Knicks",
+      "home_score": 90,
+      "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388350",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Detroit Tigers",
+      "home_score": 0,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
