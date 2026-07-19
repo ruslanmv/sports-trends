@@ -1,54 +1,54 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-19T05:15:23.027960+00:00",
+  "last_updated": "2026-07-19T06:11:24.901040+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Toronto Blue Jays vs Chicago White Sox",
-      "sport": "baseball",
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
       "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 4,
+      "rank": 3,
       "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 4,
       "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 5,
       "label": "Deportivo Alavés vs Getafe",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 6,
       "label": "Mjällby vs Lincoln Red Imps",
       "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Toronto Blue Jays vs Chicago White Sox",
+      "sport": "baseball",
       "audience": null,
       "hot": false
     }
