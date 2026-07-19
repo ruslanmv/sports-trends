@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:53:57.490598+00:00",
+  "last_updated": "2026-07-19T05:15:21.517982+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388346",
+      "match_id": "tsdb-2388350",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "San Francisco Giants",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Detroit Tigers",
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
