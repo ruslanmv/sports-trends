@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-20T22:52:20.321932+00:00",
-  "count": 1,
+  "last_updated": "2026-07-20T23:49:56.380497+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
+      "label": "Texas Rangers vs Chicago White Sox",
+      "sport": "baseball",
+      "audience": null,
+      "hot": true
+    },
+    {
+      "rank": 2,
       "label": "Mjällby vs Lincoln Red Imps",
       "sport": "football",
       "audience": null,
-      "hot": true
+      "hot": false
     }
   ]
 }
