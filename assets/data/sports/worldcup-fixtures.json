@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-20T08:43:58.903673+00:00",
+  "last_updated": "2026-07-20T11:38:08.224645+00:00",
   "sections": [
     {
       "stage": "group_stage",
@@ -1808,13 +1808,13 @@
           "kickoff_label": "19 Jul 19:00",
           "venue": "New York/New Jersey (East Rutherford)",
           "host_city": "New York/New Jersey",
-          "status": "scheduled",
-          "home_score": null,
-          "away_score": null
+          "status": "finished",
+          "home_score": 0,
+          "away_score": 0
         }
       ]
     }
   ],
   "total": 104,
-  "upcoming": 1
+  "upcoming": 0
 }

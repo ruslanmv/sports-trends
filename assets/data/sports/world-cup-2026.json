@@ -1,25 +1,151 @@
 {
-  "last_updated": "2026-07-20T08:43:58.903673+00:00",
+  "last_updated": "2026-07-20T11:38:08.224645+00:00",
   "competition": "Mundial 2026",
-  "stage": "final",
+  "stage": "round_of_32",
   "matches": [
     {
-      "match_id": "wc-2026-spain-argentina-2026-07-19",
+      "match_id": "wc-esp-cro",
       "home_team": "Spain",
-      "away_team": "Argentina",
-      "stage": "final",
-      "kickoff": "2026-07-19T19:00:00+00:00",
-      "kickoff_label": "19 Jul 19:00",
+      "away_team": "Croatia",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-22T18:00:00+00:00",
+      "kickoff_label": "22 Jul 18:00",
       "prediction": {
-        "home_win": 0.333,
-        "draw": 0.248,
-        "away_win": 0.42,
-        "home_to_advance": 0.427,
-        "away_to_advance": 0.573,
-        "ai_pick": "Argentina favoured",
-        "confidence": 42
+        "home_win": 0.486,
+        "draw": 0.214,
+        "away_win": 0.3,
+        "home_to_advance": 0.649,
+        "away_to_advance": 0.351,
+        "ai_pick": "Spain favoured",
+        "confidence": 49
       },
-      "interest_score": 95
+      "interest_score": 73
+    },
+    {
+      "match_id": "wc-arg-nor",
+      "home_team": "Argentina",
+      "away_team": "Norway",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-21T18:00:00+00:00",
+      "kickoff_label": "21 Jul 18:00",
+      "prediction": {
+        "home_win": 0.617,
+        "draw": 0.153,
+        "away_win": 0.231,
+        "home_to_advance": 0.777,
+        "away_to_advance": 0.223,
+        "ai_pick": "Argentina favoured",
+        "confidence": 62
+      },
+      "interest_score": 72
+    },
+    {
+      "match_id": "wc-fra-sen",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-21T15:00:00+00:00",
+      "kickoff_label": "21 Jul 15:00",
+      "prediction": {
+        "home_win": 0.58,
+        "draw": 0.169,
+        "away_win": 0.251,
+        "home_to_advance": 0.744,
+        "away_to_advance": 0.256,
+        "ai_pick": "France favoured",
+        "confidence": 58
+      },
+      "interest_score": 72
+    },
+    {
+      "match_id": "wc-bra-jpn",
+      "home_team": "Brazil",
+      "away_team": "Japan",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-21T21:00:00+00:00",
+      "kickoff_label": "21 Jul 21:00",
+      "prediction": {
+        "home_win": 0.548,
+        "draw": 0.184,
+        "away_win": 0.268,
+        "home_to_advance": 0.713,
+        "away_to_advance": 0.287,
+        "ai_pick": "Brazil favoured",
+        "confidence": 55
+      },
+      "interest_score": 70
+    },
+    {
+      "match_id": "wc-ger-mar",
+      "home_team": "Germany",
+      "away_team": "Morocco",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-22T15:00:00+00:00",
+      "kickoff_label": "22 Jul 15:00",
+      "prediction": {
+        "home_win": 0.438,
+        "draw": 0.238,
+        "away_win": 0.324,
+        "home_to_advance": 0.595,
+        "away_to_advance": 0.405,
+        "ai_pick": "Germany favoured",
+        "confidence": 44
+      },
+      "interest_score": 67
+    },
+    {
+      "match_id": "wc-eng-mex",
+      "home_team": "England",
+      "away_team": "Mexico",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-22T21:00:00+00:00",
+      "kickoff_label": "22 Jul 21:00",
+      "prediction": {
+        "home_win": 0.505,
+        "draw": 0.204,
+        "away_win": 0.29,
+        "home_to_advance": 0.669,
+        "away_to_advance": 0.331,
+        "ai_pick": "England favoured",
+        "confidence": 50
+      },
+      "interest_score": 66
+    },
+    {
+      "match_id": "wc-por-usa",
+      "home_team": "Portugal",
+      "away_team": "USA",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-20T23:00:00+00:00",
+      "kickoff_label": "20 Jul 23:00",
+      "prediction": {
+        "home_win": 0.467,
+        "draw": 0.223,
+        "away_win": 0.31,
+        "home_to_advance": 0.628,
+        "away_to_advance": 0.372,
+        "ai_pick": "Portugal favoured",
+        "confidence": 47
+      },
+      "interest_score": 64
+    },
+    {
+      "match_id": "wc-ned-ecu",
+      "home_team": "Netherlands",
+      "away_team": "Ecuador",
+      "stage": "round_of_32",
+      "kickoff": "2026-07-20T20:00:00+00:00",
+      "kickoff_label": "20 Jul 20:00",
+      "prediction": {
+        "home_win": 0.515,
+        "draw": 0.2,
+        "away_win": 0.286,
+        "home_to_advance": 0.679,
+        "away_to_advance": 0.321,
+        "ai_pick": "Netherlands favoured",
+        "confidence": 52
+      },
+      "interest_score": 63
     }
   ]
 }
