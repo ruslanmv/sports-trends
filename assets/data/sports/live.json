@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T23:50:43.686357+00:00",
+  "last_updated": "2026-07-20T02:14:00.506511+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "New York Yankees",
       "away_team": "Los Angeles Dodgers",
-      "home_score": 1,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

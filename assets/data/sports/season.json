@@ -1,34 +1,28 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-07-19T23:50:42.270537+00:00",
-  "today": "2026-07-19",
+  "last_updated": "2026-07-20T02:13:59.126406+00:00",
+  "today": "2026-07-20",
   "featured": {
-    "key": "worldcup",
-    "name": "FIFA World Cup",
-    "sport": "football",
-    "scope": "international",
-    "importance": 100,
-    "emoji": "🏆"
+    "key": "mlb",
+    "name": "MLB",
+    "sport": "baseball",
+    "scope": "franchise",
+    "importance": 78,
+    "emoji": "⚾"
   },
   "featured_football": {
-    "key": "worldcup",
-    "name": "FIFA World Cup",
+    "key": "epl",
+    "name": "Premier League",
     "sport": "football",
-    "scope": "international",
-    "importance": 100,
-    "emoji": "🏆",
-    "status": "active"
+    "scope": "club",
+    "importance": 90,
+    "emoji": "🏴",
+    "status": "upcoming",
+    "start": "2026-08-10",
+    "starts_in_days": 21
   },
-  "worldcup_active": true,
+  "worldcup_active": false,
   "active": [
-    {
-      "key": "worldcup",
-      "name": "FIFA World Cup",
-      "sport": "football",
-      "scope": "international",
-      "importance": 100,
-      "emoji": "🏆"
-    },
     {
       "key": "mlb",
       "name": "MLB",
@@ -55,7 +49,7 @@
       "importance": 90,
       "emoji": "🏴",
       "start": "2026-08-10",
-      "starts_in_days": 22
+      "starts_in_days": 21
     },
     {
       "key": "laliga",
@@ -65,7 +59,7 @@
       "importance": 88,
       "emoji": "🇪🇸",
       "start": "2026-08-15",
-      "starts_in_days": 27
+      "starts_in_days": 26
     },
     {
       "key": "ligue1",
@@ -75,7 +69,7 @@
       "importance": 84,
       "emoji": "🇫🇷",
       "start": "2026-08-15",
-      "starts_in_days": 27
+      "starts_in_days": 26
     },
     {
       "key": "seriea",
@@ -85,7 +79,7 @@
       "importance": 87,
       "emoji": "🇮🇹",
       "start": "2026-08-18",
-      "starts_in_days": 30
+      "starts_in_days": 29
     },
     {
       "key": "bundesliga",
@@ -95,7 +89,7 @@
       "importance": 86,
       "emoji": "🇩🇪",
       "start": "2026-08-22",
-      "starts_in_days": 34
+      "starts_in_days": 33
     },
     {
       "key": "usopen",
@@ -105,7 +99,7 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2026-08-25",
-      "starts_in_days": 37
+      "starts_in_days": 36
     },
     {
       "key": "ucl",
@@ -115,7 +109,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 58
+      "starts_in_days": 57
     }
   ]
 }

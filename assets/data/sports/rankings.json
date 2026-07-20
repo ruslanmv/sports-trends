@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T23:50:45.013671+00:00",
+  "last_updated": "2026-07-20T02:14:01.872837+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388383",
-      "label": "Cleveland Guardians vs Minnesota Twins",
+      "match_id": "tsdb-2532700",
+      "label": "Mjällby vs Lincoln Red Imps",
       "interest_score": 50
     }
   ]

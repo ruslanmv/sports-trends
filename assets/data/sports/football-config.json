@@ -1,19 +1,21 @@
 {
-  "last_updated": "2026-07-19T23:50:42.270717+00:00",
-  "page_mode": "world_cup_2026",
-  "default_tab": "Mundial 2026",
-  "eyebrow": "Mundial 2026 Intelligence",
-  "headline": "Who Advances Tomorrow?",
-  "subtitle": "AI predictions, to-advance probabilities, and match insights for the World Cup.",
-  "show_world_cup_strip": true,
+  "last_updated": "2026-07-20T02:13:59.126591+00:00",
+  "page_mode": "club_season",
+  "default_tab": "All",
+  "eyebrow": "Premier League Intelligence",
+  "headline": "Premier League starts in 21d — Tomorrow’s Biggest Football Matches",
+  "subtitle": "AI predictions for the most important upcoming matches.",
+  "show_world_cup_strip": false,
   "featured_football": {
-    "key": "worldcup",
-    "name": "FIFA World Cup",
+    "key": "epl",
+    "name": "Premier League",
     "sport": "football",
-    "scope": "international",
-    "importance": 100,
-    "emoji": "🏆",
-    "status": "active"
+    "scope": "club",
+    "importance": 90,
+    "emoji": "🏴",
+    "status": "upcoming",
+    "start": "2026-08-10",
+    "starts_in_days": 21
   },
-  "primary_prediction_type": "to_advance"
+  "primary_prediction_type": "match_result"
 }

@@ -1,31 +1,32 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-19T23:50:45.013643+00:00",
+  "last_updated": "2026-07-20T02:14:01.872812+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388383",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Minnesota Twins",
-      "kickoff": "2026-07-20T22:40:00",
-      "kickoff_label": "22:40",
+      "match_id": "tsdb-2532700",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Mjällby",
+      "away_team": "Lincoln Red Imps",
+      "kickoff": "2026-07-21T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Cleveland Guardians favoured",
-      "confidence": 0.585,
+      "prediction_label": "AI: Mjällby favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Minnesota Twins 0.00.",
+        "Recent form (last 5): Mjällby 0.00 vs Lincoln Red Imps 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
