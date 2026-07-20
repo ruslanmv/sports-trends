@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-07-19 06:11 UTC** — refreshed automatically every day._
+_Last updated: **2026-07-20 06:29 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -26,15 +26,15 @@ _Last updated: **2026-07-19 06:11 UTC** — refreshed automatically every day._
 > The portal is **season-aware year-round**: when the World Cup ends it rolls to the club season, tennis Slams, NBA, IPL, and back to qualifiers — automatically, from a built-in tournament calendar. Updated daily.
 
 <!-- SEASON:START -->
-**🔥 Featured right now:** 🏆 **FIFA World Cup** (football)
+**🔥 Featured right now:** ⚾ **MLB** (baseball)
 
 **In season today:**
 
-🏆 FIFA World Cup · ⚾ MLB · 🎮 Esports Majors
+⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-Premier League (in 22d) · La Liga (in 27d) · Ligue 1 (in 27d) · Serie A (in 30d)
+Premier League (in 21d) · La Liga (in 26d) · Ligue 1 (in 26d) · Serie A (in 29d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,7 @@ Premier League (in 22d) · La Liga (in 27d) · Ligue 1 (in 27d) · Serie A (in 3
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Deportivo Alavés** vs **Getafe** | Spanish La Liga | 17:30 | Deportivo Alavés favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Mjällby** vs **Lincoln Red Imps** | UEFA Champions League | 16:00 | Mjällby favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
