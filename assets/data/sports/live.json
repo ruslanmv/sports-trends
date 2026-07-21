@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T20:41:27.296567+00:00",
+  "last_updated": "2026-07-21T21:57:48.635940+00:00",
   "count": 8,
   "matches": [
     {
@@ -74,7 +74,7 @@
       "home_team": "Larne",
       "away_team": "Crvena Zvezda",
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
