@@ -1,21 +1,8 @@
 {
   "date": "2026-07-21",
-  "last_updated": "2026-07-21T17:51:01.074359+00:00",
-  "count": 2,
+  "last_updated": "2026-07-21T19:06:42.219295+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2492396",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Fenerbahçe",
-      "away_team": "Górnik Zabrze",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388393",
       "sport": "baseball",

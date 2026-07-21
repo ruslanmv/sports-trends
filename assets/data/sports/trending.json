@@ -1,56 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-21T17:51:01.074403+00:00",
-  "count": 7,
+  "last_updated": "2026-07-21T19:06:42.219326+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "sport": "baseball",
+      "label": "Omonia Nicosia vs Kairat Almaty",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Deportivo Alavés vs Getafe",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Fenerbahçe vs Górnik Zabrze",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
