@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "last_updated": "2026-07-21T01:53:47.693396+00:00",
+  "last_updated": "2026-07-21T05:14:23.427472+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388379",
+      "match_id": "tsdb-2388393",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Los Angeles Dodgers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

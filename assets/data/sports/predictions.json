@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-21T01:53:47.693413+00:00",
+  "last_updated": "2026-07-21T05:14:23.427488+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388379",
+      "match_id": "tsdb-2388393",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "St. Louis Cardinals",
-      "kickoff": "2026-07-21T02:10:00",
-      "kickoff_label": "02:10",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Los Angeles Dodgers",
+      "kickoff": "2026-07-21T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Los Angeles Angels favoured",
+      "prediction_label": "AI: Philadelphia Phillies favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Angels 0.00 vs St. Louis Cardinals 0.00.",
+        "Recent form (last 5): Philadelphia Phillies 0.00 vs Los Angeles Dodgers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
