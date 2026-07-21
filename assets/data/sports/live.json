@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T05:14:22.361806+00:00",
+  "last_updated": "2026-07-21T06:10:20.037912+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Los Angeles Angels",
       "away_team": "St. Louis Cardinals",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 2,
       "status": "finished",
       "status_detail": null,
