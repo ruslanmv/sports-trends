@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
   "status": "live",
-  "last_updated": "2026-07-21T10:18:05.748451+00:00",
+  "last_updated": "2026-07-21T12:07:00.485720+00:00",
   "update_cycle_minutes": 30,
   "dataset_repo": "ruslanmv/sports-trends-dataset",
   "model_repo": "ruslanmv/sports-trends-models",
