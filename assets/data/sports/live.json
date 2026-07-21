@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T16:17:24.957544+00:00",
+  "last_updated": "2026-07-21T17:50:59.992712+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2532704",
+      "match_id": "tsdb-2492395",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "KuPS",
+      "home_team": "AGF Aarhus",
+      "away_team": "Lech Poznań",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

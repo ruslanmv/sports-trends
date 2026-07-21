@@ -1,14 +1,14 @@
 {
   "date": "2026-07-21",
-  "last_updated": "2026-07-21T16:17:26.063134+00:00",
+  "last_updated": "2026-07-21T17:51:01.074359+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2492395",
+      "match_id": "tsdb-2492396",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "AGF Aarhus",
-      "away_team": "Lech Poznań",
+      "home_team": "Fenerbahçe",
+      "away_team": "Górnik Zabrze",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
