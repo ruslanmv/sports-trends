@@ -1,14 +1,14 @@
 {
   "date": "2026-07-21",
-  "last_updated": "2026-07-21T21:57:50.039390+00:00",
+  "last_updated": "2026-07-21T22:54:21.198053+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388393",
+      "match_id": "tsdb-2388390",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Los Angeles Dodgers",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
