@@ -1,14 +1,14 @@
 {
   "date": "2026-07-22",
-  "last_updated": "2026-07-22T19:00:11.939274+00:00",
+  "last_updated": "2026-07-22T20:13:19.345582+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388412",
+      "match_id": "tsdb-2388407",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Los Angeles Dodgers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

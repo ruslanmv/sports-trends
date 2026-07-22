@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T19:00:11.939320+00:00",
+  "last_updated": "2026-07-22T20:13:19.345624+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388412",
-      "label": "Colorado Rockies vs Washington Nationals",
+      "match_id": "tsdb-2388407",
+      "label": "Philadelphia Phillies vs Los Angeles Dodgers",
       "interest_score": 50
     },
     {
