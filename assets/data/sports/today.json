@@ -1,14 +1,14 @@
 {
   "date": "2026-07-22",
-  "last_updated": "2026-07-22T16:16:00.087248+00:00",
+  "last_updated": "2026-07-22T17:47:45.033303+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2536534",
+      "match_id": "tsdb-2536533",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Omonia Nicosia",
-      "away_team": "Kairat Almaty",
+      "home_team": "Egnatia",
+      "away_team": "Celje",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388408",
+      "match_id": "tsdb-2388409",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "New York Mets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

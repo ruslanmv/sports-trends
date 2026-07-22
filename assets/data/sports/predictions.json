@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-22T16:16:00.087259+00:00",
+  "last_updated": "2026-07-22T17:47:45.033319+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388408",
+      "match_id": "tsdb-2388409",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Pittsburgh Pirates",
-      "kickoff": "2026-07-22T17:05:00",
-      "kickoff_label": "17:05",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "New York Mets",
+      "kickoff": "2026-07-22T18:10:00",
+      "kickoff_label": "18:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: New York Yankees favoured",
+      "prediction_label": "AI: Milwaukee Brewers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): New York Yankees 0.00 vs Pittsburgh Pirates 0.00.",
+        "Recent form (last 5): Milwaukee Brewers 0.00 vs New York Mets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -157,19 +157,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2536534",
+      "match_id": "tsdb-2536533",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Omonia Nicosia",
-      "away_team": "Kairat Almaty",
-      "kickoff": "2026-07-22T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Egnatia",
+      "away_team": "Celje",
+      "kickoff": "2026-07-22T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Omonia Nicosia favoured",
+      "prediction_label": "AI: Egnatia favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -177,7 +177,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Omonia Nicosia 0.00 vs Kairat Almaty 0.00.",
+        "Recent form (last 5): Egnatia 0.00 vs Celje 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

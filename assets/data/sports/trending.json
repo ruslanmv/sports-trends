@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-22T16:16:00.087282+00:00",
+  "last_updated": "2026-07-22T17:47:45.033351+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Yankees vs Pittsburgh Pirates",
+      "label": "Milwaukee Brewers vs New York Mets",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -47,7 +47,7 @@
     },
     {
       "rank": 7,
-      "label": "Omonia Nicosia vs Kairat Almaty",
+      "label": "Egnatia vs Celje",
       "sport": "football",
       "audience": null,
       "hot": false
