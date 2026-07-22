@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T05:12:53.678674+00:00",
+  "last_updated": "2026-07-22T06:09:17.591442+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Arizona Diamondbacks",
       "away_team": "Athletics",
-      "home_score": 4,
-      "away_score": 4,
+      "home_score": 6,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
