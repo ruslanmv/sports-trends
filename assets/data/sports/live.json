@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T17:47:43.978061+00:00",
-  "count": 8,
+  "last_updated": "2026-07-22T19:00:09.296756+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -68,19 +68,6 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2536531",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Levski Sofia",
-      "away_team": "Universitatea Craiova",
-      "home_score": 1,
-      "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
       "match_id": "tsdb-2483461",
       "sport": "basketball",
       "league": "NBA",
@@ -88,19 +75,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388401",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Boston Red Sox",
-      "away_team": "Baltimore Orioles",
-      "home_score": 0,
-      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

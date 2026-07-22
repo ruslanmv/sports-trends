@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-22T17:47:45.033351+00:00",
+  "last_updated": "2026-07-22T19:00:11.939316+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Milwaukee Brewers vs New York Mets",
+      "label": "Colorado Rockies vs Washington Nationals",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -47,7 +47,7 @@
     },
     {
       "rank": 7,
-      "label": "Egnatia vs Celje",
+      "label": "KuPS vs Sabah Baku",
       "sport": "football",
       "audience": null,
       "hot": false
