@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:02:07.873096+00:00",
+  "last_updated": "2026-07-23T20:34:50.338340+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388419",
-      "label": "Toronto Blue Jays vs Tampa Bay Rays",
+      "match_id": "tsdb-2388085",
+      "label": "St. Louis Cardinals vs Arizona Diamondbacks",
       "interest_score": 50
     },
     {
