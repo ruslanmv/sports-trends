@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:34:49.270863+00:00",
+  "last_updated": "2026-07-23T21:58:45.140633+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388419",
+      "match_id": "tsdb-2388085",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Toronto Blue Jays",
-      "away_team": "Tampa Bay Rays",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Arizona Diamondbacks",
       "home_score": 2,
-      "away_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
