@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T23:56:04.779266+00:00",
+  "last_updated": "2026-07-23T02:05:56.612359+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388416",
+      "match_id": "tsdb-2388418",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "San Diego Padres",
-      "home_score": 1,
-      "away_score": null,
+      "home_team": "Houston Astros",
+      "away_team": "Miami Marlins",
+      "home_score": 2,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

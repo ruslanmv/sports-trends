@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-07-22T23:56:07.327720+00:00",
+  "last_updated": "2026-07-23T02:05:58.303140+00:00",
   "headline": "World Cup — Biggest Games",
   "count": 8,
   "matches": [
@@ -13,7 +13,7 @@
       "group": "",
       "home_team": "Spain",
       "away_team": "Croatia",
-      "kickoff": "2026-07-24T18:00:00+00:00",
+      "kickoff": "2026-07-25T18:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -33,7 +33,7 @@
         "Spain": 0.649,
         "Croatia": 0.351
       },
-      "kickoff_label": "24 Jul 18:00"
+      "kickoff_label": "25 Jul 18:00"
     },
     {
       "match_id": "wc-arg-nor",
@@ -42,7 +42,7 @@
       "group": "",
       "home_team": "Argentina",
       "away_team": "Norway",
-      "kickoff": "2026-07-23T18:00:00+00:00",
+      "kickoff": "2026-07-24T18:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -62,7 +62,7 @@
         "Argentina": 0.777,
         "Norway": 0.223
       },
-      "kickoff_label": "23 Jul 18:00"
+      "kickoff_label": "24 Jul 18:00"
     },
     {
       "match_id": "wc-fra-sen",
@@ -71,7 +71,7 @@
       "group": "",
       "home_team": "France",
       "away_team": "Senegal",
-      "kickoff": "2026-07-23T15:00:00+00:00",
+      "kickoff": "2026-07-24T15:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -91,7 +91,7 @@
         "France": 0.744,
         "Senegal": 0.256
       },
-      "kickoff_label": "23 Jul 15:00"
+      "kickoff_label": "24 Jul 15:00"
     },
     {
       "match_id": "wc-bra-jpn",
@@ -100,7 +100,7 @@
       "group": "",
       "home_team": "Brazil",
       "away_team": "Japan",
-      "kickoff": "2026-07-23T21:00:00+00:00",
+      "kickoff": "2026-07-24T21:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -120,7 +120,7 @@
         "Brazil": 0.713,
         "Japan": 0.287
       },
-      "kickoff_label": "23 Jul 21:00"
+      "kickoff_label": "24 Jul 21:00"
     },
     {
       "match_id": "wc-ger-mar",
@@ -129,7 +129,7 @@
       "group": "",
       "home_team": "Germany",
       "away_team": "Morocco",
-      "kickoff": "2026-07-24T15:00:00+00:00",
+      "kickoff": "2026-07-25T15:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -149,7 +149,7 @@
         "Germany": 0.595,
         "Morocco": 0.405
       },
-      "kickoff_label": "24 Jul 15:00"
+      "kickoff_label": "25 Jul 15:00"
     },
     {
       "match_id": "wc-eng-mex",
@@ -158,7 +158,7 @@
       "group": "",
       "home_team": "England",
       "away_team": "Mexico",
-      "kickoff": "2026-07-24T21:00:00+00:00",
+      "kickoff": "2026-07-25T21:00:00+00:00",
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {
@@ -178,7 +178,7 @@
         "England": 0.669,
         "Mexico": 0.331
       },
-      "kickoff_label": "24 Jul 21:00"
+      "kickoff_label": "25 Jul 21:00"
     },
     {
       "match_id": "wc-por-usa",
@@ -187,7 +187,7 @@
       "group": "",
       "home_team": "Portugal",
       "away_team": "USA",
-      "kickoff": "2026-07-22T23:00:00+00:00",
+      "kickoff": "2026-07-23T23:00:00+00:00",
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {
@@ -207,7 +207,7 @@
         "Portugal": 0.628,
         "USA": 0.372
       },
-      "kickoff_label": "22 Jul 23:00"
+      "kickoff_label": "23 Jul 23:00"
     },
     {
       "match_id": "wc-ned-ecu",
@@ -216,7 +216,7 @@
       "group": "",
       "home_team": "Netherlands",
       "away_team": "Ecuador",
-      "kickoff": "2026-07-22T20:00:00+00:00",
+      "kickoff": "2026-07-23T20:00:00+00:00",
       "neutral_venue": true,
       "host_advantage": false,
       "result_90": {
@@ -236,7 +236,7 @@
         "Netherlands": 0.679,
         "Ecuador": 0.321
       },
-      "kickoff_label": "22 Jul 20:00"
+      "kickoff_label": "23 Jul 20:00"
     }
   ]
 }
