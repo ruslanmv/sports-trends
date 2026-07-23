@@ -2,153 +2,9 @@
   "date": "2026-07-23",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-23T06:13:12.774006+00:00",
+  "last_updated": "2026-07-23T06:14:46.233714+00:00",
   "count": 7,
   "matches": [
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.072,
-        "away_win": 0.928
-      },
-      "prediction_label": "AI: Stuttgart favoured",
-      "confidence": 0.928,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.103,
-        "away_win": 0.897
-      },
-      "prediction_label": "AI: Coventry City favoured",
-      "confidence": 0.897,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489463",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Strasbourg",
-      "kickoff": "2026-08-21T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506176",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo Alavés",
-      "away_team": "Getafe",
-      "kickoff": "2026-08-15T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Deportivo Alavés favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2532710",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Sabah Baku",
-      "kickoff": "2026-07-28T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: KuPS favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): KuPS 0.00 vs Sabah Baku 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
     {
       "match_id": "tsdb-2388421",
       "sport": "baseball",
@@ -170,6 +26,156 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlanta Braves 0.00 vs San Diego Padres 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494000",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
+      },
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482138",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489463",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Marseille",
+      "away_team": "Strasbourg",
+      "kickoff": "2026-08-21T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Marseille favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506176",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Getafe",
+      "kickoff": "2026-08-15T17:30:00",
+      "kickoff_label": "17:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Deportivo Alavés favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2532710",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "KuPS",
+      "away_team": "Sabah Baku",
+      "kickoff": "2026-07-28T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: KuPS favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): KuPS 0.00 vs Sabah Baku 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
