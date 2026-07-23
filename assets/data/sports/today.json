@@ -1,14 +1,14 @@
 {
   "date": "2026-07-23",
-  "last_updated": "2026-07-23T14:40:00.011624+00:00",
+  "last_updated": "2026-07-23T16:21:44.223898+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388421",
+      "match_id": "tsdb-2388420",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "San Diego Padres",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Minnesota Twins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
