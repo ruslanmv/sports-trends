@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T02:05:56.612359+00:00",
+  "last_updated": "2026-07-23T05:38:15.537729+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Houston Astros",
       "away_team": "Miami Marlins",
-      "home_score": 2,
+      "home_score": 5,
       "away_score": 2,
       "status": "finished",
       "status_detail": null,
