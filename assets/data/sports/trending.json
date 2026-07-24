@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-23T23:57:28.656166+00:00",
-  "count": 1,
+  "last_updated": "2026-07-24T02:25:22.100775+00:00",
+  "count": 7,
   "matches": [
     {
       "rank": 1,
@@ -9,6 +9,48 @@
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Marseille vs Strasbourg",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "KuPS vs Sabah Baku",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
