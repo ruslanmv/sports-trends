@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T17:56:40.153093+00:00",
+  "last_updated": "2026-07-25T18:59:08.020375+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Detroit Tigers",
       "away_team": "Kansas City Royals",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
