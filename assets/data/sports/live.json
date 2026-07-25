@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T05:27:49.203375+00:00",
+  "last_updated": "2026-07-25T06:00:23.384101+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "San Francisco Giants",
       "away_team": "Los Angeles Angels",
-      "home_score": 6,
+      "home_score": 7,
       "away_score": 6,
       "status": "finished",
       "status_detail": null,
