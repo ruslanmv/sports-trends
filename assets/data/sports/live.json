@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T16:57:35.416970+00:00",
+  "last_updated": "2026-07-25T17:56:40.153093+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388428",
+      "match_id": "tsdb-2388448",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Los Angeles Angels",
-      "home_score": 7,
-      "away_score": 6,
+      "home_team": "Detroit Tigers",
+      "away_team": "Kansas City Royals",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

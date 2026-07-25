@@ -1,14 +1,14 @@
 {
   "date": "2026-07-25",
-  "last_updated": "2026-07-25T16:57:36.851952+00:00",
+  "last_updated": "2026-07-25T17:56:41.493557+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388448",
+      "match_id": "tsdb-2388442",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Kansas City Royals",
+      "home_team": "San Francisco Giants",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
