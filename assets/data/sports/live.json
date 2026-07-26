@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T23:27:58.003523+00:00",
-  "count": 7,
+  "last_updated": "2026-07-26T01:06:35.584012+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388445",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "New York Mets",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": 1,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
