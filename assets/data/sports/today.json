@@ -1,14 +1,14 @@
 {
   "date": "2026-07-26",
-  "last_updated": "2026-07-26T15:36:53.192945+00:00",
+  "last_updated": "2026-07-26T16:51:21.041406+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388456",
+      "match_id": "tsdb-2388454",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Washington Nationals",
+      "away_team": "Arizona Diamondbacks",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T15:36:53.192992+00:00",
+  "last_updated": "2026-07-26T16:51:21.041454+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388456",
-      "label": "Tampa Bay Rays vs Cleveland Guardians",
+      "match_id": "tsdb-2388454",
+      "label": "Washington Nationals vs Arizona Diamondbacks",
       "interest_score": 50
     },
     {
