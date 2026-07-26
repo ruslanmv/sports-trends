@@ -1,54 +1,54 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-26T04:53:05.107597+00:00",
+  "last_updated": "2026-07-26T06:18:30.711337+00:00",
   "count": 7,
   "matches": [
     {
       "rank": 1,
-      "label": "Tampa Bay Rays vs Cleveland Guardians",
-      "sport": "baseball",
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
       "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 4,
+      "rank": 3,
       "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 4,
       "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 5,
       "label": "Deportivo Alavés vs Getafe",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 6,
       "label": "KuPS vs Sabah Baku",
       "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Tampa Bay Rays vs Cleveland Guardians",
+      "sport": "baseball",
       "audience": null,
       "hot": false
     }
