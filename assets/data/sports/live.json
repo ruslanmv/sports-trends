@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T06:18:30.419901+00:00",
-  "count": 6,
+  "last_updated": "2026-07-26T06:19:42.025221+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -75,6 +75,32 @@
       "away_team": "Celje",
       "home_score": 3,
       "away_score": 3,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2483461",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "San Antonio Spurs",
+      "away_team": "New York Knicks",
+      "home_score": 90,
+      "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388445",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "New York Mets",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": 3,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
