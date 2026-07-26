@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T01:06:35.584012+00:00",
+  "last_updated": "2026-07-26T04:53:03.625676+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "New York Mets",
       "away_team": "Los Angeles Dodgers",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 4,
       "status": "finished",
       "status_detail": null,
