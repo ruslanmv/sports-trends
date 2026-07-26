@@ -1,14 +1,14 @@
 {
   "date": "2026-07-26",
-  "last_updated": "2026-07-26T17:55:57.280204+00:00",
+  "last_updated": "2026-07-26T19:00:52.968559+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388460",
+      "match_id": "tsdb-2388458",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Athletics",
+      "home_team": "San Francisco Giants",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
