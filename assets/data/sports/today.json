@@ -1,14 +1,14 @@
 {
   "date": "2026-07-26",
-  "last_updated": "2026-07-26T16:51:21.041406+00:00",
+  "last_updated": "2026-07-26T17:55:57.280204+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388454",
+      "match_id": "tsdb-2388460",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "Minnesota Twins",
+      "away_team": "Athletics",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
