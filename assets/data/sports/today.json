@@ -1,14 +1,14 @@
 {
   "date": "2026-07-27",
-  "last_updated": "2026-07-27T21:36:07.548906+00:00",
+  "last_updated": "2026-07-27T22:54:14.867748+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388472",
+      "match_id": "tsdb-2388468",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "New York Mets",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
