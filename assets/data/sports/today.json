@@ -1,14 +1,14 @@
 {
   "date": "2026-07-27",
-  "last_updated": "2026-07-27T17:15:57.577605+00:00",
+  "last_updated": "2026-07-27T18:53:45.010814+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388469",
+      "match_id": "tsdb-2388472",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Seattle Mariners",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Arizona Diamondbacks",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
