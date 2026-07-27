@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T23:28:55.051847+00:00",
+  "last_updated": "2026-07-27T01:09:04.787048+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388469",
-      "label": "Texas Rangers vs Seattle Mariners",
+      "match_id": "tsdb-2532710",
+      "label": "KuPS vs Sabah Baku",
       "interest_score": 50
     }
   ]

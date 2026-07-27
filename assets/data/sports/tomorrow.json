@@ -1,31 +1,32 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-26T23:28:55.051814+00:00",
+  "last_updated": "2026-07-27T01:09:04.787022+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388469",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Seattle Mariners",
-      "kickoff": "2026-07-27T18:35:00",
-      "kickoff_label": "18:35",
+      "match_id": "tsdb-2532710",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "KuPS",
+      "away_team": "Sabah Baku",
+      "kickoff": "2026-07-28T15:00:00",
+      "kickoff_label": "15:00",
       "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Texas Rangers favoured",
-      "confidence": 0.585,
+      "prediction_label": "AI: KuPS favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Texas Rangers 0.00 vs Seattle Mariners 0.00.",
+        "Recent form (last 5): KuPS 0.00 vs Sabah Baku 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
