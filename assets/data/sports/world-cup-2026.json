@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T23:57:12.640833+00:00",
+  "last_updated": "2026-07-28T02:07:59.961322+00:00",
   "competition": "Mundial 2026",
   "stage": "round_of_32",
   "matches": [
@@ -8,8 +8,8 @@
       "home_team": "Spain",
       "away_team": "Croatia",
       "stage": "round_of_32",
-      "kickoff": "2026-07-29T18:00:00+00:00",
-      "kickoff_label": "29 Jul 18:00",
+      "kickoff": "2026-07-30T18:00:00+00:00",
+      "kickoff_label": "30 Jul 18:00",
       "prediction": {
         "home_win": 0.486,
         "draw": 0.214,
@@ -26,8 +26,8 @@
       "home_team": "Argentina",
       "away_team": "Norway",
       "stage": "round_of_32",
-      "kickoff": "2026-07-28T18:00:00+00:00",
-      "kickoff_label": "28 Jul 18:00",
+      "kickoff": "2026-07-29T18:00:00+00:00",
+      "kickoff_label": "29 Jul 18:00",
       "prediction": {
         "home_win": 0.617,
         "draw": 0.153,
@@ -44,8 +44,8 @@
       "home_team": "France",
       "away_team": "Senegal",
       "stage": "round_of_32",
-      "kickoff": "2026-07-28T15:00:00+00:00",
-      "kickoff_label": "28 Jul 15:00",
+      "kickoff": "2026-07-29T15:00:00+00:00",
+      "kickoff_label": "29 Jul 15:00",
       "prediction": {
         "home_win": 0.58,
         "draw": 0.169,
@@ -62,8 +62,8 @@
       "home_team": "Brazil",
       "away_team": "Japan",
       "stage": "round_of_32",
-      "kickoff": "2026-07-28T21:00:00+00:00",
-      "kickoff_label": "28 Jul 21:00",
+      "kickoff": "2026-07-29T21:00:00+00:00",
+      "kickoff_label": "29 Jul 21:00",
       "prediction": {
         "home_win": 0.548,
         "draw": 0.184,
@@ -80,8 +80,8 @@
       "home_team": "Germany",
       "away_team": "Morocco",
       "stage": "round_of_32",
-      "kickoff": "2026-07-29T15:00:00+00:00",
-      "kickoff_label": "29 Jul 15:00",
+      "kickoff": "2026-07-30T15:00:00+00:00",
+      "kickoff_label": "30 Jul 15:00",
       "prediction": {
         "home_win": 0.438,
         "draw": 0.238,
@@ -98,8 +98,8 @@
       "home_team": "England",
       "away_team": "Mexico",
       "stage": "round_of_32",
-      "kickoff": "2026-07-29T21:00:00+00:00",
-      "kickoff_label": "29 Jul 21:00",
+      "kickoff": "2026-07-30T21:00:00+00:00",
+      "kickoff_label": "30 Jul 21:00",
       "prediction": {
         "home_win": 0.505,
         "draw": 0.204,
@@ -116,8 +116,8 @@
       "home_team": "Portugal",
       "away_team": "USA",
       "stage": "round_of_32",
-      "kickoff": "2026-07-27T23:00:00+00:00",
-      "kickoff_label": "27 Jul 23:00",
+      "kickoff": "2026-07-28T23:00:00+00:00",
+      "kickoff_label": "28 Jul 23:00",
       "prediction": {
         "home_win": 0.467,
         "draw": 0.223,
@@ -134,8 +134,8 @@
       "home_team": "Netherlands",
       "away_team": "Ecuador",
       "stage": "round_of_32",
-      "kickoff": "2026-07-27T20:00:00+00:00",
-      "kickoff_label": "27 Jul 20:00",
+      "kickoff": "2026-07-28T20:00:00+00:00",
+      "kickoff_label": "28 Jul 20:00",
       "prediction": {
         "home_win": 0.515,
         "draw": 0.2,

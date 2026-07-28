@@ -1,17 +1,59 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-27T23:57:11.692555+00:00",
-  "count": 2,
+  "last_updated": "2026-07-28T02:07:59.206924+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Los Angeles Angels vs Houston Astros",
+      "label": "Tampa Bay Rays vs Texas Rangers",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Marseille vs Strasbourg",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
       "label": "KuPS vs Sabah Baku",
       "sport": "football",
       "audience": null,
