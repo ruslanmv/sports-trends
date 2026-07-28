@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-28T18:09:16.609079+00:00",
-  "count": 8,
+  "last_updated": "2026-07-28T19:58:43.297321+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Tampa Bay Rays vs Texas Rangers",
-      "sport": "baseball",
+      "label": "Kairat Almaty vs Omonia Nicosia",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Deportivo Alavés vs Getafe",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Celje vs Egnatia",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

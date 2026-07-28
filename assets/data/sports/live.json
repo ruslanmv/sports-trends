@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T18:09:15.644626+00:00",
+  "last_updated": "2026-07-28T19:58:41.820136+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2492402",
+      "match_id": "tsdb-2532707",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Dinamo Zagreb",
-      "away_team": "Thun",
-      "home_score": 0,
-      "away_score": 1,
+      "home_team": "Shamrock Rovers",
+      "away_team": "Ararat-Armenia",
+      "home_score": 2,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Cincinnati Reds",
       "away_team": "Cleveland Guardians",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 5,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
