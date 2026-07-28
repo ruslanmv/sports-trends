@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T19:58:41.820136+00:00",
+  "last_updated": "2026-07-28T21:08:24.895166+00:00",
   "count": 8,
   "matches": [
     {
@@ -74,7 +74,7 @@
       "home_team": "Shamrock Rovers",
       "away_team": "Ararat-Armenia",
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -100,7 +100,7 @@
       "home_team": "Cincinnati Reds",
       "away_team": "Cleveland Guardians",
       "home_score": 5,
-      "away_score": 5,
+      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
