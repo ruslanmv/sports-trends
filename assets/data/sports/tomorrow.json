@@ -2,7 +2,7 @@
   "date": "2026-07-28",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-28T12:49:38.848479+00:00",
+  "last_updated": "2026-07-28T15:13:23.093571+00:00",
   "count": 8,
   "matches": [
     {
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2532710",
+      "match_id": "tsdb-2532709",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Sabah Baku",
-      "kickoff": "2026-07-28T15:00:00",
-      "kickoff_label": "15:00",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Mjällby",
+      "kickoff": "2026-07-28T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: KuPS favoured",
+      "prediction_label": "AI: Lincoln Red Imps favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): KuPS 0.00 vs Sabah Baku 0.00.",
+        "Recent form (last 5): Lincoln Red Imps 0.00 vs Mjällby 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
