@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T15:13:22.059349+00:00",
+  "last_updated": "2026-07-28T16:56:34.276287+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,11 +68,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2532710",
+      "match_id": "tsdb-2532709",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "KuPS",
-      "away_team": "Sabah Baku",
+      "home_team": "Lincoln Red Imps",
+      "away_team": "Mjällby",
       "home_score": 0,
       "away_score": 0,
       "status": "finished",

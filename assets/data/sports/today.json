@@ -1,14 +1,14 @@
 {
   "date": "2026-07-28",
-  "last_updated": "2026-07-28T15:13:23.093561+00:00",
+  "last_updated": "2026-07-28T16:56:35.227235+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2532709",
+      "match_id": "tsdb-2492402",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Lincoln Red Imps",
-      "away_team": "Mjällby",
+      "home_team": "Dinamo Zagreb",
+      "away_team": "Thun",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
