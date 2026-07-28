@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-28T06:06:48.530395+00:00",
+  "last_updated": "2026-07-28T07:59:37.276510+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Cincinnati Reds vs Cleveland Guardians",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Udinese vs Como",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Marseille vs Strasbourg",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Deportivo Alavés vs Getafe",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "KuPS vs Sabah Baku",
+      "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Cincinnati Reds vs Cleveland Guardians",
-      "sport": "baseball",
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "KuPS vs Sabah Baku",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
