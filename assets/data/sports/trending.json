@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-28T22:32:11.336281+00:00",
-  "count": 1,
+  "last_updated": "2026-07-28T23:53:38.344368+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
+      "label": "Los Angeles Angels vs Houston Astros",
+      "sport": "baseball",
+      "audience": null,
+      "hot": true
+    },
+    {
+      "rank": 2,
       "label": "Kairat Almaty vs Omonia Nicosia",
       "sport": "football",
       "audience": null,
-      "hot": true
+      "hot": false
     }
   ]
 }
