@@ -1,14 +1,14 @@
 {
   "date": "2026-07-28",
-  "last_updated": "2026-07-28T16:56:35.227235+00:00",
+  "last_updated": "2026-07-28T18:09:16.609027+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2492402",
+      "match_id": "tsdb-2536538",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Dinamo Zagreb",
-      "away_team": "Thun",
+      "home_team": "Celje",
+      "away_team": "Egnatia",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388476",
+      "match_id": "tsdb-2388481",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Texas Rangers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

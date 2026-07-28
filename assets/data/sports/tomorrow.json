@@ -2,22 +2,22 @@
   "date": "2026-07-28",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-28T16:56:35.227246+00:00",
+  "last_updated": "2026-07-28T18:09:16.609039+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388476",
+      "match_id": "tsdb-2388481",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Cleveland Guardians",
-      "kickoff": "2026-07-28T17:40:00",
-      "kickoff_label": "17:40",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Texas Rangers",
+      "kickoff": "2026-07-28T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cincinnati Reds favoured",
+      "prediction_label": "AI: Tampa Bay Rays favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cincinnati Reds 0.00 vs Cleveland Guardians 0.00.",
+        "Recent form (last 5): Tampa Bay Rays 0.00 vs Texas Rangers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2492402",
+      "match_id": "tsdb-2536538",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Dinamo Zagreb",
-      "away_team": "Thun",
-      "kickoff": "2026-07-28T18:00:00",
-      "kickoff_label": "18:00",
+      "home_team": "Celje",
+      "away_team": "Egnatia",
+      "kickoff": "2026-07-28T18:15:00",
+      "kickoff_label": "18:15",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Dinamo Zagreb favoured",
+      "prediction_label": "AI: Celje favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Dinamo Zagreb 0.00 vs Thun 0.00.",
+        "Recent form (last 5): Celje 0.00 vs Egnatia 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

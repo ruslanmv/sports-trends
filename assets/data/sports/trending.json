@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-28T16:56:35.227285+00:00",
+  "last_updated": "2026-07-28T18:09:16.609079+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Cincinnati Reds vs Cleveland Guardians",
+      "label": "Tampa Bay Rays vs Texas Rangers",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -54,7 +54,7 @@
     },
     {
       "rank": 8,
-      "label": "Dinamo Zagreb vs Thun",
+      "label": "Celje vs Egnatia",
       "sport": "football",
       "audience": null,
       "hot": false
