@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-29T16:47:51.441261+00:00",
+  "last_updated": "2026-07-29T18:02:33.794971+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Washington Nationals vs Toronto Blue Jays",
+      "label": "San Francisco Giants vs Milwaukee Brewers",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -54,7 +54,7 @@
     },
     {
       "rank": 8,
-      "label": "Lech Poznań vs AGF Aarhus",
+      "label": "Slovan Bratislava vs Iberia 1999",
       "sport": "football",
       "audience": null,
       "hot": false

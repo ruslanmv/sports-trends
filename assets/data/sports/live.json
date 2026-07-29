@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T16:47:50.459813+00:00",
-  "count": 7,
+  "last_updated": "2026-07-29T18:02:32.294413+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -68,11 +68,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2536537",
+      "match_id": "tsdb-2532706",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Kauno Žalgiris",
-      "away_team": "KÍ Klaksvík",
+      "home_team": "Crvena Zvezda",
+      "away_team": "Larne",
       "home_score": 0,
       "away_score": 0,
       "status": "finished",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388506",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Detroit Tigers",
+      "away_team": "Baltimore Orioles",
+      "home_score": 3,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

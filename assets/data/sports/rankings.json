@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T16:47:51.441265+00:00",
+  "last_updated": "2026-07-29T18:02:33.794975+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388496",
-      "label": "Washington Nationals vs Toronto Blue Jays",
+      "match_id": "tsdb-2388499",
+      "label": "San Francisco Giants vs Milwaukee Brewers",
       "interest_score": 50
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "rank": 8,
-      "match_id": "tsdb-2492401",
-      "label": "Lech Poznań vs AGF Aarhus",
+      "match_id": "tsdb-2532708",
+      "label": "Slovan Bratislava vs Iberia 1999",
       "interest_score": 50
     }
   ]
