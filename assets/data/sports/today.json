@@ -1,14 +1,14 @@
 {
   "date": "2026-07-29",
-  "last_updated": "2026-07-29T15:26:26.401236+00:00",
+  "last_updated": "2026-07-29T16:47:51.441214+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2536537",
+      "match_id": "tsdb-2492401",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Kauno Žalgiris",
-      "away_team": "KÍ Klaksvík",
+      "home_team": "Lech Poznań",
+      "away_team": "AGF Aarhus",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388504",
+      "match_id": "tsdb-2388496",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Miami Marlins",
-      "away_team": "Philadelphia Phillies",
+      "home_team": "Washington Nationals",
+      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

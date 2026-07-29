@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-29T15:26:26.401287+00:00",
+  "last_updated": "2026-07-29T16:47:51.441261+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Miami Marlins vs Philadelphia Phillies",
+      "label": "Washington Nationals vs Toronto Blue Jays",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -54,7 +54,7 @@
     },
     {
       "rank": 8,
-      "label": "Kauno Žalgiris vs KÍ Klaksvík",
+      "label": "Lech Poznań vs AGF Aarhus",
       "sport": "football",
       "audience": null,
       "hot": false
