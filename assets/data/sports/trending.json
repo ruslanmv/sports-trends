@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-29T22:53:56.722660+00:00",
-  "count": 8,
+  "last_updated": "2026-07-29T23:55:18.638754+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Mets vs Atlanta Braves",
+      "label": "Los Angeles Angels vs Houston Astros",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Deportivo Alavés vs Getafe",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Olympiacos vs NEC Nijmegen",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
