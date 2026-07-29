@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-29T18:02:33.794971+00:00",
+  "last_updated": "2026-07-29T19:51:10.817302+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "San Francisco Giants vs Milwaukee Brewers",
+      "label": "San Diego Padres vs Colorado Rockies",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -54,7 +54,7 @@
     },
     {
       "rank": 8,
-      "label": "Slovan Bratislava vs Iberia 1999",
+      "label": "Olympiacos vs NEC Nijmegen",
       "sport": "football",
       "audience": null,
       "hot": false
