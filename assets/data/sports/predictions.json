@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-29T13:12:36.901051+00:00",
+  "last_updated": "2026-07-29T15:26:26.401253+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -181,19 +181,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2536536",
+      "match_id": "tsdb-2536537",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Kairat Almaty",
-      "away_team": "Omonia Nicosia",
-      "kickoff": "2026-07-29T15:00:00",
-      "kickoff_label": "15:00",
+      "home_team": "Kauno Žalgiris",
+      "away_team": "KÍ Klaksvík",
+      "kickoff": "2026-07-29T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Kairat Almaty favoured",
+      "prediction_label": "AI: Kauno Žalgiris favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -201,7 +201,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Kairat Almaty 0.00 vs Omonia Nicosia 0.00.",
+        "Recent form (last 5): Kauno Žalgiris 0.00 vs KÍ Klaksvík 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

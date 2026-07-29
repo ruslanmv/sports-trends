@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T13:12:33.850079+00:00",
+  "last_updated": "2026-07-29T15:26:25.349475+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2532707",
+      "match_id": "tsdb-2536536",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Shamrock Rovers",
-      "away_team": "Ararat-Armenia",
-      "home_score": 2,
-      "away_score": 1,
+      "home_team": "Kairat Almaty",
+      "away_team": "Omonia Nicosia",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
