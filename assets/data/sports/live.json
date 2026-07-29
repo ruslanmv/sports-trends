@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T21:52:53.661675+00:00",
+  "last_updated": "2026-07-29T22:53:55.762419+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,12 +94,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388500",
+      "match_id": "tsdb-2388497",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Colorado Rockies",
-      "home_score": 3,
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Texas Rangers",
+      "home_score": 1,
       "away_score": null,
       "status": "finished",
       "status_detail": null,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T21:52:55.050206+00:00",
+  "last_updated": "2026-07-29T22:53:56.722664+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388497",
-      "label": "Tampa Bay Rays vs Texas Rangers",
+      "match_id": "tsdb-2388480",
+      "label": "New York Mets vs Atlanta Braves",
       "interest_score": 50
     },
     {

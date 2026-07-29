@@ -1,14 +1,14 @@
 {
   "date": "2026-07-29",
-  "last_updated": "2026-07-29T21:52:55.050156+00:00",
+  "last_updated": "2026-07-29T22:53:56.722615+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388497",
+      "match_id": "tsdb-2388480",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Texas Rangers",
+      "home_team": "New York Mets",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
