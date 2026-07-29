@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "last_updated": "2026-07-29T01:50:53.247126+00:00",
+  "last_updated": "2026-07-29T05:14:24.043504+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388488",
+      "match_id": "tsdb-2388504",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Seattle Mariners",
+      "home_team": "Miami Marlins",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
