@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-07-28T23:53:31.555353+00:00",
-  "today": "2026-07-28",
+  "last_updated": "2026-07-29T01:50:49.661425+00:00",
+  "today": "2026-07-29",
   "featured": {
     "key": "mlb",
     "name": "MLB",
@@ -19,7 +19,7 @@
     "emoji": "🏴",
     "status": "upcoming",
     "start": "2026-08-10",
-    "starts_in_days": 13
+    "starts_in_days": 12
   },
   "worldcup_active": false,
   "active": [
@@ -49,7 +49,7 @@
       "importance": 90,
       "emoji": "🏴",
       "start": "2026-08-10",
-      "starts_in_days": 13
+      "starts_in_days": 12
     },
     {
       "key": "laliga",
@@ -59,7 +59,7 @@
       "importance": 88,
       "emoji": "🇪🇸",
       "start": "2026-08-15",
-      "starts_in_days": 18
+      "starts_in_days": 17
     },
     {
       "key": "ligue1",
@@ -69,7 +69,7 @@
       "importance": 84,
       "emoji": "🇫🇷",
       "start": "2026-08-15",
-      "starts_in_days": 18
+      "starts_in_days": 17
     },
     {
       "key": "seriea",
@@ -79,7 +79,7 @@
       "importance": 87,
       "emoji": "🇮🇹",
       "start": "2026-08-18",
-      "starts_in_days": 21
+      "starts_in_days": 20
     },
     {
       "key": "bundesliga",
@@ -89,7 +89,7 @@
       "importance": 86,
       "emoji": "🇩🇪",
       "start": "2026-08-22",
-      "starts_in_days": 25
+      "starts_in_days": 24
     },
     {
       "key": "usopen",
@@ -99,7 +99,7 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2026-08-25",
-      "starts_in_days": 28
+      "starts_in_days": 27
     },
     {
       "key": "ucl",
@@ -109,7 +109,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 49
+      "starts_in_days": 48
     }
   ]
 }
