@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T17:17:35.336701+00:00",
+  "last_updated": "2026-07-30T18:53:38.894219+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,11 +94,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388511",
+      "match_id": "tsdb-2388512",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Texas Rangers",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Chicago Cubs",
       "home_score": 1,
       "away_score": null,
       "status": "finished",

@@ -2,22 +2,22 @@
   "date": "2026-07-30",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-07-30T17:17:36.816394+00:00",
+  "last_updated": "2026-07-30T18:53:40.404157+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388515",
+      "match_id": "tsdb-2388510",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Kansas City Royals",
-      "kickoff": "2026-07-30T17:40:00",
-      "kickoff_label": "17:40",
+      "home_team": "New York Mets",
+      "away_team": "Miami Marlins",
+      "kickoff": "2026-07-30T23:10:00",
+      "kickoff_label": "23:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Minnesota Twins favoured",
+      "prediction_label": "AI: New York Mets favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Minnesota Twins 0.00 vs Kansas City Royals 0.00.",
+        "Recent form (last 5): New York Mets 0.00 vs Miami Marlins 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

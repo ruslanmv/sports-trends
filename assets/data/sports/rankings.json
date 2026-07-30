@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T17:17:36.816436+00:00",
+  "last_updated": "2026-07-30T18:53:40.404201+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388515",
-      "label": "Minnesota Twins vs Kansas City Royals",
+      "match_id": "tsdb-2388510",
+      "label": "New York Mets vs Miami Marlins",
       "interest_score": 50
     },
     {
