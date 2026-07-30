@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T20:12:26.905960+00:00",
+  "last_updated": "2026-07-30T21:40:14.146449+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "St. Louis Cardinals",
       "away_team": "Chicago Cubs",
-      "home_score": 1,
-      "away_score": 1,
+      "home_score": 2,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
