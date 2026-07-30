@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-07-30T07:29:36.984919+00:00",
+  "last_updated": "2026-07-30T09:59:33.719781+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -181,19 +181,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2544171",
+      "match_id": "tsdb-2551402",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Olympiacos",
-      "away_team": "NEC Nijmegen",
-      "kickoff": "2026-08-04T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Ararat-Armenia",
+      "away_team": "Celje",
+      "kickoff": "2026-08-04T16:00:00",
+      "kickoff_label": "16:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Olympiacos favoured",
+      "prediction_label": "AI: Ararat-Armenia favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -201,7 +201,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Olympiacos 0.00 vs NEC Nijmegen 0.00.",
+        "Recent form (last 5): Ararat-Armenia 0.00 vs Celje 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
