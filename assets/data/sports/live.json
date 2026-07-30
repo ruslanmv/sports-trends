@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T06:04:25.596024+00:00",
+  "last_updated": "2026-07-30T07:29:35.896086+00:00",
   "count": 8,
   "matches": [
     {
@@ -100,7 +100,7 @@
       "home_team": "Los Angeles Dodgers",
       "away_team": "Seattle Mariners",
       "home_score": 4,
-      "away_score": 1,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
