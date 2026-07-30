@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-30T06:02:50.955323+00:00",
+  "last_updated": "2026-07-30T06:04:26.547615+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Tampa Bay Rays vs Texas Rangers",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Udinese vs Como",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Marseille vs Strasbourg",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Deportivo Alavés vs Getafe",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Olympiacos vs NEC Nijmegen",
+      "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Tampa Bay Rays vs Texas Rangers",
-      "sport": "baseball",
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Olympiacos vs NEC Nijmegen",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
