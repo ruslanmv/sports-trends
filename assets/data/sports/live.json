@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T15:46:35.869321+00:00",
+  "last_updated": "2026-07-30T17:17:35.336701+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388502",
+      "match_id": "tsdb-2388511",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Seattle Mariners",
-      "home_score": 4,
-      "away_score": 2,
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Texas Rangers",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

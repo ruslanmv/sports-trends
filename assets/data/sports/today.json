@@ -1,14 +1,14 @@
 {
   "date": "2026-07-30",
-  "last_updated": "2026-07-30T15:46:36.835490+00:00",
+  "last_updated": "2026-07-30T17:17:36.816385+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388511",
+      "match_id": "tsdb-2388515",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Texas Rangers",
+      "home_team": "Minnesota Twins",
+      "away_team": "Kansas City Royals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
