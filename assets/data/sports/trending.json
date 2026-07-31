@@ -1,14 +1,63 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-07-30T23:59:39.861434+00:00",
-  "count": 1,
+  "last_updated": "2026-07-31T03:15:54.044543+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "San Diego Padres vs San Francisco Giants",
+      "label": "Chicago Cubs vs New York Yankees",
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Marseille vs Strasbourg",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Ararat-Armenia vs Celje",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
