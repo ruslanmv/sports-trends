@@ -1,14 +1,14 @@
 {
   "date": "2026-07-31",
-  "last_updated": "2026-07-31T21:35:29.054436+00:00",
+  "last_updated": "2026-07-31T22:53:24.511217+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388530",
+      "match_id": "tsdb-2388532",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
