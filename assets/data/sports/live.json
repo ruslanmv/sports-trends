@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T22:53:22.635209+00:00",
+  "last_updated": "2026-07-31T23:55:06.234597+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388530",
+      "match_id": "tsdb-2388533",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Atlanta Braves",
+      "away_team": "Washington Nationals",
       "home_score": 2,
-      "away_score": 3,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
