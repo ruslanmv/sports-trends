@@ -2,22 +2,22 @@
   "date": "2026-08-01",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-01T02:02:20.449032+00:00",
+  "last_updated": "2026-08-01T05:39:47.074308+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388520",
+      "match_id": "tsdb-2388536",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-08-01T02:10:00",
-      "kickoff_label": "02:10",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "St. Louis Cardinals",
+      "kickoff": "2026-08-01T19:07:00",
+      "kickoff_label": "19:07",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Los Angeles Dodgers favoured",
+      "prediction_label": "AI: Toronto Blue Jays favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Boston Red Sox 0.00.",
+        "Recent form (last 5): Toronto Blue Jays 0.00 vs St. Louis Cardinals 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

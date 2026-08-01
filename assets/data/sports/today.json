@@ -1,14 +1,14 @@
 {
   "date": "2026-08-01",
-  "last_updated": "2026-08-01T02:02:20.449020+00:00",
+  "last_updated": "2026-08-01T05:39:47.074300+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388520",
+      "match_id": "tsdb-2388536",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Boston Red Sox",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "St. Louis Cardinals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
