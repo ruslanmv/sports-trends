@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:57:23.657070+00:00",
+  "last_updated": "2026-08-01T20:08:24.705983+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388523",
+      "match_id": "tsdb-2388536",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Minnesota Twins",
-      "home_score": 3,
-      "away_score": 5,
+      "home_team": "Toronto Blue Jays",
+      "away_team": "St. Louis Cardinals",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
