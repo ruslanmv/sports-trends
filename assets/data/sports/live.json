@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T21:22:51.001239+00:00",
+  "last_updated": "2026-08-02T22:25:01.249137+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "San Diego Padres",
       "away_team": "San Francisco Giants",
-      "home_score": 4,
-      "away_score": null,
+      "home_score": 5,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
