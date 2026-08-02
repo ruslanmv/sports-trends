@@ -1,14 +1,14 @@
 {
   "date": "2026-08-02",
-  "last_updated": "2026-08-02T18:58:44.626433+00:00",
+  "last_updated": "2026-08-02T20:10:41.881244+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388558",
+      "match_id": "tsdb-2388555",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "Kansas City Royals",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
