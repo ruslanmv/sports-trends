@@ -1,14 +1,14 @@
 {
   "date": "2026-08-02",
-  "last_updated": "2026-08-02T01:05:25.831154+00:00",
+  "last_updated": "2026-08-02T04:49:20.847702+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388540",
+      "match_id": "tsdb-2388562",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Boston Red Sox",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
