@@ -1,14 +1,14 @@
 {
   "date": "2026-08-02",
-  "last_updated": "2026-08-02T16:51:18.752413+00:00",
+  "last_updated": "2026-08-02T17:55:52.882018+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388562",
+      "match_id": "tsdb-2388557",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Philadelphia Phillies",
+      "home_team": "Houston Astros",
+      "away_team": "Texas Rangers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
