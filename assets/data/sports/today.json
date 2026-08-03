@@ -1,14 +1,14 @@
 {
   "date": "2026-08-03",
-  "last_updated": "2026-08-03T21:37:18.544009+00:00",
+  "last_updated": "2026-08-03T22:54:22.417378+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388566",
+      "match_id": "tsdb-2388567",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Washington Nationals",
+      "home_team": "New York Yankees",
+      "away_team": "St. Louis Cardinals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
