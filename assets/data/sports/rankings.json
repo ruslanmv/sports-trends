@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T23:27:11.897477+00:00",
+  "last_updated": "2026-08-03T01:05:28.084900+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388566",
-      "label": "Philadelphia Phillies vs Washington Nationals",
+      "match_id": "tsdb-2551402",
+      "label": "Ararat-Armenia vs Celje",
       "interest_score": 50
     }
   ]
