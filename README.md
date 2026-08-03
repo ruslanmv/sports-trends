@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-02 06:15 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-03 06:41 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-02 06:15 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 8d) · La Liga (in 13d) · Ligue 1 (in 13d) · Serie A (in 16d)
+Premier League (in 7d) · La Liga (in 12d) · Ligue 1 (in 12d) · Serie A (in 15d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,7 @@ Premier League (in 8d) · La Liga (in 13d) · Ligue 1 (in 13d) · Serie A (in 16
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Deportivo Alavés** vs **Getafe** | Spanish La Liga | 17:30 | Deportivo Alavés favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Ararat-Armenia** vs **Celje** | UEFA Champions League | 16:00 | Ararat-Armenia favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
