@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T13:51:18.129146+00:00",
+  "last_updated": "2026-08-04T16:09:00.597023+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2532708",
+      "match_id": "tsdb-2552936",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Slovan Bratislava",
-      "away_team": "Iberia 1999",
-      "home_score": 1,
-      "away_score": 1,
+      "home_team": "Mjällby",
+      "away_team": "Slovan Bratislava",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
