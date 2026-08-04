@@ -1,14 +1,14 @@
 {
   "date": "2026-08-04",
-  "last_updated": "2026-08-04T21:46:18.656324+00:00",
+  "last_updated": "2026-08-04T22:54:36.239642+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388585",
+      "match_id": "tsdb-2388577",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Los Angeles Angels",
+      "home_team": "New York Yankees",
+      "away_team": "St. Louis Cardinals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
