@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T16:09:00.597023+00:00",
+  "last_updated": "2026-08-04T18:10:23.211146+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,11 +68,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2552936",
+      "match_id": "tsdb-2552934",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Mjällby",
-      "away_team": "Slovan Bratislava",
+      "home_team": "Dinamo Zagreb",
+      "away_team": "Kauno Žalgiris",
       "home_score": 0,
       "away_score": 0,
       "status": "finished",

@@ -2,121 +2,23 @@
   "date": "2026-08-04",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-04T16:09:01.920911+00:00",
-  "count": 8,
+  "last_updated": "2026-08-04T18:10:24.659361+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388585",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Los Angeles Angels",
-      "kickoff": "2026-08-04T22:35:00",
-      "kickoff_label": "22:35",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Baltimore Orioles favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Baltimore Orioles 0.00 vs Los Angeles Angels 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
+      "match_id": "tsdb-2552931",
       "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
+      "league": "UEFA Champions League",
+      "home_team": "AGF Aarhus",
+      "away_team": "Sabah Baku",
+      "kickoff": "2026-08-05T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Udinese favoured",
+      "prediction_label": "AI: AGF Aarhus favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -124,82 +26,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489463",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Strasbourg",
-      "kickoff": "2026-08-21T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506176",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo Alavés",
-      "away_team": "Getafe",
-      "kickoff": "2026-08-15T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Deportivo Alavés favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2552932",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Hapoel Be'er Sheva",
-      "away_team": "Crvena Zvezda",
-      "kickoff": "2026-08-04T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Hapoel Be'er Sheva favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Hapoel Be'er Sheva 0.00 vs Crvena Zvezda 0.00.",
+        "Recent form (last 5): AGF Aarhus 0.00 vs Sabah Baku 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

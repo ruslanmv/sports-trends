@@ -1,21 +1,8 @@
 {
   "date": "2026-08-04",
-  "last_updated": "2026-08-04T16:09:01.920901+00:00",
-  "count": 2,
+  "last_updated": "2026-08-04T18:10:24.659349+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2552932",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Hapoel Be'er Sheva",
-      "away_team": "Crvena Zvezda",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388585",
       "sport": "baseball",
