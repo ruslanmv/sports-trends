@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T03:46:14.596327+00:00",
+  "last_updated": "2026-08-04T06:07:44.521760+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Arizona Diamondbacks",
       "away_team": "San Diego Padres",
-      "home_score": 3,
-      "away_score": 0,
+      "home_score": 5,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
