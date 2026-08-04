@@ -1,14 +1,27 @@
 {
-  "date": "2026-08-03",
-  "last_updated": "2026-08-03T22:54:22.417378+00:00",
-  "count": 1,
+  "date": "2026-08-04",
+  "last_updated": "2026-08-04T00:01:50.220171+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2388567",
+      "match_id": "tsdb-2551402",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Ararat-Armenia",
+      "away_team": "Celje",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2388565",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Texas Rangers",
+      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
