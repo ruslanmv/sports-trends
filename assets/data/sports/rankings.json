@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T00:01:50.220224+00:00",
+  "last_updated": "2026-08-04T03:46:15.586134+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388565",
-      "label": "Texas Rangers vs San Francisco Giants",
+      "match_id": "tsdb-2388585",
+      "label": "Baltimore Orioles vs Los Angeles Angels",
       "interest_score": 50
     },
     {

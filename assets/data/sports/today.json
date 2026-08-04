@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "last_updated": "2026-08-04T00:01:50.220171+00:00",
+  "last_updated": "2026-08-04T03:46:15.586081+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388565",
+      "match_id": "tsdb-2388585",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "San Francisco Giants",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
