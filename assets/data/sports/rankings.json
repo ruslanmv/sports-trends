@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T21:41:45.190422+00:00",
+  "last_updated": "2026-08-05T22:50:49.171531+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388601",
-      "label": "Baltimore Orioles vs Los Angeles Angels",
+      "match_id": "tsdb-2388591",
+      "label": "New York Yankees vs St. Louis Cardinals",
       "interest_score": 50
     },
     {
