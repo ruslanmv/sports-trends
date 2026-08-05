@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T15:09:21.265922+00:00",
-  "count": 8,
+  "last_updated": "2026-08-05T16:59:07.152814+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -62,19 +62,6 @@
       "away_team": "St Etienne",
       "home_score": 4,
       "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2552934",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Dinamo Zagreb",
-      "away_team": "Kauno Žalgiris",
-      "home_score": 5,
-      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
