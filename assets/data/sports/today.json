@@ -1,27 +1,14 @@
 {
   "date": "2026-08-05",
-  "last_updated": "2026-08-05T16:59:08.573091+00:00",
-  "count": 2,
+  "last_updated": "2026-08-05T18:22:39.274353+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2552933",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Fenerbahçe",
-      "away_team": "Sturm Graz",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388588",
+      "match_id": "tsdb-2388589",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Houston Astros",
-      "away_team": "Toronto Blue Jays",
+      "home_team": "Texas Rangers",
+      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

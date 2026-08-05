@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T16:59:07.152814+00:00",
+  "last_updated": "2026-08-05T18:22:37.864184+00:00",
   "count": 7,
   "matches": [
     {
@@ -68,6 +68,19 @@
       "is_finished": true
     },
     {
+      "match_id": "tsdb-2552933",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Fenerbahçe",
+      "away_team": "Sturm Graz",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
       "match_id": "tsdb-2483461",
       "sport": "basketball",
       "league": "NBA",
@@ -75,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388587",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "San Diego Padres",
-      "home_score": 4,
-      "away_score": 9,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
