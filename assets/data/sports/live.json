@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T05:27:52.794490+00:00",
-  "count": 8,
+  "last_updated": "2026-08-05T06:04:29.839772+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -75,32 +75,6 @@
       "away_team": "Kauno Žalgiris",
       "home_score": 5,
       "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2483461",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "San Antonio Spurs",
-      "away_team": "New York Knicks",
-      "home_score": 90,
-      "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388587",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "San Diego Padres",
-      "home_score": 4,
-      "away_score": 9,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
