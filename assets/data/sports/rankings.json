@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T22:26:43.334252+00:00",
+  "last_updated": "2026-08-07T23:03:54.850830+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388613",
-      "label": "Pittsburgh Pirates vs New York Mets",
+      "match_id": "tsdb-2388622",
+      "label": "New York Yankees vs Atlanta Braves",
       "interest_score": 50
     },
     {
