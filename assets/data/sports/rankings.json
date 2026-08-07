@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T15:07:56.387912+00:00",
+  "last_updated": "2026-08-07T00:36:59.841692+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388610",
-      "label": "Baltimore Orioles vs Los Angeles Angels",
+      "match_id": "tsdb-2388612",
+      "label": "Arizona Diamondbacks vs San Diego Padres",
       "interest_score": 50
     },
     {
