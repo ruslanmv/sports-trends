@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "last_updated": "2026-08-07T00:36:59.841642+00:00",
+  "last_updated": "2026-08-07T03:43:59.369220+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388612",
+      "match_id": "tsdb-2388613",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "San Diego Padres",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "New York Mets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

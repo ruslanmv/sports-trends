@@ -2,22 +2,22 @@
   "date": "2026-08-07",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-07T00:36:59.841652+00:00",
+  "last_updated": "2026-08-07T03:43:59.369229+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388612",
+      "match_id": "tsdb-2388613",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "San Diego Padres",
-      "kickoff": "2026-08-07T01:40:00",
-      "kickoff_label": "01:40",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "New York Mets",
+      "kickoff": "2026-08-07T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Arizona Diamondbacks favoured",
+      "prediction_label": "AI: Pittsburgh Pirates favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arizona Diamondbacks 0.00 vs San Diego Padres 0.00.",
+        "Recent form (last 5): Pittsburgh Pirates 0.00 vs New York Mets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
