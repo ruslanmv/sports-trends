@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-07T23:56:06.475067+00:00",
+  "last_updated": "2026-08-08T01:05:38.526447+00:00",
   "page_mode": "club_season",
   "default_tab": "All",
   "eyebrow": "Premier League Intelligence",
-  "headline": "Premier League starts in 3d — Tomorrow’s Biggest Football Matches",
+  "headline": "Premier League starts in 2d — Tomorrow’s Biggest Football Matches",
   "subtitle": "AI predictions for the most important upcoming matches.",
   "show_world_cup_strip": false,
   "featured_football": {
@@ -15,7 +15,7 @@
     "emoji": "🏴",
     "status": "upcoming",
     "start": "2026-08-10",
-    "starts_in_days": 3
+    "starts_in_days": 2
   },
   "primary_prediction_type": "match_result"
 }
