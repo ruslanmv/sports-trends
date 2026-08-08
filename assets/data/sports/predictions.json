@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-08T22:20:00.688290+00:00",
+  "last_updated": "2026-08-08T22:54:55.319990+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388634",
+      "match_id": "tsdb-2388637",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "New York Mets",
-      "kickoff": "2026-08-08T22:40:00",
-      "kickoff_label": "22:40",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Minnesota Twins",
+      "kickoff": "2026-08-08T23:10:00",
+      "kickoff_label": "23:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Pittsburgh Pirates favoured",
+      "prediction_label": "AI: Milwaukee Brewers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Pittsburgh Pirates 0.00 vs New York Mets 0.00.",
+        "Recent form (last 5): Milwaukee Brewers 0.00 vs Minnesota Twins 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

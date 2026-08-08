@@ -1,14 +1,14 @@
 {
   "date": "2026-08-08",
-  "last_updated": "2026-08-08T22:20:00.688275+00:00",
+  "last_updated": "2026-08-08T22:54:55.319980+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388634",
+      "match_id": "tsdb-2388637",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "New York Mets",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Minnesota Twins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
