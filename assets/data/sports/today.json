@@ -1,14 +1,14 @@
 {
   "date": "2026-08-08",
-  "last_updated": "2026-08-08T01:05:40.593728+00:00",
+  "last_updated": "2026-08-08T03:05:43.089103+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388619",
+      "match_id": "tsdb-2388636",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Houston Astros",
+      "home_team": "New York Yankees",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
