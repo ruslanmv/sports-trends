@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T19:51:14.501561+00:00",
+  "last_updated": "2026-08-08T20:19:43.478333+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388638",
-      "label": "Miami Marlins vs Los Angeles Angels",
+      "match_id": "tsdb-2388635",
+      "label": "Philadelphia Phillies vs Toronto Blue Jays",
       "interest_score": 50
     },
     {
