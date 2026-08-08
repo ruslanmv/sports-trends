@@ -2,22 +2,22 @@
   "date": "2026-08-08",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-08T21:54:17.608619+00:00",
+  "last_updated": "2026-08-08T22:20:00.688286+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388635",
+      "match_id": "tsdb-2388634",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Toronto Blue Jays",
-      "kickoff": "2026-08-08T22:05:00",
-      "kickoff_label": "22:05",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "New York Mets",
+      "kickoff": "2026-08-08T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Philadelphia Phillies favoured",
+      "prediction_label": "AI: Pittsburgh Pirates favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Philadelphia Phillies 0.00 vs Toronto Blue Jays 0.00.",
+        "Recent form (last 5): Pittsburgh Pirates 0.00 vs New York Mets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
