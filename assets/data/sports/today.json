@@ -1,14 +1,14 @@
 {
   "date": "2026-08-08",
-  "last_updated": "2026-08-08T18:24:49.249852+00:00",
+  "last_updated": "2026-08-08T19:07:24.797186+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388636",
+      "match_id": "tsdb-2388638",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Atlanta Braves",
+      "home_team": "Miami Marlins",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

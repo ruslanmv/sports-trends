@@ -2,22 +2,22 @@
   "date": "2026-08-08",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-08T18:24:49.249861+00:00",
+  "last_updated": "2026-08-08T19:07:24.797195+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388636",
+      "match_id": "tsdb-2388638",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Atlanta Braves",
-      "kickoff": "2026-08-08T19:05:00",
-      "kickoff_label": "19:05",
+      "home_team": "Miami Marlins",
+      "away_team": "Los Angeles Angels",
+      "kickoff": "2026-08-08T20:10:00",
+      "kickoff_label": "20:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: New York Yankees favoured",
+      "prediction_label": "AI: Miami Marlins favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): New York Yankees 0.00 vs Atlanta Braves 0.00.",
+        "Recent form (last 5): Miami Marlins 0.00 vs Los Angeles Angels 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
