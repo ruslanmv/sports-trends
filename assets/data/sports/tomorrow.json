@@ -2,22 +2,22 @@
   "date": "2026-08-09",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-09T17:56:04.235394+00:00",
+  "last_updated": "2026-08-09T18:28:54.251593+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388652",
+      "match_id": "tsdb-2388645",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Minnesota Twins",
-      "kickoff": "2026-08-09T18:10:00",
-      "kickoff_label": "18:10",
+      "home_team": "Texas Rangers",
+      "away_team": "Baltimore Orioles",
+      "kickoff": "2026-08-09T18:35:00",
+      "kickoff_label": "18:35",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Milwaukee Brewers favoured",
+      "prediction_label": "AI: Texas Rangers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Milwaukee Brewers 0.00 vs Minnesota Twins 0.00.",
+        "Recent form (last 5): Texas Rangers 0.00 vs Baltimore Orioles 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
