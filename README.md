@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-08 04:32 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-09 04:40 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-08 04:32 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Premier League (in 2d) · La Liga (in 7d) · Ligue 1 (in 7d) · Serie A (in 10d)
+Premier League (in 1d) · La Liga (in 6d) · Ligue 1 (in 6d) · Serie A (in 9d)
 <!-- SEASON:END -->
 
 ---
