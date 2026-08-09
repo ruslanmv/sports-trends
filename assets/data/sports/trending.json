@@ -1,14 +1,63 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-08T23:52:39.791091+00:00",
-  "count": 1,
+  "last_updated": "2026-08-09T01:03:59.039071+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "label": "Seattle Mariners vs Tampa Bay Rays",
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Marseille vs Strasbourg",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Deportivo Alavés vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Kairat Almaty vs Levski Sofia",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
