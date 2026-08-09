@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T17:03:15.428041+00:00",
+  "last_updated": "2026-08-09T17:56:04.235431+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388643",
-      "label": "Pittsburgh Pirates vs New York Mets",
+      "match_id": "tsdb-2388652",
+      "label": "Milwaukee Brewers vs Minnesota Twins",
       "interest_score": 50
     },
     {
