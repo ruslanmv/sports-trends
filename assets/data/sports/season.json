@@ -1,14 +1,14 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-08-09T23:59:07.242717+00:00",
-  "today": "2026-08-09",
+  "last_updated": "2026-08-10T01:52:59.813544+00:00",
+  "today": "2026-08-10",
   "featured": {
-    "key": "mlb",
-    "name": "MLB",
-    "sport": "baseball",
-    "scope": "franchise",
-    "importance": 78,
-    "emoji": "⚾"
+    "key": "epl",
+    "name": "Premier League",
+    "sport": "football",
+    "scope": "club",
+    "importance": 90,
+    "emoji": "🏴"
   },
   "featured_football": {
     "key": "epl",
@@ -17,12 +17,18 @@
     "scope": "club",
     "importance": 90,
     "emoji": "🏴",
-    "status": "upcoming",
-    "start": "2026-08-10",
-    "starts_in_days": 1
+    "status": "active"
   },
   "worldcup_active": false,
   "active": [
+    {
+      "key": "epl",
+      "name": "Premier League",
+      "sport": "football",
+      "scope": "club",
+      "importance": 90,
+      "emoji": "🏴"
+    },
     {
       "key": "mlb",
       "name": "MLB",
@@ -42,16 +48,6 @@
   ],
   "upcoming": [
     {
-      "key": "epl",
-      "name": "Premier League",
-      "sport": "football",
-      "scope": "club",
-      "importance": 90,
-      "emoji": "🏴",
-      "start": "2026-08-10",
-      "starts_in_days": 1
-    },
-    {
       "key": "laliga",
       "name": "La Liga",
       "sport": "football",
@@ -59,7 +55,7 @@
       "importance": 88,
       "emoji": "🇪🇸",
       "start": "2026-08-15",
-      "starts_in_days": 6
+      "starts_in_days": 5
     },
     {
       "key": "ligue1",
@@ -69,7 +65,7 @@
       "importance": 84,
       "emoji": "🇫🇷",
       "start": "2026-08-15",
-      "starts_in_days": 6
+      "starts_in_days": 5
     },
     {
       "key": "seriea",
@@ -79,7 +75,7 @@
       "importance": 87,
       "emoji": "🇮🇹",
       "start": "2026-08-18",
-      "starts_in_days": 9
+      "starts_in_days": 8
     },
     {
       "key": "bundesliga",
@@ -89,7 +85,7 @@
       "importance": 86,
       "emoji": "🇩🇪",
       "start": "2026-08-22",
-      "starts_in_days": 13
+      "starts_in_days": 12
     },
     {
       "key": "usopen",
@@ -99,7 +95,7 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2026-08-25",
-      "starts_in_days": 16
+      "starts_in_days": 15
     },
     {
       "key": "ucl",
@@ -109,7 +105,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 37
+      "starts_in_days": 36
     },
     {
       "key": "euroleague",
@@ -119,7 +115,7 @@
       "importance": 80,
       "emoji": "🏀",
       "start": "2026-10-01",
-      "starts_in_days": 53
+      "starts_in_days": 52
     }
   ]
 }
