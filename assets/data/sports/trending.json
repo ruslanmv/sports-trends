@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-10T23:04:58.351512+00:00",
-  "count": 1,
+  "last_updated": "2026-08-10T23:58:33.596706+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
+      "label": "Los Angeles Angels vs Texas Rangers",
+      "sport": "baseball",
+      "audience": null,
+      "hot": true
+    },
+    {
+      "rank": 2,
       "label": "Kairat Almaty vs Levski Sofia",
       "sport": "football",
       "audience": null,
-      "hot": true
+      "hot": false
     }
   ]
 }
