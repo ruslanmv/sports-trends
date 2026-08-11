@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T19:56:47.361356+00:00",
+  "last_updated": "2026-08-11T20:38:03.447843+00:00",
   "count": 8,
   "matches": [
     {
@@ -73,7 +73,7 @@
       "league": "UEFA Champions League",
       "home_team": "Lyon",
       "away_team": "Sparta Prague",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
