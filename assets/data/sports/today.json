@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "last_updated": "2026-08-11T01:42:55.565769+00:00",
+  "last_updated": "2026-08-11T03:28:00.431643+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388661",
+      "match_id": "tsdb-2388675",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Houston Astros",
+      "home_team": "Miami Marlins",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

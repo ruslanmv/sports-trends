@@ -2,22 +2,22 @@
   "date": "2026-08-11",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-11T01:42:55.565781+00:00",
+  "last_updated": "2026-08-11T03:28:00.431655+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388661",
+      "match_id": "tsdb-2388675",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Houston Astros",
-      "kickoff": "2026-08-11T01:45:00",
-      "kickoff_label": "01:45",
+      "home_team": "Miami Marlins",
+      "away_team": "Pittsburgh Pirates",
+      "kickoff": "2026-08-11T22:40:00",
+      "kickoff_label": "22:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Francisco Giants favoured",
+      "prediction_label": "AI: Miami Marlins favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Francisco Giants 0.00 vs Houston Astros 0.00.",
+        "Recent form (last 5): Miami Marlins 0.00 vs Pittsburgh Pirates 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
