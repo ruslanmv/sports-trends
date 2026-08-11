@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-11T18:50:26.882203+00:00",
+  "last_updated": "2026-08-11T19:56:48.665191+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -156,6 +156,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2558133",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Celtic",
+      "away_team": "LASK",
+      "kickoff": "2026-08-19T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Celtic favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Celtic 0.00 vs LASK 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2506176",
       "sport": "football",
       "league": "Spanish La Liga",
@@ -177,31 +202,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Deportivo Alavés 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2544174",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lyon",
-      "away_team": "Sparta Prague",
-      "kickoff": "2026-08-11T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lyon favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lyon 0.00 vs Sparta Prague 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

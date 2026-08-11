@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T18:50:26.882240+00:00",
+  "last_updated": "2026-08-11T19:56:48.665223+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -71,14 +71,14 @@
     },
     {
       "rank": 7,
-      "match_id": "tsdb-2506176",
-      "label": "Deportivo Alavés vs Getafe",
+      "match_id": "tsdb-2558133",
+      "label": "Celtic vs LASK",
       "interest_score": 50
     },
     {
       "rank": 8,
-      "match_id": "tsdb-2544174",
-      "label": "Lyon vs Sparta Prague",
+      "match_id": "tsdb-2506176",
+      "label": "Deportivo Alavés vs Getafe",
       "interest_score": 50
     }
   ]
