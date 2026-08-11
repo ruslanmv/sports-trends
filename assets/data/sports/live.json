@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T14:51:29.039561+00:00",
+  "last_updated": "2026-08-11T15:52:50.023951+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2552933",
+      "match_id": "tsdb-2552940",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Fenerbahçe",
-      "away_team": "Sturm Graz",
-      "home_score": 2,
-      "away_score": 0,
+      "home_team": "Kairat Almaty",
+      "away_team": "Levski Sofia",
+      "home_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
