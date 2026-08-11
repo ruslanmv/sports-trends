@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T16:49:39.855839+00:00",
+  "last_updated": "2026-08-11T17:51:38.207193+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,11 +68,11 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2552942",
+      "match_id": "tsdb-2544176",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "AGF Aarhus",
+      "home_team": "NEC Nijmegen",
+      "away_team": "Olympiacos",
       "home_score": 0,
       "away_score": 0,
       "status": "finished",
