@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "last_updated": "2026-08-12T17:26:18.517278+00:00",
+  "last_updated": "2026-08-12T18:14:43.741123+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388683",
+      "match_id": "tsdb-2388686",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Baltimore Orioles",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

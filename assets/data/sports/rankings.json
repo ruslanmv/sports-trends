@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T17:26:18.517335+00:00",
+  "last_updated": "2026-08-12T18:14:43.741168+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388683",
-      "label": "Minnesota Twins vs Baltimore Orioles",
+      "match_id": "tsdb-2388686",
+      "label": "St. Louis Cardinals vs Philadelphia Phillies",
       "interest_score": 50
     },
     {

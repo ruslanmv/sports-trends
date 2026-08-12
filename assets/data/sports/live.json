@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T17:26:17.324767+00:00",
+  "last_updated": "2026-08-12T18:14:42.323807+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388682",
+      "match_id": "tsdb-2388683",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Kansas City Royals",
-      "home_score": 5,
-      "away_score": 4,
+      "home_team": "Minnesota Twins",
+      "away_team": "Baltimore Orioles",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
