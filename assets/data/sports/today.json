@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "last_updated": "2026-08-12T19:34:56.807968+00:00",
+  "last_updated": "2026-08-12T20:34:55.578188+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388697",
+      "match_id": "tsdb-2388690",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Colorado Rockies",
+      "home_team": "Miami Marlins",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
