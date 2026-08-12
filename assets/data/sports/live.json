@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T05:12:38.646572+00:00",
+  "last_updated": "2026-08-12T05:25:16.387203+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Kansas City Royals",
-      "home_score": 4,
+      "home_score": 5,
       "away_score": 4,
       "status": "finished",
       "status_detail": null,
