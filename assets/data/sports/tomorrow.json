@@ -2,7 +2,7 @@
   "date": "2026-08-12",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-12T12:49:41.944864+00:00",
+  "last_updated": "2026-08-12T14:15:39.949053+00:00",
   "count": 8,
   "matches": [
     {
@@ -154,19 +154,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2558133",
+      "match_id": "tsdb-2570473",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Celtic",
-      "away_team": "LASK",
-      "kickoff": "2026-08-19T19:00:00",
+      "home_team": "Fenerbahçe",
+      "away_team": "Lyon",
+      "kickoff": "2026-08-18T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Celtic favoured",
+      "prediction_label": "AI: Fenerbahçe favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -174,7 +174,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Celtic 0.00 vs LASK 0.00.",
+        "Recent form (last 5): Fenerbahçe 0.00 vs Lyon 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
