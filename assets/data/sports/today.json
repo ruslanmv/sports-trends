@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "last_updated": "2026-08-12T01:12:44.213650+00:00",
+  "last_updated": "2026-08-12T03:34:06.225194+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388676",
+      "match_id": "tsdb-2388683",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Texas Rangers",
+      "home_team": "Minnesota Twins",
+      "away_team": "Baltimore Orioles",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
