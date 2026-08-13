@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:27:04.504435+00:00",
+  "last_updated": "2026-08-13T18:25:36.118048+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388700",
-      "label": "New York Yankees vs Seattle Mariners",
+      "match_id": "tsdb-2388699",
+      "label": "Toronto Blue Jays vs Boston Red Sox",
       "interest_score": 50
     },
     {
