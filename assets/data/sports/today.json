@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "last_updated": "2026-08-13T19:33:21.613227+00:00",
+  "last_updated": "2026-08-13T20:33:09.843798+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388698",
+      "match_id": "tsdb-2388712",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Chicago Cubs",
+      "home_team": "Minnesota Twins",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
