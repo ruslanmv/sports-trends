@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T23:32:37.583369+00:00",
+  "last_updated": "2026-08-13T01:14:18.377846+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388694",
-      "label": "Chicago White Sox vs Cincinnati Reds",
+      "match_id": "tsdb-2388691",
+      "label": "Los Angeles Dodgers vs Kansas City Royals",
       "interest_score": 50
     },
     {
