@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T21:36:46.128979+00:00",
+  "last_updated": "2026-08-13T22:32:28.098363+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Washington Nationals",
       "away_team": "Chicago Cubs",
-      "home_score": 6,
+      "home_score": 7,
       "away_score": null,
       "status": "finished",
       "status_detail": null,
