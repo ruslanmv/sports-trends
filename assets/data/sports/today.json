@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "last_updated": "2026-08-14T01:13:07.880130+00:00",
+  "last_updated": "2026-08-14T03:34:20.963391+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388703",
+      "match_id": "tsdb-2388717",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Texas Rangers",
+      "home_team": "Chicago Cubs",
+      "away_team": "St. Louis Cardinals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
