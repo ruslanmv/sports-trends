@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "last_updated": "2026-08-14T22:14:15.253298+00:00",
+  "last_updated": "2026-08-14T22:46:58.295064+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388709",
+      "match_id": "tsdb-2388707",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Boston Red Sox",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Baltimore Orioles",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
