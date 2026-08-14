@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "last_updated": "2026-08-14T18:13:21.413849+00:00",
+  "last_updated": "2026-08-14T19:26:31.988300+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388717",
+      "match_id": "tsdb-2388716",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Miami Marlins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
