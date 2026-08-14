@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "last_updated": "2026-08-14T21:47:33.201901+00:00",
+  "last_updated": "2026-08-14T22:14:15.253298+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388716",
+      "match_id": "tsdb-2388709",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Miami Marlins",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
