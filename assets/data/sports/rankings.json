@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T23:33:17.951379+00:00",
+  "last_updated": "2026-08-14T01:13:07.880165+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388703",
-      "label": "Los Angeles Angels vs Texas Rangers",
+      "match_id": "tsdb-2506176",
+      "label": "Deportivo Alavés vs Getafe",
       "interest_score": 50
     }
   ]
