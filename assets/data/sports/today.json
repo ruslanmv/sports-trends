@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "last_updated": "2026-08-14T22:46:58.295064+00:00",
+  "last_updated": "2026-08-14T23:14:02.613121+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388707",
+      "match_id": "tsdb-2388706",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Baltimore Orioles",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "New York Yankees",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
