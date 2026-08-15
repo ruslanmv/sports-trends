@@ -1,58 +1,58 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-15T17:14:01.489741+00:00",
+  "last_updated": "2026-08-15T17:43:19.817778+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388733",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "St. Louis Cardinals",
-      "kickoff": "2026-08-15T18:20:00",
-      "kickoff_label": "18:20",
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
+        "home_win": 0.557,
+        "away_win": 0.443
       },
-      "prediction_label": "AI: Chicago Cubs favoured",
-      "confidence": 0.585,
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago Cubs 0.00 vs St. Louis Cardinals 0.00.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2494000",
+      "match_id": "tsdb-2482138",
       "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -78,6 +78,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2570473",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Fenerbahçe",
+      "away_team": "Lyon",
+      "kickoff": "2026-08-18T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Fenerbahçe favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Fenerbahçe 0.00 vs Lyon 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

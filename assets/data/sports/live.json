@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T17:13:55.180756+00:00",
-  "count": 3,
+  "last_updated": "2026-08-15T17:43:10.716878+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -23,19 +23,6 @@
       "away_team": "Roma",
       "home_score": 0,
       "away_score": 2,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2475153",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Paderborn",
-      "away_team": "Wolfsburg",
-      "home_score": 2,
-      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
