@@ -1,18 +1,18 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-15T16:14:57.354397+00:00",
+  "last_updated": "2026-08-15T16:48:02.549868+00:00",
   "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
+      "label": "Detroit Tigers vs Chicago White Sox",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Udinese vs Como",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
@@ -26,7 +26,7 @@
     },
     {
       "rank": 4,
-      "label": "Fenerbahçe vs Lyon",
+      "label": "Deportivo Alavés vs Getafe",
       "sport": "football",
       "audience": null,
       "hot": false
