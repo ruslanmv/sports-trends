@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T04:02:50.845965+00:00",
+  "last_updated": "2026-08-15T04:54:31.797811+00:00",
   "count": 8,
   "matches": [
     {
@@ -100,7 +100,7 @@
       "home_team": "San Francisco Giants",
       "away_team": "Colorado Rockies",
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
