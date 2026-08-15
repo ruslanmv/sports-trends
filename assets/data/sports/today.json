@@ -1,14 +1,14 @@
 {
   "date": "2026-08-15",
-  "last_updated": "2026-08-15T21:43:00.915209+00:00",
+  "last_updated": "2026-08-15T22:12:24.179597+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388723",
+      "match_id": "tsdb-2388732",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Baltimore Orioles",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Miami Marlins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
