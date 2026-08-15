@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-15T16:47:57.521387+00:00",
-  "count": 1,
+  "last_updated": "2026-08-15T17:13:55.180756+00:00",
+  "count": 3,
   "matches": [
+    {
+      "match_id": "tsdb-2267452",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "West Ham United",
+      "away_team": "Leeds United",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
     {
       "match_id": "tsdb-2265415",
       "sport": "football",
@@ -10,6 +23,19 @@
       "away_team": "Roma",
       "home_score": 0,
       "away_score": 2,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2475153",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Paderborn",
+      "away_team": "Wolfsburg",
+      "home_score": 2,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

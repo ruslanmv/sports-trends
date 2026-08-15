@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T16:48:02.549875+00:00",
+  "last_updated": "2026-08-15T17:14:01.489766+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388730",
-      "label": "Detroit Tigers vs Chicago White Sox",
+      "match_id": "tsdb-2388733",
+      "label": "Chicago Cubs vs St. Louis Cardinals",
       "interest_score": 50
     },
     {
@@ -49,12 +49,6 @@
       "rank": 3,
       "match_id": "tsdb-2489463",
       "label": "Marseille vs Strasbourg",
-      "interest_score": 50
-    },
-    {
-      "rank": 4,
-      "match_id": "tsdb-2506176",
-      "label": "Deportivo Alavés vs Getafe",
       "interest_score": 50
     }
   ]
