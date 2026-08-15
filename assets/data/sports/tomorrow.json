@@ -2,22 +2,22 @@
   "date": "2026-08-15",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-15T02:09:35.139972+00:00",
+  "last_updated": "2026-08-15T03:10:26.831106+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388711",
+      "match_id": "tsdb-2388730",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Milwaukee Brewers",
-      "kickoff": "2026-08-15T02:10:00",
-      "kickoff_label": "02:10",
+      "home_team": "Detroit Tigers",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-08-15T17:10:00",
+      "kickoff_label": "17:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Los Angeles Dodgers favoured",
+      "prediction_label": "AI: Detroit Tigers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Milwaukee Brewers 0.00.",
+        "Recent form (last 5): Detroit Tigers 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

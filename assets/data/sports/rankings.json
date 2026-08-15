@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T02:09:35.140017+00:00",
+  "last_updated": "2026-08-15T03:10:26.831149+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388711",
-      "label": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "match_id": "tsdb-2388730",
+      "label": "Detroit Tigers vs Chicago White Sox",
       "interest_score": 50
     },
     {

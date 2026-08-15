@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "last_updated": "2026-08-15T02:09:35.139963+00:00",
+  "last_updated": "2026-08-15T03:10:26.831094+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388711",
+      "match_id": "tsdb-2388730",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Detroit Tigers",
+      "away_team": "Chicago White Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
