@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T21:13:07.821259+00:00",
+  "last_updated": "2026-08-15T21:42:59.787302+00:00",
   "count": 8,
   "matches": [
     {
@@ -21,7 +21,7 @@
       "league": "Spanish La Liga",
       "home_team": "Sevilla",
       "away_team": "Rayo Vallecano",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
@@ -100,7 +100,7 @@
       "home_team": "New York Mets",
       "away_team": "Washington Nationals",
       "home_score": 2,
-      "away_score": null,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
