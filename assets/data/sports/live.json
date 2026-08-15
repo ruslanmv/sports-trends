@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-15T19:43:41.458959+00:00",
+  "last_updated": "2026-08-15T20:14:31.540968+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2265415",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Hellas Verona",
-      "away_team": "Roma",
-      "home_score": 0,
-      "away_score": 2,
+      "match_id": "zve-med",
+      "sport": "tennis",
+      "league": "ATP Halle",
+      "home_team": "A. Zverev",
+      "away_team": "D. Medvedev",
+      "home_score": "6-4, 3-6, 6-2",
+      "away_score": null,
       "status": "finished",
-      "status_detail": null,
+      "status_detail": "Finished",
       "is_live": false,
       "is_finished": true
     }
