@@ -1,12 +1,12 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-15T03:58:06.160208+00:00",
-  "count": 8,
+  "last_updated": "2026-08-15T04:02:53.517124+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Detroit Tigers vs Chicago White Sox",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
@@ -14,48 +14,6 @@
       "rank": 2,
       "label": "Arsenal vs Coventry City",
       "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Fenerbahçe vs Lyon",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Deportivo Alavés vs Getafe",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Detroit Tigers vs Chicago White Sox",
-      "sport": "baseball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
       "audience": null,
       "hot": false
     }
