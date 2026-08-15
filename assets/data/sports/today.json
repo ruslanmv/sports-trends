@@ -1,14 +1,14 @@
 {
   "date": "2026-08-15",
-  "last_updated": "2026-08-15T22:44:58.876087+00:00",
+  "last_updated": "2026-08-15T23:12:37.115067+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388727",
+      "match_id": "tsdb-2388721",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Philadelphia Phillies",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
