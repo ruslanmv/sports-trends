@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-14 05:09 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-15 03:58 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-08-14 05:09 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-🏴 Premier League · ⚾ MLB · 🎮 Esports Majors
+🏴 Premier League · 🇪🇸 La Liga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-La Liga (in 1d) · Ligue 1 (in 1d) · Serie A (in 4d) · Bundesliga (in 8d)
+Serie A (in 3d) · Bundesliga (in 7d) · US Open (in 10d) · UEFA Champions League (in 31d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,11 @@ La Liga (in 1d) · Ligue 1 (in 1d) · Serie A (in 4d) · Bundesliga (in 8d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Deportivo Alavés** vs **Getafe** | Spanish La Liga | 17:30 | Deportivo Alavés favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
+| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Fenerbahçe** vs **Lyon** | UEFA Champions League | 19:00 | Fenerbahçe favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
