@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-08-15T15:42:54.023590+00:00",
-  "count": 8,
+  "last_updated": "2026-08-15T16:14:49.293016+00:00",
+  "count": 5,
   "matches": [
-    {
-      "match_id": "tsdb-2267452",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "West Ham United",
-      "away_team": "Leeds United",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
     {
       "match_id": "tsdb-2279773",
       "sport": "football",
@@ -23,19 +10,6 @@
       "away_team": "Atlético Madrid",
       "home_score": 5,
       "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2265415",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Hellas Verona",
-      "away_team": "Roma",
-      "home_score": 0,
-      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -75,19 +49,6 @@
       "away_team": "Sparta Prague",
       "home_score": 3,
       "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2483461",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "San Antonio Spurs",
-      "away_team": "New York Knicks",
-      "home_score": 90,
-      "away_score": 94,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
