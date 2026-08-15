@@ -1,18 +1,18 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-15T19:17:43.246783+00:00",
+  "last_updated": "2026-08-15T19:44:30.029857+00:00",
   "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "San Francisco Giants vs Colorado Rockies",
-      "sport": "baseball",
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Arsenal vs Coventry City",
+      "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
