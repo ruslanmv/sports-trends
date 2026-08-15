@@ -1,8 +1,21 @@
 {
   "date": "2026-08-15",
-  "last_updated": "2026-08-15T17:43:19.817765+00:00",
-  "count": 1,
+  "last_updated": "2026-08-15T18:16:30.086010+00:00",
+  "count": 2,
   "matches": [
+    {
+      "match_id": "tsdb-2506172",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Sevilla",
+      "away_team": "Rayo Vallecano",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
     {
       "match_id": "tsdb-2388733",
       "sport": "baseball",

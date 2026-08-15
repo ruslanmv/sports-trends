@@ -2,9 +2,33 @@
   "date": "2026-08-15",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-15T17:43:19.817774+00:00",
-  "count": 4,
+  "last_updated": "2026-08-15T18:16:30.086023+00:00",
+  "count": 8,
   "matches": [
+    {
+      "match_id": "tsdb-2388733",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Chicago Cubs",
+      "away_team": "St. Louis Cardinals",
+      "kickoff": "2026-08-15T18:20:00",
+      "kickoff_label": "18:20",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Chicago Cubs favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Chicago Cubs 0.00 vs St. Louis Cardinals 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2548849",
       "sport": "basketball",
@@ -26,6 +50,56 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494000",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Coventry City",
+      "kickoff": "2026-08-21T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
+      },
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -101,6 +175,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Fenerbahçe 0.00 vs Lyon 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506172",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Sevilla",
+      "away_team": "Rayo Vallecano",
+      "kickoff": "2026-08-15T19:30:00",
+      "kickoff_label": "19:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Sevilla favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Sevilla 0.00 vs Rayo Vallecano 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
