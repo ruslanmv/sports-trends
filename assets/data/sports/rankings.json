@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T23:12:37.115101+00:00",
+  "last_updated": "2026-08-15T23:42:13.988516+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,12 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388728",
+      "label": "Los Angeles Angels vs Kansas City Royals",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2506178",
       "label": "Racing de Santander vs Villarreal",
       "interest_score": 50
