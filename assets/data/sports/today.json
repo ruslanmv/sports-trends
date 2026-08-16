@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "last_updated": "2026-08-16T00:48:23.730883+00:00",
+  "last_updated": "2026-08-16T02:17:29.406779+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388728",
+      "match_id": "tsdb-2388738",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Kansas City Royals",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Baltimore Orioles",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
