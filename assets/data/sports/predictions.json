@@ -1,26 +1,51 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-16T17:42:02.035815+00:00",
+  "last_updated": "2026-08-16T18:16:54.109065+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2506177",
+      "match_id": "tsdb-2508333",
       "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo de A Coruña",
-      "away_team": "Elche",
-      "kickoff": "2026-08-17T19:00:00",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2570473",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Fenerbahçe",
+      "away_team": "Lyon",
+      "kickoff": "2026-08-18T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Deportivo de A Coruña favoured",
+      "prediction_label": "AI: Fenerbahçe favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -28,7 +53,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Deportivo de A Coruña 0.00 vs Elche 0.00.",
+        "Recent form (last 5): Fenerbahçe 0.00 vs Lyon 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

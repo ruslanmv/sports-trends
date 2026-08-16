@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-16T17:42:02.035830+00:00",
-  "count": 1,
+  "last_updated": "2026-08-16T18:16:54.109093+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "Deportivo de A Coruña vs Elche",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Fenerbahçe vs Lyon",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
