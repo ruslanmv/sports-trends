@@ -2,7 +2,7 @@
   "date": "2026-08-16",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-16T14:46:37.961590+00:00",
+  "last_updated": "2026-08-16T15:13:31.863333+00:00",
   "count": 8,
   "matches": [
     {
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2506178",
+      "match_id": "tsdb-2506174",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Racing de Santander",
-      "away_team": "Villarreal",
-      "kickoff": "2026-08-16T15:00:00",
-      "kickoff_label": "15:00",
+      "home_team": "Espanyol",
+      "away_team": "Levante",
+      "kickoff": "2026-08-16T17:00:00",
+      "kickoff_label": "17:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Racing de Santander favoured",
+      "prediction_label": "AI: Espanyol favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Racing de Santander 0.00 vs Villarreal 0.00.",
+        "Recent form (last 5): Espanyol 0.00 vs Levante 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T14:46:31.513281+00:00",
+  "last_updated": "2026-08-16T15:13:30.729290+00:00",
   "count": 8,
   "matches": [
     {
@@ -16,13 +16,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506172",
+      "match_id": "tsdb-2506178",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Sevilla",
-      "away_team": "Rayo Vallecano",
-      "home_score": 2,
-      "away_score": 1,
+      "home_team": "Racing de Santander",
+      "away_team": "Villarreal",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
