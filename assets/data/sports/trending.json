@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-16T16:48:22.630910+00:00",
-  "count": 8,
+  "last_updated": "2026-08-16T17:12:55.758322+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Pittsburgh Pirates vs Boston Red Sox",
-      "sport": "baseball",
+      "label": "Deportivo de A Coruña vs Elche",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Udinese vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Marseille vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Fenerbahçe vs Lyon",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Espanyol vs Levante",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
