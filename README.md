@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-15 03:58 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-16 04:05 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-15 03:58 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Serie A (in 3d) · Bundesliga (in 7d) · US Open (in 10d) · UEFA Champions League (in 31d)
+Serie A (in 2d) · Bundesliga (in 6d) · US Open (in 9d) · UEFA Champions League (in 30d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ Serie A (in 3d) · Bundesliga (in 7d) · US Open (in 10d) · UEFA Champions Leag
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Fenerbahçe** vs **Lyon** | UEFA Champions League | 19:00 | Fenerbahçe favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Real Madrid** vs **Man City** | UEFA Champions League | 21:00 | Real Madrid favoured | `██████░░░░` 56% |
+| 2 | 🏀 **Lakers** vs **Celtics** | NBA Finals | 08:30 | Lakers favoured | `█████░░░░░` 48% |
+| 3 | 🎾 **Jannik Sinner** vs **Carlos Alcaraz** | Wimbledon Men's SF | 15:00 | Jannik Sinner favoured | `████░░░░░░` 44% |
+| 4 | 🏏 **India** vs **Australia** | ICC Test Championship | 10:00 | India favoured | `████░░░░░░` 41% |
+| 5 | ⚽ **PSG** vs **Bayern Munich** | UEFA Champions League | 21:00 | PSG favoured | `████░░░░░░` 39% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>

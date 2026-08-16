@@ -7,8 +7,8 @@ sport: "basketball"
 league: "NBA"
 home_team: "Bucks"
 away_team: "76ers"
-kickoff: "2026-06-30T01:30:00+00:00"
-jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Bucks vs 76ers", "sport": "basketball", "url": "https://ruslanmv.com/sports/match/mil-phi/", "startDate": "2026-06-30T01:30:00+00:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Bucks"}, {"@type": "SportsTeam", "name": "76ers"}], "organizer": {"@type": "Organization", "name": "NBA"}}
+kickoff: "2026-08-17T01:30:00+00:00"
+jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Bucks vs 76ers", "sport": "basketball", "url": "https://ruslanmv.com/sports/match/mil-phi/", "startDate": "2026-08-17T01:30:00+00:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Bucks"}, {"@type": "SportsTeam", "name": "76ers"}], "organizer": {"@type": "Organization", "name": "NBA"}}
 ---
 
 # Bucks vs 76ers

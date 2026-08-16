@@ -7,8 +7,8 @@ sport: "football"
 league: "La Liga"
 home_team: "Barcelona"
 away_team: "Atletico Madrid"
-kickoff: "2026-06-30T20:00:00+02:00"
-jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Barcelona vs Atletico Madrid", "sport": "football", "url": "https://ruslanmv.com/sports/match/bar-atm/", "startDate": "2026-06-30T20:00:00+02:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Barcelona"}, {"@type": "SportsTeam", "name": "Atletico Madrid"}], "organizer": {"@type": "Organization", "name": "La Liga"}}
+kickoff: "2026-08-17T20:00:00+02:00"
+jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Barcelona vs Atletico Madrid", "sport": "football", "url": "https://ruslanmv.com/sports/match/bar-atm/", "startDate": "2026-08-17T20:00:00+02:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Barcelona"}, {"@type": "SportsTeam", "name": "Atletico Madrid"}], "organizer": {"@type": "Organization", "name": "La Liga"}}
 ---
 
 # Barcelona vs Atletico Madrid

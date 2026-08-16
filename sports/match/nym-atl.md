@@ -7,8 +7,8 @@ sport: "baseball"
 league: "MLB"
 home_team: "Mets"
 away_team: "Braves"
-kickoff: "2026-06-30T23:10:00+00:00"
-jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Mets vs Braves", "sport": "baseball", "url": "https://ruslanmv.com/sports/match/nym-atl/", "startDate": "2026-06-30T23:10:00+00:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Mets"}, {"@type": "SportsTeam", "name": "Braves"}], "organizer": {"@type": "Organization", "name": "MLB"}}
+kickoff: "2026-08-17T23:10:00+00:00"
+jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Mets vs Braves", "sport": "baseball", "url": "https://ruslanmv.com/sports/match/nym-atl/", "startDate": "2026-08-17T23:10:00+00:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Mets"}, {"@type": "SportsTeam", "name": "Braves"}], "organizer": {"@type": "Organization", "name": "MLB"}}
 ---
 
 # Mets vs Braves

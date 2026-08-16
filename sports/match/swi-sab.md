@@ -7,8 +7,8 @@ sport: "tennis"
 league: "Wimbledon Women's SF"
 home_team: "Iga Swiatek"
 away_team: "Aryna Sabalenka"
-kickoff: "2026-06-30T16:00:00+01:00"
-jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Iga Swiatek vs Aryna Sabalenka", "sport": "tennis", "url": "https://ruslanmv.com/sports/match/swi-sab/", "startDate": "2026-06-30T16:00:00+01:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Iga Swiatek"}, {"@type": "SportsTeam", "name": "Aryna Sabalenka"}], "organizer": {"@type": "Organization", "name": "Wimbledon Women's SF"}}
+kickoff: "2026-08-17T16:00:00+01:00"
+jsonld: {"@context": "https://schema.org", "@type": "SportsEvent", "name": "Iga Swiatek vs Aryna Sabalenka", "sport": "tennis", "url": "https://ruslanmv.com/sports/match/swi-sab/", "startDate": "2026-08-17T16:00:00+01:00", "eventStatus": "https://schema.org/EventScheduled", "competitor": [{"@type": "SportsTeam", "name": "Iga Swiatek"}, {"@type": "SportsTeam", "name": "Aryna Sabalenka"}], "organizer": {"@type": "Organization", "name": "Wimbledon Women's SF"}}
 ---
 
 # Iga Swiatek vs Aryna Sabalenka
