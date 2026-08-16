@@ -2,9 +2,33 @@
   "date": "2026-08-16",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-16T23:12:17.888643+00:00",
-  "count": 1,
+  "last_updated": "2026-08-16T23:41:24.486356+00:00",
+  "count": 2,
   "matches": [
+    {
+      "match_id": "tsdb-2387667",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Cincinnati Reds",
+      "away_team": "St. Louis Cardinals",
+      "kickoff": "2026-08-17T17:40:00",
+      "kickoff_label": "17:40",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Cincinnati Reds favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Cincinnati Reds 0.00 vs St. Louis Cardinals 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2506177",
       "sport": "football",
