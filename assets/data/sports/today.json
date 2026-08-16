@@ -1,14 +1,14 @@
 {
   "date": "2026-08-16",
-  "last_updated": "2026-08-16T17:12:55.758265+00:00",
+  "last_updated": "2026-08-16T17:42:02.035802+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388739",
+      "match_id": "tsdb-2388741",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Boston Red Sox",
+      "home_team": "Minnesota Twins",
+      "away_team": "Philadelphia Phillies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
