@@ -1,30 +1,17 @@
 {
-  "last_updated": "2026-08-16T19:43:04.507225+00:00",
-  "count": 2,
+  "last_updated": "2026-08-16T20:13:37.532031+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2475112",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Nice",
-      "away_team": "St Etienne",
-      "home_score": 4,
-      "away_score": 1,
+      "match_id": "zve-med",
+      "sport": "tennis",
+      "league": "ATP Halle",
+      "home_team": "A. Zverev",
+      "away_team": "D. Medvedev",
+      "home_score": "6-4, 3-6, 6-2",
+      "away_score": null,
       "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2544174",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lyon",
-      "away_team": "Sparta Prague",
-      "home_score": 3,
-      "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
+      "status_detail": "Finished",
       "is_live": false,
       "is_finished": true
     }
