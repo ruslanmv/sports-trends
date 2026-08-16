@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-08-16T19:16:44.618591+00:00",
-  "count": 1,
+  "last_updated": "2026-08-16T19:43:04.507225+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2267452",
+      "match_id": "tsdb-2475112",
       "sport": "football",
-      "league": "English Premier League",
-      "home_team": "West Ham United",
-      "away_team": "Leeds United",
+      "league": "French Ligue 1",
+      "home_team": "Nice",
+      "away_team": "St Etienne",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2544174",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lyon",
+      "away_team": "Sparta Prague",
       "home_score": 3,
       "away_score": 0,
       "status": "finished",
