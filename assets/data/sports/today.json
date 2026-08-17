@@ -1,21 +1,8 @@
 {
   "date": "2026-08-17",
-  "last_updated": "2026-08-17T18:26:08.594235+00:00",
-  "count": 2,
+  "last_updated": "2026-08-17T19:06:45.121167+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2506177",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo de A Coruña",
-      "away_team": "Elche",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388752",
       "sport": "baseball",
