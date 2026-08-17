@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T23:41:24.486380+00:00",
+  "last_updated": "2026-08-17T00:45:30.335298+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,14 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2387667",
-      "label": "Cincinnati Reds vs St. Louis Cardinals",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2506177",
-      "label": "Deportivo de A Coruña vs Elche",
+      "match_id": "tsdb-2570473",
+      "label": "Fenerbahçe vs Lyon",
       "interest_score": 50
     }
   ]
