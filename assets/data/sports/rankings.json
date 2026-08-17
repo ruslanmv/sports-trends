@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T23:15:40.539859+00:00",
+  "last_updated": "2026-08-17T23:44:20.305586+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,12 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388758",
+      "label": "Chicago Cubs vs Chicago White Sox",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2570473",
       "label": "Fenerbahçe vs Lyon",
       "interest_score": 50
