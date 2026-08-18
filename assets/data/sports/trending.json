@@ -1,21 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-17T23:44:20.305581+00:00",
-  "count": 2,
+  "last_updated": "2026-08-18T00:44:38.219809+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Chicago Cubs vs Chicago White Sox",
-      "sport": "baseball",
-      "audience": null,
-      "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Fenerbahçe vs Lyon",
+      "label": "Atlético Madrid vs Málaga",
       "sport": "football",
       "audience": null,
-      "hot": false
+      "hot": true
     }
   ]
 }

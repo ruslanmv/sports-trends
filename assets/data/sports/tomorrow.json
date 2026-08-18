@@ -1,48 +1,24 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-17T23:44:20.305550+00:00",
-  "count": 2,
+  "last_updated": "2026-08-18T00:44:38.219787+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388758",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-08-18T00:05:00",
-      "kickoff_label": "00:05",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Chicago Cubs favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago Cubs 0.00 vs Chicago White Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2570473",
+      "match_id": "tsdb-2506170",
       "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Fenerbahçe",
-      "away_team": "Lyon",
-      "kickoff": "2026-08-18T19:00:00",
+      "league": "Spanish La Liga",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "kickoff": "2026-08-19T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Fenerbahçe favoured",
+      "prediction_label": "AI: Atlético Madrid favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -50,7 +26,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Fenerbahçe 0.00 vs Lyon 0.00.",
+        "Recent form (last 5): Atlético Madrid 0.00 vs Málaga 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
