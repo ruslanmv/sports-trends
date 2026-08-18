@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-17 04:07 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-18 04:03 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-08-17 04:07 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-🏴 Premier League · 🇪🇸 La Liga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-Serie A (in 1d) · Bundesliga (in 5d) · US Open (in 8d) · UEFA Champions League (in 29d)
+Bundesliga (in 4d) · US Open (in 7d) · UEFA Champions League (in 28d) · EuroLeague (in 44d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,7 @@ Serie A (in 1d) · Bundesliga (in 5d) · US Open (in 8d) · UEFA Champions Leagu
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Fenerbahçe** vs **Lyon** | UEFA Champions League | 19:00 | Fenerbahçe favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Atlético Madrid** vs **Málaga** | Spanish La Liga | 19:00 | Atlético Madrid favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
