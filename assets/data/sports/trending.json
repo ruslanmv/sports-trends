@@ -1,17 +1,24 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-18T23:14:21.687319+00:00",
-  "count": 2,
+  "last_updated": "2026-08-18T23:44:10.952589+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "Atlético Madrid vs Málaga",
-      "sport": "football",
+      "label": "Texas Rangers vs Washington Nationals",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Atlético Madrid vs Málaga",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Celtic vs LASK",
       "sport": "football",
       "audience": null,
