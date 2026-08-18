@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T00:44:36.840031+00:00",
-  "count": 7,
+  "last_updated": "2026-08-18T02:10:49.616159+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -22,7 +22,7 @@
       "home_team": "Deportivo de A Coruña",
       "away_team": "Elche",
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388756",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Colorado Rockies",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": 0,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
