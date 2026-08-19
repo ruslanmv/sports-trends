@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-19T16:21:31.600626+00:00",
+  "last_updated": "2026-08-19T16:54:27.960844+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388778",
+      "match_id": "tsdb-2388780",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Detroit Tigers",
-      "kickoff": "2026-08-19T16:35:00",
-      "kickoff_label": "16:35",
+      "home_team": "New York Mets",
+      "away_team": "San Diego Padres",
+      "kickoff": "2026-08-19T17:10:00",
+      "kickoff_label": "17:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Pittsburgh Pirates favoured",
+      "prediction_label": "AI: New York Mets favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Pittsburgh Pirates 0.00 vs Detroit Tigers 0.00.",
+        "Recent form (last 5): New York Mets 0.00 vs San Diego Padres 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
