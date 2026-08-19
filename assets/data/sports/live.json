@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T02:14:15.324452+00:00",
+  "last_updated": "2026-08-19T03:23:38.406794+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Colorado Rockies",
       "away_team": "Los Angeles Dodgers",
-      "home_score": 3,
-      "away_score": 6,
+      "home_score": 4,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
