@@ -2,22 +2,22 @@
   "date": "2026-08-19",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-19T17:19:46.713926+00:00",
+  "last_updated": "2026-08-19T17:48:29.427351+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388793",
+      "match_id": "tsdb-2388787",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Atlanta Braves",
-      "kickoff": "2026-08-19T17:40:00",
-      "kickoff_label": "17:40",
+      "home_team": "Chicago Cubs",
+      "away_team": "Chicago White Sox",
+      "kickoff": "2026-08-19T18:20:00",
+      "kickoff_label": "18:20",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Minnesota Twins favoured",
+      "prediction_label": "AI: Chicago Cubs favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Minnesota Twins 0.00 vs Atlanta Braves 0.00.",
+        "Recent form (last 5): Chicago Cubs 0.00 vs Chicago White Sox 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

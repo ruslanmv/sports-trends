@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "last_updated": "2026-08-19T17:19:46.713916+00:00",
+  "last_updated": "2026-08-19T17:48:29.427341+00:00",
   "count": 3,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388793",
+      "match_id": "tsdb-2388787",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "Atlanta Braves",
+      "home_team": "Chicago Cubs",
+      "away_team": "Chicago White Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
