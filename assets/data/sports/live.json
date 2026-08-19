@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T20:17:42.422986+00:00",
-  "count": 7,
+  "last_updated": "2026-08-19T20:51:58.369133+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -21,7 +21,7 @@
       "league": "Spanish La Liga",
       "home_team": "Atlético Madrid",
       "away_team": "Málaga",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388788",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Boston Red Sox",
+      "away_team": "Arizona Diamondbacks",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
