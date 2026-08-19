@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T17:48:29.427390+00:00",
+  "last_updated": "2026-08-19T18:21:35.980021+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388787",
-      "label": "Chicago Cubs vs Chicago White Sox",
+      "match_id": "tsdb-2388788",
+      "label": "Boston Red Sox vs Arizona Diamondbacks",
       "interest_score": 50
     },
     {
