@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "last_updated": "2026-08-19T21:48:36.946208+00:00",
+  "last_updated": "2026-08-19T22:16:09.582265+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388779",
+      "match_id": "tsdb-2388789",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Miami Marlins",
+      "home_team": "Baltimore Orioles",
+      "away_team": "New York Yankees",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
