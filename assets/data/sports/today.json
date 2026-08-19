@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "last_updated": "2026-08-19T03:23:39.998355+00:00",
-  "count": 3,
+  "last_updated": "2026-08-19T04:04:02.387191+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2506170",
@@ -22,19 +22,6 @@
       "league": "UEFA Champions League",
       "home_team": "Celtic",
       "away_team": "LASK",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388778",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Detroit Tigers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
