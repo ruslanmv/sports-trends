@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T18:21:34.748459+00:00",
-  "count": 7,
+  "last_updated": "2026-08-19T19:00:59.391986+00:00",
+  "count": 5,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -10,19 +10,6 @@
       "away_team": "Leeds United",
       "home_score": 3,
       "away_score": 0,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2506177",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo de A Coruña",
-      "away_team": "Elche",
-      "home_score": 1,
-      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -62,19 +49,6 @@
       "away_team": "St Etienne",
       "home_score": 4,
       "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2570475",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Levski Sofia",
-      "away_team": "AEK Athens",
-      "home_score": 0,
-      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

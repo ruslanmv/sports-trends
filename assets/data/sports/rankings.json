@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T18:21:35.980021+00:00",
+  "last_updated": "2026-08-19T19:01:05.830891+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388788",
-      "label": "Boston Red Sox vs Arizona Diamondbacks",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2548849",
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2508333",
-      "label": "Bayern Munich vs Stuttgart",
-      "interest_score": 50
-    },
-    {
-      "rank": 4,
-      "match_id": "tsdb-2494000",
-      "label": "Arsenal vs Coventry City",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2482138",
-      "label": "Udinese vs Como",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2489463",
-      "label": "Marseille vs Strasbourg",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
-      "match_id": "tsdb-2506170",
-      "label": "Atlético Madrid vs Málaga",
-      "interest_score": 50
-    },
-    {
-      "rank": 8,
-      "match_id": "tsdb-2558133",
-      "label": "Celtic vs LASK",
+      "match_id": "tsdb-2506187",
+      "label": "Rayo Vallecano vs Deportivo Alavés",
       "interest_score": 50
     }
   ]

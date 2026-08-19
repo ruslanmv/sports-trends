@@ -1,34 +1,8 @@
 {
   "date": "2026-08-19",
-  "last_updated": "2026-08-19T18:21:35.979967+00:00",
-  "count": 3,
+  "last_updated": "2026-08-19T19:01:05.830854+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2506170",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Málaga",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2558133",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Celtic",
-      "away_team": "LASK",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388788",
       "sport": "baseball",
