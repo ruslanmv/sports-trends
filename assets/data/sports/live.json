@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T18:26:01.975162+00:00",
-  "count": 7,
+  "last_updated": "2026-08-20T19:09:44.168019+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2267452",
@@ -16,12 +16,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506170",
+      "match_id": "tsdb-2506187",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Málaga",
-      "home_score": 2,
+      "home_team": "Rayo Vallecano",
+      "away_team": "Deportivo Alavés",
+      "home_score": 0,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388794",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Kansas City Royals",
+      "away_team": "Athletics",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
