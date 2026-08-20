@@ -2,7 +2,7 @@
   "date": "2026-08-20",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-20T04:05:15.340041+00:00",
+  "last_updated": "2026-08-20T05:01:41.623490+00:00",
   "count": 2,
   "matches": [
     {
@@ -14,15 +14,16 @@
       "kickoff": "2026-08-21T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.103,
-        "away_win": 0.897
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
       },
-      "prediction_label": "AI: Coventry City favoured",
-      "confidence": 0.897,
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
@@ -38,15 +39,16 @@
       "kickoff": "2026-08-21T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
