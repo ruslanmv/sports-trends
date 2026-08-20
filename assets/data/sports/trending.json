@@ -1,24 +1,31 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-20T22:18:32.034309+00:00",
-  "count": 3,
+  "last_updated": "2026-08-20T22:52:17.172711+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Arsenal vs Coventry City",
-      "sport": "football",
+      "label": "Texas Rangers vs Washington Nationals",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Real Betis vs Real Sociedad",
+      "label": "Arsenal vs Coventry City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
+      "label": "Real Betis vs Real Sociedad",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
       "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,

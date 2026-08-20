@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:18:32.034314+00:00",
+  "last_updated": "2026-08-20T22:52:17.172717+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,18 +35,24 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388791",
+      "label": "Texas Rangers vs Washington Nationals",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2494000",
       "label": "Arsenal vs Coventry City",
       "interest_score": 50
     },
     {
-      "rank": 2,
+      "rank": 3,
       "match_id": "tsdb-2506184",
       "label": "Real Betis vs Real Sociedad",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 4,
       "match_id": "tsdb-2489463",
       "label": "Marseille vs Strasbourg",
       "interest_score": 50
