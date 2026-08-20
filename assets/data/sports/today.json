@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "last_updated": "2026-08-20T16:29:16.783936+00:00",
+  "last_updated": "2026-08-20T17:01:45.445158+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388797",
+      "match_id": "tsdb-2388792",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
