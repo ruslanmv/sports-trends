@@ -2,7 +2,7 @@
   "product": "Ruslan Magana Sports Intelligence",
   "competition": "FIFA World Cup 2026",
   "source": "openfootball+thestatsapi",
-  "last_updated": "2026-08-19T23:44:26.633942+00:00",
+  "last_updated": "2026-08-20T00:44:32.108666+00:00",
   "matches": [
     {
       "match_id": "wcq-ita-nor",
@@ -11,7 +11,7 @@
       "group": "Group I",
       "home_team": "Italy",
       "away_team": "Norway",
-      "kickoff": "2026-08-21T20:45:00+00:00",
+      "kickoff": "2026-08-22T20:45:00+00:00",
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {
@@ -50,7 +50,7 @@
       "group": "CONMEBOL Table",
       "home_team": "Brazil",
       "away_team": "Colombia",
-      "kickoff": "2026-08-22T01:30:00+00:00",
+      "kickoff": "2026-08-23T01:30:00+00:00",
       "neutral_venue": false,
       "host_advantage": true,
       "result_90": {

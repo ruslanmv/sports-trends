@@ -1,18 +1,18 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-19T23:44:25.860662+00:00",
+  "last_updated": "2026-08-20T00:44:31.295185+00:00",
   "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "Texas Rangers vs Washington Nationals",
-      "sport": "baseball",
+      "label": "Arsenal vs Coventry City",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Rayo Vallecano vs Deportivo Alavés",
+      "label": "Marseille vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
