@@ -2,7 +2,7 @@
   "date": "2026-08-21",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-21T04:06:07.000333+00:00",
+  "last_updated": "2026-08-21T04:07:51.264827+00:00",
   "count": 1,
   "matches": [
     {
@@ -14,15 +14,16 @@
       "kickoff": "2026-08-22T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Udinese 0.00 vs Como 0.00.",

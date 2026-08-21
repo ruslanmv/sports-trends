@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "last_updated": "2026-08-21T04:06:07.000321+00:00",
-  "count": 3,
+  "last_updated": "2026-08-21T04:07:51.264818+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2494000",
@@ -22,6 +22,19 @@
       "league": "Spanish La Liga",
       "home_team": "Real Betis",
       "away_team": "Real Sociedad",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2489463",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Marseille",
+      "away_team": "Strasbourg",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
