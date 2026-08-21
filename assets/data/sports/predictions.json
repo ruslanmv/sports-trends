@@ -1,75 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-20T23:48:09.245804+00:00",
+  "last_updated": "2026-08-21T00:48:46.792247+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388791",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Washington Nationals",
-      "kickoff": "2026-08-21T00:05:00",
-      "kickoff_label": "00:05",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Texas Rangers favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Texas Rangers 0.00 vs Washington Nationals 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494000",
+      "match_id": "tsdb-2482138",
       "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Coventry City",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Coventry City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506184",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Real Betis",
-      "away_team": "Real Sociedad",
-      "kickoff": "2026-08-21T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Real Betis favoured",
+      "prediction_label": "AI: Udinese favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -77,32 +28,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Betis 0.00 vs Real Sociedad 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489463",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Strasbourg",
-      "kickoff": "2026-08-21T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Marseille 0.00 vs Strasbourg 0.00.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
