@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T00:48:45.589659+00:00",
+  "last_updated": "2026-08-21T02:19:22.891529+00:00",
   "count": 8,
   "matches": [
     {
@@ -100,7 +100,7 @@
       "home_team": "Houston Astros",
       "away_team": "Los Angeles Angels",
       "home_score": 2,
-      "away_score": 3,
+      "away_score": 14,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
