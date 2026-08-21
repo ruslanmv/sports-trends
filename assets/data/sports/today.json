@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "last_updated": "2026-08-21T22:48:08.438884+00:00",
+  "last_updated": "2026-08-21T23:15:53.011849+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388804",
+      "match_id": "tsdb-2388806",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Toronto Blue Jays",
+      "home_team": "Chicago White Sox",
+      "away_team": "New York Mets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
