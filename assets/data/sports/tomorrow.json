@@ -2,9 +2,33 @@
   "date": "2026-08-21",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-21T23:15:53.011858+00:00",
-  "count": 4,
+  "last_updated": "2026-08-21T23:45:51.497289+00:00",
+  "count": 5,
   "matches": [
+    {
+      "match_id": "tsdb-2388808",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Kansas City Royals",
+      "away_team": "Detroit Tigers",
+      "kickoff": "2026-08-22T00:10:00",
+      "kickoff_label": "00:10",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Kansas City Royals favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Kansas City Royals 0.00 vs Detroit Tigers 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2482138",
       "sport": "football",
