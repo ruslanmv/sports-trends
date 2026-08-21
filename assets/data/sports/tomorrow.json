@@ -2,8 +2,8 @@
   "date": "2026-08-21",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-21T18:24:31.110206+00:00",
-  "count": 1,
+  "last_updated": "2026-08-21T19:05:33.296159+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2482138",
@@ -27,6 +27,81 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489469",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Lens",
+      "away_team": "Auxerre",
+      "kickoff": "2026-08-22T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Auxerre 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506180",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Athletic Bilbao",
+      "away_team": "Sevilla",
+      "kickoff": "2026-08-22T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Athletic Bilbao favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Athletic Bilbao 0.00 vs Sevilla 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494001",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Hull City",
+      "away_team": "Manchester United",
+      "kickoff": "2026-08-22T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Hull City favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Hull City 0.00 vs Manchester United 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

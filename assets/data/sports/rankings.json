@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:24:31.110234+00:00",
+  "last_updated": "2026-08-21T19:05:33.296191+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -37,6 +37,24 @@
       "rank": 1,
       "match_id": "tsdb-2482138",
       "label": "Udinese vs Como",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
+      "match_id": "tsdb-2489469",
+      "label": "Lens vs Auxerre",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2506180",
+      "label": "Athletic Bilbao vs Sevilla",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2494001",
+      "label": "Hull City vs Manchester United",
       "interest_score": 50
     }
   ]
