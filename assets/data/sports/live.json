@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T22:15:22.009477+00:00",
-  "count": 8,
+  "last_updated": "2026-08-21T22:48:06.380956+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494000",
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388805",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Atlanta Braves",
-      "home_score": 2,
-      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
