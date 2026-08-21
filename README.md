@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-20 04:05 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-21 04:06 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-20 04:05 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Bundesliga (in 2d) · US Open (in 5d) · UEFA Champions League (in 26d) · EuroLeague (in 42d)
+Bundesliga (in 1d) · US Open (in 4d) · UEFA Champions League (in 25d) · EuroLeague (in 41d)
 <!-- SEASON:END -->
 
 ---
@@ -46,8 +46,7 @@ Bundesliga (in 2d) · US Open (in 5d) · UEFA Champions League (in 26d) · EuroL
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Arsenal** vs **Coventry City** | English Premier League | 19:00 | Coventry City favoured | `█████████░` 90% |
-| 2 | ⚽ **Marseille** vs **Strasbourg** | French Ligue 1 | 18:45 | Marseille favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
