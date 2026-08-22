@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T02:10:25.769665+00:00",
-  "count": 7,
+  "last_updated": "2026-08-22T03:13:10.481061+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494000",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2388807",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Pittsburgh Pirates",
+      "home_score": 2,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
