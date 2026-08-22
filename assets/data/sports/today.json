@@ -1,14 +1,14 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T11:13:39.970347+00:00",
+  "last_updated": "2026-08-22T11:42:57.282083+00:00",
   "count": 5,
   "matches": [
     {
-      "match_id": "tsdb-2494001",
+      "match_id": "tsdb-2494002",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Hull City",
-      "away_team": "Manchester United",
+      "home_team": "Everton",
+      "away_team": "Crystal Palace",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

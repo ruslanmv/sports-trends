@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T11:13:39.970393+00:00",
+  "last_updated": "2026-08-22T11:42:57.282135+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -77,8 +77,8 @@
     },
     {
       "rank": 8,
-      "match_id": "tsdb-2494001",
-      "label": "Hull City vs Manchester United",
+      "match_id": "tsdb-2494002",
+      "label": "Everton vs Crystal Palace",
       "interest_score": 50
     }
   ]

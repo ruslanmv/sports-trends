@@ -2,7 +2,7 @@
   "date": "2026-08-22",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-22T11:13:39.970357+00:00",
+  "last_updated": "2026-08-22T11:42:57.282094+00:00",
   "count": 8,
   "matches": [
     {
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2494001",
+      "match_id": "tsdb-2494002",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Hull City",
-      "away_team": "Manchester United",
-      "kickoff": "2026-08-22T11:30:00",
-      "kickoff_label": "11:30",
+      "home_team": "Everton",
+      "away_team": "Crystal Palace",
+      "kickoff": "2026-08-22T14:00:00",
+      "kickoff_label": "14:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Hull City favoured",
+      "prediction_label": "AI: Everton favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Hull City 0.00 vs Manchester United 0.00.",
+        "Recent form (last 5): Everton 0.00 vs Crystal Palace 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
