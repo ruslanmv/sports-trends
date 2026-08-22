@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:17:12.436505+00:00",
+  "last_updated": "2026-08-22T19:43:59.599051+00:00",
   "count": 8,
   "matches": [
     {
@@ -16,13 +16,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506181",
+      "match_id": "tsdb-2506183",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Valencia",
-      "away_team": "Celta Vigo",
+      "home_team": "Espanyol",
+      "away_team": "Real Madrid",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -60,8 +60,8 @@
       "league": "French Ligue 1",
       "home_team": "Le Mans",
       "away_team": "Brest",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Milwaukee Brewers",
       "away_team": "Atlanta Braves",
-      "home_score": 1,
+      "home_score": 4,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
