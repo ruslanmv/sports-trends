@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T15:13:02.670084+00:00",
+  "last_updated": "2026-08-22T15:43:32.294900+00:00",
   "count": 8,
   "matches": [
     {
@@ -22,7 +22,7 @@
       "home_team": "Athletic Bilbao",
       "away_team": "Sevilla",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -55,12 +55,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2489463",
+      "match_id": "tsdb-2489469",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Strasbourg",
-      "home_score": 4,
+      "home_team": "Lens",
+      "away_team": "Auxerre",
+      "home_score": 1,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,

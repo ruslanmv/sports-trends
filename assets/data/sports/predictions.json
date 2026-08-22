@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-22T15:13:04.438509+00:00",
+  "last_updated": "2026-08-22T15:43:34.219269+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -106,6 +106,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2489464",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Nice",
+      "away_team": "Lorient",
+      "kickoff": "2026-08-22T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Nice favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Nice 0.00 vs Lorient 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2506181",
       "sport": "football",
       "league": "Spanish La Liga",
@@ -177,31 +202,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489469",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Auxerre",
-      "kickoff": "2026-08-22T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lens favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lens 0.00 vs Auxerre 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
