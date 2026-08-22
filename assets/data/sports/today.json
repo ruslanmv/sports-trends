@@ -1,14 +1,14 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T17:13:19.403428+00:00",
+  "last_updated": "2026-08-22T17:43:30.226999+00:00",
   "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2506181",
+      "match_id": "tsdb-2506183",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Valencia",
-      "away_team": "Celta Vigo",
+      "home_team": "Espanyol",
+      "away_team": "Real Madrid",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388819",
+      "match_id": "tsdb-2388820",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Toronto Blue Jays",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
