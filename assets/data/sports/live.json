@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T15:43:32.294900+00:00",
+  "last_updated": "2026-08-22T16:14:24.753031+00:00",
   "count": 8,
   "matches": [
     {
@@ -9,7 +9,7 @@
       "home_team": "Nottingham Forest",
       "away_team": "Leeds United",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
