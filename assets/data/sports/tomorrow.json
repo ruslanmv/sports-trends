@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-21T23:45:51.497289+00:00",
-  "count": 5,
+  "last_updated": "2026-08-22T00:44:33.739572+00:00",
+  "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388808",
+      "match_id": "tsdb-2388802",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Kansas City Royals",
-      "away_team": "Detroit Tigers",
-      "kickoff": "2026-08-22T00:10:00",
-      "kickoff_label": "00:10",
+      "home_team": "San Diego Padres",
+      "away_team": "Minnesota Twins",
+      "kickoff": "2026-08-22T01:40:00",
+      "kickoff_label": "01:40",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Kansas City Royals favoured",
+      "prediction_label": "AI: San Diego Padres favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,81 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Kansas City Royals 0.00 vs Detroit Tigers 0.00.",
+        "Recent form (last 5): San Diego Padres 0.00 vs Minnesota Twins 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2570479",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Sabah Baku",
+      "away_team": "Hapoel Be'er Sheva",
+      "kickoff": "2026-08-25T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Sabah Baku favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

@@ -1,38 +1,59 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-21T23:45:51.497330+00:00",
-  "count": 5,
+  "last_updated": "2026-08-22T00:44:33.739611+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Kansas City Royals vs Detroit Tigers",
+      "label": "San Diego Padres vs Minnesota Twins",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Udinese vs Como",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Lens vs Auxerre",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Athletic Bilbao vs Sevilla",
+      "label": "Sabah Baku vs Hapoel Be'er Sheva",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
+      "label": "Udinese vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Lens vs Auxerre",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Athletic Bilbao vs Sevilla",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
       "label": "Hull City vs Manchester United",
       "sport": "football",
       "audience": null,
