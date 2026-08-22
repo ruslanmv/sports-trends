@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T20:46:13.612905+00:00",
+  "last_updated": "2026-08-22T21:14:04.578164+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Miami Marlins",
       "away_team": "Washington Nationals",
-      "home_score": 2,
+      "home_score": 3,
       "away_score": null,
       "status": "finished",
       "status_detail": null,
