@@ -1,21 +1,8 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T16:14:26.173868+00:00",
-  "count": 5,
+  "last_updated": "2026-08-22T16:47:15.357602+00:00",
+  "count": 4,
   "matches": [
-    {
-      "match_id": "tsdb-2494005",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Brentford",
-      "away_team": "Tottenham Hotspur",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2506181",
       "sport": "football",
@@ -30,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482138",
+      "match_id": "tsdb-2482139",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
+      "home_team": "Genoa",
+      "away_team": "Napoli",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
