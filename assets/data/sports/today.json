@@ -1,14 +1,14 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T19:44:01.380594+00:00",
+  "last_updated": "2026-08-22T20:13:45.699462+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388814",
+      "match_id": "tsdb-2388818",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Miami Marlins",
-      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "St. Louis Cardinals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
