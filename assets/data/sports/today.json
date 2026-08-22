@@ -1,14 +1,14 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T21:43:31.633579+00:00",
+  "last_updated": "2026-08-22T22:13:20.832192+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388818",
+      "match_id": "tsdb-2388815",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Texas Rangers",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
