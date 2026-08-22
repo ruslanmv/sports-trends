@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T14:45:14.277511+00:00",
+  "last_updated": "2026-08-22T15:13:02.670084+00:00",
   "count": 8,
   "matches": [
     {
@@ -16,12 +16,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506184",
+      "match_id": "tsdb-2506180",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Real Betis",
-      "away_team": "Real Sociedad",
-      "home_score": 1,
+      "home_team": "Athletic Bilbao",
+      "away_team": "Sevilla",
+      "home_score": 0,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,

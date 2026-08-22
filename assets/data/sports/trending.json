@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-22T14:45:15.483825+00:00",
+  "last_updated": "2026-08-22T15:13:04.438538+00:00",
   "count": 8,
   "matches": [
     {
@@ -33,28 +33,28 @@
     },
     {
       "rank": 5,
-      "label": "Brentford vs Tottenham Hotspur",
+      "label": "Valencia vs Celta Vigo",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Udinese vs Como",
+      "label": "Brentford vs Tottenham Hotspur",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Lens vs Auxerre",
+      "label": "Udinese vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Athletic Bilbao vs Sevilla",
+      "label": "Lens vs Auxerre",
       "sport": "football",
       "audience": null,
       "hot": false

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T14:45:15.483777+00:00",
+  "last_updated": "2026-08-22T15:13:04.438495+00:00",
   "count": 5,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506180",
+      "match_id": "tsdb-2506181",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Athletic Bilbao",
-      "away_team": "Sevilla",
+      "home_team": "Valencia",
+      "away_team": "Celta Vigo",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
