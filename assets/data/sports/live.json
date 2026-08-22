@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:25:20.156601+00:00",
+  "last_updated": "2026-08-22T05:51:43.135993+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Pittsburgh Pirates",
-      "home_score": 4,
+      "home_score": 5,
       "away_score": 4,
       "status": "finished",
       "status_detail": null,
