@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T17:43:29.284802+00:00",
+  "last_updated": "2026-08-22T18:17:15.112884+00:00",
   "count": 7,
   "matches": [
     {
@@ -34,7 +34,7 @@
       "league": "Italian Serie A",
       "home_team": "Inter Milan",
       "away_team": "Monza",
-      "home_score": 2,
+      "home_score": 4,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,

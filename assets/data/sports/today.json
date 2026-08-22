@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T17:43:30.226999+00:00",
+  "last_updated": "2026-08-22T18:17:16.050574+00:00",
   "count": 4,
   "matches": [
     {
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388820",
+      "match_id": "tsdb-2388814",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Atlanta Braves",
+      "home_team": "Miami Marlins",
+      "away_team": "Washington Nationals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
