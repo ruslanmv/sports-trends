@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T00:44:33.739615+00:00",
+  "last_updated": "2026-08-22T02:10:27.257726+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388802",
-      "label": "San Diego Padres vs Minnesota Twins",
+      "match_id": "tsdb-2388819",
+      "label": "New York Yankees vs Toronto Blue Jays",
       "interest_score": 50
     },
     {

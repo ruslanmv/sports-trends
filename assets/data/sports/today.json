@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T00:44:33.739561+00:00",
+  "last_updated": "2026-08-22T02:10:27.257678+00:00",
   "count": 5,
   "matches": [
     {
@@ -56,11 +56,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388802",
+      "match_id": "tsdb-2388819",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Minnesota Twins",
+      "home_team": "New York Yankees",
+      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
