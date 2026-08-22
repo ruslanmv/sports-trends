@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T18:17:15.112884+00:00",
+  "last_updated": "2026-08-22T18:55:47.013343+00:00",
   "count": 7,
   "matches": [
     {
@@ -29,13 +29,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2482144",
+      "match_id": "tsdb-2482147",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Inter Milan",
-      "away_team": "Monza",
-      "home_score": 4,
-      "away_score": 1,
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -55,13 +55,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2489469",
+      "match_id": "tsdb-2489470",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Auxerre",
-      "home_score": 5,
-      "away_score": 2,
+      "home_team": "Le Mans",
+      "away_team": "Brest",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

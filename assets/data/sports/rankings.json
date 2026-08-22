@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T18:17:16.050616+00:00",
+  "last_updated": "2026-08-22T18:55:47.975726+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,20 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2482145",
+      "label": "Frosinone vs Juventus",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2494006",
       "label": "Manchester City vs Bournemouth",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2489462",
+      "label": "Angers vs Lille",
       "interest_score": 50
     }
   ]

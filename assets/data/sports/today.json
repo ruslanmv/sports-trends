@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T18:17:16.050574+00:00",
-  "count": 4,
+  "last_updated": "2026-08-22T18:55:47.975684+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2506183",
@@ -9,32 +9,6 @@
       "league": "Spanish La Liga",
       "home_team": "Espanyol",
       "away_team": "Real Madrid",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482139",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Napoli",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489464",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Nice",
-      "away_team": "Lorient",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
