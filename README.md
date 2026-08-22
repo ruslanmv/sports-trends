@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-21 04:06 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-22 04:00 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-08-21 04:06 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-Bundesliga (in 1d) · US Open (in 4d) · UEFA Champions League (in 25d) · EuroLeague (in 41d)
+US Open (in 3d) · UEFA Champions League (in 24d) · EuroLeague (in 40d) · NBA (in 60d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,11 @@ Bundesliga (in 1d) · US Open (in 4d) · UEFA Champions League (in 25d) · EuroL
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 2 | ⚽ **Sabah Baku** vs **Hapoel Be'er Sheva** | UEFA Champions League | 16:45 | Sabah Baku favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Udinese** vs **Como** | Italian Serie A | 16:30 | Udinese favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Lens** vs **Auxerre** | French Ligue 1 | 15:15 | Lens favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Athletic Bilbao** vs **Sevilla** | Spanish La Liga | 15:00 | Athletic Bilbao favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>

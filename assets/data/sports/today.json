@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "last_updated": "2026-08-22T03:13:12.305621+00:00",
-  "count": 5,
+  "last_updated": "2026-08-22T04:00:40.844387+00:00",
+  "count": 1,
   "matches": [
     {
       "match_id": "tsdb-2494001",
@@ -9,58 +9,6 @@
       "league": "English Premier League",
       "home_team": "Hull City",
       "away_team": "Manchester United",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2506180",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Athletic Bilbao",
-      "away_team": "Sevilla",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489469",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Auxerre",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388819",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

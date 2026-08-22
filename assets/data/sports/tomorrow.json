@@ -2,9 +2,153 @@
   "date": "2026-08-22",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-22T03:13:12.305634+00:00",
+  "last_updated": "2026-08-22T04:00:40.844401+00:00",
   "count": 8,
   "matches": [
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.072,
+        "away_win": 0.928
+      },
+      "prediction_label": "AI: Stuttgart favoured",
+      "confidence": 0.928,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2570479",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Sabah Baku",
+      "away_team": "Hapoel Be'er Sheva",
+      "kickoff": "2026-08-25T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Sabah Baku favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482138",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Udinese favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489469",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Lens",
+      "away_team": "Auxerre",
+      "kickoff": "2026-08-22T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Auxerre 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506180",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Athletic Bilbao",
+      "away_team": "Sevilla",
+      "kickoff": "2026-08-22T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Athletic Bilbao favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Athletic Bilbao 0.00 vs Sevilla 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494001",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Hull City",
+      "away_team": "Manchester United",
+      "kickoff": "2026-08-22T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Hull City favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Hull City 0.00 vs Manchester United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2388819",
       "sport": "baseball",
@@ -38,168 +182,18 @@
       "kickoff": "2026-10-05T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
+        "home_win": 0.5,
+        "away_win": 0.5
       },
       "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
+      "confidence": 0.5,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2570479",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "Hapoel Be'er Sheva",
-      "kickoff": "2026-08-25T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Sabah Baku favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482138",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Udinese",
-      "away_team": "Como",
-      "kickoff": "2026-08-22T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Udinese favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Udinese 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489469",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Auxerre",
-      "kickoff": "2026-08-22T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lens favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lens 0.00 vs Auxerre 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506180",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Athletic Bilbao",
-      "away_team": "Sevilla",
-      "kickoff": "2026-08-22T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Athletic Bilbao favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Athletic Bilbao 0.00 vs Sevilla 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494001",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Hull City",
-      "away_team": "Manchester United",
-      "kickoff": "2026-08-22T11:30:00",
-      "kickoff_label": "11:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Hull City favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Hull City 0.00 vs Manchester United 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
