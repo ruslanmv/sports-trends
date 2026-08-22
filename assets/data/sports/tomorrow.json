@@ -2,7 +2,7 @@
   "date": "2026-08-22",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-22T13:50:15.651649+00:00",
+  "last_updated": "2026-08-22T14:13:08.563831+00:00",
   "count": 8,
   "matches": [
     {
@@ -104,6 +104,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2494005",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Brentford",
+      "away_team": "Tottenham Hotspur",
+      "kickoff": "2026-08-22T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Brentford favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Brentford 0.00 vs Tottenham Hotspur 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2482138",
       "sport": "football",
       "league": "Italian Serie A",
@@ -175,31 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Athletic Bilbao 0.00 vs Sevilla 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494002",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Everton",
-      "away_team": "Crystal Palace",
-      "kickoff": "2026-08-22T14:00:00",
-      "kickoff_label": "14:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Everton favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Everton 0.00 vs Crystal Palace 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
