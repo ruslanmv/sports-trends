@@ -1,24 +1,31 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-23T22:45:32.314132+00:00",
-  "count": 3,
+  "last_updated": "2026-08-23T23:13:30.754991+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Fulham vs Chelsea",
-      "sport": "football",
+      "label": "Miami Marlins vs Boston Red Sox",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Osasuna vs Levante",
+      "label": "Fulham vs Chelsea",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
+      "label": "Osasuna vs Levante",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
       "label": "Bologna vs Lazio",
       "sport": "football",
       "audience": null,

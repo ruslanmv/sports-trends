@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T22:45:32.314136+00:00",
+  "last_updated": "2026-08-23T23:13:30.754996+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,18 +35,24 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388849",
+      "label": "Miami Marlins vs Boston Red Sox",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2494009",
       "label": "Fulham vs Chelsea",
       "interest_score": 50
     },
     {
-      "rank": 2,
+      "rank": 3,
       "match_id": "tsdb-2506186",
       "label": "Osasuna vs Levante",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 4,
       "match_id": "tsdb-2482142",
       "label": "Bologna vs Lazio",
       "interest_score": 50
