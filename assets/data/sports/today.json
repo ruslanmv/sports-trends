@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T16:15:40.263464+00:00",
+  "last_updated": "2026-08-23T16:48:58.421927+00:00",
   "count": 4,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482145",
+      "match_id": "tsdb-2482141",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Frosinone",
-      "away_team": "Juventus",
+      "home_team": "Atalanta",
+      "away_team": "Sassuolo",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
