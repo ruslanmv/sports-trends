@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-23T15:13:47.239787+00:00",
+  "last_updated": "2026-08-23T15:44:34.611984+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2494007",
+      "match_id": "tsdb-2494008",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Brighton and Hove Albion",
-      "away_team": "Aston Villa",
-      "home_score": 4,
+      "home_team": "Newcastle United",
+      "away_team": "Liverpool",
+      "home_score": 1,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
@@ -55,13 +55,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2489462",
+      "match_id": "tsdb-2489468",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Angers",
-      "away_team": "Lille",
-      "home_score": 0,
-      "away_score": 2,
+      "home_team": "Le Havre",
+      "away_team": "Monaco",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

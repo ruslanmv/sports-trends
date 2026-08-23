@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-23T15:13:48.361044+00:00",
-  "count": 8,
+  "last_updated": "2026-08-23T15:44:35.573410+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Philadelphia Phillies vs St. Louis Cardinals",
-      "sport": "baseball",
+      "label": "Fulham vs Chelsea",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Sabah Baku vs Hapoel Be'er Sheva",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Getafe vs Racing de Santander",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Frosinone vs Juventus",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Newcastle United vs Liverpool",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Le Havre vs Monaco",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

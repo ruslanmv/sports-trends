@@ -1,174 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-23T15:13:48.361011+00:00",
+  "last_updated": "2026-08-23T15:44:35.573391+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388833",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "St. Louis Cardinals",
-      "kickoff": "2026-08-23T17:35:00",
-      "kickoff_label": "17:35",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Philadelphia Phillies favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Philadelphia Phillies 0.00 vs St. Louis Cardinals 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2570479",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "Hapoel Be'er Sheva",
-      "kickoff": "2026-08-25T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Sabah Baku favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506185",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Getafe",
-      "away_team": "Racing de Santander",
-      "kickoff": "2026-08-23T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Getafe favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Getafe 0.00 vs Racing de Santander 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482145",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Frosinone",
-      "away_team": "Juventus",
-      "kickoff": "2026-08-23T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Frosinone favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Frosinone 0.00 vs Juventus 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494008",
+      "match_id": "tsdb-2494009",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Newcastle United",
-      "away_team": "Liverpool",
-      "kickoff": "2026-08-23T15:30:00",
-      "kickoff_label": "15:30",
+      "home_team": "Fulham",
+      "away_team": "Chelsea",
+      "kickoff": "2026-08-24T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Newcastle United favoured",
+      "prediction_label": "AI: Fulham favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -176,32 +28,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Newcastle United 0.00 vs Liverpool 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489468",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Le Havre",
-      "away_team": "Monaco",
-      "kickoff": "2026-08-23T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Le Havre favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Le Havre 0.00 vs Monaco 0.00.",
+        "Recent form (last 5): Fulham 0.00 vs Chelsea 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

@@ -1,21 +1,8 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T15:13:48.360994+00:00",
-  "count": 5,
+  "last_updated": "2026-08-23T15:44:35.573375+00:00",
+  "count": 4,
   "matches": [
-    {
-      "match_id": "tsdb-2494008",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Newcastle United",
-      "away_team": "Liverpool",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2506185",
       "sport": "football",
@@ -43,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2489468",
+      "match_id": "tsdb-2489465",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Le Havre",
-      "away_team": "Monaco",
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Rennes",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
