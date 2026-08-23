@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T15:44:34.611984+00:00",
+  "last_updated": "2026-08-23T16:15:39.201640+00:00",
   "count": 8,
   "matches": [
     {
@@ -60,7 +60,7 @@
       "league": "French Ligue 1",
       "home_team": "Le Havre",
       "away_team": "Monaco",
-      "home_score": 1,
+      "home_score": 0,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
