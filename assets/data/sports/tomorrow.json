@@ -2,7 +2,7 @@
   "date": "2026-08-23",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-23T12:22:21.979779+00:00",
+  "last_updated": "2026-08-23T13:08:43.072794+00:00",
   "count": 8,
   "matches": [
     {
@@ -129,6 +129,56 @@
       ]
     },
     {
+      "match_id": "tsdb-2494008",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Newcastle United",
+      "away_team": "Liverpool",
+      "kickoff": "2026-08-23T15:30:00",
+      "kickoff_label": "15:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Newcastle United favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Newcastle United 0.00 vs Liverpool 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489468",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Le Havre",
+      "away_team": "Monaco",
+      "kickoff": "2026-08-23T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Le Havre favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Le Havre 0.00 vs Monaco 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2506179",
       "sport": "football",
       "league": "Spanish La Liga",
@@ -150,56 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlético Madrid 0.00 vs Villarreal 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494006",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Manchester City",
-      "away_team": "Bournemouth",
-      "kickoff": "2026-08-23T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Manchester City favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Manchester City 0.00 vs Bournemouth 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489462",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Angers",
-      "away_team": "Lille",
-      "kickoff": "2026-08-23T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Angers favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Angers 0.00 vs Lille 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
