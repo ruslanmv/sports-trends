@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T18:55:11.680208+00:00",
+  "last_updated": "2026-08-23T19:16:34.137386+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388839",
+      "match_id": "tsdb-2388831",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Seattle Mariners",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
