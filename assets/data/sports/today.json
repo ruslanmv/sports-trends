@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T17:42:44.581238+00:00",
+  "last_updated": "2026-08-23T18:17:42.919540+00:00",
   "count": 4,
   "matches": [
     {
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388836",
+      "match_id": "tsdb-2388830",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Kansas City Royals",
-      "away_team": "Detroit Tigers",
+      "home_team": "Texas Rangers",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

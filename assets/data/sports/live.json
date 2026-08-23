@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T17:42:43.582832+00:00",
+  "last_updated": "2026-08-23T18:17:40.656483+00:00",
   "count": 7,
   "matches": [
     {
@@ -35,7 +35,7 @@
       "home_team": "Venezia",
       "away_team": "Lecce",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
