@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T18:17:42.919540+00:00",
-  "count": 4,
+  "last_updated": "2026-08-23T18:55:11.680208+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2506188",
@@ -17,37 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482141",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Atalanta",
-      "away_team": "Sassuolo",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489465",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Paris Saint-Germain",
-      "away_team": "Rennes",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388830",
+      "match_id": "tsdb-2388839",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Los Angeles Angels",
+      "home_team": "Colorado Rockies",
+      "away_team": "Cleveland Guardians",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
