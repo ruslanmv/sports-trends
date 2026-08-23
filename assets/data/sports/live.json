@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T19:16:33.043216+00:00",
+  "last_updated": "2026-08-23T19:43:20.180242+00:00",
   "count": 6,
   "matches": [
     {
@@ -16,12 +16,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506185",
+      "match_id": "tsdb-2506188",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Getafe",
-      "away_team": "Racing de Santander",
-      "home_score": 1,
+      "home_team": "Elche",
+      "away_team": "Barcelona",
+      "home_score": 0,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
