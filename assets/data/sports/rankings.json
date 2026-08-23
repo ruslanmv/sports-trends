@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T23:43:04.894362+00:00",
+  "last_updated": "2026-08-23T00:49:14.426390+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,30 +35,48 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388824",
-      "label": "Colorado Rockies vs Cleveland Guardians",
+      "match_id": "tsdb-2388833",
+      "label": "Philadelphia Phillies vs St. Louis Cardinals",
       "interest_score": 50
     },
     {
       "rank": 2,
+      "match_id": "tsdb-2548849",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2508333",
+      "label": "Bayern Munich vs Stuttgart",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2570479",
+      "label": "Sabah Baku vs Hapoel Be'er Sheva",
+      "interest_score": 50
+    },
+    {
+      "rank": 5,
       "match_id": "tsdb-2482145",
       "label": "Frosinone vs Juventus",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 6,
       "match_id": "tsdb-2506179",
       "label": "Atlético Madrid vs Villarreal",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 7,
       "match_id": "tsdb-2494006",
       "label": "Manchester City vs Bournemouth",
       "interest_score": 50
     },
     {
-      "rank": 5,
+      "rank": 8,
       "match_id": "tsdb-2489462",
       "label": "Angers vs Lille",
       "interest_score": 50
