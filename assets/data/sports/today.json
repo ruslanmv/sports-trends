@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T14:47:22.042507+00:00",
+  "last_updated": "2026-08-23T15:13:48.360994+00:00",
   "count": 5,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506179",
+      "match_id": "tsdb-2506185",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Villarreal",
+      "home_team": "Getafe",
+      "away_team": "Racing de Santander",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

@@ -2,7 +2,7 @@
   "date": "2026-08-23",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-23T14:47:22.042518+00:00",
+  "last_updated": "2026-08-23T15:13:48.361006+00:00",
   "count": 8,
   "matches": [
     {
@@ -104,6 +104,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2506185",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Getafe",
+      "away_team": "Racing de Santander",
+      "kickoff": "2026-08-23T17:30:00",
+      "kickoff_label": "17:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Getafe favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Getafe 0.00 vs Racing de Santander 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2482145",
       "sport": "football",
       "league": "Italian Serie A",
@@ -175,31 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Le Havre 0.00 vs Monaco 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506179",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Villarreal",
-      "kickoff": "2026-08-23T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Atlético Madrid favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlético Madrid 0.00 vs Villarreal 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
