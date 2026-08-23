@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T19:43:20.180242+00:00",
+  "last_updated": "2026-08-23T20:13:18.747876+00:00",
   "count": 6,
   "matches": [
     {
@@ -22,7 +22,7 @@
       "home_team": "Elche",
       "away_team": "Barcelona",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -35,7 +35,7 @@
       "home_team": "Torino",
       "away_team": "AC Milan",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

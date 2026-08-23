@@ -1,14 +1,14 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T19:43:21.132833+00:00",
+  "last_updated": "2026-08-23T20:13:19.924871+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388831",
+      "match_id": "tsdb-2388843",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Chicago Cubs",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
