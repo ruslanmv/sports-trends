@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T16:48:57.386844+00:00",
+  "last_updated": "2026-08-23T17:14:00.234533+00:00",
   "count": 8,
   "matches": [
     {
@@ -21,7 +21,7 @@
       "league": "Spanish La Liga",
       "home_team": "Atlético Madrid",
       "away_team": "Villarreal",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 2,
       "status": "finished",
       "status_detail": null,
