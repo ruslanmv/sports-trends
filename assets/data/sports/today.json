@@ -1,14 +1,14 @@
 {
   "date": "2026-08-23",
-  "last_updated": "2026-08-23T17:14:01.998131+00:00",
+  "last_updated": "2026-08-23T17:42:44.581238+00:00",
   "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2506185",
+      "match_id": "tsdb-2506188",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Getafe",
-      "away_team": "Racing de Santander",
+      "home_team": "Elche",
+      "away_team": "Barcelona",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388833",
+      "match_id": "tsdb-2388836",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Kansas City Royals",
+      "away_team": "Detroit Tigers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
