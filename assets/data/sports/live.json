@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:09:24.492783+00:00",
+  "last_updated": "2026-08-24T06:01:11.987852+00:00",
   "count": 8,
   "matches": [
     {
@@ -58,8 +58,8 @@
       "match_id": "tsdb-2489465",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Paris Saint-Germain",
-      "away_team": "Rennes",
+      "home_team": "Rennes",
+      "away_team": "Paris Saint-Germain",
       "home_score": 2,
       "away_score": 2,
       "status": "finished",
