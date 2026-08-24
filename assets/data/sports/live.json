@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T16:25:52.339913+00:00",
+  "last_updated": "2026-08-24T17:04:00.256530+00:00",
   "count": 8,
   "matches": [
     {
@@ -29,13 +29,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2482143",
+      "match_id": "tsdb-2482142",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Torino",
-      "away_team": "AC Milan",
-      "home_score": 1,
-      "away_score": 2,
+      "home_team": "Bologna",
+      "away_team": "Lazio",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
