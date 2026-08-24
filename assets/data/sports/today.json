@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "last_updated": "2026-08-24T17:04:01.731715+00:00",
+  "last_updated": "2026-08-24T17:55:54.541915+00:00",
   "count": 4,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506186",
+      "match_id": "tsdb-2506182",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Osasuna",
-      "away_team": "Levante",
+      "home_team": "Málaga",
+      "away_team": "Deportivo de A Coruña",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
