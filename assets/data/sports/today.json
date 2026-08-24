@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "last_updated": "2026-08-24T04:11:04.575728+00:00",
-  "count": 3,
+  "last_updated": "2026-08-24T04:12:17.107881+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2494009",
@@ -35,6 +35,19 @@
       "league": "Italian Serie A",
       "home_team": "Bologna",
       "away_team": "Lazio",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2388849",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Miami Marlins",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
