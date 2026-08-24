@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T19:52:17.270596+00:00",
+  "last_updated": "2026-08-24T20:20:24.041419+00:00",
   "count": 8,
   "matches": [
     {
@@ -8,8 +8,8 @@
       "league": "English Premier League",
       "home_team": "Fulham",
       "away_team": "Chelsea",
-      "home_score": 1,
-      "away_score": 2,
+      "home_score": 2,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -21,8 +21,8 @@
       "league": "Spanish La Liga",
       "home_team": "Málaga",
       "away_team": "Deportivo de A Coruña",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -34,7 +34,7 @@
       "league": "Italian Serie A",
       "home_team": "Roma",
       "away_team": "Fiorentina",
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
