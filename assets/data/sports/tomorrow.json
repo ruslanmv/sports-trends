@@ -1,48 +1,24 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-23T23:42:42.528638+00:00",
-  "count": 4,
+  "last_updated": "2026-08-24T00:47:14.358064+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388849",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Miami Marlins",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-08-24T22:40:00",
-      "kickoff_label": "22:40",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Miami Marlins favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Miami Marlins 0.00 vs Boston Red Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494009",
+      "match_id": "tsdb-2570479",
       "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Fulham",
-      "away_team": "Chelsea",
-      "kickoff": "2026-08-24T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "UEFA Champions League",
+      "home_team": "Sabah Baku",
+      "away_team": "Hapoel Be'er Sheva",
+      "kickoff": "2026-08-25T16:45:00",
+      "kickoff_label": "16:45",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Fulham favoured",
+      "prediction_label": "AI: Sabah Baku favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -50,57 +26,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Fulham 0.00 vs Chelsea 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506186",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Osasuna",
-      "away_team": "Levante",
-      "kickoff": "2026-08-24T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Osasuna favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Osasuna 0.00 vs Levante 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482142",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Bologna",
-      "away_team": "Lazio",
-      "kickoff": "2026-08-24T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Bologna favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bologna 0.00 vs Lazio 0.00.",
+        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
