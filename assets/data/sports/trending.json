@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-24T19:10:26.202884+00:00",
-  "count": 1,
+  "last_updated": "2026-08-24T19:52:18.749884+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "Sabah Baku vs Hapoel Be'er Sheva",
+      "label": "Valencia vs Real Betis",
       "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Sabah Baku vs Hapoel Be'er Sheva",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
