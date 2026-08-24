@@ -1,40 +1,14 @@
 {
   "date": "2026-08-24",
-  "last_updated": "2026-08-24T18:28:32.537164+00:00",
-  "count": 4,
+  "last_updated": "2026-08-24T19:10:26.202852+00:00",
+  "count": 2,
   "matches": [
-    {
-      "match_id": "tsdb-2494009",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Fulham",
-      "away_team": "Chelsea",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2506182",
       "sport": "football",
       "league": "Spanish La Liga",
       "home_team": "Málaga",
       "away_team": "Deportivo de A Coruña",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482140",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Roma",
-      "away_team": "Fiorentina",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
