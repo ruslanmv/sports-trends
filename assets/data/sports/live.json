@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T17:04:40.409499+00:00",
+  "last_updated": "2026-08-25T17:53:07.104089+00:00",
   "count": 8,
   "matches": [
     {
@@ -73,7 +73,7 @@
       "league": "UEFA Champions League",
       "home_team": "Sabah Baku",
       "away_team": "Hapoel Be'er Sheva",
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
