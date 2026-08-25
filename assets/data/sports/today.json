@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "last_updated": "2026-08-25T00:46:22.403114+00:00",
+  "last_updated": "2026-08-25T02:14:20.592932+00:00",
   "count": 3,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388853",
+      "match_id": "tsdb-2388862",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Miami Marlins",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

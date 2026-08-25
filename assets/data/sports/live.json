@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:46:20.948633+00:00",
+  "last_updated": "2026-08-25T02:14:19.572749+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388851",
+      "match_id": "tsdb-2388847",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Texas Rangers",
+      "home_team": "San Francisco Giants",
+      "away_team": "Cincinnati Reds",
       "home_score": 2,
-      "away_score": 3,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
