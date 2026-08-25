@@ -1,14 +1,14 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-08-24T23:43:42.035523+00:00",
-  "today": "2026-08-24",
+  "last_updated": "2026-08-25T00:46:19.484968+00:00",
+  "today": "2026-08-25",
   "featured": {
-    "key": "epl",
-    "name": "Premier League",
-    "sport": "football",
-    "scope": "club",
-    "importance": 90,
-    "emoji": "🏴"
+    "key": "usopen",
+    "name": "US Open",
+    "sport": "tennis",
+    "scope": "grand_slam",
+    "importance": 92,
+    "emoji": "🎾"
   },
   "featured_football": {
     "key": "epl",
@@ -21,6 +21,14 @@
   },
   "worldcup_active": false,
   "active": [
+    {
+      "key": "usopen",
+      "name": "US Open",
+      "sport": "tennis",
+      "scope": "grand_slam",
+      "importance": 92,
+      "emoji": "🎾"
+    },
     {
       "key": "epl",
       "name": "Premier League",
@@ -80,16 +88,6 @@
   ],
   "upcoming": [
     {
-      "key": "usopen",
-      "name": "US Open",
-      "sport": "tennis",
-      "scope": "grand_slam",
-      "importance": 92,
-      "emoji": "🎾",
-      "start": "2026-08-25",
-      "starts_in_days": 1
-    },
-    {
       "key": "ucl",
       "name": "UEFA Champions League",
       "sport": "football",
@@ -97,7 +95,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 22
+      "starts_in_days": 21
     },
     {
       "key": "euroleague",
@@ -107,7 +105,7 @@
       "importance": 80,
       "emoji": "🏀",
       "start": "2026-10-01",
-      "starts_in_days": 38
+      "starts_in_days": 37
     },
     {
       "key": "nba",
@@ -117,7 +115,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 58
+      "starts_in_days": 57
     }
   ]
 }

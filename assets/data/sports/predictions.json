@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-24T23:43:44.180326+00:00",
+  "last_updated": "2026-08-25T00:46:22.403128+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -28,6 +28,130 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Los Angeles Angels 0.00 vs Cleveland Guardians 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508333",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Stuttgart",
+      "kickoff": "2026-08-28T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494015",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester City",
+      "kickoff": "2026-08-28T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Crystal Palace favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Crystal Palace 0.00 vs Manchester City 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482150",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "AC Milan",
+      "away_team": "Venezia",
+      "kickoff": "2026-08-28T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: AC Milan favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): AC Milan 0.00 vs Venezia 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489479",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Lille",
+      "away_team": "Paris Saint-Germain",
+      "kickoff": "2026-08-28T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lille favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lille 0.00 vs Paris Saint-Germain 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
