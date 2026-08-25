@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-24 04:11 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-25 04:05 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -26,15 +26,15 @@ _Last updated: **2026-08-24 04:11 UTC** — refreshed automatically every day._
 > The portal is **season-aware year-round**: when the World Cup ends it rolls to the club season, tennis Slams, NBA, IPL, and back to qualifiers — automatically, from a built-in tournament calendar. Updated daily.
 
 <!-- SEASON:START -->
-**🔥 Featured right now:** 🏴 **Premier League** (football)
+**🔥 Featured right now:** 🎾 **US Open** (tennis)
 
 **In season today:**
 
-🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+🎾 US Open · 🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-US Open (in 1d) · UEFA Champions League (in 22d) · EuroLeague (in 38d) · NBA (in 58d)
+UEFA Champions League (in 21d) · EuroLeague (in 37d) · NBA (in 57d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,11 @@ US Open (in 1d) · UEFA Champions League (in 22d) · EuroLeague (in 38d) · NBA 
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Sabah Baku** vs **Hapoel Be'er Sheva** | UEFA Champions League | 16:45 | Sabah Baku favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 2 | ⚽ **Crystal Palace** vs **Manchester City** | English Premier League | 19:00 | Crystal Palace favoured | `██████░░░░` 60% |
+| 3 | ⚽ **AC Milan** vs **Venezia** | Italian Serie A | 18:45 | AC Milan favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Lille** vs **Paris Saint-Germain** | French Ligue 1 | 18:45 | Lille favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Valencia** vs **Real Betis** | Spanish La Liga | 19:00 | Valencia favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
