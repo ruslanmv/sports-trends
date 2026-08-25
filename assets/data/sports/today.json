@@ -1,34 +1,8 @@
 {
   "date": "2026-08-25",
-  "last_updated": "2026-08-25T18:26:59.737537+00:00",
-  "count": 3,
+  "last_updated": "2026-08-25T19:08:11.386595+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2506171",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Valencia",
-      "away_team": "Real Betis",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2558134",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "LASK",
-      "away_team": "Celtic",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2388862",
       "sport": "baseball",
