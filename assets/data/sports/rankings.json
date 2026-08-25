@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T23:18:16.806305+00:00",
+  "last_updated": "2026-08-25T23:46:35.447065+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,12 +35,18 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2388863",
+      "label": "Los Angeles Angels vs Cleveland Guardians",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2506175",
       "label": "Real Madrid vs Real Sociedad",
       "interest_score": 50
     },
     {
-      "rank": 2,
+      "rank": 3,
       "match_id": "tsdb-2570481",
       "label": "Celje vs Slovan Bratislava",
       "interest_score": 50

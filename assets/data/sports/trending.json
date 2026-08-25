@@ -1,17 +1,24 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-25T23:18:16.806301+00:00",
-  "count": 2,
+  "last_updated": "2026-08-25T23:46:35.447061+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "Real Madrid vs Real Sociedad",
-      "sport": "football",
+      "label": "Los Angeles Angels vs Cleveland Guardians",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Real Madrid vs Real Sociedad",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Celje vs Slovan Bratislava",
       "sport": "football",
       "audience": null,

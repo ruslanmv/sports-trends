@@ -2,9 +2,33 @@
   "date": "2026-08-25",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-25T23:18:16.806278+00:00",
-  "count": 2,
+  "last_updated": "2026-08-25T23:46:35.447031+00:00",
+  "count": 3,
   "matches": [
+    {
+      "match_id": "tsdb-2388863",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Cleveland Guardians",
+      "kickoff": "2026-08-26T01:38:00",
+      "kickoff_label": "01:38",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Los Angeles Angels favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Los Angeles Angels 0.00 vs Cleveland Guardians 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2506175",
       "sport": "football",
