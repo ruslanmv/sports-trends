@@ -2,7 +2,7 @@
   "date": "2026-08-25",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-25T16:26:45.114629+00:00",
+  "last_updated": "2026-08-25T17:04:41.986912+00:00",
   "count": 8,
   "matches": [
     {
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2570479",
+      "match_id": "tsdb-2558134",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "Hapoel Be'er Sheva",
-      "kickoff": "2026-08-25T16:45:00",
-      "kickoff_label": "16:45",
+      "home_team": "LASK",
+      "away_team": "Celtic",
+      "kickoff": "2026-08-25T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Sabah Baku favoured",
+      "prediction_label": "AI: LASK favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sabah Baku 0.00 vs Hapoel Be'er Sheva 0.00.",
+        "Recent form (last 5): LASK 0.00 vs Celtic 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

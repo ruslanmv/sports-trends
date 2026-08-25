@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "last_updated": "2026-08-25T16:26:45.114617+00:00",
+  "last_updated": "2026-08-25T17:04:41.986902+00:00",
   "count": 3,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2570479",
+      "match_id": "tsdb-2558134",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Sabah Baku",
-      "away_team": "Hapoel Be'er Sheva",
+      "home_team": "LASK",
+      "away_team": "Celtic",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
