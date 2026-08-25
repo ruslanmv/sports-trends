@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-25T04:04:59.219324+00:00",
+  "last_updated": "2026-08-25T04:06:52.258969+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
+      "label": "Miami Marlins vs Boston Red Sox",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Crystal Palace vs Manchester City",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "AC Milan vs Venezia",
+      "label": "Bayern Munich vs Stuttgart",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Lille vs Paris Saint-Germain",
+      "label": "Crystal Palace vs Manchester City",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Valencia vs Real Betis",
+      "label": "AC Milan vs Venezia",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Sabah Baku vs Hapoel Be'er Sheva",
+      "label": "Lille vs Paris Saint-Germain",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Miami Marlins vs Boston Red Sox",
-      "sport": "baseball",
+      "label": "Valencia vs Real Betis",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Sabah Baku vs Hapoel Be'er Sheva",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
