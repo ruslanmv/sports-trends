@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-08-25T23:46:31.735037+00:00",
-  "today": "2026-08-25",
+  "last_updated": "2026-08-26T00:47:41.613745+00:00",
+  "today": "2026-08-26",
   "featured": {
     "key": "usopen",
     "name": "US Open",
@@ -95,7 +95,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 21
+      "starts_in_days": 20
     },
     {
       "key": "euroleague",
@@ -105,7 +105,7 @@
       "importance": 80,
       "emoji": "🏀",
       "start": "2026-10-01",
-      "starts_in_days": 37
+      "starts_in_days": 36
     },
     {
       "key": "nba",
@@ -115,7 +115,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 57
+      "starts_in_days": 56
     }
   ]
 }
