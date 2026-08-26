@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "last_updated": "2026-08-26T16:11:19.881578+00:00",
+  "last_updated": "2026-08-26T18:11:14.530420+00:00",
   "count": 3,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388878",
+      "match_id": "tsdb-2388882",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Tampa Bay Rays",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
