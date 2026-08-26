@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-25 04:05 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-26 04:08 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-25 04:05 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 21d) · EuroLeague (in 37d) · NBA (in 57d)
+UEFA Champions League (in 20d) · EuroLeague (in 36d) · NBA (in 56d)
 <!-- SEASON:END -->
 
 ---
@@ -47,10 +47,10 @@ UEFA Champions League (in 21d) · EuroLeague (in 37d) · NBA (in 57d)
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
 | 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Crystal Palace** vs **Manchester City** | English Premier League | 19:00 | Crystal Palace favoured | `██████░░░░` 60% |
-| 3 | ⚽ **AC Milan** vs **Venezia** | Italian Serie A | 18:45 | AC Milan favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Lille** vs **Paris Saint-Germain** | French Ligue 1 | 18:45 | Lille favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Valencia** vs **Real Betis** | Spanish La Liga | 19:00 | Valencia favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Real Madrid** vs **Real Sociedad** | Spanish La Liga | 19:00 | Real Madrid favoured | `█████████░` 90% |
+| 3 | ⚽ **Crystal Palace** vs **Manchester City** | English Premier League | 19:00 | Crystal Palace favoured | `██████░░░░` 60% |
+| 4 | ⚽ **AC Milan** vs **Venezia** | Italian Serie A | 18:45 | AC Milan favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Lille** vs **Paris Saint-Germain** | French Ligue 1 | 18:45 | Lille favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>

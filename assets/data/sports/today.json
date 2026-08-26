@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "last_updated": "2026-08-26T03:31:07.624168+00:00",
-  "count": 3,
+  "last_updated": "2026-08-26T04:07:53.223149+00:00",
+  "count": 1,
   "matches": [
     {
       "match_id": "tsdb-2506175",
@@ -9,32 +9,6 @@
       "league": "Spanish La Liga",
       "home_team": "Real Madrid",
       "away_team": "Real Sociedad",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2570481",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Celje",
-      "away_team": "Slovan Bratislava",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388878",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
