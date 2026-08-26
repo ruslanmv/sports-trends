@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "last_updated": "2026-08-26T00:47:45.614923+00:00",
+  "last_updated": "2026-08-26T02:20:44.948923+00:00",
   "count": 3,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388863",
+      "match_id": "tsdb-2388878",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Detroit Tigers",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
