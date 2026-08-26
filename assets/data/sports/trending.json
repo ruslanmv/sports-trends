@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-26T18:11:14.530470+00:00",
-  "count": 8,
+  "last_updated": "2026-08-26T20:24:39.156148+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Arizona Diamondbacks vs Chicago Cubs",
-      "sport": "baseball",
+      "label": "Celta Vigo vs Osasuna",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Crystal Palace vs Manchester City",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "AC Milan vs Venezia",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Lille vs Paris Saint-Germain",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Real Madrid vs Real Sociedad",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Celje vs Slovan Bratislava",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
