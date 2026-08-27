@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "last_updated": "2026-08-27T14:24:04.290130+00:00",
+  "last_updated": "2026-08-27T17:25:36.186516+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388885",
+      "match_id": "tsdb-2388884",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Colorado Rockies",
+      "home_team": "St. Louis Cardinals",
+      "away_team": "Baltimore Orioles",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
