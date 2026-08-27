@@ -1,18 +1,32 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-26T23:53:32.983374+00:00",
-  "count": 2,
+  "last_updated": "2026-08-27T05:59:20.807941+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Athletics vs Minnesota Twins",
-      "sport": "baseball",
+      "label": "Bayern Munich vs Stuttgart",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Celta Vigo vs Osasuna",
+      "label": "Crystal Palace vs Manchester City",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "AC Milan vs Venezia",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Lille vs Paris Saint-Germain",
       "sport": "football",
       "audience": null,
       "hot": false

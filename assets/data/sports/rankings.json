@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T23:53:32.983381+00:00",
+  "last_updated": "2026-08-27T05:59:20.807945+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,14 +35,26 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388881",
-      "label": "Athletics vs Minnesota Twins",
+      "match_id": "tsdb-2508333",
+      "label": "Bayern Munich vs Stuttgart",
       "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "tsdb-2506173",
-      "label": "Celta Vigo vs Osasuna",
+      "match_id": "tsdb-2494015",
+      "label": "Crystal Palace vs Manchester City",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2482150",
+      "label": "AC Milan vs Venezia",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2489479",
+      "label": "Lille vs Paris Saint-Germain",
       "interest_score": 50
     }
   ]
