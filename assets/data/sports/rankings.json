@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T15:29:47.888828+00:00",
+  "last_updated": "2026-08-28T15:32:41.233774+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,50 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2594535",
-      "label": "Manchester United vs Bayern Munich",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2508333",
-      "label": "Bayern Munich vs Stuttgart",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2494015",
-      "label": "Crystal Palace vs Manchester City",
-      "interest_score": 50
-    },
-    {
-      "rank": 4,
-      "match_id": "tsdb-2482150",
-      "label": "AC Milan vs Venezia",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2489479",
-      "label": "Lille vs Paris Saint-Germain",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2506198",
-      "label": "Racing de Santander vs Elche",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
       "match_id": "tsdb-2388903",
       "label": "Chicago Cubs vs Cincinnati Reds",
       "interest_score": 50
     },
     {
-      "rank": 8,
+      "rank": 2,
       "match_id": "tsdb-2548849",
       "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2508333",
+      "label": "Bayern Munich vs Stuttgart",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2494015",
+      "label": "Crystal Palace vs Manchester City",
+      "interest_score": 50
+    },
+    {
+      "rank": 5,
+      "match_id": "tsdb-2482150",
+      "label": "AC Milan vs Venezia",
+      "interest_score": 50
+    },
+    {
+      "rank": 6,
+      "match_id": "tsdb-2489479",
+      "label": "Lille vs Paris Saint-Germain",
+      "interest_score": 50
+    },
+    {
+      "rank": 7,
+      "match_id": "tsdb-2506198",
+      "label": "Racing de Santander vs Elche",
+      "interest_score": 50
+    },
+    {
+      "rank": 8,
+      "match_id": "tsdb-2594535",
+      "label": "Manchester United vs Bayern Munich",
       "interest_score": 50
     }
   ]
