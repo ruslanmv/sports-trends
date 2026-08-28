@@ -1,124 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-28T15:32:41.233745+00:00",
+  "last_updated": "2026-08-28T23:19:52.239328+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388903",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Cincinnati Reds",
-      "kickoff": "2026-08-28T18:20:00",
-      "kickoff_label": "18:20",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Chicago Cubs favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chicago Cubs 0.00 vs Cincinnati Reds 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "kickoff": "2026-08-28T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
-      },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayern Munich 0.60 vs Stuttgart 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494015",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Crystal Palace",
-      "away_team": "Manchester City",
-      "kickoff": "2026-08-28T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Crystal Palace favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Crystal Palace 0.00 vs Manchester City 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482150",
+      "match_id": "tsdb-2482149",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "AC Milan",
-      "away_team": "Venezia",
-      "kickoff": "2026-08-28T18:45:00",
-      "kickoff_label": "18:45",
+      "home_team": "Sassuolo",
+      "away_team": "Torino",
+      "kickoff": "2026-08-29T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: AC Milan favoured",
+      "prediction_label": "AI: Sassuolo favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -126,24 +28,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): AC Milan 0.00 vs Venezia 0.00.",
+        "Recent form (last 5): Sassuolo 0.00 vs Torino 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2489479",
+      "match_id": "tsdb-2489474",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Lille",
-      "away_team": "Paris Saint-Germain",
-      "kickoff": "2026-08-28T18:45:00",
-      "kickoff_label": "18:45",
+      "home_team": "Strasbourg",
+      "away_team": "Lens",
+      "kickoff": "2026-08-29T15:15:00",
+      "kickoff_label": "15:15",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Lille favoured",
+      "prediction_label": "AI: Strasbourg favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -151,24 +53,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lille 0.00 vs Paris Saint-Germain 0.00.",
+        "Recent form (last 5): Strasbourg 0.00 vs Lens 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2506198",
+      "match_id": "tsdb-2506192",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Racing de Santander",
-      "away_team": "Elche",
-      "kickoff": "2026-08-28T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Levante",
+      "away_team": "Real Betis",
+      "kickoff": "2026-08-29T15:00:00",
+      "kickoff_label": "15:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Racing de Santander favoured",
+      "prediction_label": "AI: Levante favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -176,32 +78,57 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Racing de Santander 0.00 vs Elche 0.00.",
+        "Recent form (last 5): Levante 0.00 vs Real Betis 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2594535",
+      "match_id": "tsdb-2508335",
       "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Manchester United",
-      "away_team": "Bayern Munich",
-      "kickoff": "2026-09-08T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "German Bundesliga",
+      "home_team": "Mainz",
+      "away_team": "Paderborn",
+      "kickoff": "2026-08-29T13:30:00",
+      "kickoff_label": "13:30",
       "probabilities": {
-        "home_win": 0.444,
-        "draw": 0.223,
-        "away_win": 0.333
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Manchester United favoured",
-      "confidence": 0.444,
+      "prediction_label": "AI: Mainz favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
+        "Recent form (last 5): Mainz 0.00 vs Paderborn 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494012",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Liverpool",
+      "away_team": "Nottingham Forest",
+      "kickoff": "2026-08-29T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Liverpool favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Liverpool 0.00 vs Nottingham Forest 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

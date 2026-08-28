@@ -1,60 +1,39 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-28T15:32:41.233770+00:00",
-  "count": 8,
+  "last_updated": "2026-08-28T23:19:52.239350+00:00",
+  "count": 5,
   "matches": [
     {
       "rank": 1,
-      "label": "Chicago Cubs vs Cincinnati Reds",
-      "sport": "baseball",
+      "label": "Sassuolo vs Torino",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Strasbourg vs Lens",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Bayern Munich vs Stuttgart",
+      "label": "Levante vs Real Betis",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Crystal Palace vs Manchester City",
+      "label": "Mainz vs Paderborn",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "AC Milan vs Venezia",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Lille vs Paris Saint-Germain",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Racing de Santander vs Elche",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Manchester United vs Bayern Munich",
+      "label": "Liverpool vs Nottingham Forest",
       "sport": "football",
       "audience": null,
       "hot": false
