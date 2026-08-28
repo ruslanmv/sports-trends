@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-28T01:35:22.016643+00:00",
-  "count": 7,
+  "last_updated": "2026-08-28T13:36:48.223375+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "San Francisco Giants vs Arizona Diamondbacks",
+      "label": "Chicago Cubs vs Cincinnati Reds",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -48,6 +48,13 @@
     {
       "rank": 7,
       "label": "Racing de Santander vs Elche",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Manchester United vs Bayern Munich",
       "sport": "football",
       "audience": null,
       "hot": false

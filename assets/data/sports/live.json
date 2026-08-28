@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:35:20.604291+00:00",
+  "last_updated": "2026-08-28T13:36:46.820688+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2388890",
+      "match_id": "tsdb-2388887",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "Los Angeles Dodgers",
-      "home_score": 1,
-      "away_score": null,
+      "home_team": "San Francisco Giants",
+      "away_team": "Arizona Diamondbacks",
+      "home_score": 6,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

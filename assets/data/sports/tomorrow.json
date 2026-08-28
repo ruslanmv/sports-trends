@@ -2,22 +2,22 @@
   "date": "2026-08-28",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-28T01:35:22.016612+00:00",
-  "count": 7,
+  "last_updated": "2026-08-28T13:36:48.223340+00:00",
+  "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2388887",
+      "match_id": "tsdb-2388903",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Arizona Diamondbacks",
-      "kickoff": "2026-08-28T01:45:00",
-      "kickoff_label": "01:45",
+      "home_team": "Chicago Cubs",
+      "away_team": "Cincinnati Reds",
+      "kickoff": "2026-08-28T18:20:00",
+      "kickoff_label": "18:20",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Francisco Giants favoured",
+      "prediction_label": "AI: Chicago Cubs favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Francisco Giants 0.00 vs Arizona Diamondbacks 0.00.",
+        "Recent form (last 5): Chicago Cubs 0.00 vs Cincinnati Reds 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -175,6 +175,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Racing de Santander 0.00 vs Elche 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594535",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Manchester United",
+      "away_team": "Bayern Munich",
+      "kickoff": "2026-09-08T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.444,
+        "draw": 0.223,
+        "away_win": 0.333
+      },
+      "prediction_label": "AI: Manchester United favoured",
+      "confidence": 0.444,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

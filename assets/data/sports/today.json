@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "last_updated": "2026-08-28T01:35:22.016601+00:00",
+  "last_updated": "2026-08-28T13:36:48.223330+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2388887",
+      "match_id": "tsdb-2388903",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Arizona Diamondbacks",
+      "home_team": "Chicago Cubs",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

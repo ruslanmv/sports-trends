@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:35:22.016647+00:00",
+  "last_updated": "2026-08-28T13:36:48.223380+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2388887",
-      "label": "San Francisco Giants vs Arizona Diamondbacks",
+      "match_id": "tsdb-2388903",
+      "label": "Chicago Cubs vs Cincinnati Reds",
       "interest_score": 50
     },
     {
@@ -73,6 +73,12 @@
       "rank": 7,
       "match_id": "tsdb-2506198",
       "label": "Racing de Santander vs Elche",
+      "interest_score": 50
+    },
+    {
+      "rank": 8,
+      "match_id": "tsdb-2594535",
+      "label": "Manchester United vs Bayern Munich",
       "interest_score": 50
     }
   ]
