@@ -1,10 +1,58 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-27T17:25:36.186526+00:00",
-  "count": 4,
+  "last_updated": "2026-08-28T01:35:22.016612+00:00",
+  "count": 7,
   "matches": [
+    {
+      "match_id": "tsdb-2388887",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "San Francisco Giants",
+      "away_team": "Arizona Diamondbacks",
+      "kickoff": "2026-08-28T01:45:00",
+      "kickoff_label": "01:45",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: San Francisco Giants favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): San Francisco Giants 0.00 vs Arizona Diamondbacks 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2508333",
       "sport": "football",
@@ -102,6 +150,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lille 0.00 vs Paris Saint-Germain 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506198",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Racing de Santander",
+      "away_team": "Elche",
+      "kickoff": "2026-08-28T17:00:00",
+      "kickoff_label": "17:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Racing de Santander favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Racing de Santander 0.00 vs Elche 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
