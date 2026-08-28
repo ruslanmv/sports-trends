@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
-  "last_updated": "2026-08-28T13:36:48.223330+00:00",
-  "count": 6,
+  "last_updated": "2026-08-28T15:29:47.888768+00:00",
+  "count": 3,
   "matches": [
     {
       "match_id": "tsdb-2494015",
@@ -35,45 +35,6 @@
       "league": "Italian Serie A",
       "home_team": "AC Milan",
       "away_team": "Venezia",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2508333",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayern Munich",
-      "away_team": "Stuttgart",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489479",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lille",
-      "away_team": "Paris Saint-Germain",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388903",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

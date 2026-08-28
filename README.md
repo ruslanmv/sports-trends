@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-27 14:20 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-28 15:30 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-27 14:20 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 19d) · EuroLeague (in 35d) · NBA (in 55d)
+UEFA Champions League (in 18d) · EuroLeague (in 34d) · NBA (in 54d)
 <!-- SEASON:END -->
 
 ---
@@ -46,10 +46,11 @@ UEFA Champions League (in 19d) · EuroLeague (in 35d) · NBA (in 55d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
-| 2 | ⚽ **Crystal Palace** vs **Manchester City** | English Premier League | 19:00 | Crystal Palace favoured | `██████░░░░` 60% |
-| 3 | ⚽ **AC Milan** vs **Venezia** | Italian Serie A | 18:45 | AC Milan favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Lille** vs **Paris Saint-Germain** | French Ligue 1 | 18:45 | Lille favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Manchester United** vs **Bayern Munich** | UEFA Champions League | 19:00 | Manchester United favoured | `██████████` 99% |
+| 2 | ⚽ **Bayern Munich** vs **Stuttgart** | German Bundesliga | 18:30 | Stuttgart favoured | `█████████░` 93% |
+| 3 | ⚽ **Crystal Palace** vs **Manchester City** | English Premier League | 19:00 | Crystal Palace favoured | `██████░░░░` 60% |
+| 4 | ⚽ **AC Milan** vs **Venezia** | Italian Serie A | 18:45 | AC Milan favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Lille** vs **Paris Saint-Germain** | French Ligue 1 | 18:45 | Lille favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
