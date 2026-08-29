@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T04:14:44.440580+00:00",
+  "last_updated": "2026-08-29T10:13:45.677876+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "San Francisco Giants",
       "away_team": "Arizona Diamondbacks",
-      "home_score": 5,
-      "away_score": 9,
+      "home_score": 6,
+      "away_score": 10,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

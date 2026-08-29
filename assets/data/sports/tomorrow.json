@@ -2,9 +2,153 @@
   "date": "2026-08-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-29T04:14:46.025982+00:00",
+  "last_updated": "2026-08-29T10:13:46.377714+00:00",
   "count": 8,
   "matches": [
+    {
+      "match_id": "tsdb-2594535",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Manchester United",
+      "away_team": "Bayern Munich",
+      "kickoff": "2026-09-08T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.986,
+        "away_win": 0.014
+      },
+      "prediction_label": "AI: Manchester United favoured",
+      "confidence": 0.986,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482149",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Sassuolo",
+      "away_team": "Torino",
+      "kickoff": "2026-08-29T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Sassuolo favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Sassuolo 0.00 vs Torino 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489474",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Strasbourg",
+      "away_team": "Lens",
+      "kickoff": "2026-08-29T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Strasbourg favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Strasbourg 0.00 vs Lens 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506192",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Levante",
+      "away_team": "Real Betis",
+      "kickoff": "2026-08-29T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Levante favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Levante 0.00 vs Real Betis 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508335",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Mainz",
+      "away_team": "Paderborn",
+      "kickoff": "2026-08-29T13:30:00",
+      "kickoff_label": "13:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Mainz favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Mainz 0.00 vs Paderborn 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494012",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Liverpool",
+      "away_team": "Nottingham Forest",
+      "kickoff": "2026-08-29T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Liverpool favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Liverpool 0.00 vs Nottingham Forest 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2387836",
       "sport": "baseball",
@@ -38,168 +182,18 @@
       "kickoff": "2026-10-05T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
+        "home_win": 0.5,
+        "away_win": 0.5
       },
       "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
+      "confidence": 0.5,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482149",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Sassuolo",
-      "away_team": "Torino",
-      "kickoff": "2026-08-29T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Sassuolo favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sassuolo 0.00 vs Torino 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489474",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Strasbourg",
-      "away_team": "Lens",
-      "kickoff": "2026-08-29T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Strasbourg favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Strasbourg 0.00 vs Lens 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506192",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Levante",
-      "away_team": "Real Betis",
-      "kickoff": "2026-08-29T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Levante favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Levante 0.00 vs Real Betis 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508335",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Mainz",
-      "away_team": "Paderborn",
-      "kickoff": "2026-08-29T13:30:00",
-      "kickoff_label": "13:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Mainz favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Mainz 0.00 vs Paderborn 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494012",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Liverpool",
-      "away_team": "Nottingham Forest",
-      "kickoff": "2026-08-29T11:30:00",
-      "kickoff_label": "11:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Liverpool favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Liverpool 0.00 vs Nottingham Forest 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594535",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Manchester United",
-      "away_team": "Bayern Munich",
-      "kickoff": "2026-09-08T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.444,
-        "draw": 0.223,
-        "away_win": 0.333
-      },
-      "prediction_label": "AI: Manchester United favoured",
-      "confidence": 0.444,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

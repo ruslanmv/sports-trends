@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
-  "last_updated": "2026-08-29T04:14:46.025972+00:00",
-  "count": 6,
+  "last_updated": "2026-08-29T10:13:46.377704+00:00",
+  "count": 3,
   "matches": [
     {
       "match_id": "tsdb-2494012",
@@ -35,45 +35,6 @@
       "league": "Italian Serie A",
       "home_team": "Sassuolo",
       "away_team": "Torino",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2508335",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Mainz",
-      "away_team": "Paderborn",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489474",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Strasbourg",
-      "away_team": "Lens",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2387836",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
