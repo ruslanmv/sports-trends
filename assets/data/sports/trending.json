@@ -1,38 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-29T21:51:00.261465+00:00",
-  "count": 5,
+  "last_updated": "2026-08-29T23:45:39.672450+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "Napoli vs Como",
-      "sport": "football",
+      "label": "Athletics vs Baltimore Orioles",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Real Madrid vs Málaga",
+      "label": "Napoli vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Freiburg vs Werder Bremen",
+      "label": "Real Madrid vs Málaga",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Chelsea vs Brighton and Hove Albion",
+      "label": "Freiburg vs Werder Bremen",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
+      "label": "Chelsea vs Brighton and Hove Albion",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
       "label": "Paris FC vs Nice",
       "sport": "football",
       "audience": null,
