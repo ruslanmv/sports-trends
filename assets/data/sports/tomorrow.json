@@ -2,146 +2,23 @@
   "date": "2026-08-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-29T15:42:56.789003+00:00",
-  "count": 8,
+  "last_updated": "2026-08-29T19:02:37.918493+00:00",
+  "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2387836",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Boston Red Sox",
-      "kickoff": "2026-08-29T17:05:00",
-      "kickoff_label": "17:05",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: New York Yankees favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): New York Yankees 0.00 vs Boston Red Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489471",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lyon",
-      "away_team": "Le Havre",
-      "kickoff": "2026-08-29T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lyon favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lyon 0.00 vs Le Havre 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506196",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Real Sociedad",
-      "away_team": "Espanyol",
-      "kickoff": "2026-08-29T17:00:00",
-      "kickoff_label": "17:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Real Sociedad favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Sociedad 0.00 vs Espanyol 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494013",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Tottenham Hotspur",
-      "away_team": "Newcastle United",
-      "kickoff": "2026-08-29T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Tottenham Hotspur favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Tottenham Hotspur 0.00 vs Newcastle United 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482149",
+      "match_id": "tsdb-2482152",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Sassuolo",
-      "away_team": "Torino",
-      "kickoff": "2026-08-29T16:30:00",
+      "home_team": "Napoli",
+      "away_team": "Como",
+      "kickoff": "2026-08-30T16:30:00",
       "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Sassuolo favoured",
+      "prediction_label": "AI: Napoli favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -149,24 +26,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sassuolo 0.00 vs Torino 0.00.",
+        "Recent form (last 5): Napoli 0.00 vs Como 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2508336",
+      "match_id": "tsdb-2508334",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Borussia Dortmund",
-      "away_team": "Hamburg",
-      "kickoff": "2026-08-29T16:30:00",
-      "kickoff_label": "16:30",
+      "home_team": "Freiburg",
+      "away_team": "Werder Bremen",
+      "kickoff": "2026-08-30T13:30:00",
+      "kickoff_label": "13:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Borussia Dortmund favoured",
+      "prediction_label": "AI: Freiburg favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -174,32 +51,57 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Borussia Dortmund 0.00 vs Hamburg 0.00.",
+        "Recent form (last 5): Freiburg 0.00 vs Werder Bremen 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2594535",
+      "match_id": "tsdb-2494014",
       "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Manchester United",
-      "away_team": "Bayern Munich",
-      "kickoff": "2026-09-08T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "English Premier League",
+      "home_team": "Chelsea",
+      "away_team": "Brighton and Hove Albion",
+      "kickoff": "2026-08-30T13:00:00",
+      "kickoff_label": "13:00",
       "probabilities": {
-        "home_win": 0.444,
-        "draw": 0.223,
-        "away_win": 0.333
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Manchester United favoured",
-      "confidence": 0.444,
+      "prediction_label": "AI: Chelsea favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
+        "Recent form (last 5): Chelsea 0.00 vs Brighton and Hove Albion 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489478",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Paris FC",
+      "away_team": "Nice",
+      "kickoff": "2026-08-30T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Paris FC favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Paris FC 0.00 vs Nice 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

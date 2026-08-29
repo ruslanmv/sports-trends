@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T15:42:56.789040+00:00",
+  "last_updated": "2026-08-29T19:02:37.918527+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,26 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2387836",
-      "label": "New York Yankees vs Boston Red Sox",
+      "match_id": "tsdb-2482152",
+      "label": "Napoli vs Como",
       "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "tsdb-2548849",
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "match_id": "tsdb-2508334",
+      "label": "Freiburg vs Werder Bremen",
       "interest_score": 50
     },
     {
       "rank": 3,
-      "match_id": "tsdb-2489471",
-      "label": "Lyon vs Le Havre",
+      "match_id": "tsdb-2494014",
+      "label": "Chelsea vs Brighton and Hove Albion",
       "interest_score": 50
     },
     {
       "rank": 4,
-      "match_id": "tsdb-2506196",
-      "label": "Real Sociedad vs Espanyol",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2494013",
-      "label": "Tottenham Hotspur vs Newcastle United",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2482149",
-      "label": "Sassuolo vs Torino",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
-      "match_id": "tsdb-2508336",
-      "label": "Borussia Dortmund vs Hamburg",
-      "interest_score": 50
-    },
-    {
-      "rank": 8,
-      "match_id": "tsdb-2594535",
-      "label": "Manchester United vs Bayern Munich",
+      "match_id": "tsdb-2489478",
+      "label": "Paris FC vs Nice",
       "interest_score": 50
     }
   ]

@@ -1,60 +1,32 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-29T15:42:56.789036+00:00",
-  "count": 8,
+  "last_updated": "2026-08-29T19:02:37.918523+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Yankees vs Boston Red Sox",
-      "sport": "baseball",
+      "label": "Napoli vs Como",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Freiburg vs Werder Bremen",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Lyon vs Le Havre",
+      "label": "Chelsea vs Brighton and Hove Albion",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Real Sociedad vs Espanyol",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Tottenham Hotspur vs Newcastle United",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Sassuolo vs Torino",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Borussia Dortmund vs Hamburg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Manchester United vs Bayern Munich",
+      "label": "Paris FC vs Nice",
       "sport": "football",
       "audience": null,
       "hot": false
