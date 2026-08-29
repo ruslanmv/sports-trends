@@ -2,8 +2,8 @@
   "date": "2026-08-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-29T19:02:37.918493+00:00",
-  "count": 4,
+  "last_updated": "2026-08-29T21:51:00.261435+00:00",
+  "count": 5,
   "matches": [
     {
       "match_id": "tsdb-2482152",
@@ -27,6 +27,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Napoli 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506193",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Real Madrid",
+      "away_team": "Málaga",
+      "kickoff": "2026-08-30T15:00:00",
+      "kickoff_label": "15:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Real Madrid favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Real Madrid 0.60 vs Málaga 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
