@@ -2,7 +2,7 @@
   "date": "2026-08-29",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-29T11:15:28.653326+00:00",
+  "last_updated": "2026-08-29T15:42:56.789003+00:00",
   "count": 8,
   "matches": [
     {
@@ -54,6 +54,81 @@
       ]
     },
     {
+      "match_id": "tsdb-2489471",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Lyon",
+      "away_team": "Le Havre",
+      "kickoff": "2026-08-29T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lyon favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lyon 0.00 vs Le Havre 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506196",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Real Sociedad",
+      "away_team": "Espanyol",
+      "kickoff": "2026-08-29T17:00:00",
+      "kickoff_label": "17:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Real Sociedad favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Real Sociedad 0.00 vs Espanyol 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494013",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Newcastle United",
+      "kickoff": "2026-08-29T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Tottenham Hotspur favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Tottenham Hotspur 0.00 vs Newcastle United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2482149",
       "sport": "football",
       "league": "Italian Serie A",
@@ -79,69 +154,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2489474",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Strasbourg",
-      "away_team": "Lens",
-      "kickoff": "2026-08-29T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Strasbourg favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Strasbourg 0.00 vs Lens 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506192",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Levante",
-      "away_team": "Real Betis",
-      "kickoff": "2026-08-29T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Levante favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Levante 0.00 vs Real Betis 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508335",
+      "match_id": "tsdb-2508336",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Mainz",
-      "away_team": "Paderborn",
-      "kickoff": "2026-08-29T13:30:00",
-      "kickoff_label": "13:30",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Hamburg",
+      "kickoff": "2026-08-29T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Mainz favoured",
+      "prediction_label": "AI: Borussia Dortmund favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -149,32 +174,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Mainz 0.00 vs Paderborn 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494012",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Liverpool",
-      "away_team": "Nottingham Forest",
-      "kickoff": "2026-08-29T11:30:00",
-      "kickoff_label": "11:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Liverpool favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Liverpool 0.00 vs Nottingham Forest 0.00.",
+        "Recent form (last 5): Borussia Dortmund 0.00 vs Hamburg 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

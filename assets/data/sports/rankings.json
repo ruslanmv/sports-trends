@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T11:15:28.653367+00:00",
+  "last_updated": "2026-08-29T15:42:56.789040+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -47,32 +47,32 @@
     },
     {
       "rank": 3,
+      "match_id": "tsdb-2489471",
+      "label": "Lyon vs Le Havre",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2506196",
+      "label": "Real Sociedad vs Espanyol",
+      "interest_score": 50
+    },
+    {
+      "rank": 5,
+      "match_id": "tsdb-2494013",
+      "label": "Tottenham Hotspur vs Newcastle United",
+      "interest_score": 50
+    },
+    {
+      "rank": 6,
       "match_id": "tsdb-2482149",
       "label": "Sassuolo vs Torino",
       "interest_score": 50
     },
     {
-      "rank": 4,
-      "match_id": "tsdb-2489474",
-      "label": "Strasbourg vs Lens",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2506192",
-      "label": "Levante vs Real Betis",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2508335",
-      "label": "Mainz vs Paderborn",
-      "interest_score": 50
-    },
-    {
       "rank": 7,
-      "match_id": "tsdb-2494012",
-      "label": "Liverpool vs Nottingham Forest",
+      "match_id": "tsdb-2508336",
+      "label": "Borussia Dortmund vs Hamburg",
       "interest_score": 50
     },
     {
