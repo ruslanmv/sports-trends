@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "last_updated": "2026-08-30T08:45:19.229240+00:00",
-  "count": 6,
+  "last_updated": "2026-08-30T09:20:45.431809+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2494014",
@@ -22,58 +22,6 @@
       "league": "Spanish La Liga",
       "home_team": "Real Madrid",
       "away_team": "Málaga",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482152",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Napoli",
-      "away_team": "Como",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2508334",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Freiburg",
-      "away_team": "Werder Bremen",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489478",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Paris FC",
-      "away_team": "Nice",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2388922",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Miami Marlins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

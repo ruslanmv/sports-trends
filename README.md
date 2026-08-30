@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-29 10:14 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-30 09:20 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-29 10:14 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 17d) · EuroLeague (in 33d) · NBA (in 53d)
+UEFA Champions League (in 16d) · EuroLeague (in 32d) · NBA (in 52d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ UEFA Champions League (in 17d) · EuroLeague (in 33d) · NBA (in 53d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Manchester United** vs **Bayern Munich** | UEFA Champions League | 19:00 | Manchester United favoured | `██████████` 99% |
-| 2 | ⚽ **Sassuolo** vs **Torino** | Italian Serie A | 16:30 | Sassuolo favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Strasbourg** vs **Lens** | French Ligue 1 | 15:15 | Strasbourg favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Levante** vs **Real Betis** | Spanish La Liga | 15:00 | Levante favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Mainz** vs **Paderborn** | German Bundesliga | 13:30 | Mainz favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Real Madrid** vs **Málaga** | Spanish La Liga | 15:00 | Real Madrid favoured | `█████████░` 90% |
+| 2 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Napoli** vs **Como** | Italian Serie A | 16:30 | Napoli favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Freiburg** vs **Werder Bremen** | German Bundesliga | 13:30 | Freiburg favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Chelsea** vs **Brighton and Hove Albion** | English Premier League | 13:00 | Chelsea favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
