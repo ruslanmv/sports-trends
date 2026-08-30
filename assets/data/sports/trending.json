@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T09:22:40.945003+00:00",
+  "last_updated": "2026-08-30T14:09:31.136216+00:00",
   "count": 8,
   "matches": [
     {
@@ -33,28 +33,28 @@
     },
     {
       "rank": 5,
-      "label": "Real Madrid vs Málaga",
+      "label": "Manchester United vs Ipswich Town",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Freiburg vs Werder Bremen",
+      "label": "Augsburg vs Schalke 04",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Chelsea vs Brighton and Hove Albion",
+      "label": "Rennes vs Le Mans",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Paris FC vs Nice",
+      "label": "Real Madrid vs Málaga",
       "sport": "football",
       "audience": null,
       "hot": false

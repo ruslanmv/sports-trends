@@ -1,14 +1,14 @@
 {
   "date": "2026-08-30",
-  "last_updated": "2026-08-30T09:22:40.944957+00:00",
+  "last_updated": "2026-08-30T14:09:31.136170+00:00",
   "count": 6,
   "matches": [
     {
-      "match_id": "tsdb-2494014",
+      "match_id": "tsdb-2494010",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Chelsea",
-      "away_team": "Brighton and Hove Albion",
+      "home_team": "Manchester United",
+      "away_team": "Ipswich Town",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2508334",
+      "match_id": "tsdb-2508337",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Freiburg",
-      "away_team": "Werder Bremen",
+      "home_team": "Augsburg",
+      "away_team": "Schalke 04",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -56,11 +56,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2489478",
+      "match_id": "tsdb-2489473",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Paris FC",
-      "away_team": "Nice",
+      "home_team": "Rennes",
+      "away_team": "Le Mans",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

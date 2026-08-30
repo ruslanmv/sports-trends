@@ -2,7 +2,7 @@
   "date": "2026-08-30",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-30T09:22:40.944966+00:00",
+  "last_updated": "2026-08-30T14:09:31.136181+00:00",
   "count": 8,
   "matches": [
     {
@@ -104,6 +104,81 @@
       ]
     },
     {
+      "match_id": "tsdb-2494010",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Manchester United",
+      "away_team": "Ipswich Town",
+      "kickoff": "2026-08-30T15:30:00",
+      "kickoff_label": "15:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Manchester United favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Manchester United 0.00 vs Ipswich Town 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508337",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Augsburg",
+      "away_team": "Schalke 04",
+      "kickoff": "2026-08-30T15:30:00",
+      "kickoff_label": "15:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Augsburg favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Augsburg 0.00 vs Schalke 04 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489473",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Rennes",
+      "away_team": "Le Mans",
+      "kickoff": "2026-08-30T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Rennes favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Rennes 0.00 vs Le Mans 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2506193",
       "sport": "football",
       "league": "Spanish La Liga",
@@ -125,81 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Real Madrid 0.60 vs Málaga 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508334",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Freiburg",
-      "away_team": "Werder Bremen",
-      "kickoff": "2026-08-30T13:30:00",
-      "kickoff_label": "13:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Freiburg favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Freiburg 0.00 vs Werder Bremen 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494014",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Chelsea",
-      "away_team": "Brighton and Hove Albion",
-      "kickoff": "2026-08-30T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Chelsea favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Chelsea 0.00 vs Brighton and Hove Albion 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489478",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Paris FC",
-      "away_team": "Nice",
-      "kickoff": "2026-08-30T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Paris FC favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Paris FC 0.00 vs Nice 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
