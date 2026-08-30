@@ -1,14 +1,28 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T18:07:08.891257+00:00",
-  "count": 1,
+  "last_updated": "2026-08-30T21:18:32.537593+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "Aston Villa vs Arsenal",
+      "label": "Osasuna vs Getafe",
       "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Lecce vs Roma",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Aston Villa vs Arsenal",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }

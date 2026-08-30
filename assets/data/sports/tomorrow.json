@@ -2,9 +2,59 @@
   "date": "2026-08-30",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-30T18:07:08.891232+00:00",
-  "count": 1,
+  "last_updated": "2026-08-30T21:18:32.537571+00:00",
+  "count": 3,
   "matches": [
+    {
+      "match_id": "tsdb-2506197",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Osasuna",
+      "away_team": "Getafe",
+      "kickoff": "2026-08-31T17:30:00",
+      "kickoff_label": "17:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Osasuna favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Osasuna 0.00 vs Getafe 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482156",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Lecce",
+      "away_team": "Roma",
+      "kickoff": "2026-08-31T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lecce favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lecce 0.00 vs Roma 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2494017",
       "sport": "football",
