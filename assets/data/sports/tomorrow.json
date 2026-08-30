@@ -2,204 +2,31 @@
   "date": "2026-08-30",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-30T14:09:31.136181+00:00",
-  "count": 8,
+  "last_updated": "2026-08-30T18:07:08.891232+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388922",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Washington Nationals",
-      "away_team": "Miami Marlins",
-      "kickoff": "2026-08-30T16:15:00",
-      "kickoff_label": "16:15",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Washington Nationals favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Washington Nationals 0.00 vs Miami Marlins 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594644",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Club Brugge",
-      "away_team": "Aston Villa",
-      "kickoff": "2026-09-08T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Club Brugge favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482152",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Napoli",
-      "away_team": "Como",
-      "kickoff": "2026-08-30T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Napoli favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Napoli 0.00 vs Como 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494010",
+      "match_id": "tsdb-2494017",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Manchester United",
-      "away_team": "Ipswich Town",
-      "kickoff": "2026-08-30T15:30:00",
-      "kickoff_label": "15:30",
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
+      "kickoff": "2026-08-31T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.448,
+        "draw": 0.221,
+        "away_win": 0.331
       },
-      "prediction_label": "AI: Manchester United favoured",
-      "confidence": 0.459,
+      "prediction_label": "AI: Aston Villa favoured",
+      "confidence": 0.448,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Manchester United 0.00 vs Ipswich Town 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508337",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Augsburg",
-      "away_team": "Schalke 04",
-      "kickoff": "2026-08-30T15:30:00",
-      "kickoff_label": "15:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Augsburg favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Augsburg 0.00 vs Schalke 04 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489473",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Rennes",
-      "away_team": "Le Mans",
-      "kickoff": "2026-08-30T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Rennes favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Rennes 0.00 vs Le Mans 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506193",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Real Madrid",
-      "away_team": "Málaga",
-      "kickoff": "2026-08-30T15:00:00",
-      "kickoff_label": "15:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Real Madrid favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Madrid 0.60 vs Málaga 0.00.",
+        "Recent form (last 5): Aston Villa 0.00 vs Arsenal 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

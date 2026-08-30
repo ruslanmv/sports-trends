@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T14:09:31.136216+00:00",
-  "count": 8,
+  "last_updated": "2026-08-30T18:07:08.891257+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Washington Nationals vs Miami Marlins",
-      "sport": "baseball",
+      "label": "Aston Villa vs Arsenal",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Club Brugge vs Aston Villa",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Napoli vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Manchester United vs Ipswich Town",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Augsburg vs Schalke 04",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Rennes vs Le Mans",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Real Madrid vs Málaga",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
