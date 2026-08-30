@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T02:42:25.292913+00:00",
+  "last_updated": "2026-08-30T08:45:19.229280+00:00",
   "count": 8,
   "matches": [
     {
@@ -19,42 +19,42 @@
     },
     {
       "rank": 3,
-      "label": "Napoli vs Como",
+      "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Real Madrid vs Málaga",
+      "label": "Napoli vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Freiburg vs Werder Bremen",
+      "label": "Real Madrid vs Málaga",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Chelsea vs Brighton and Hove Albion",
+      "label": "Freiburg vs Werder Bremen",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Paris FC vs Nice",
+      "label": "Chelsea vs Brighton and Hove Albion",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Manchester United vs Bayern Munich",
+      "label": "Paris FC vs Nice",
       "sport": "football",
       "audience": null,
       "hot": false
