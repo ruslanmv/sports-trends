@@ -1,24 +1,31 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T21:18:32.537593+00:00",
-  "count": 3,
+  "last_updated": "2026-08-30T23:39:24.116313+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Osasuna vs Getafe",
-      "sport": "football",
+      "label": "Atlanta Braves vs San Francisco Giants",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Lecce vs Roma",
+      "label": "Osasuna vs Getafe",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
+      "label": "Lecce vs Roma",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
       "label": "Aston Villa vs Arsenal",
       "sport": "football",
       "audience": null,
