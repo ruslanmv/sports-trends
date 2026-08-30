@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-29T23:45:39.672425+00:00",
+  "last_updated": "2026-08-30T02:42:25.292887+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2388919",
+      "match_id": "tsdb-2388922",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Athletics",
-      "away_team": "Baltimore Orioles",
-      "kickoff": "2026-08-30T02:05:00",
-      "kickoff_label": "02:05",
+      "home_team": "Washington Nationals",
+      "away_team": "Miami Marlins",
+      "kickoff": "2026-08-30T16:15:00",
+      "kickoff_label": "16:15",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Athletics favoured",
+      "prediction_label": "AI: Washington Nationals favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,7 +27,31 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Athletics 0.00 vs Baltimore Orioles 0.00.",
+        "Recent form (last 5): Washington Nationals 0.00 vs Miami Marlins 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -153,6 +177,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Paris FC 0.00 vs Nice 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594535",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Manchester United",
+      "away_team": "Bayern Munich",
+      "kickoff": "2026-09-08T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.444,
+        "draw": 0.223,
+        "away_win": 0.333
+      },
+      "prediction_label": "AI: Manchester United favoured",
+      "confidence": 0.444,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Manchester United 0.00 vs Bayern Munich 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
