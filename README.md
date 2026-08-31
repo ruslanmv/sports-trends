@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-30 09:20 UTC** — refreshed automatically every day._
+_Last updated: **2026-08-31 09:55 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-30 09:20 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 16d) · EuroLeague (in 32d) · NBA (in 52d)
+UEFA Champions League (in 15d) · EuroLeague (in 31d) · NBA (in 51d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ UEFA Champions League (in 16d) · EuroLeague (in 32d) · NBA (in 52d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Real Madrid** vs **Málaga** | Spanish La Liga | 15:00 | Real Madrid favoured | `█████████░` 90% |
+| 1 | ⚽ **Aston Villa** vs **Arsenal** | English Premier League | 19:00 | Aston Villa favoured | `██████████` 96% |
 | 2 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Napoli** vs **Como** | Italian Serie A | 16:30 | Napoli favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Freiburg** vs **Werder Bremen** | German Bundesliga | 13:30 | Freiburg favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Chelsea** vs **Brighton and Hove Albion** | English Premier League | 13:00 | Chelsea favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Stuttgart** vs **Köln** | German Bundesliga | 18:30 | Stuttgart favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Toulouse** vs **Lille** | French Ligue 1 | 18:45 | Toulouse favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Osasuna** vs **Getafe** | Spanish La Liga | 17:30 | Osasuna favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
