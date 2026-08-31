@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T23:39:24.116319+00:00",
+  "last_updated": "2026-08-31T02:36:02.628142+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -41,18 +41,42 @@
     },
     {
       "rank": 2,
+      "match_id": "tsdb-2548849",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2594644",
+      "label": "Club Brugge vs Aston Villa",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
+      "match_id": "tsdb-2508347",
+      "label": "Stuttgart vs Köln",
+      "interest_score": 50
+    },
+    {
+      "rank": 5,
+      "match_id": "tsdb-2489485",
+      "label": "Toulouse vs Lille",
+      "interest_score": 50
+    },
+    {
+      "rank": 6,
       "match_id": "tsdb-2506197",
       "label": "Osasuna vs Getafe",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 7,
       "match_id": "tsdb-2482156",
       "label": "Lecce vs Roma",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 8,
       "match_id": "tsdb-2494017",
       "label": "Aston Villa vs Arsenal",
       "interest_score": 50

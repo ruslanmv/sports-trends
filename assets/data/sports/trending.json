@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-08-30T23:39:24.116313+00:00",
-  "count": 4,
+  "last_updated": "2026-08-31T02:36:02.628140+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
@@ -12,20 +12,48 @@
     },
     {
       "rank": 2,
-      "label": "Osasuna vs Getafe",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Lecce vs Roma",
+      "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
+      "label": "Stuttgart vs Köln",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Toulouse vs Lille",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Osasuna vs Getafe",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Lecce vs Roma",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
       "label": "Aston Villa vs Arsenal",
       "sport": "football",
       "audience": null,
