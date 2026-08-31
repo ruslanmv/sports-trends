@@ -2,7 +2,7 @@
   "date": "2026-08-31",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-08-31T17:09:16.673906+00:00",
+  "last_updated": "2026-08-31T21:57:59.139520+00:00",
   "count": 8,
   "matches": [
     {
@@ -79,6 +79,56 @@
       ]
     },
     {
+      "match_id": "tsdb-2494027",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Ipswich Town",
+      "away_team": "Liverpool",
+      "kickoff": "2026-09-04T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Ipswich Town favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Ipswich Town 0.00 vs Liverpool 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482160",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Genoa",
+      "away_team": "Como",
+      "kickoff": "2026-09-04T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Genoa favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Genoa 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2508347",
       "sport": "football",
       "league": "German Bundesliga",
@@ -104,6 +154,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2506226",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "kickoff": "2026-09-03T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Real Sociedad favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Real Sociedad 0.00 vs Celta Vigo 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2489485",
       "sport": "football",
       "league": "French Ligue 1",
@@ -125,81 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Toulouse 0.00 vs Lille 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482154",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Atalanta",
-      "away_team": "Bologna",
-      "kickoff": "2026-08-31T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Atalanta favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atalanta 0.00 vs Bologna 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506197",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Osasuna",
-      "away_team": "Getafe",
-      "kickoff": "2026-08-31T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Osasuna favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Osasuna 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494017",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Aston Villa",
-      "away_team": "Arsenal",
-      "kickoff": "2026-08-31T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.448,
-        "draw": 0.221,
-        "away_win": 0.331
-      },
-      "prediction_label": "AI: Aston Villa favoured",
-      "confidence": 0.448,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Aston Villa 0.00 vs Arsenal 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

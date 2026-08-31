@@ -1,47 +1,8 @@
 {
   "date": "2026-08-31",
-  "last_updated": "2026-08-31T17:09:16.673896+00:00",
-  "count": 4,
+  "last_updated": "2026-08-31T21:57:59.139508+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2494017",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Aston Villa",
-      "away_team": "Arsenal",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2506197",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Osasuna",
-      "away_team": "Getafe",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482154",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Atalanta",
-      "away_team": "Bologna",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2387997",
       "sport": "baseball",
