@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
-  "last_updated": "2026-08-31T09:54:52.858384+00:00",
-  "count": 3,
+  "last_updated": "2026-08-31T09:58:39.269676+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2494017",
@@ -35,6 +35,19 @@
       "league": "Italian Serie A",
       "home_team": "Lecce",
       "away_team": "Roma",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2387997",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Atlanta Braves",
+      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

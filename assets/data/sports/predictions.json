@@ -1,156 +1,12 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-31T09:54:52.858398+00:00",
+  "last_updated": "2026-08-31T09:58:39.269690+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
-    {
-      "match_id": "tsdb-2494017",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Aston Villa",
-      "away_team": "Arsenal",
-      "kickoff": "2026-08-31T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.964,
-        "away_win": 0.036
-      },
-      "prediction_label": "AI: Aston Villa favoured",
-      "confidence": 0.964,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Aston Villa 0.00 vs Arsenal 0.60.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594644",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Club Brugge",
-      "away_team": "Aston Villa",
-      "kickoff": "2026-09-08T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Club Brugge favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508347",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Stuttgart",
-      "away_team": "Köln",
-      "kickoff": "2026-09-04T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Stuttgart favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Stuttgart 0.00 vs Köln 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489485",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Toulouse",
-      "away_team": "Lille",
-      "kickoff": "2026-09-03T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Toulouse favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Toulouse 0.00 vs Lille 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506197",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Osasuna",
-      "away_team": "Getafe",
-      "kickoff": "2026-08-31T17:30:00",
-      "kickoff_label": "17:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Osasuna favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Osasuna 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482156",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Lecce",
-      "away_team": "Roma",
-      "kickoff": "2026-08-31T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Lecce favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lecce 0.00 vs Roma 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
     {
       "match_id": "tsdb-2387997",
       "sport": "baseball",
@@ -184,18 +40,168 @@
       "kickoff": "2026-10-05T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.5,
-        "away_win": 0.5
+        "home_win": 0.557,
+        "away_win": 0.443
       },
       "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.5,
+      "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594644",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Club Brugge",
+      "away_team": "Aston Villa",
+      "kickoff": "2026-09-08T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Club Brugge favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508347",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Stuttgart",
+      "away_team": "Köln",
+      "kickoff": "2026-09-04T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Stuttgart favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Stuttgart 0.00 vs Köln 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489485",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Toulouse",
+      "away_team": "Lille",
+      "kickoff": "2026-09-03T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Toulouse favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Toulouse 0.00 vs Lille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506197",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Osasuna",
+      "away_team": "Getafe",
+      "kickoff": "2026-08-31T17:30:00",
+      "kickoff_label": "17:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Osasuna favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Osasuna 0.00 vs Getafe 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482156",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Lecce",
+      "away_team": "Roma",
+      "kickoff": "2026-08-31T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lecce favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lecce 0.00 vs Roma 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494017",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
+      "kickoff": "2026-08-31T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.448,
+        "draw": 0.221,
+        "away_win": 0.331
+      },
+      "prediction_label": "AI: Aston Villa favoured",
+      "confidence": 0.448,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Aston Villa 0.00 vs Arsenal 0.60.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
