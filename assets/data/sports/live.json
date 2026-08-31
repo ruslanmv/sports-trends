@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T09:58:25.330660+00:00",
-  "count": 8,
+  "last_updated": "2026-08-31T17:09:14.863236+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494010",
@@ -23,19 +23,6 @@
       "away_team": "Athletic Bilbao",
       "home_score": 0,
       "away_score": 2,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2482151",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Cagliari",
-      "away_team": "Inter Milan",
-      "home_score": 0,
-      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

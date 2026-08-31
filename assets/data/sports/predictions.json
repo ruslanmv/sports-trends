@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-08-31T09:58:39.269690+00:00",
+  "last_updated": "2026-08-31T17:09:16.673909+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -131,6 +131,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2482154",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Atalanta",
+      "away_team": "Bologna",
+      "kickoff": "2026-08-31T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Atalanta favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atalanta 0.00 vs Bologna 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2506197",
       "sport": "football",
       "league": "Spanish La Liga",
@@ -152,31 +177,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Osasuna 0.00 vs Getafe 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482156",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Lecce",
-      "away_team": "Roma",
-      "kickoff": "2026-08-31T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lecce favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lecce 0.00 vs Roma 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

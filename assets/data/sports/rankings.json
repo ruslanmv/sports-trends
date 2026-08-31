@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T09:58:39.269724+00:00",
+  "last_updated": "2026-08-31T17:09:16.673943+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -65,14 +65,14 @@
     },
     {
       "rank": 6,
-      "match_id": "tsdb-2506197",
-      "label": "Osasuna vs Getafe",
+      "match_id": "tsdb-2482154",
+      "label": "Atalanta vs Bologna",
       "interest_score": 50
     },
     {
       "rank": 7,
-      "match_id": "tsdb-2482156",
-      "label": "Lecce vs Roma",
+      "match_id": "tsdb-2506197",
+      "label": "Osasuna vs Getafe",
       "interest_score": 50
     },
     {
