@@ -1,14 +1,14 @@
 {
   "date": "2026-09-01",
-  "last_updated": "2026-09-01T00:59:06.009591+00:00",
+  "last_updated": "2026-09-01T06:04:47.574734+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388936",
+      "match_id": "tsdb-2388950",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "New York Yankees",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
