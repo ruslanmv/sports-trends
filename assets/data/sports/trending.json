@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-01T21:52:58.824932+00:00",
-  "count": 8,
+  "last_updated": "2026-09-01T23:42:15.429863+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Pittsburgh Pirates vs San Francisco Giants",
+      "label": "Texas Rangers vs Athletics",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Club Brugge vs Aston Villa",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Ipswich Town vs Liverpool",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Genoa vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Stuttgart vs Köln",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Real Sociedad vs Celta Vigo",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Toulouse vs Lille",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

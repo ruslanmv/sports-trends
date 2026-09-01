@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T21:52:57.807752+00:00",
-  "count": 8,
+  "last_updated": "2026-09-01T23:42:13.999770+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494017",
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2388945",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Philadelphia Phillies",
-      "home_score": 1,
-      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
