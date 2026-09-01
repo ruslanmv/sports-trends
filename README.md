@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-08-31 09:55 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-01 08:45 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-08-31 09:55 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 15d) · EuroLeague (in 31d) · NBA (in 51d)
+UEFA Champions League (in 14d) · EuroLeague (in 30d) · NBA (in 50d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ UEFA Champions League (in 15d) · EuroLeague (in 31d) · NBA (in 51d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Aston Villa** vs **Arsenal** | English Premier League | 19:00 | Aston Villa favoured | `██████████` 96% |
-| 2 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Stuttgart** vs **Köln** | German Bundesliga | 18:30 | Stuttgart favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Toulouse** vs **Lille** | French Ligue 1 | 18:45 | Toulouse favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Osasuna** vs **Getafe** | Spanish La Liga | 17:30 | Osasuna favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Ipswich Town** vs **Liverpool** | English Premier League | 19:00 | Ipswich Town favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Genoa** vs **Como** | Italian Serie A | 18:45 | Genoa favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Stuttgart** vs **Köln** | German Bundesliga | 18:30 | Stuttgart favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Real Sociedad** vs **Celta Vigo** | Spanish La Liga | 19:00 | Real Sociedad favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
