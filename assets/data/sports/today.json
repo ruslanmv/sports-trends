@@ -1,14 +1,14 @@
 {
   "date": "2026-09-02",
-  "last_updated": "2026-09-02T12:11:37.313486+00:00",
+  "last_updated": "2026-09-02T16:44:07.111066+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388968",
+      "match_id": "tsdb-2388976",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "San Diego Padres",
+      "home_team": "Washington Nationals",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
