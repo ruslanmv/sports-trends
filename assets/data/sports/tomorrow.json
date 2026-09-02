@@ -2,7 +2,7 @@
   "date": "2026-09-02",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-02T08:00:14.979828+00:00",
+  "last_updated": "2026-09-02T08:02:07.061053+00:00",
   "count": 2,
   "matches": [
     {
@@ -14,15 +14,16 @@
       "kickoff": "2026-09-03T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Real Sociedad favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Real Sociedad 0.00 vs Celta Vigo 0.00.",
@@ -38,15 +39,16 @@
       "kickoff": "2026-09-03T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Toulouse favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Toulouse 0.00 vs Lille 0.00.",
