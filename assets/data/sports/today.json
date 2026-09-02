@@ -1,14 +1,14 @@
 {
   "date": "2026-09-02",
-  "last_updated": "2026-09-02T02:09:47.711721+00:00",
+  "last_updated": "2026-09-02T07:12:39.262223+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2388952",
+      "match_id": "tsdb-2388968",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Cincinnati Reds",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
