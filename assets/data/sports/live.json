@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T04:48:39.736741+00:00",
+  "last_updated": "2026-09-03T08:11:14.261514+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Los Angeles Dodgers",
       "away_team": "St. Louis Cardinals",
-      "home_score": 5,
-      "away_score": 5,
+      "home_score": 6,
+      "away_score": 8,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

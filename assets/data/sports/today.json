@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
-  "last_updated": "2026-09-03T04:48:44.833214+00:00",
-  "count": 3,
+  "last_updated": "2026-09-03T08:11:15.469446+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2506226",
@@ -22,19 +22,6 @@
       "league": "French Ligue 1",
       "home_team": "Toulouse",
       "away_team": "Lille",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2458149",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "San Francisco Giants",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
