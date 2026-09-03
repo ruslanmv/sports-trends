@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-02T22:12:29.866933+00:00",
-  "count": 2,
+  "last_updated": "2026-09-03T00:25:00.831951+00:00",
+  "count": 3,
   "matches": [
     {
-      "match_id": "tsdb-2506226",
+      "match_id": "tsdb-2494027",
       "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Real Sociedad",
-      "away_team": "Celta Vigo",
-      "kickoff": "2026-09-03T19:00:00",
+      "league": "English Premier League",
+      "home_team": "Ipswich Town",
+      "away_team": "Liverpool",
+      "kickoff": "2026-09-04T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Real Sociedad favoured",
+      "prediction_label": "AI: Ipswich Town favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -26,24 +26,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Sociedad 0.00 vs Celta Vigo 0.00.",
+        "Recent form (last 5): Ipswich Town 0.00 vs Liverpool 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2489485",
+      "match_id": "tsdb-2482160",
       "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Toulouse",
-      "away_team": "Lille",
-      "kickoff": "2026-09-03T18:45:00",
+      "league": "Italian Serie A",
+      "home_team": "Genoa",
+      "away_team": "Como",
+      "kickoff": "2026-09-04T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Toulouse favoured",
+      "prediction_label": "AI: Genoa favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -51,7 +51,32 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Toulouse 0.00 vs Lille 0.00.",
+        "Recent form (last 5): Genoa 0.00 vs Como 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508347",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Stuttgart",
+      "away_team": "Köln",
+      "kickoff": "2026-09-04T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Stuttgart favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Stuttgart 0.00 vs Köln 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
