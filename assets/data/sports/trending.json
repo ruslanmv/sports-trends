@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-03T17:24:29.232513+00:00",
-  "count": 3,
+  "last_updated": "2026-09-03T19:59:24.097802+00:00",
+  "count": 5,
   "matches": [
     {
       "rank": 1,
@@ -12,14 +12,28 @@
     },
     {
       "rank": 2,
-      "label": "Genoa vs Como",
+      "label": "Real Betis vs Real Madrid",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
+      "label": "Genoa vs Como",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
       "label": "Stuttgart vs Köln",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Lyon vs Auxerre",
       "sport": "football",
       "audience": null,
       "hot": false
