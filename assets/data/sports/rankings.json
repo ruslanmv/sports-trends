@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T17:17:50.701511+00:00",
+  "last_updated": "2026-09-04T19:44:48.620746+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,32 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2387945",
-      "label": "Cleveland Guardians vs Detroit Tigers",
+      "match_id": "tsdb-2489488",
+      "label": "Lens vs Lorient",
       "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "tsdb-2548849",
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "match_id": "tsdb-2506199",
+      "label": "Athletic Bilbao vs Atlético Madrid",
       "interest_score": 50
     },
     {
       "rank": 3,
-      "match_id": "tsdb-2594644",
-      "label": "Club Brugge vs Aston Villa",
+      "match_id": "tsdb-2508342",
+      "label": "Werder Bremen vs RB Leipzig",
       "interest_score": 50
     },
     {
       "rank": 4,
-      "match_id": "tsdb-2489484",
-      "label": "Paris Saint-Germain vs Monaco",
+      "match_id": "tsdb-2482164",
+      "label": "Fiorentina vs Torino",
       "interest_score": 50
     },
     {
       "rank": 5,
-      "match_id": "tsdb-2494027",
-      "label": "Ipswich Town vs Liverpool",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2506205",
-      "label": "Real Betis vs Real Madrid",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
-      "match_id": "tsdb-2482160",
-      "label": "Genoa vs Como",
-      "interest_score": 50
-    },
-    {
-      "rank": 8,
-      "match_id": "tsdb-2508347",
-      "label": "Stuttgart vs Köln",
+      "match_id": "tsdb-2494020",
+      "label": "Newcastle United vs Bournemouth",
       "interest_score": 50
     }
   ]

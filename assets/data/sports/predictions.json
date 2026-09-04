@@ -1,99 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-04T17:17:50.701474+00:00",
+  "last_updated": "2026-09-04T19:44:48.620718+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2387945",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Detroit Tigers",
-      "kickoff": "2026-09-04T18:10:00",
-      "kickoff_label": "18:10",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Cleveland Guardians favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Detroit Tigers 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594644",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Club Brugge",
-      "away_team": "Aston Villa",
-      "kickoff": "2026-09-08T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Club Brugge favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489484",
+      "match_id": "tsdb-2489488",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Paris Saint-Germain",
-      "away_team": "Monaco",
-      "kickoff": "2026-09-04T19:05:00",
-      "kickoff_label": "19:05",
+      "home_team": "Lens",
+      "away_team": "Lorient",
+      "kickoff": "2026-09-05T15:15:00",
+      "kickoff_label": "15:15",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Paris Saint-Germain favoured",
+      "prediction_label": "AI: Lens favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -101,74 +28,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Paris Saint-Germain 0.00 vs Monaco 0.00.",
+        "Recent form (last 5): Lens 0.00 vs Lorient 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2494027",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Ipswich Town",
-      "away_team": "Liverpool",
-      "kickoff": "2026-09-04T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Ipswich Town favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Ipswich Town 0.00 vs Liverpool 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506205",
+      "match_id": "tsdb-2506199",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Real Betis",
-      "away_team": "Real Madrid",
-      "kickoff": "2026-09-04T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.215,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Real Betis favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Betis 0.00 vs Real Madrid 0.60.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482160",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Como",
-      "kickoff": "2026-09-04T18:45:00",
-      "kickoff_label": "18:45",
+      "home_team": "Athletic Bilbao",
+      "away_team": "Atlético Madrid",
+      "kickoff": "2026-09-05T14:15:00",
+      "kickoff_label": "14:15",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Genoa favoured",
+      "prediction_label": "AI: Athletic Bilbao favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -176,24 +53,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Genoa 0.00 vs Como 0.00.",
+        "Recent form (last 5): Athletic Bilbao 0.00 vs Atlético Madrid 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2508347",
+      "match_id": "tsdb-2508342",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Stuttgart",
-      "away_team": "Köln",
-      "kickoff": "2026-09-04T18:30:00",
-      "kickoff_label": "18:30",
+      "home_team": "Werder Bremen",
+      "away_team": "RB Leipzig",
+      "kickoff": "2026-09-05T13:30:00",
+      "kickoff_label": "13:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Stuttgart favoured",
+      "prediction_label": "AI: Werder Bremen favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -201,7 +78,57 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Stuttgart 0.00 vs Köln 0.00.",
+        "Recent form (last 5): Werder Bremen 0.00 vs RB Leipzig 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482164",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Fiorentina",
+      "away_team": "Torino",
+      "kickoff": "2026-09-05T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Fiorentina favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Fiorentina 0.00 vs Torino 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494020",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Newcastle United",
+      "away_team": "Bournemouth",
+      "kickoff": "2026-09-05T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Newcastle United favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Newcastle United 0.00 vs Bournemouth 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
