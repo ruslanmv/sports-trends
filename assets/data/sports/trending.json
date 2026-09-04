@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-04T13:38:42.234885+00:00",
+  "last_updated": "2026-09-04T17:17:50.701507+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "rank": 4,
-      "label": "Ipswich Town vs Liverpool",
+      "label": "Paris Saint-Germain vs Monaco",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Real Betis vs Real Madrid",
+      "label": "Ipswich Town vs Liverpool",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Genoa vs Como",
+      "label": "Real Betis vs Real Madrid",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Stuttgart vs Köln",
+      "label": "Genoa vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Lyon vs Auxerre",
+      "label": "Stuttgart vs Köln",
       "sport": "football",
       "audience": null,
       "hot": false
