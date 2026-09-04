@@ -1,38 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-04T21:58:42.747305+00:00",
-  "count": 5,
+  "last_updated": "2026-09-04T23:46:18.737661+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "Lens vs Lorient",
-      "sport": "football",
+      "label": "Texas Rangers vs Tampa Bay Rays",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Athletic Bilbao vs Atlético Madrid",
+      "label": "Lens vs Lorient",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Werder Bremen vs RB Leipzig",
+      "label": "Athletic Bilbao vs Atlético Madrid",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Fiorentina vs Torino",
+      "label": "Werder Bremen vs RB Leipzig",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
+      "label": "Fiorentina vs Torino",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
       "label": "Newcastle United vs Bournemouth",
       "sport": "football",
       "audience": null,

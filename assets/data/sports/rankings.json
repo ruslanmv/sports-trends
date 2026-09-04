@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T21:58:42.747309+00:00",
+  "last_updated": "2026-09-04T23:46:18.737668+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,30 +35,36 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2468337",
+      "label": "Texas Rangers vs Tampa Bay Rays",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2489488",
       "label": "Lens vs Lorient",
       "interest_score": 50
     },
     {
-      "rank": 2,
+      "rank": 3,
       "match_id": "tsdb-2506199",
       "label": "Athletic Bilbao vs Atlético Madrid",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 4,
       "match_id": "tsdb-2508342",
       "label": "Werder Bremen vs RB Leipzig",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 5,
       "match_id": "tsdb-2482164",
       "label": "Fiorentina vs Torino",
       "interest_score": 50
     },
     {
-      "rank": 5,
+      "rank": 6,
       "match_id": "tsdb-2494020",
       "label": "Newcastle United vs Bournemouth",
       "interest_score": 50

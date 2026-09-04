@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T21:58:41.747319+00:00",
-  "count": 8,
+  "last_updated": "2026-09-04T23:46:16.788239+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494027",
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2387945",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Detroit Tigers",
-      "home_score": 6,
-      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
