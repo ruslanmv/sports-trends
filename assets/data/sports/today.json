@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "last_updated": "2026-09-04T00:13:33.580501+00:00",
+  "last_updated": "2026-09-04T04:50:32.937760+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2458155",
+      "match_id": "tsdb-2387945",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Athletics",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Detroit Tigers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

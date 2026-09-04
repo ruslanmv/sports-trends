@@ -2,22 +2,22 @@
   "date": "2026-09-04",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-04T00:13:33.580516+00:00",
+  "last_updated": "2026-09-04T04:50:32.937770+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2458155",
+      "match_id": "tsdb-2387945",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Athletics",
-      "kickoff": "2026-09-04T01:40:00",
-      "kickoff_label": "01:40",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Detroit Tigers",
+      "kickoff": "2026-09-04T18:10:00",
+      "kickoff_label": "18:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Seattle Mariners favoured",
+      "prediction_label": "AI: Cleveland Guardians favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Seattle Mariners 0.00 vs Athletics 0.00.",
+        "Recent form (last 5): Cleveland Guardians 0.00 vs Detroit Tigers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
