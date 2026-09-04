@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-04T08:05:08.975538+00:00",
+  "last_updated": "2026-09-04T08:06:46.632698+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Real Betis vs Real Madrid",
-      "sport": "football",
+      "label": "Cleveland Guardians vs Detroit Tigers",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "label": "Ipswich Town vs Liverpool",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 4,
-      "label": "Genoa vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
       "rank": 5,
-      "label": "Stuttgart vs Köln",
+      "label": "Real Betis vs Real Madrid",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Lyon vs Auxerre",
+      "label": "Genoa vs Como",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Cleveland Guardians vs Detroit Tigers",
-      "sport": "baseball",
+      "label": "Stuttgart vs Köln",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Lyon vs Auxerre",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
