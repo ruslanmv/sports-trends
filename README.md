@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-03 08:11 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-04 08:05 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-03 08:11 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 12d) · EuroLeague (in 28d) · NBA (in 48d)
+UEFA Champions League (in 11d) · EuroLeague (in 27d) · NBA (in 47d)
 <!-- SEASON:END -->
 
 ---
@@ -46,9 +46,11 @@ UEFA Champions League (in 12d) · EuroLeague (in 28d) · NBA (in 48d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Ipswich Town** vs **Liverpool** | English Premier League | 19:00 | Ipswich Town favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Genoa** vs **Como** | Italian Serie A | 18:45 | Genoa favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Stuttgart** vs **Köln** | German Bundesliga | 18:30 | Stuttgart favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Real Betis** vs **Real Madrid** | Spanish La Liga | 19:00 | Real Madrid favoured | `██████████` 99% |
+| 2 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Ipswich Town** vs **Liverpool** | English Premier League | 19:00 | Ipswich Town favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Genoa** vs **Como** | Italian Serie A | 18:45 | Genoa favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Stuttgart** vs **Köln** | German Bundesliga | 18:30 | Stuttgart favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
