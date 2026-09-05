@@ -2,9 +2,34 @@
   "date": "2026-09-05",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-05T18:30:32.856934+00:00",
-  "count": 2,
+  "last_updated": "2026-09-05T20:38:21.297950+00:00",
+  "count": 5,
   "matches": [
+    {
+      "match_id": "tsdb-2506200",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Valencia",
+      "away_team": "Barcelona",
+      "kickoff": "2026-09-06T14:15:00",
+      "kickoff_label": "14:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Valencia favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Valencia 0.00 vs Barcelona 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2508349",
       "sport": "football",
@@ -52,6 +77,56 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Everton 0.00 vs Manchester United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482166",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Frosinone",
+      "away_team": "Venezia",
+      "kickoff": "2026-09-06T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Frosinone favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Frosinone 0.00 vs Venezia 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489486",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Troyes",
+      "away_team": "Strasbourg",
+      "kickoff": "2026-09-06T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Troyes favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Troyes 0.00 vs Strasbourg 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
