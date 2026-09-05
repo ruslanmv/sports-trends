@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "last_updated": "2026-09-05T02:12:29.938691+00:00",
+  "last_updated": "2026-09-05T07:01:21.959049+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2458161",
+      "match_id": "tsdb-2458172",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Detroit Tigers",
+      "home_team": "Miami Marlins",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
