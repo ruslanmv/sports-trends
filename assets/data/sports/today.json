@@ -1,14 +1,14 @@
 {
   "date": "2026-09-05",
-  "last_updated": "2026-09-05T13:56:38.508593+00:00",
+  "last_updated": "2026-09-05T16:29:09.878983+00:00",
   "count": 6,
   "matches": [
     {
-      "match_id": "tsdb-2494021",
+      "match_id": "tsdb-2494028",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Fulham",
-      "away_team": "Crystal Palace",
+      "home_team": "Hull City",
+      "away_team": "Aston Villa",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506199",
+      "match_id": "tsdb-2506207",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Athletic Bilbao",
-      "away_team": "Atlético Madrid",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Racing de Santander",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482165",
+      "match_id": "tsdb-2482162",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Inter Milan",
-      "away_team": "Napoli",
+      "home_team": "Roma",
+      "away_team": "Atalanta",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -56,11 +56,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2489488",
+      "match_id": "tsdb-2489483",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Lorient",
+      "home_team": "Nice",
+      "away_team": "Le Mans",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

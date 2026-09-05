@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-05T13:56:38.508641+00:00",
+  "last_updated": "2026-09-05T16:29:09.879026+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,28 +26,28 @@
     },
     {
       "rank": 4,
-      "label": "Inter Milan vs Napoli",
+      "label": "Roma vs Atalanta",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Lens vs Lorient",
+      "label": "Nice vs Le Mans",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Athletic Bilbao vs Atlético Madrid",
+      "label": "Hull City vs Aston Villa",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Fulham vs Crystal Palace",
+      "label": "Rayo Vallecano vs Racing de Santander",
       "sport": "football",
       "audience": null,
       "hot": false

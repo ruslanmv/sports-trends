@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T13:56:38.508644+00:00",
+  "last_updated": "2026-09-05T16:29:09.879030+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -53,26 +53,26 @@
     },
     {
       "rank": 4,
-      "match_id": "tsdb-2482165",
-      "label": "Inter Milan vs Napoli",
+      "match_id": "tsdb-2482162",
+      "label": "Roma vs Atalanta",
       "interest_score": 50
     },
     {
       "rank": 5,
-      "match_id": "tsdb-2489488",
-      "label": "Lens vs Lorient",
+      "match_id": "tsdb-2489483",
+      "label": "Nice vs Le Mans",
       "interest_score": 50
     },
     {
       "rank": 6,
-      "match_id": "tsdb-2506199",
-      "label": "Athletic Bilbao vs Atlético Madrid",
+      "match_id": "tsdb-2494028",
+      "label": "Hull City vs Aston Villa",
       "interest_score": 50
     },
     {
       "rank": 7,
-      "match_id": "tsdb-2494021",
-      "label": "Fulham vs Crystal Palace",
+      "match_id": "tsdb-2506207",
+      "label": "Rayo Vallecano vs Racing de Santander",
       "interest_score": 50
     },
     {
