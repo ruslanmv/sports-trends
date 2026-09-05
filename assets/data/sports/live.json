@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T20:38:20.301804+00:00",
+  "last_updated": "2026-09-05T22:31:50.326280+00:00",
   "count": 7,
   "matches": [
     {
@@ -22,7 +22,7 @@
       "home_team": "Villarreal",
       "away_team": "Deportivo de A Coruña",
       "home_score": 2,
-      "away_score": 1,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -34,7 +34,7 @@
       "league": "Italian Serie A",
       "home_team": "Roma",
       "away_team": "Atalanta",
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,

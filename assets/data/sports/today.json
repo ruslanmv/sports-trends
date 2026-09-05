@@ -1,14 +1,14 @@
 {
   "date": "2026-09-05",
-  "last_updated": "2026-09-05T20:38:21.297941+00:00",
+  "last_updated": "2026-09-05T22:31:51.386807+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2458174",
+      "match_id": "tsdb-2458175",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Atlanta Braves",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
