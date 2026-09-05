@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "last_updated": "2026-09-05T07:01:21.959049+00:00",
-  "count": 6,
+  "last_updated": "2026-09-05T07:45:13.299401+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2494020",
@@ -43,37 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2508342",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Werder Bremen",
-      "away_team": "RB Leipzig",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
       "match_id": "tsdb-2489488",
       "sport": "football",
       "league": "French Ligue 1",
       "home_team": "Lens",
       "away_team": "Lorient",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2458172",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Miami Marlins",
-      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
