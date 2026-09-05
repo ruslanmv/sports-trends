@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-04T23:46:18.737619+00:00",
-  "count": 6,
+  "last_updated": "2026-09-05T02:12:29.938703+00:00",
+  "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2468337",
+      "match_id": "tsdb-2458161",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Tampa Bay Rays",
-      "kickoff": "2026-09-05T00:05:00",
-      "kickoff_label": "00:05",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Detroit Tigers",
+      "kickoff": "2026-09-05T02:15:00",
+      "kickoff_label": "02:15",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Texas Rangers favoured",
+      "prediction_label": "AI: Cleveland Guardians favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,56 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Texas Rangers 0.00 vs Tampa Bay Rays 0.00.",
+        "Recent form (last 5): Cleveland Guardians 0.00 vs Detroit Tigers 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594644",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Club Brugge",
+      "away_team": "Aston Villa",
+      "kickoff": "2026-09-08T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Club Brugge favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
