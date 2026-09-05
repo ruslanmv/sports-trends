@@ -1,14 +1,14 @@
 {
   "date": "2026-09-05",
-  "last_updated": "2026-09-05T11:19:53.751628+00:00",
+  "last_updated": "2026-09-05T13:56:38.508593+00:00",
   "count": 6,
   "matches": [
     {
-      "match_id": "tsdb-2494020",
+      "match_id": "tsdb-2494021",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Newcastle United",
-      "away_team": "Bournemouth",
+      "home_team": "Fulham",
+      "away_team": "Crystal Palace",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482164",
+      "match_id": "tsdb-2482165",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Fiorentina",
-      "away_team": "Torino",
+      "home_team": "Inter Milan",
+      "away_team": "Napoli",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2508342",
+      "match_id": "tsdb-2508348",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Werder Bremen",
-      "away_team": "RB Leipzig",
+      "home_team": "Schalke 04",
+      "away_team": "Bayern Munich",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
