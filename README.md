@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-05 07:45 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-06 08:00 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-05 07:45 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 10d) · EuroLeague (in 26d) · NBA (in 46d)
+UEFA Champions League (in 9d) · EuroLeague (in 25d) · NBA (in 45d)
 <!-- SEASON:END -->
 
 ---
@@ -47,10 +47,10 @@ UEFA Champions League (in 10d) · EuroLeague (in 26d) · NBA (in 46d)
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
 | 1 | ⚽ **Club Brugge** vs **Aston Villa** | UEFA Champions League | 16:45 | Club Brugge favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Lens** vs **Lorient** | French Ligue 1 | 15:15 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Athletic Bilbao** vs **Atlético Madrid** | Spanish La Liga | 14:15 | Athletic Bilbao favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Werder Bremen** vs **RB Leipzig** | German Bundesliga | 13:30 | Werder Bremen favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Fiorentina** vs **Torino** | Italian Serie A | 13:00 | Fiorentina favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Valencia** vs **Barcelona** | Spanish La Liga | 14:15 | Valencia favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Hamburg** vs **Mainz** | German Bundesliga | 13:30 | Hamburg favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Everton** vs **Manchester United** | English Premier League | 13:00 | Everton favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Frosinone** vs **Venezia** | Italian Serie A | 13:00 | Frosinone favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
