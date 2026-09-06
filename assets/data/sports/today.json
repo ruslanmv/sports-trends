@@ -1,14 +1,14 @@
 {
   "date": "2026-09-06",
-  "last_updated": "2026-09-06T16:02:39.737516+00:00",
+  "last_updated": "2026-09-06T18:27:52.716549+00:00",
   "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2506202",
+      "match_id": "tsdb-2506203",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Málaga",
-      "away_team": "Levante",
+      "home_team": "Espanyol",
+      "away_team": "Sevilla",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2458184",
+      "match_id": "tsdb-2458193",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Texas Rangers",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

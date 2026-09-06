@@ -2,22 +2,22 @@
   "date": "2026-09-06",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-06T16:02:39.737526+00:00",
+  "last_updated": "2026-09-06T18:27:52.716559+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2458184",
+      "match_id": "tsdb-2458193",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Milwaukee Brewers",
-      "kickoff": "2026-09-06T16:10:00",
-      "kickoff_label": "16:10",
+      "home_team": "Texas Rangers",
+      "away_team": "Tampa Bay Rays",
+      "kickoff": "2026-09-06T18:35:00",
+      "kickoff_label": "18:35",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cincinnati Reds favoured",
+      "prediction_label": "AI: Texas Rangers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cincinnati Reds 0.00 vs Milwaukee Brewers 0.00.",
+        "Recent form (last 5): Texas Rangers 0.00 vs Tampa Bay Rays 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -129,6 +129,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2506203",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Espanyol",
+      "away_team": "Sevilla",
+      "kickoff": "2026-09-06T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Espanyol favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Espanyol 0.00 vs Sevilla 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2482161",
       "sport": "football",
       "league": "Italian Serie A",
@@ -175,31 +200,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Marseille 0.00 vs Paris FC 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506202",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Málaga",
-      "away_team": "Levante",
-      "kickoff": "2026-09-06T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Málaga favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Málaga 0.00 vs Levante 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

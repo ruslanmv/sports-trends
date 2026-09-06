@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-06T16:02:39.737565+00:00",
+  "last_updated": "2026-09-06T18:27:52.716597+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Cincinnati Reds vs Milwaukee Brewers",
+      "label": "Texas Rangers vs Tampa Bay Rays",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -40,21 +40,21 @@
     },
     {
       "rank": 6,
-      "label": "Juventus vs AC Milan",
+      "label": "Espanyol vs Sevilla",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Marseille vs Paris FC",
+      "label": "Juventus vs AC Milan",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Málaga vs Levante",
+      "label": "Marseille vs Paris FC",
       "sport": "football",
       "audience": null,
       "hot": false
