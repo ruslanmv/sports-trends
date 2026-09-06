@@ -1,54 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-06T08:00:04.660948+00:00",
-  "count": 7,
+  "last_updated": "2026-09-06T08:01:15.703332+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Club Brugge vs Aston Villa",
-      "sport": "football",
+      "label": "Cincinnati Reds vs Milwaukee Brewers",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Valencia vs Barcelona",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Hamburg vs Mainz",
+      "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Everton vs Manchester United",
+      "label": "Valencia vs Barcelona",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Frosinone vs Venezia",
+      "label": "Hamburg vs Mainz",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Troyes vs Strasbourg",
+      "label": "Everton vs Manchester United",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Frosinone vs Venezia",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Troyes vs Strasbourg",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
