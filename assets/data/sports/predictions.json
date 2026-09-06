@@ -1,149 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-06T18:27:52.716563+00:00",
+  "last_updated": "2026-09-06T20:38:39.809027+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2458193",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Tampa Bay Rays",
-      "kickoff": "2026-09-06T18:35:00",
-      "kickoff_label": "18:35",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Texas Rangers favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Texas Rangers 0.00 vs Tampa Bay Rays 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2548849",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Atlanta Hawks favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494031",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Bournemouth",
-      "away_team": "Brentford",
-      "kickoff": "2026-09-12T14:00:00",
-      "kickoff_label": "14:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Bournemouth favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bournemouth 0.00 vs Brentford 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508357",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Union Berlin",
-      "away_team": "Schalke 04",
-      "kickoff": "2026-09-11T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Union Berlin favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Union Berlin 0.00 vs Schalke 04 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594644",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Club Brugge",
-      "away_team": "Aston Villa",
-      "kickoff": "2026-09-08T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Club Brugge favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506203",
+      "match_id": "tsdb-2506206",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Espanyol",
-      "away_team": "Sevilla",
-      "kickoff": "2026-09-06T19:00:00",
-      "kickoff_label": "19:00",
+      "home_team": "Getafe",
+      "away_team": "Celta Vigo",
+      "kickoff": "2026-09-07T17:00:00",
+      "kickoff_label": "17:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Espanyol favoured",
+      "prediction_label": "AI: Getafe favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -151,24 +28,24 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Espanyol 0.00 vs Sevilla 0.00.",
+        "Recent form (last 5): Getafe 0.00 vs Celta Vigo 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2482161",
+      "match_id": "tsdb-2482158",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Juventus",
-      "away_team": "AC Milan",
-      "kickoff": "2026-09-06T18:45:00",
-      "kickoff_label": "18:45",
+      "home_team": "Cagliari",
+      "away_team": "Lecce",
+      "kickoff": "2026-09-07T16:30:00",
+      "kickoff_label": "16:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Juventus favoured",
+      "prediction_label": "AI: Cagliari favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -176,32 +53,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Juventus 0.00 vs AC Milan 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489482",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Marseille",
-      "away_team": "Paris FC",
-      "kickoff": "2026-09-06T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Marseille favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Marseille 0.00 vs Paris FC 0.00.",
+        "Recent form (last 5): Cagliari 0.00 vs Lecce 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

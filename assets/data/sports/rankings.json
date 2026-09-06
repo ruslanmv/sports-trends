@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T18:27:52.716600+00:00",
+  "last_updated": "2026-09-06T20:38:39.809056+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,14 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2458193",
-      "label": "Texas Rangers vs Tampa Bay Rays",
+      "match_id": "tsdb-2506206",
+      "label": "Getafe vs Celta Vigo",
       "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "tsdb-2548849",
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2494031",
-      "label": "Bournemouth vs Brentford",
-      "interest_score": 50
-    },
-    {
-      "rank": 4,
-      "match_id": "tsdb-2508357",
-      "label": "Union Berlin vs Schalke 04",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2594644",
-      "label": "Club Brugge vs Aston Villa",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2506203",
-      "label": "Espanyol vs Sevilla",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
-      "match_id": "tsdb-2482161",
-      "label": "Juventus vs AC Milan",
-      "interest_score": 50
-    },
-    {
-      "rank": 8,
-      "match_id": "tsdb-2489482",
-      "label": "Marseille vs Paris FC",
+      "match_id": "tsdb-2482158",
+      "label": "Cagliari vs Lecce",
       "interest_score": 50
     }
   ]
