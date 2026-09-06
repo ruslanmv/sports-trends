@@ -1,17 +1,24 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-06T20:38:39.809052+00:00",
-  "count": 2,
+  "last_updated": "2026-09-06T22:35:31.177109+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "Getafe vs Celta Vigo",
-      "sport": "football",
+      "label": "Los Angeles Dodgers vs Washington Nationals",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Getafe vs Celta Vigo",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Cagliari vs Lecce",
       "sport": "football",
       "audience": null,
