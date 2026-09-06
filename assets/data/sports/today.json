@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "last_updated": "2026-09-06T00:25:50.108711+00:00",
+  "last_updated": "2026-09-06T04:55:18.833497+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2458182",
+      "match_id": "tsdb-2458184",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Washington Nationals",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

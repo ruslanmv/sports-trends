@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T00:25:49.046727+00:00",
-  "count": 7,
+  "last_updated": "2026-09-06T04:55:17.785204+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494028",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2468342",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Seattle Mariners",
+      "away_team": "Athletics",
+      "home_score": 2,
+      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
