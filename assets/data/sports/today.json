@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "last_updated": "2026-09-07T00:32:42.571071+00:00",
+  "last_updated": "2026-09-07T05:30:18.827908+00:00",
   "count": 3,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2458195",
+      "match_id": "tsdb-2458196",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Atlanta Braves",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
