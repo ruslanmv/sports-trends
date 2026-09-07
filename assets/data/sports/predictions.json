@@ -1,50 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-06T22:35:31.177088+00:00",
+  "last_updated": "2026-09-07T00:32:42.571086+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2458195",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Washington Nationals",
-      "kickoff": "2026-09-07T02:10:00",
-      "kickoff_label": "02:10",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Los Angeles Dodgers favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Washington Nationals 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506206",
+      "match_id": "tsdb-2594644",
       "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Getafe",
-      "away_team": "Celta Vigo",
-      "kickoff": "2026-09-07T17:00:00",
-      "kickoff_label": "17:00",
+      "league": "UEFA Champions League",
+      "home_team": "Club Brugge",
+      "away_team": "Aston Villa",
+      "kickoff": "2026-09-08T16:45:00",
+      "kickoff_label": "16:45",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Getafe favoured",
+      "prediction_label": "AI: Club Brugge favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -52,32 +28,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Getafe 0.00 vs Celta Vigo 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482158",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Cagliari",
-      "away_team": "Lecce",
-      "kickoff": "2026-09-07T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Cagliari favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cagliari 0.00 vs Lecce 0.00.",
+        "Recent form (last 5): Club Brugge 0.00 vs Aston Villa 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

@@ -1,28 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-06T22:35:31.177109+00:00",
-  "count": 3,
+  "last_updated": "2026-09-07T00:32:42.571106+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Los Angeles Dodgers vs Washington Nationals",
-      "sport": "baseball",
+      "label": "Club Brugge vs Aston Villa",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Getafe vs Celta Vigo",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Cagliari vs Lecce",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

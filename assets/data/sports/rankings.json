@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T22:35:31.177112+00:00",
+  "last_updated": "2026-09-07T00:32:42.571109+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,20 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2458195",
-      "label": "Los Angeles Dodgers vs Washington Nationals",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2506206",
-      "label": "Getafe vs Celta Vigo",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2482158",
-      "label": "Cagliari vs Lecce",
+      "match_id": "tsdb-2594644",
+      "label": "Club Brugge vs Aston Villa",
       "interest_score": 50
     }
   ]
