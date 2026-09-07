@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-07T20:04:27.759431+00:00",
-  "count": 1,
+  "last_updated": "2026-09-07T22:55:53.935830+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
+      "label": "San Francisco Giants vs St. Louis Cardinals",
+      "sport": "baseball",
+      "audience": null,
+      "hot": true
+    },
+    {
+      "rank": 2,
       "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
-      "hot": true
+      "hot": false
     }
   ]
 }
