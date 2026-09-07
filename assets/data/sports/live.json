@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T16:13:40.213668+00:00",
+  "last_updated": "2026-09-07T20:04:26.333630+00:00",
   "count": 8,
   "matches": [
     {
@@ -16,26 +16,26 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506203",
+      "match_id": "tsdb-2506208",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Espanyol",
-      "away_team": "Sevilla",
-      "home_score": 1,
-      "away_score": 1,
+      "home_team": "Elche",
+      "away_team": "Real Sociedad",
+      "home_score": 0,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2482161",
+      "match_id": "tsdb-2482159",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Juventus",
-      "away_team": "AC Milan",
+      "home_team": "Udinese",
+      "away_team": "Lazio",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2458195",
+      "match_id": "tsdb-2458197",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Washington Nationals",
-      "home_score": 7,
-      "away_score": 5,
+      "home_team": "Detroit Tigers",
+      "away_team": "Minnesota Twins",
+      "home_score": 3,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
