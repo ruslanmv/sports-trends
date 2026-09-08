@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
-  "last_updated": "2026-09-08T08:11:57.717493+00:00",
-  "count": 1,
+  "last_updated": "2026-09-08T08:14:13.968097+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2594644",
@@ -9,6 +9,19 @@
       "league": "UEFA Champions League",
       "home_team": "Club Brugge",
       "away_team": "Aston Villa",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2497345",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Cleveland Guardians",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

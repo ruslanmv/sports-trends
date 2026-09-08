@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-08T08:11:57.717534+00:00",
+  "last_updated": "2026-09-08T08:14:13.968138+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bournemouth vs Brentford",
-      "sport": "football",
+      "label": "Baltimore Orioles vs Cleveland Guardians",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Sevilla vs Valencia",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Venezia vs Fiorentina",
+      "label": "Bournemouth vs Brentford",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Rennes vs Marseille",
+      "label": "Sevilla vs Valencia",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Union Berlin vs Schalke 04",
+      "label": "Venezia vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Club Brugge vs Aston Villa",
+      "label": "Rennes vs Marseille",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Baltimore Orioles vs Cleveland Guardians",
-      "sport": "baseball",
+      "label": "Union Berlin vs Schalke 04",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Club Brugge vs Aston Villa",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
