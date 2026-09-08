@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "last_updated": "2026-09-08T00:50:54.877153+00:00",
+  "last_updated": "2026-09-08T05:29:32.862852+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2497343",
+      "match_id": "tsdb-2497345",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Cincinnati Reds",
+      "home_team": "Baltimore Orioles",
+      "away_team": "Cleveland Guardians",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

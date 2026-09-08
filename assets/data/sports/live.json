@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:50:53.819426+00:00",
+  "last_updated": "2026-09-08T05:29:31.897523+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2497342",
+      "match_id": "tsdb-2497344",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "St. Louis Cardinals",
-      "home_score": 1,
-      "away_score": 0,
+      "home_team": "Athletics",
+      "away_team": "Toronto Blue Jays",
+      "home_score": 6,
+      "away_score": 5,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
