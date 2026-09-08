@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T17:58:52.197882+00:00",
+  "last_updated": "2026-09-08T20:48:35.464445+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594650",
+      "match_id": "tsdb-2594629",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "AEK Athens",
-      "away_team": "LASK",
-      "home_score": 1,
-      "away_score": 0,
+      "home_team": "Real Madrid",
+      "away_team": "Inter Milan",
+      "home_score": 2,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

@@ -1,21 +1,8 @@
 {
   "date": "2026-09-08",
-  "last_updated": "2026-09-08T17:58:53.386444+00:00",
-  "count": 2,
+  "last_updated": "2026-09-08T20:48:36.967394+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2594556",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lille",
-      "away_team": "Real Betis",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2497345",
       "sport": "baseball",
