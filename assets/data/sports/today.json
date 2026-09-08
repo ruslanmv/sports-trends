@@ -1,14 +1,14 @@
 {
   "date": "2026-09-08",
-  "last_updated": "2026-09-08T20:48:36.967394+00:00",
+  "last_updated": "2026-09-08T23:05:10.773000+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2497345",
+      "match_id": "tsdb-2497351",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Atlanta Braves",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
