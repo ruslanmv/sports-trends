@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-07T22:55:53.935806+00:00",
-  "count": 2,
+  "last_updated": "2026-09-08T00:50:54.877164+00:00",
+  "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2497342",
+      "match_id": "tsdb-2497343",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "St. Louis Cardinals",
-      "kickoff": "2026-09-08T00:10:00",
-      "kickoff_label": "00:10",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Cincinnati Reds",
+      "kickoff": "2026-09-08T01:10:00",
+      "kickoff_label": "01:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Francisco Giants favoured",
+      "prediction_label": "AI: Los Angeles Dodgers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,156 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Francisco Giants 0.00 vs St. Louis Cardinals 0.00.",
+        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Cincinnati Reds 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2548849",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Memphis Grizzlies",
+      "kickoff": "2026-10-05T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Atlanta Hawks favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494031",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Bournemouth",
+      "away_team": "Brentford",
+      "kickoff": "2026-09-12T14:00:00",
+      "kickoff_label": "14:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Bournemouth favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bournemouth 0.00 vs Brentford 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506211",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Sevilla",
+      "away_team": "Valencia",
+      "kickoff": "2026-09-11T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Sevilla favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Sevilla 0.00 vs Valencia 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482175",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Venezia",
+      "away_team": "Fiorentina",
+      "kickoff": "2026-09-11T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Venezia favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Venezia 0.00 vs Fiorentina 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489490",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Rennes",
+      "away_team": "Marseille",
+      "kickoff": "2026-09-11T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Rennes favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Rennes 0.00 vs Marseille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508357",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Union Berlin",
+      "away_team": "Schalke 04",
+      "kickoff": "2026-09-11T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Union Berlin favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Union Berlin 0.00 vs Schalke 04 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

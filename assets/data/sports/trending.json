@@ -1,17 +1,59 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-07T22:55:53.935830+00:00",
-  "count": 2,
+  "last_updated": "2026-09-08T00:50:54.877204+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "San Francisco Giants vs St. Louis Cardinals",
+      "label": "Los Angeles Dodgers vs Cincinnati Reds",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Bournemouth vs Brentford",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Sevilla vs Valencia",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Venezia vs Fiorentina",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Rennes vs Marseille",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Union Berlin vs Schalke 04",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
       "label": "Club Brugge vs Aston Villa",
       "sport": "football",
       "audience": null,
