@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-09T08:15:40.054219+00:00",
+  "last_updated": "2026-09-09T08:17:36.415129+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bournemouth vs Brentford",
-      "sport": "football",
+      "label": "Detroit Tigers vs Minnesota Twins",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Sevilla vs Valencia",
-      "sport": "football",
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Venezia vs Fiorentina",
+      "label": "Bournemouth vs Brentford",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Rennes vs Marseille",
+      "label": "Sevilla vs Valencia",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Union Berlin vs Schalke 04",
+      "label": "Venezia vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Stuttgart vs Viking",
+      "label": "Rennes vs Marseille",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Detroit Tigers vs Minnesota Twins",
-      "sport": "baseball",
+      "label": "Union Berlin vs Schalke 04",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Atlanta Hawks vs Memphis Grizzlies",
-      "sport": "basketball",
+      "label": "Stuttgart vs Viking",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
