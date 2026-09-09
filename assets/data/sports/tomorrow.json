@@ -2,22 +2,22 @@
   "date": "2026-09-09",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-09T15:39:19.925232+00:00",
+  "last_updated": "2026-09-09T18:57:39.757577+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2498305",
+      "match_id": "tsdb-2498306",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Minnesota Twins",
-      "kickoff": "2026-09-09T17:10:00",
-      "kickoff_label": "17:10",
+      "home_team": "Athletics",
+      "away_team": "Toronto Blue Jays",
+      "kickoff": "2026-09-09T19:05:00",
+      "kickoff_label": "19:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Detroit Tigers favoured",
+      "prediction_label": "AI: Athletics favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Detroit Tigers 0.00 vs Minnesota Twins 0.00.",
+        "Recent form (last 5): Athletics 0.00 vs Toronto Blue Jays 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2594578",
+      "match_id": "tsdb-2594541",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Stuttgart",
-      "away_team": "Viking",
-      "kickoff": "2026-09-09T16:45:00",
-      "kickoff_label": "16:45",
+      "home_team": "Liverpool",
+      "away_team": "Atlético Madrid",
+      "kickoff": "2026-09-09T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Stuttgart favoured",
+      "prediction_label": "AI: Liverpool favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Stuttgart 0.00 vs Viking 0.00.",
+        "Recent form (last 5): Liverpool 0.00 vs Atlético Madrid 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

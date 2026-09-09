@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T15:39:19.925272+00:00",
+  "last_updated": "2026-09-09T18:57:39.757615+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2498305",
-      "label": "Detroit Tigers vs Minnesota Twins",
+      "match_id": "tsdb-2498306",
+      "label": "Athletics vs Toronto Blue Jays",
       "interest_score": 50
     },
     {
@@ -77,8 +77,8 @@
     },
     {
       "rank": 8,
-      "match_id": "tsdb-2594578",
-      "label": "Stuttgart vs Viking",
+      "match_id": "tsdb-2594541",
+      "label": "Liverpool vs Atlético Madrid",
       "interest_score": 50
     }
   ]

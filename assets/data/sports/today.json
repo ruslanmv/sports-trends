@@ -1,14 +1,14 @@
 {
   "date": "2026-09-09",
-  "last_updated": "2026-09-09T15:39:19.925221+00:00",
+  "last_updated": "2026-09-09T18:57:39.757568+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2594578",
+      "match_id": "tsdb-2594541",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Stuttgart",
-      "away_team": "Viking",
+      "home_team": "Liverpool",
+      "away_team": "Atlético Madrid",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2498305",
+      "match_id": "tsdb-2498306",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Minnesota Twins",
+      "home_team": "Athletics",
+      "away_team": "Toronto Blue Jays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
