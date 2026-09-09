@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "last_updated": "2026-09-09T01:20:50.271196+00:00",
+  "last_updated": "2026-09-09T06:13:43.275671+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2498300",
+      "match_id": "tsdb-2498305",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Texas Rangers",
+      "home_team": "Detroit Tigers",
+      "away_team": "Minnesota Twins",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

@@ -2,22 +2,22 @@
   "date": "2026-09-09",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-09T01:20:50.271206+00:00",
+  "last_updated": "2026-09-09T06:13:43.275681+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2498300",
+      "match_id": "tsdb-2498305",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Texas Rangers",
-      "kickoff": "2026-09-09T01:40:00",
-      "kickoff_label": "01:40",
+      "home_team": "Detroit Tigers",
+      "away_team": "Minnesota Twins",
+      "kickoff": "2026-09-09T17:10:00",
+      "kickoff_label": "17:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Seattle Mariners favoured",
+      "prediction_label": "AI: Detroit Tigers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Seattle Mariners 0.00 vs Texas Rangers 0.00.",
+        "Recent form (last 5): Detroit Tigers 0.00 vs Minnesota Twins 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

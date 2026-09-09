@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T01:20:48.631733+00:00",
+  "last_updated": "2026-09-09T06:13:41.680830+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2497354",
+      "match_id": "tsdb-2498304",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Chicago Cubs",
-      "home_score": 1,
-      "away_score": 1,
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Cincinnati Reds",
+      "home_score": 3,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
