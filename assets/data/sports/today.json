@@ -1,14 +1,14 @@
 {
   "date": "2026-09-09",
-  "last_updated": "2026-09-09T21:30:01.592748+00:00",
+  "last_updated": "2026-09-09T23:27:37.903644+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2498310",
+      "match_id": "tsdb-2498316",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Cleveland Guardians",
+      "home_team": "Chicago White Sox",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
