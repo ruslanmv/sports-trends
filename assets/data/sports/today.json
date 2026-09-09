@@ -1,14 +1,27 @@
 {
-  "date": "2026-09-08",
-  "last_updated": "2026-09-08T23:05:10.773000+00:00",
-  "count": 1,
+  "date": "2026-09-09",
+  "last_updated": "2026-09-09T01:20:50.271196+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2497351",
+      "match_id": "tsdb-2594578",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Stuttgart",
+      "away_team": "Viking",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2498300",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "Tampa Bay Rays",
+      "home_team": "Seattle Mariners",
+      "away_team": "Texas Rangers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
