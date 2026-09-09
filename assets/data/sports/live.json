@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T18:57:38.190417+00:00",
-  "count": 7,
+  "last_updated": "2026-09-09T21:29:58.842400+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494022",
@@ -68,12 +68,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594617",
+      "match_id": "tsdb-2594603",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Barcelona",
-      "away_team": "Feyenoord",
-      "home_score": 5,
+      "home_team": "Napoli",
+      "away_team": "Arsenal",
+      "home_score": 0,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2498309",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Seattle Mariners",
+      "away_team": "Texas Rangers",
+      "home_score": 3,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
