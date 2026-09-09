@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-08 08:12 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-09 08:15 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -26,15 +26,15 @@ _Last updated: **2026-09-08 08:12 UTC** — refreshed automatically every day._
 > The portal is **season-aware year-round**: when the World Cup ends it rolls to the club season, tennis Slams, NBA, IPL, and back to qualifiers — automatically, from a built-in tournament calendar. Updated daily.
 
 <!-- SEASON:START -->
-**🔥 Featured right now:** 🎾 **US Open** (tennis)
+**🔥 Featured right now:** 🏴 **Premier League** (football)
 
 **In season today:**
 
-🎾 US Open · 🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-UEFA Champions League (in 7d) · EuroLeague (in 23d) · NBA (in 43d)
+UEFA Champions League (in 6d) · EuroLeague (in 22d) · NBA (in 42d)
 <!-- SEASON:END -->
 
 ---
