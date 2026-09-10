@@ -1,14 +1,27 @@
 {
-  "date": "2026-09-09",
-  "last_updated": "2026-09-09T23:27:37.903644+00:00",
-  "count": 1,
+  "date": "2026-09-10",
+  "last_updated": "2026-09-10T01:17:41.781856+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2498316",
+      "match_id": "tsdb-2594585",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "PSV Eindhoven",
+      "away_team": "Shakhtar Donetsk",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2521124",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

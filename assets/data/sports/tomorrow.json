@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-09T23:27:37.903654+00:00",
-  "count": 1,
+  "last_updated": "2026-09-10T01:17:41.781867+00:00",
+  "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2594585",
+      "match_id": "tsdb-2506211",
       "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "PSV Eindhoven",
-      "away_team": "Shakhtar Donetsk",
-      "kickoff": "2026-09-10T16:45:00",
-      "kickoff_label": "16:45",
+      "league": "Spanish La Liga",
+      "home_team": "Sevilla",
+      "away_team": "Valencia",
+      "kickoff": "2026-09-11T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: PSV Eindhoven favoured",
+      "prediction_label": "AI: Sevilla favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -26,7 +26,82 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): PSV Eindhoven 0.00 vs Shakhtar Donetsk 0.00.",
+        "Recent form (last 5): Sevilla 0.00 vs Valencia 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482175",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Venezia",
+      "away_team": "Fiorentina",
+      "kickoff": "2026-09-11T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Venezia favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Venezia 0.00 vs Fiorentina 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489490",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Rennes",
+      "away_team": "Marseille",
+      "kickoff": "2026-09-11T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Rennes favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Rennes 0.00 vs Marseille 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508357",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Union Berlin",
+      "away_team": "Schalke 04",
+      "kickoff": "2026-09-11T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Union Berlin favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Union Berlin 0.00 vs Schalke 04 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
