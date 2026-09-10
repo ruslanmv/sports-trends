@@ -1,27 +1,14 @@
 {
   "date": "2026-09-10",
-  "last_updated": "2026-09-10T18:51:05.819074+00:00",
-  "count": 2,
+  "last_updated": "2026-09-10T21:19:30.423732+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2594538",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Manchester United",
-      "away_team": "Sabah Baku",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2521127",
+      "match_id": "tsdb-2521128",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Texas Rangers",
+      "home_team": "New York Yankees",
+      "away_team": "Colorado Rockies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

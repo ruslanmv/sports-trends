@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T18:51:04.388147+00:00",
-  "count": 8,
+  "last_updated": "2026-09-10T21:19:29.308483+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494022",
@@ -68,12 +68,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594652",
+      "match_id": "tsdb-2594669",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Fenerbahçe",
-      "away_team": "Roma",
-      "home_score": 1,
+      "home_team": "Como",
+      "away_team": "RB Leipzig",
+      "home_score": 4,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
@@ -88,19 +88,6 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2521126",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Philadelphia Phillies",
-      "away_team": "Houston Astros",
-      "home_score": 1,
-      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
