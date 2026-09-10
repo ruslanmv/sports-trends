@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:34:48.031460+00:00",
+  "last_updated": "2026-09-10T18:51:04.388147+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,12 +68,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594603",
+      "match_id": "tsdb-2594652",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Napoli",
-      "away_team": "Arsenal",
-      "home_score": 0,
+      "home_team": "Fenerbahçe",
+      "away_team": "Roma",
+      "home_score": 1,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
@@ -94,12 +94,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2521124",
+      "match_id": "tsdb-2521126",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Cincinnati Reds",
-      "home_score": 14,
+      "home_team": "Philadelphia Phillies",
+      "away_team": "Houston Astros",
+      "home_score": 1,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
