@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-10T06:13:25.844979+00:00",
+  "last_updated": "2026-09-10T08:15:15.413640+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -16,16 +16,15 @@
       "kickoff": "2026-09-11T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Sevilla favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Sevilla 0.00 vs Valencia 0.00.",
@@ -41,16 +40,15 @@
       "kickoff": "2026-09-11T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Venezia favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Venezia 0.00 vs Fiorentina 0.00.",
@@ -66,16 +64,15 @@
       "kickoff": "2026-09-11T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Rennes favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Rennes 0.00 vs Marseille 0.00.",
@@ -91,16 +88,15 @@
       "kickoff": "2026-09-11T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Union Berlin favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Union Berlin 0.00 vs Schalke 04 0.00.",

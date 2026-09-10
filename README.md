@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-09 08:15 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-10 08:15 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-09 08:15 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 6d) · EuroLeague (in 22d) · NBA (in 42d)
+UEFA Champions League (in 5d) · EuroLeague (in 21d) · NBA (in 41d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,10 @@ UEFA Champions League (in 6d) · EuroLeague (in 22d) · NBA (in 42d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bournemouth** vs **Brentford** | English Premier League | 14:00 | Bournemouth favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Sevilla** vs **Valencia** | Spanish La Liga | 19:00 | Sevilla favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Venezia** vs **Fiorentina** | Italian Serie A | 18:45 | Venezia favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Rennes** vs **Marseille** | French Ligue 1 | 18:45 | Rennes favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Union Berlin** vs **Schalke 04** | German Bundesliga | 18:30 | Union Berlin favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Sevilla** vs **Valencia** | Spanish La Liga | 19:00 | Sevilla favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Venezia** vs **Fiorentina** | Italian Serie A | 18:45 | Venezia favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Rennes** vs **Marseille** | French Ligue 1 | 18:45 | Rennes favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Union Berlin** vs **Schalke 04** | German Bundesliga | 18:30 | Union Berlin favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
