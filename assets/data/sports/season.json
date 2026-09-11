@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-09-10T23:17:55.890968+00:00",
-  "today": "2026-09-10",
+  "last_updated": "2026-09-11T01:16:57.341443+00:00",
+  "today": "2026-09-11",
   "featured": {
     "key": "epl",
     "name": "Premier League",
@@ -87,7 +87,7 @@
       "importance": 96,
       "emoji": "⭐",
       "start": "2026-09-15",
-      "starts_in_days": 5
+      "starts_in_days": 4
     },
     {
       "key": "euroleague",
@@ -97,7 +97,7 @@
       "importance": 80,
       "emoji": "🏀",
       "start": "2026-10-01",
-      "starts_in_days": 21
+      "starts_in_days": 20
     },
     {
       "key": "nba",
@@ -107,7 +107,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 41
+      "starts_in_days": 40
     }
   ]
 }
