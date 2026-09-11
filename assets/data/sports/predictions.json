@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-11T18:53:55.852260+00:00",
+  "last_updated": "2026-09-11T21:28:23.627490+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -104,6 +104,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Genoa 0.00 vs Frosinone 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506218",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Racing de Santander",
+      "away_team": "Deportivo Alavés",
+      "kickoff": "2026-09-12T12:00:00",
+      "kickoff_label": "12:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Racing de Santander favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Racing de Santander 0.00 vs Deportivo Alavés 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
