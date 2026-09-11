@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "last_updated": "2026-09-11T15:36:17.393194+00:00",
-  "count": 5,
+  "last_updated": "2026-09-11T18:53:55.852246+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2506211",
@@ -17,50 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482175",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Venezia",
-      "away_team": "Fiorentina",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2508357",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Union Berlin",
-      "away_team": "Schalke 04",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489490",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Rennes",
-      "away_team": "Marseille",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2521130",
+      "match_id": "tsdb-2521131",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Detroit Tigers",
+      "away_team": "Colorado Rockies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

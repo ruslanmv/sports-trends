@@ -1,14 +1,35 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-11T15:36:17.393227+00:00",
-  "count": 1,
+  "last_updated": "2026-09-11T18:53:55.852283+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Bournemouth vs Brentford",
+      "label": "Strasbourg vs Monaco",
       "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Bournemouth vs Brentford",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Freiburg vs Borussia Mönchengladbach",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Genoa vs Frosinone",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
