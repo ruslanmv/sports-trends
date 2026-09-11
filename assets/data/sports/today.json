@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "last_updated": "2026-09-11T06:16:46.689660+00:00",
-  "count": 5,
+  "last_updated": "2026-09-11T08:09:57.177753+00:00",
+  "count": 3,
   "matches": [
     {
       "match_id": "tsdb-2506211",
@@ -35,32 +35,6 @@
       "league": "German Bundesliga",
       "home_team": "Union Berlin",
       "away_team": "Schalke 04",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489490",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Rennes",
-      "away_team": "Marseille",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2521130",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
