@@ -1,14 +1,14 @@
 {
   "date": "2026-09-11",
-  "last_updated": "2026-09-11T21:28:23.627476+00:00",
+  "last_updated": "2026-09-11T23:28:26.389553+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2521131",
+      "match_id": "tsdb-2521139",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Colorado Rockies",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
