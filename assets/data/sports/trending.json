@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-12T08:00:32.555461+00:00",
+  "last_updated": "2026-09-12T08:02:36.530189+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
+      "label": "Detroit Tigers vs Colorado Rockies",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Strasbourg vs Monaco",
-      "sport": "football",
+      "label": "Toronto Raptors vs Miami Heat",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Bournemouth vs Brentford",
+      "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Freiburg vs Borussia Mönchengladbach",
+      "label": "Strasbourg vs Monaco",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Genoa vs Frosinone",
+      "label": "Bournemouth vs Brentford",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Racing de Santander vs Deportivo Alavés",
+      "label": "Freiburg vs Borussia Mönchengladbach",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Detroit Tigers vs Colorado Rockies",
-      "sport": "baseball",
+      "label": "Genoa vs Frosinone",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
+      "label": "Racing de Santander vs Deportivo Alavés",
+      "sport": "football",
       "audience": null,
       "hot": false
     }

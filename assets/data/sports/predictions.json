@@ -1,156 +1,12 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-12T08:00:32.555427+00:00",
+  "last_updated": "2026-09-12T08:02:36.530118+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
-    {
-      "match_id": "tsdb-2594564",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lens",
-      "away_team": "Sporting CP",
-      "kickoff": "2026-10-13T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Lens favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489491",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Strasbourg",
-      "away_team": "Monaco",
-      "kickoff": "2026-09-12T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Strasbourg favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Strasbourg 0.00 vs Monaco 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494031",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Bournemouth",
-      "away_team": "Brentford",
-      "kickoff": "2026-09-12T14:00:00",
-      "kickoff_label": "14:00",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Bournemouth favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bournemouth 0.00 vs Brentford 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508351",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Freiburg",
-      "away_team": "Borussia Mönchengladbach",
-      "kickoff": "2026-09-12T13:30:00",
-      "kickoff_label": "13:30",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Freiburg favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Freiburg 0.00 vs Borussia Mönchengladbach 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482171",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Frosinone",
-      "kickoff": "2026-09-12T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Genoa favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Genoa 0.00 vs Frosinone 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506218",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Racing de Santander",
-      "away_team": "Deportivo Alavés",
-      "kickoff": "2026-09-12T12:00:00",
-      "kickoff_label": "12:00",
-      "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
-      },
-      "prediction_label": "AI: Racing de Santander favoured",
-      "confidence": 0.597,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": true,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Racing de Santander 0.00 vs Deportivo Alavés 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
     {
       "match_id": "tsdb-2521145",
       "sport": "baseball",
@@ -184,18 +40,168 @@
       "kickoff": "2026-10-03T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.5,
-        "away_win": 0.5
+        "home_win": 0.557,
+        "away_win": 0.443
       },
       "prediction_label": "AI: Toronto Raptors favoured",
-      "confidence": 0.5,
+      "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Toronto Raptors 0.00 vs Miami Heat 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594564",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lens",
+      "away_team": "Sporting CP",
+      "kickoff": "2026-10-13T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489491",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Strasbourg",
+      "away_team": "Monaco",
+      "kickoff": "2026-09-12T15:15:00",
+      "kickoff_label": "15:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Strasbourg favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Strasbourg 0.00 vs Monaco 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494031",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Bournemouth",
+      "away_team": "Brentford",
+      "kickoff": "2026-09-12T14:00:00",
+      "kickoff_label": "14:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Bournemouth favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bournemouth 0.00 vs Brentford 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508351",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Freiburg",
+      "away_team": "Borussia Mönchengladbach",
+      "kickoff": "2026-09-12T13:30:00",
+      "kickoff_label": "13:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Freiburg favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Freiburg 0.00 vs Borussia Mönchengladbach 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482171",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Genoa",
+      "away_team": "Frosinone",
+      "kickoff": "2026-09-12T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Genoa favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Genoa 0.00 vs Frosinone 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506218",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Racing de Santander",
+      "away_team": "Deportivo Alavés",
+      "kickoff": "2026-09-12T12:00:00",
+      "kickoff_label": "12:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Racing de Santander favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Racing de Santander 0.00 vs Deportivo Alavés 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
