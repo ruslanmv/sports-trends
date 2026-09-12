@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-12T11:01:42.019774+00:00",
+  "last_updated": "2026-09-12T14:16:22.379700+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "rank": 4,
-      "label": "Strasbourg vs Monaco",
+      "label": "Tottenham Hotspur vs Everton",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Bournemouth vs Brentford",
+      "label": "Athletic Bilbao vs Elche",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Freiburg vs Borussia Mönchengladbach",
+      "label": "Köln vs Werder Bremen",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Genoa vs Frosinone",
+      "label": "Lazio vs AC Milan",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Racing de Santander vs Deportivo Alavés",
+      "label": "Strasbourg vs Monaco",
       "sport": "football",
       "audience": null,
       "hot": false

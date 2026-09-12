@@ -1,14 +1,14 @@
 {
   "date": "2026-09-12",
-  "last_updated": "2026-09-12T11:01:42.019729+00:00",
+  "last_updated": "2026-09-12T14:16:22.379657+00:00",
   "count": 6,
   "matches": [
     {
-      "match_id": "tsdb-2494031",
+      "match_id": "tsdb-2494033",
       "sport": "football",
       "league": "English Premier League",
-      "home_team": "Bournemouth",
-      "away_team": "Brentford",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Everton",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506218",
+      "match_id": "tsdb-2506209",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Racing de Santander",
-      "away_team": "Deportivo Alavés",
+      "home_team": "Athletic Bilbao",
+      "away_team": "Elche",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482171",
+      "match_id": "tsdb-2482168",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Frosinone",
+      "home_team": "Lazio",
+      "away_team": "AC Milan",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2508351",
+      "match_id": "tsdb-2508358",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Freiburg",
-      "away_team": "Borussia Mönchengladbach",
+      "home_team": "Köln",
+      "away_team": "Werder Bremen",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
