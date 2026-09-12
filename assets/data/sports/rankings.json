@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T23:28:26.389597+00:00",
+  "last_updated": "2026-09-12T01:22:45.203130+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,30 +35,48 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2521142",
+      "label": "Arizona Diamondbacks vs Texas Rangers",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
+      "match_id": "tsdb-2601616",
+      "label": "Toronto Raptors vs Miami Heat",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
+      "match_id": "tsdb-2594564",
+      "label": "Lens vs Sporting CP",
+      "interest_score": 50
+    },
+    {
+      "rank": 4,
       "match_id": "tsdb-2489491",
       "label": "Strasbourg vs Monaco",
       "interest_score": 50
     },
     {
-      "rank": 2,
+      "rank": 5,
       "match_id": "tsdb-2494031",
       "label": "Bournemouth vs Brentford",
       "interest_score": 50
     },
     {
-      "rank": 3,
+      "rank": 6,
       "match_id": "tsdb-2508351",
       "label": "Freiburg vs Borussia Mönchengladbach",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 7,
       "match_id": "tsdb-2482171",
       "label": "Genoa vs Frosinone",
       "interest_score": 50
     },
     {
-      "rank": 5,
+      "rank": 8,
       "match_id": "tsdb-2506218",
       "label": "Racing de Santander vs Deportivo Alavés",
       "interest_score": 50
