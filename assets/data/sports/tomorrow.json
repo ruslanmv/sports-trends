@@ -2,9 +2,33 @@
   "date": "2026-09-12",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-12T21:51:52.914725+00:00",
-  "count": 5,
+  "last_updated": "2026-09-12T23:37:28.384513+00:00",
+  "count": 6,
   "matches": [
+    {
+      "match_id": "tsdb-2555374",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Arizona Diamondbacks",
+      "away_team": "Texas Rangers",
+      "kickoff": "2026-09-13T00:10:00",
+      "kickoff_label": "00:10",
+      "probabilities": {
+        "home_win": 0.585,
+        "away_win": 0.415
+      },
+      "prediction_label": "AI: Arizona Diamondbacks favoured",
+      "confidence": 0.585,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arizona Diamondbacks 0.00 vs Texas Rangers 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2508356",
       "sport": "football",

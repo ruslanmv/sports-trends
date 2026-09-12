@@ -1,38 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-12T21:51:52.914761+00:00",
-  "count": 5,
+  "last_updated": "2026-09-12T23:37:28.384553+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "RB Leipzig vs Hamburg",
-      "sport": "football",
+      "label": "Arizona Diamondbacks vs Texas Rangers",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Coventry City vs Brighton and Hove Albion",
+      "label": "RB Leipzig vs Hamburg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Lecce vs Monza",
+      "label": "Coventry City vs Brighton and Hove Albion",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Lille vs Troyes",
+      "label": "Lecce vs Monza",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
+      "label": "Lille vs Troyes",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
       "label": "Celta Vigo vs Málaga",
       "sport": "football",
       "audience": null,
