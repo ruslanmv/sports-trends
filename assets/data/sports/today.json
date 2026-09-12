@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "last_updated": "2026-09-12T01:22:45.203091+00:00",
+  "last_updated": "2026-09-12T06:03:06.902744+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2521142",
+      "match_id": "tsdb-2521145",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Texas Rangers",
+      "home_team": "Detroit Tigers",
+      "away_team": "Colorado Rockies",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
