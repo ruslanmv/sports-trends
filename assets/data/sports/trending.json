@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-13T12:59:23.649003+00:00",
-  "count": 8,
+  "last_updated": "2026-09-13T16:52:47.578544+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Detroit Tigers vs Colorado Rockies",
-      "sport": "baseball",
+      "label": "Leeds United vs Newcastle United",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Levante vs Barcelona",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "RB Leipzig vs Hamburg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Coventry City vs Brighton and Hove Albion",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Lecce vs Monza",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Lille vs Troyes",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
