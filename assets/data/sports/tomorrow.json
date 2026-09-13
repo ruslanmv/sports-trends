@@ -2,8 +2,8 @@
   "date": "2026-09-13",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-13T16:52:47.578520+00:00",
-  "count": 1,
+  "last_updated": "2026-09-13T19:08:45.749135+00:00",
+  "count": 3,
   "matches": [
     {
       "match_id": "tsdb-2494036",
@@ -27,6 +27,56 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Leeds United 0.00 vs Newcastle United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506210",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Villarreal",
+      "away_team": "Real Betis",
+      "kickoff": "2026-09-14T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Villarreal favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Villarreal 0.00 vs Real Betis 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482173",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Torino",
+      "away_team": "Roma",
+      "kickoff": "2026-09-14T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Torino favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Torino 0.00 vs Roma 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
