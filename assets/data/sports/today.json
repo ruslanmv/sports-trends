@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "last_updated": "2026-09-13T08:27:27.260712+00:00",
+  "last_updated": "2026-09-13T12:59:23.648962+00:00",
   "count": 6,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2506212",
+      "match_id": "tsdb-2506213",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Celta Vigo",
-      "away_team": "Málaga",
+      "home_team": "Levante",
+      "away_team": "Barcelona",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

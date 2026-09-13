@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-13T08:27:27.260727+00:00",
+  "last_updated": "2026-09-13T12:59:23.648976+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -77,6 +77,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506213",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Levante",
+      "away_team": "Barcelona",
+      "kickoff": "2026-09-13T14:15:00",
+      "kickoff_label": "14:15",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Levante favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Levante 0.00 vs Barcelona 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -177,31 +202,6 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lille 0.00 vs Troyes 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506212",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Celta Vigo",
-      "away_team": "Málaga",
-      "kickoff": "2026-09-13T12:00:00",
-      "kickoff_label": "12:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Celta Vigo favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Celta Vigo 0.00 vs Málaga 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

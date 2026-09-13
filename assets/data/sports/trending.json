@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-13T08:27:27.260759+00:00",
+  "last_updated": "2026-09-13T12:59:23.649003+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "rank": 4,
-      "label": "RB Leipzig vs Hamburg",
+      "label": "Levante vs Barcelona",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Coventry City vs Brighton and Hove Albion",
+      "label": "RB Leipzig vs Hamburg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Lecce vs Monza",
+      "label": "Coventry City vs Brighton and Hove Albion",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Lille vs Troyes",
+      "label": "Lecce vs Monza",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Celta Vigo vs Málaga",
+      "label": "Lille vs Troyes",
       "sport": "football",
       "audience": null,
       "hot": false
