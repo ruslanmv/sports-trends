@@ -1,14 +1,14 @@
 {
   "date": "2026-09-13",
-  "last_updated": "2026-09-13T19:08:45.749124+00:00",
+  "last_updated": "2026-09-13T21:31:46.101648+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2555388",
+      "match_id": "tsdb-2555390",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Athletics",
-      "away_team": "Seattle Mariners",
+      "home_team": "San Francisco Giants",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
