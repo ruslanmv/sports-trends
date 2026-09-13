@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-12T23:37:28.384513+00:00",
-  "count": 6,
+  "last_updated": "2026-09-13T02:19:21.797560+00:00",
+  "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2555374",
+      "match_id": "tsdb-2555376",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Texas Rangers",
-      "kickoff": "2026-09-13T00:10:00",
-      "kickoff_label": "00:10",
+      "home_team": "Detroit Tigers",
+      "away_team": "Colorado Rockies",
+      "kickoff": "2026-09-13T16:10:00",
+      "kickoff_label": "16:10",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Arizona Diamondbacks favoured",
+      "prediction_label": "AI: Detroit Tigers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,56 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arizona Diamondbacks 0.00 vs Texas Rangers 0.00.",
+        "Recent form (last 5): Detroit Tigers 0.00 vs Colorado Rockies 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2601616",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Toronto Raptors",
+      "away_team": "Miami Heat",
+      "kickoff": "2026-10-03T23:00:00",
+      "kickoff_label": "23:00",
+      "probabilities": {
+        "home_win": 0.557,
+        "away_win": 0.443
+      },
+      "prediction_label": "AI: Toronto Raptors favoured",
+      "confidence": 0.557,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Toronto Raptors 0.00 vs Miami Heat 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594564",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lens",
+      "away_team": "Sporting CP",
+      "kickoff": "2026-10-13T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
