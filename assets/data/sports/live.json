@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T23:48:47.789857+00:00",
-  "count": 7,
+  "last_updated": "2026-09-14T02:36:41.769509+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494030",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2555390",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "San Francisco Giants",
+      "away_team": "San Diego Padres",
+      "home_score": 4,
+      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
