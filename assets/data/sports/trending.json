@@ -1,63 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-14T15:08:10.067058+00:00",
-  "count": 8,
+  "last_updated": "2026-09-14T19:53:47.505222+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Cincinnati Reds vs Los Angeles Dodgers",
-      "sport": "baseball",
+      "label": "Rayo Vallecano vs Espanyol",
+      "sport": "football",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Bayern Munich vs Union Berlin",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Monaco vs Lens",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Leeds United vs Newcastle United",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "label": "Villarreal vs Real Betis",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "label": "Torino vs Roma",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }

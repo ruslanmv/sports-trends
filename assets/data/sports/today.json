@@ -1,47 +1,8 @@
 {
   "date": "2026-09-14",
-  "last_updated": "2026-09-14T15:08:10.067014+00:00",
-  "count": 4,
+  "last_updated": "2026-09-14T19:53:47.505190+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2494036",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Leeds United",
-      "away_team": "Newcastle United",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2506210",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Villarreal",
-      "away_team": "Real Betis",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482173",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Torino",
-      "away_team": "Roma",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
     {
       "match_id": "tsdb-2555391",
       "sport": "baseball",
