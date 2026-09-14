@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-13 08:25 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-14 09:04 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-13 08:25 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-UEFA Champions League (in 2d) · EuroLeague (in 18d) · NBA (in 38d)
+UEFA Champions League (in 1d) · EuroLeague (in 17d) · NBA (in 37d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ UEFA Champions League (in 2d) · EuroLeague (in 18d) · NBA (in 38d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 2 | ⚽ **RB Leipzig** vs **Hamburg** | German Bundesliga | 13:30 | RB Leipzig favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Coventry City** vs **Brighton and Hove Albion** | English Premier League | 13:00 | Coventry City favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Lecce** vs **Monza** | Italian Serie A | 13:00 | Lecce favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Lille** vs **Troyes** | French Ligue 1 | 13:00 | Lille favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Bayern Munich** vs **Union Berlin** | German Bundesliga | 18:30 | Union Berlin favoured | `█████████░` 93% |
+| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Monaco** vs **Lens** | French Ligue 1 | 18:45 | Monaco favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Leeds United** vs **Newcastle United** | English Premier League | 19:00 | Leeds United favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Villarreal** vs **Real Betis** | Spanish La Liga | 19:00 | Villarreal favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
