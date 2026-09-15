@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T19:45:13.908935+00:00",
+  "last_updated": "2026-09-15T22:34:34.672958+00:00",
   "count": 8,
   "matches": [
     {
@@ -21,8 +21,8 @@
       "league": "Spanish La Liga",
       "home_team": "Elche",
       "away_team": "Real Madrid",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 2,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
