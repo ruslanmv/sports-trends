@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "last_updated": "2026-09-15T01:05:57.126476+00:00",
+  "last_updated": "2026-09-15T06:19:56.948044+00:00",
   "count": 2,
   "matches": [
     {
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2557371",
+      "match_id": "tsdb-2557373",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Seattle Mariners",
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "Milwaukee Brewers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

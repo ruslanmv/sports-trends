@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T01:05:57.126531+00:00",
+  "last_updated": "2026-09-15T06:19:56.948090+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2557371",
-      "label": "Los Angeles Angels vs Seattle Mariners",
+      "match_id": "tsdb-2557373",
+      "label": "Pittsburgh Pirates vs Milwaukee Brewers",
       "interest_score": 50
     },
     {
