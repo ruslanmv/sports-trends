@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-14 09:04 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-15 08:47 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -26,15 +26,15 @@ _Last updated: **2026-09-14 09:04 UTC** — refreshed automatically every day._
 > The portal is **season-aware year-round**: when the World Cup ends it rolls to the club season, tennis Slams, NBA, IPL, and back to qualifiers — automatically, from a built-in tournament calendar. Updated daily.
 
 <!-- SEASON:START -->
-**🔥 Featured right now:** 🏴 **Premier League** (football)
+**🔥 Featured right now:** ⭐ **UEFA Champions League** (football)
 
 **In season today:**
 
-🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+⭐ UEFA Champions League · 🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
 
 **Starting soon:**
 
-UEFA Champions League (in 1d) · EuroLeague (in 17d) · NBA (in 37d)
+EuroLeague (in 16d) · NBA (in 36d)
 <!-- SEASON:END -->
 
 ---
@@ -48,9 +48,9 @@ UEFA Champions League (in 1d) · EuroLeague (in 17d) · NBA (in 37d)
 |:-:|:------|:-------|:-------:|:--------|:-----------|
 | 1 | ⚽ **Bayern Munich** vs **Union Berlin** | German Bundesliga | 18:30 | Union Berlin favoured | `█████████░` 93% |
 | 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Monaco** vs **Lens** | French Ligue 1 | 18:45 | Monaco favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Leeds United** vs **Newcastle United** | English Premier League | 19:00 | Leeds United favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Villarreal** vs **Real Betis** | Spanish La Liga | 19:00 | Villarreal favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Brentford** vs **Chelsea** | English Premier League | 19:00 | Brentford favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Monza** vs **Sassuolo** | Italian Serie A | 18:45 | Monza favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Monaco** vs **Lens** | French Ligue 1 | 18:45 | Monaco favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
