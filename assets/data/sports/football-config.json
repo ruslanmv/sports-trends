@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-14T22:52:40.881201+00:00",
+  "last_updated": "2026-09-15T01:05:54.872180+00:00",
   "page_mode": "club_season",
   "default_tab": "All",
-  "eyebrow": "Premier League Intelligence",
-  "headline": "🏴 Premier League — Tomorrow’s Biggest Matches",
+  "eyebrow": "UEFA Champions League Intelligence",
+  "headline": "⭐ UEFA Champions League — Tomorrow’s Biggest Matches",
   "subtitle": "AI predictions for the most important upcoming matches.",
   "show_world_cup_strip": false,
   "featured_football": {
-    "key": "epl",
-    "name": "Premier League",
+    "key": "ucl",
+    "name": "UEFA Champions League",
     "sport": "football",
     "scope": "club",
-    "importance": 90,
-    "emoji": "🏴",
+    "importance": 96,
+    "emoji": "⭐",
     "status": "active"
   },
   "primary_prediction_type": "match_result"
