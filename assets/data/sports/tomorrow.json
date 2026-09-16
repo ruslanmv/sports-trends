@@ -2,57 +2,9 @@
   "date": "2026-09-16",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-16T05:31:37.182092+00:00",
-  "count": 8,
+  "last_updated": "2026-09-16T08:42:02.672719+00:00",
+  "count": 6,
   "matches": [
-    {
-      "match_id": "tsdb-2557388",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-09-16T17:10:00",
-      "kickoff_label": "17:10",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Cleveland Guardians favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2601616",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Toronto Raptors",
-      "away_team": "Miami Heat",
-      "kickoff": "2026-10-03T23:00:00",
-      "kickoff_label": "23:00",
-      "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
-      },
-      "prediction_label": "AI: Toronto Raptors favoured",
-      "confidence": 0.557,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Toronto Raptors 0.00 vs Miami Heat 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
     {
       "match_id": "tsdb-2508360",
       "sport": "football",
@@ -62,16 +14,15 @@
       "kickoff": "2026-09-18T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.475,
-        "draw": 0.208,
-        "away_win": 0.317
+        "home_win": 0.069,
+        "away_win": 0.931
       },
-      "prediction_label": "AI: Bayern Munich favoured",
-      "confidence": 0.475,
+      "prediction_label": "AI: Union Berlin favoured",
+      "confidence": 0.931,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bayern Munich 0.60 vs Union Berlin 0.00.",
@@ -87,16 +38,15 @@
       "kickoff": "2026-10-13T16:45:00",
       "kickoff_label": "16:45",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Lens favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
@@ -112,16 +62,15 @@
       "kickoff": "2026-09-18T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Brentford favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Brentford 0.00 vs Chelsea 0.00.",
@@ -137,16 +86,15 @@
       "kickoff": "2026-09-18T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Monza favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Monza 0.00 vs Sassuolo 0.00.",
@@ -162,16 +110,15 @@
       "kickoff": "2026-09-18T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Monaco favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Monaco 0.00 vs Lens 0.00.",
@@ -187,16 +134,15 @@
       "kickoff": "2026-09-16T17:00:00",
       "kickoff_label": "17:00",
       "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
+        "home_win": 0.597,
+        "away_win": 0.403
       },
       "prediction_label": "AI: Atlético Madrid favoured",
-      "confidence": 0.459,
+      "confidence": 0.597,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Atlético Madrid 0.00 vs Osasuna 0.00.",
