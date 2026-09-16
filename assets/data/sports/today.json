@@ -1,14 +1,27 @@
 {
-  "date": "2026-09-15",
-  "last_updated": "2026-09-15T22:34:36.797353+00:00",
-  "count": 1,
+  "date": "2026-09-16",
+  "last_updated": "2026-09-16T00:55:13.376199+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2557373",
+      "match_id": "tsdb-2506220",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Atlético Madrid",
+      "away_team": "Osasuna",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2557386",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Seattle Mariners",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
