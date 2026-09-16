@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T18:59:19.084660+00:00",
-  "count": 8,
+  "last_updated": "2026-09-16T21:57:03.919285+00:00",
+  "count": 7,
   "matches": [
     {
       "match_id": "tsdb-2494036",
@@ -9,19 +9,6 @@
       "home_team": "Leeds United",
       "away_team": "Newcastle United",
       "home_score": 4,
-      "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2506225",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Deportivo de A Coruña",
-      "away_team": "Sevilla",
-      "home_score": 0,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,
@@ -94,13 +81,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2557390",
+      "match_id": "tsdb-2557391",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Minnesota Twins",
-      "away_team": "New York Yankees",
-      "home_score": 1,
-      "away_score": null,
+      "home_team": "Toronto Blue Jays",
+      "away_team": "Detroit Tigers",
+      "home_score": 5,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

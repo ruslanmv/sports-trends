@@ -1,27 +1,14 @@
 {
   "date": "2026-09-16",
-  "last_updated": "2026-09-16T18:59:20.608213+00:00",
-  "count": 2,
+  "last_updated": "2026-09-16T21:57:05.319103+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2506219",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Barcelona",
-      "away_team": "Racing de Santander",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2557391",
+      "match_id": "tsdb-2557392",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Toronto Blue Jays",
-      "away_team": "Detroit Tigers",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Los Angeles Dodgers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
