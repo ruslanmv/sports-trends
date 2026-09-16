@@ -2,22 +2,22 @@
   "date": "2026-09-16",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-16T15:14:08.028533+00:00",
+  "last_updated": "2026-09-16T18:59:20.608222+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2557388",
+      "match_id": "tsdb-2557391",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-09-16T17:10:00",
-      "kickoff_label": "17:10",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "Detroit Tigers",
+      "kickoff": "2026-09-16T19:07:00",
+      "kickoff_label": "19:07",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cleveland Guardians favoured",
+      "prediction_label": "AI: Toronto Blue Jays favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
+        "Recent form (last 5): Toronto Blue Jays 0.00 vs Detroit Tigers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
@@ -179,19 +179,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2506220",
+      "match_id": "tsdb-2506219",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Osasuna",
-      "kickoff": "2026-09-16T17:00:00",
-      "kickoff_label": "17:00",
+      "home_team": "Barcelona",
+      "away_team": "Racing de Santander",
+      "kickoff": "2026-09-16T19:30:00",
+      "kickoff_label": "19:30",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Atlético Madrid favoured",
+      "prediction_label": "AI: Barcelona favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -199,7 +199,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlético Madrid 0.00 vs Osasuna 0.00.",
+        "Recent form (last 5): Barcelona 0.00 vs Racing de Santander 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T15:14:06.674024+00:00",
+  "last_updated": "2026-09-16T18:59:19.084660+00:00",
   "count": 8,
   "matches": [
     {
@@ -16,13 +16,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2506228",
+      "match_id": "tsdb-2506225",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Elche",
-      "away_team": "Real Madrid",
-      "home_score": 2,
-      "away_score": 3,
+      "home_team": "Deportivo de A Coruña",
+      "away_team": "Sevilla",
+      "home_score": 0,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2557387",
+      "match_id": "tsdb-2557390",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Miami Marlins",
-      "home_score": 2,
-      "away_score": 4,
+      "home_team": "Minnesota Twins",
+      "away_team": "New York Yankees",
+      "home_score": 1,
+      "away_score": null,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

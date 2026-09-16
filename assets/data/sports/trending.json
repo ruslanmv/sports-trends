@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-16T15:14:08.028565+00:00",
+  "last_updated": "2026-09-16T18:59:20.608258+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Cleveland Guardians vs Chicago White Sox",
+      "label": "Toronto Blue Jays vs Detroit Tigers",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -54,7 +54,7 @@
     },
     {
       "rank": 8,
-      "label": "Atlético Madrid vs Osasuna",
+      "label": "Barcelona vs Racing de Santander",
       "sport": "football",
       "audience": null,
       "hot": false
