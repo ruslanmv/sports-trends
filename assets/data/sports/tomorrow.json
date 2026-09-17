@@ -2,8 +2,8 @@
   "date": "2026-09-17",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-17T19:08:36.804164+00:00",
-  "count": 4,
+  "last_updated": "2026-09-17T22:18:44.878002+00:00",
+  "count": 5,
   "matches": [
     {
       "match_id": "tsdb-2508360",
@@ -52,6 +52,31 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Brentford 0.00 vs Chelsea 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506235",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Espanyol",
+      "away_team": "Elche",
+      "kickoff": "2026-09-18T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Espanyol favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Espanyol 0.00 vs Elche 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

@@ -1,27 +1,14 @@
 {
   "date": "2026-09-17",
-  "last_updated": "2026-09-17T19:08:36.804153+00:00",
-  "count": 2,
+  "last_updated": "2026-09-17T22:18:44.877991+00:00",
+  "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2506221",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Málaga",
-      "away_team": "Villarreal",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2581857",
+      "match_id": "tsdb-2581858",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "San Diego Padres",
+      "home_team": "Houston Astros",
+      "away_team": "Kansas City Royals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
