@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T15:07:57.241903+00:00",
-  "count": 7,
+  "last_updated": "2026-09-17T19:08:34.018056+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494036",
@@ -10,6 +10,19 @@
       "away_team": "Newcastle United",
       "home_score": 4,
       "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2506224",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Real Betis",
+      "away_team": "Getafe",
+      "home_score": 1,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -81,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2581853",
+      "match_id": "tsdb-2581856",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Arizona Diamondbacks",
-      "away_team": "Miami Marlins",
-      "home_score": 3,
-      "away_score": 4,
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Athletics",
+      "home_score": 7,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

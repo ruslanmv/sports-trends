@@ -1,14 +1,14 @@
 {
   "date": "2026-09-17",
-  "last_updated": "2026-09-17T15:07:58.250075+00:00",
+  "last_updated": "2026-09-17T19:08:36.804153+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2506224",
+      "match_id": "tsdb-2506221",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Real Betis",
-      "away_team": "Getafe",
+      "home_team": "Málaga",
+      "away_team": "Villarreal",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -17,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2581854",
+      "match_id": "tsdb-2581857",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Colorado Rockies",
+      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
