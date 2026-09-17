@@ -1,14 +1,35 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-16T21:57:05.319139+00:00",
-  "count": 1,
+  "last_updated": "2026-09-17T00:02:16.572899+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Real Betis vs Getafe",
+      "label": "Bayern Munich vs Union Berlin",
       "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Brentford vs Chelsea",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Monza vs Sassuolo",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Monaco vs Lens",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }

@@ -1,26 +1,51 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-16T21:57:05.319119+00:00",
+  "last_updated": "2026-09-17T00:02:16.572878+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2506224",
+      "match_id": "tsdb-2508360",
       "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Real Betis",
-      "away_team": "Getafe",
-      "kickoff": "2026-09-17T17:00:00",
-      "kickoff_label": "17:00",
+      "league": "German Bundesliga",
+      "home_team": "Bayern Munich",
+      "away_team": "Union Berlin",
+      "kickoff": "2026-09-18T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
+      },
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Bayern Munich 0.60 vs Union Berlin 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494047",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Brentford",
+      "away_team": "Chelsea",
+      "kickoff": "2026-09-18T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Real Betis favoured",
+      "prediction_label": "AI: Brentford favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -28,7 +53,57 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Real Betis 0.00 vs Getafe 0.00.",
+        "Recent form (last 5): Brentford 0.00 vs Chelsea 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482187",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Monza",
+      "away_team": "Sassuolo",
+      "kickoff": "2026-09-18T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Monza favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Monza 0.00 vs Sassuolo 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489501",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Monaco",
+      "away_team": "Lens",
+      "kickoff": "2026-09-18T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Monaco favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Monaco 0.00 vs Lens 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

@@ -1,14 +1,27 @@
 {
-  "date": "2026-09-16",
-  "last_updated": "2026-09-16T21:57:05.319103+00:00",
-  "count": 1,
+  "date": "2026-09-17",
+  "last_updated": "2026-09-17T00:02:16.572861+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2557392",
+      "match_id": "tsdb-2506224",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Real Betis",
+      "away_team": "Getafe",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2581849",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cincinnati Reds",
-      "away_team": "Los Angeles Dodgers",
+      "home_team": "Texas Rangers",
+      "away_team": "Boston Red Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
