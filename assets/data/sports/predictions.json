@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-17T08:46:05.301847+00:00",
+  "last_updated": "2026-09-17T08:48:17.771061+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -16,15 +16,16 @@
       "kickoff": "2026-09-18T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.069,
-        "away_win": 0.931
+        "home_win": 0.475,
+        "draw": 0.208,
+        "away_win": 0.317
       },
-      "prediction_label": "AI: Union Berlin favoured",
-      "confidence": 0.931,
+      "prediction_label": "AI: Bayern Munich favoured",
+      "confidence": 0.475,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bayern Munich 0.60 vs Union Berlin 0.00.",
@@ -40,15 +41,16 @@
       "kickoff": "2026-09-18T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Brentford favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Brentford 0.00 vs Chelsea 0.00.",
@@ -64,15 +66,16 @@
       "kickoff": "2026-09-18T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Monza favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Monza 0.00 vs Sassuolo 0.00.",
@@ -88,15 +91,16 @@
       "kickoff": "2026-09-18T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Monaco favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Monaco 0.00 vs Lens 0.00.",
