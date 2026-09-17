@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-16 08:42 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-17 08:46 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-16 08:42 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 15d) · NBA (in 35d)
+EuroLeague (in 14d) · NBA (in 34d)
 <!-- SEASON:END -->
 
 ---
@@ -47,10 +47,9 @@ EuroLeague (in 15d) · NBA (in 35d)
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
 | 1 | ⚽ **Bayern Munich** vs **Union Berlin** | German Bundesliga | 18:30 | Union Berlin favoured | `█████████░` 93% |
-| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Brentford** vs **Chelsea** | English Premier League | 19:00 | Brentford favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Monza** vs **Sassuolo** | Italian Serie A | 18:45 | Monza favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Monaco** vs **Lens** | French Ligue 1 | 18:45 | Monaco favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Brentford** vs **Chelsea** | English Premier League | 19:00 | Brentford favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Monza** vs **Sassuolo** | Italian Serie A | 18:45 | Monza favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Monaco** vs **Lens** | French Ligue 1 | 18:45 | Monaco favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
