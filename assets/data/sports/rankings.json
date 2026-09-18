@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T17:45:36.345598+00:00",
+  "last_updated": "2026-09-18T20:12:19.509682+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,32 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2581863",
-      "label": "Cincinnati Reds vs Chicago Cubs",
+      "match_id": "tsdb-2489504",
+      "label": "Paris FC vs Strasbourg",
       "interest_score": 50
     },
     {
       "rank": 2,
-      "match_id": "tsdb-2601616",
-      "label": "Toronto Raptors vs Miami Heat",
+      "match_id": "tsdb-2508361",
+      "label": "Werder Bremen vs Augsburg",
       "interest_score": 50
     },
     {
       "rank": 3,
-      "match_id": "tsdb-2508360",
-      "label": "Bayern Munich vs Union Berlin",
+      "match_id": "tsdb-2482179",
+      "label": "Udinese vs Cagliari",
       "interest_score": 50
     },
     {
       "rank": 4,
-      "match_id": "tsdb-2594564",
-      "label": "Lens vs Sporting CP",
+      "match_id": "tsdb-2506238",
+      "label": "Osasuna vs Rayo Vallecano",
       "interest_score": 50
     },
     {
       "rank": 5,
-      "match_id": "tsdb-2494047",
-      "label": "Brentford vs Chelsea",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2506235",
-      "label": "Espanyol vs Elche",
-      "interest_score": 50
-    },
-    {
-      "rank": 7,
-      "match_id": "tsdb-2482187",
-      "label": "Monza vs Sassuolo",
-      "interest_score": 50
-    },
-    {
-      "rank": 8,
-      "match_id": "tsdb-2489501",
-      "label": "Monaco vs Lens",
+      "match_id": "tsdb-2494044",
+      "label": "Tottenham Hotspur vs Aston Villa",
       "interest_score": 50
     }
   ]
