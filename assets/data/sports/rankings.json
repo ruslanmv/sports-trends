@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T05:25:36.445763+00:00",
+  "last_updated": "2026-09-18T08:21:51.365705+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,50 +35,50 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2581863",
-      "label": "Cincinnati Reds vs Chicago Cubs",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2601616",
-      "label": "Toronto Raptors vs Miami Heat",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
       "match_id": "tsdb-2508360",
       "label": "Bayern Munich vs Union Berlin",
       "interest_score": 50
     },
     {
-      "rank": 4,
+      "rank": 2,
       "match_id": "tsdb-2594564",
       "label": "Lens vs Sporting CP",
       "interest_score": 50
     },
     {
-      "rank": 5,
+      "rank": 3,
       "match_id": "tsdb-2494047",
       "label": "Brentford vs Chelsea",
       "interest_score": 50
     },
     {
-      "rank": 6,
+      "rank": 4,
       "match_id": "tsdb-2506235",
       "label": "Espanyol vs Elche",
       "interest_score": 50
     },
     {
-      "rank": 7,
+      "rank": 5,
       "match_id": "tsdb-2482187",
       "label": "Monza vs Sassuolo",
       "interest_score": 50
     },
     {
-      "rank": 8,
+      "rank": 6,
       "match_id": "tsdb-2489501",
       "label": "Monaco vs Lens",
+      "interest_score": 50
+    },
+    {
+      "rank": 7,
+      "match_id": "tsdb-2581863",
+      "label": "Cincinnati Reds vs Chicago Cubs",
+      "interest_score": 50
+    },
+    {
+      "rank": 8,
+      "match_id": "tsdb-2601616",
+      "label": "Toronto Raptors vs Miami Heat",
       "interest_score": 50
     }
   ]
