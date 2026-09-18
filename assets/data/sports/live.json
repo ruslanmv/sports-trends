@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T00:32:27.622919+00:00",
+  "last_updated": "2026-09-18T05:25:34.932023+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2581861",
+      "match_id": "tsdb-2581862",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Texas Rangers",
-      "away_team": "Boston Red Sox",
-      "home_score": 0,
-      "away_score": 0,
+      "home_team": "Los Angeles Angels",
+      "away_team": "Minnesota Twins",
+      "home_score": 5,
+      "away_score": 4,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

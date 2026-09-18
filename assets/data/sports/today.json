@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "last_updated": "2026-09-18T00:32:29.450199+00:00",
+  "last_updated": "2026-09-18T05:25:36.445714+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2581862",
+      "match_id": "tsdb-2581863",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Los Angeles Angels",
-      "away_team": "Minnesota Twins",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
