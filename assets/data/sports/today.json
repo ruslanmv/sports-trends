@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "last_updated": "2026-09-18T08:21:51.365654+00:00",
-  "count": 4,
+  "last_updated": "2026-09-18T08:24:15.601328+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2494047",
@@ -48,6 +48,32 @@
       "league": "German Bundesliga",
       "home_team": "Bayern Munich",
       "away_team": "Union Berlin",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2489501",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Monaco",
+      "away_team": "Lens",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2581863",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Cincinnati Reds",
+      "away_team": "Chicago Cubs",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

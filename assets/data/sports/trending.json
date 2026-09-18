@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-18T08:21:51.365701+00:00",
+  "last_updated": "2026-09-18T08:24:15.601363+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayern Munich vs Union Berlin",
-      "sport": "football",
+      "label": "Cincinnati Reds vs Chicago Cubs",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
+      "label": "Toronto Raptors vs Miami Heat",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Brentford vs Chelsea",
+      "label": "Bayern Munich vs Union Berlin",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Espanyol vs Elche",
+      "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Monza vs Sassuolo",
+      "label": "Brentford vs Chelsea",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Monaco vs Lens",
+      "label": "Espanyol vs Elche",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Cincinnati Reds vs Chicago Cubs",
-      "sport": "baseball",
+      "label": "Monza vs Sassuolo",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
+      "label": "Monaco vs Lens",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
