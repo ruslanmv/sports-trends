@@ -1,14 +1,14 @@
 {
   "date": "2026-09-19",
-  "last_updated": "2026-09-19T19:07:41.506676+00:00",
+  "last_updated": "2026-09-19T21:33:43.217703+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2601489",
+      "match_id": "tsdb-2601492",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Milwaukee Brewers",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Athletics",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
