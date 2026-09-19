@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-19T05:20:28.326559+00:00",
+  "last_updated": "2026-09-19T08:09:33.343526+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Baltimore Orioles vs Milwaukee Brewers",
-      "sport": "baseball",
+      "label": "Lens vs Sporting CP",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Paris FC vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 3,
       "label": "Werder Bremen vs Augsburg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 4,
       "label": "Udinese vs Cagliari",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 5,
       "label": "Osasuna vs Rayo Vallecano",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 8,
+      "rank": 6,
       "label": "Tottenham Hotspur vs Aston Villa",
       "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Chicago White Sox vs Detroit Tigers",
+      "sport": "baseball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Toronto Raptors vs Miami Heat",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     }

@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-18 08:22 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-19 08:09 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-18 08:22 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 13d) · NBA (in 33d)
+EuroLeague (in 12d) · NBA (in 32d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ EuroLeague (in 13d) · NBA (in 33d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Bayern Munich** vs **Union Berlin** | German Bundesliga | 18:30 | Union Berlin favoured | `█████████░` 93% |
-| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Brentford** vs **Chelsea** | English Premier League | 19:00 | Brentford favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Espanyol** vs **Elche** | Spanish La Liga | 19:00 | Espanyol favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Monza** vs **Sassuolo** | Italian Serie A | 18:45 | Monza favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Paris FC** vs **Strasbourg** | French Ligue 1 | 15:15 | Paris FC favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Werder Bremen** vs **Augsburg** | German Bundesliga | 13:30 | Werder Bremen favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Udinese** vs **Cagliari** | Italian Serie A | 13:00 | Udinese favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Osasuna** vs **Rayo Vallecano** | Spanish La Liga | 12:00 | Osasuna favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
