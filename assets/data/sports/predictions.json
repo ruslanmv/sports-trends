@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-19T16:56:39.958586+00:00",
+  "last_updated": "2026-09-19T19:07:41.506689+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -54,6 +54,81 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Bournemouth 0.00 vs Liverpool 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489503",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Auxerre",
+      "away_team": "Brest",
+      "kickoff": "2026-09-20T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Auxerre favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Auxerre 0.00 vs Brest 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506237",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Getafe",
+      "away_team": "Málaga",
+      "kickoff": "2026-09-20T12:00:00",
+      "kickoff_label": "12:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Getafe favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Getafe 0.00 vs Málaga 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482183",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Fiorentina",
+      "away_team": "Napoli",
+      "kickoff": "2026-09-20T10:30:00",
+      "kickoff_label": "10:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Fiorentina favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Fiorentina 0.00 vs Napoli 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
