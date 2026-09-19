@@ -1,38 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-19T21:33:43.217741+00:00",
-  "count": 5,
+  "last_updated": "2026-09-19T23:48:29.376226+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "Bayer Leverkusen vs RB Leipzig",
-      "sport": "football",
+      "label": "Arizona Diamondbacks vs New York Yankees",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Bournemouth vs Liverpool",
+      "label": "Bayer Leverkusen vs RB Leipzig",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Auxerre vs Brest",
+      "label": "Bournemouth vs Liverpool",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Getafe vs Málaga",
+      "label": "Auxerre vs Brest",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
+      "label": "Getafe vs Málaga",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
       "label": "Fiorentina vs Napoli",
       "sport": "football",
       "audience": null,
