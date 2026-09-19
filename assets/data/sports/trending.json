@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-19T09:38:42.629886+00:00",
+  "last_updated": "2026-09-19T13:36:14.313540+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "rank": 4,
-      "label": "Paris FC vs Strasbourg",
+      "label": "Stuttgart vs Borussia Dortmund",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Werder Bremen vs Augsburg",
+      "label": "Roma vs Inter Milan",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Udinese vs Cagliari",
+      "label": "Paris FC vs Strasbourg",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Osasuna vs Rayo Vallecano",
+      "label": "Athletic Bilbao vs Deportivo Alavés",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Tottenham Hotspur vs Aston Villa",
+      "label": "Newcastle United vs Hull City",
       "sport": "football",
       "audience": null,
       "hot": false
