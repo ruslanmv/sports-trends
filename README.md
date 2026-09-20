@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-19 08:09 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-20 08:42 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-19 08:09 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 12d) · NBA (in 32d)
+EuroLeague (in 11d) · NBA (in 31d)
 <!-- SEASON:END -->
 
 ---
@@ -47,10 +47,10 @@ EuroLeague (in 12d) · NBA (in 32d)
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
 | 1 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Paris FC** vs **Strasbourg** | French Ligue 1 | 15:15 | Paris FC favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Werder Bremen** vs **Augsburg** | German Bundesliga | 13:30 | Werder Bremen favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Udinese** vs **Cagliari** | Italian Serie A | 13:00 | Udinese favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Osasuna** vs **Rayo Vallecano** | Spanish La Liga | 12:00 | Osasuna favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Bayer Leverkusen** vs **RB Leipzig** | German Bundesliga | 13:30 | Bayer Leverkusen favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Bournemouth** vs **Liverpool** | English Premier League | 13:00 | Bournemouth favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Auxerre** vs **Brest** | French Ligue 1 | 13:00 | Auxerre favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Getafe** vs **Málaga** | Spanish La Liga | 12:00 | Getafe favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>

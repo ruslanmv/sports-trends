@@ -1,59 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-20T08:08:18.921228+00:00",
-  "count": 8,
+  "last_updated": "2026-09-20T08:42:01.912446+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Mets vs Philadelphia Phillies",
-      "sport": "baseball",
+      "label": "Lens vs Sporting CP",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Bayer Leverkusen vs RB Leipzig",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 3,
       "label": "Bournemouth vs Liverpool",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 4,
       "label": "Auxerre vs Brest",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 5,
       "label": "Getafe vs Málaga",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 8,
+      "rank": 6,
       "label": "Fiorentina vs Napoli",
       "sport": "football",
       "audience": null,
