@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T23:48:27.762263+00:00",
-  "count": 7,
+  "last_updated": "2026-09-20T02:36:25.247092+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494049",
@@ -88,6 +88,19 @@
       "away_team": "New York Knicks",
       "home_score": 90,
       "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2601503",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Angels",
+      "away_team": "Minnesota Twins",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
