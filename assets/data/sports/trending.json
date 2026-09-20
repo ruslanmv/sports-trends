@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-20T13:07:55.502014+00:00",
+  "last_updated": "2026-09-20T16:54:44.254156+00:00",
   "count": 8,
   "matches": [
     {
@@ -19,42 +19,42 @@
     },
     {
       "rank": 3,
-      "label": "Lens vs Sporting CP",
+      "label": "Arsenal vs Leeds United",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Juventus vs Atalanta",
+      "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Fulham vs Manchester United",
+      "label": "Valencia vs Real Sociedad",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Nice vs Lille",
+      "label": "AC Milan vs Lecce",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Atlético Madrid vs Real Madrid",
+      "label": "Marseille vs Paris Saint-Germain",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Bayer Leverkusen vs RB Leipzig",
+      "label": "Paderborn vs Hoffenheim",
       "sport": "football",
       "audience": null,
       "hot": false

@@ -1,27 +1,14 @@
 {
   "date": "2026-09-20",
-  "last_updated": "2026-09-20T13:07:55.501967+00:00",
-  "count": 6,
+  "last_updated": "2026-09-20T16:54:44.254107+00:00",
+  "count": 5,
   "matches": [
     {
-      "match_id": "tsdb-2494042",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Fulham",
-      "away_team": "Manchester United",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2506229",
+      "match_id": "tsdb-2506231",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Real Madrid",
+      "home_team": "Valencia",
+      "away_team": "Real Sociedad",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -30,11 +17,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482180",
+      "match_id": "tsdb-2482178",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Juventus",
-      "away_team": "Atalanta",
+      "home_team": "AC Milan",
+      "away_team": "Lecce",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -43,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2508363",
+      "match_id": "tsdb-2508368",
       "sport": "football",
       "league": "German Bundesliga",
-      "home_team": "Bayer Leverkusen",
-      "away_team": "RB Leipzig",
+      "home_team": "Paderborn",
+      "away_team": "Hoffenheim",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
@@ -56,11 +43,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2489500",
+      "match_id": "tsdb-2489506",
       "sport": "football",
       "league": "French Ligue 1",
-      "home_team": "Nice",
-      "away_team": "Lille",
+      "home_team": "Marseille",
+      "away_team": "Paris Saint-Germain",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

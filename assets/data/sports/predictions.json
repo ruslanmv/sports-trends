@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-20T13:07:55.501982+00:00",
+  "last_updated": "2026-09-20T16:54:44.254123+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -56,6 +56,31 @@
       ]
     },
     {
+      "match_id": "tsdb-2494052",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Leeds United",
+      "kickoff": "2026-10-10T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.47,
+        "draw": 0.21,
+        "away_win": 0.319
+      },
+      "prediction_label": "AI: Arsenal favoured",
+      "confidence": 0.47,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Leeds United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
       "match_id": "tsdb-2594564",
       "sport": "football",
       "league": "UEFA Champions League",
@@ -81,119 +106,19 @@
       ]
     },
     {
-      "match_id": "tsdb-2482180",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Juventus",
-      "away_team": "Atalanta",
-      "kickoff": "2026-09-20T16:00:00",
-      "kickoff_label": "16:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Juventus favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Juventus 0.00 vs Atalanta 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494042",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Fulham",
-      "away_team": "Manchester United",
-      "kickoff": "2026-09-20T15:30:00",
-      "kickoff_label": "15:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Fulham favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Fulham 0.00 vs Manchester United 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489500",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Nice",
-      "away_team": "Lille",
-      "kickoff": "2026-09-20T15:15:00",
-      "kickoff_label": "15:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Nice favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Nice 0.00 vs Lille 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506229",
+      "match_id": "tsdb-2506231",
       "sport": "football",
       "league": "Spanish La Liga",
-      "home_team": "Atlético Madrid",
-      "away_team": "Real Madrid",
-      "kickoff": "2026-09-20T14:15:00",
-      "kickoff_label": "14:15",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.215,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Atlético Madrid favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlético Madrid 0.00 vs Real Madrid 0.60.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508363",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Bayer Leverkusen",
-      "away_team": "RB Leipzig",
-      "kickoff": "2026-09-20T13:30:00",
-      "kickoff_label": "13:30",
+      "home_team": "Valencia",
+      "away_team": "Real Sociedad",
+      "kickoff": "2026-09-20T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Bayer Leverkusen favoured",
+      "prediction_label": "AI: Valencia favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -201,7 +126,82 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Bayer Leverkusen 0.00 vs RB Leipzig 0.00.",
+        "Recent form (last 5): Valencia 0.00 vs Real Sociedad 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482178",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "AC Milan",
+      "away_team": "Lecce",
+      "kickoff": "2026-09-20T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: AC Milan favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): AC Milan 0.00 vs Lecce 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489506",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Marseille",
+      "away_team": "Paris Saint-Germain",
+      "kickoff": "2026-09-20T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Marseille favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Marseille 0.00 vs Paris Saint-Germain 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508368",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Paderborn",
+      "away_team": "Hoffenheim",
+      "kickoff": "2026-09-20T17:30:00",
+      "kickoff_label": "17:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Paderborn favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Paderborn 0.00 vs Hoffenheim 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
