@@ -1,11 +1,11 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-20T16:54:44.254156+00:00",
+  "last_updated": "2026-09-20T19:12:09.523033+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Mets vs Philadelphia Phillies",
+      "label": "Los Angeles Angels vs Minnesota Twins",
       "sport": "baseball",
       "audience": null,
       "hot": true
@@ -33,28 +33,28 @@
     },
     {
       "rank": 5,
-      "label": "Valencia vs Real Sociedad",
+      "label": "Genoa vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "AC Milan vs Lecce",
+      "label": "Málaga vs Espanyol",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Marseille vs Paris Saint-Germain",
+      "label": "Lens vs Lyon",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Paderborn vs Hoffenheim",
+      "label": "Borussia Dortmund vs Werder Bremen",
       "sport": "football",
       "audience": null,
       "hot": false

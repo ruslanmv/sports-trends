@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T16:54:44.254159+00:00",
+  "last_updated": "2026-09-20T19:12:09.523037+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2601504",
-      "label": "New York Mets vs Philadelphia Phillies",
+      "match_id": "tsdb-2601514",
+      "label": "Los Angeles Angels vs Minnesota Twins",
       "interest_score": 50
     },
     {
@@ -59,26 +59,26 @@
     },
     {
       "rank": 5,
-      "match_id": "tsdb-2506231",
-      "label": "Valencia vs Real Sociedad",
+      "match_id": "tsdb-2482192",
+      "label": "Genoa vs Fiorentina",
       "interest_score": 50
     },
     {
       "rank": 6,
-      "match_id": "tsdb-2482178",
-      "label": "AC Milan vs Lecce",
+      "match_id": "tsdb-2506240",
+      "label": "Málaga vs Espanyol",
       "interest_score": 50
     },
     {
       "rank": 7,
-      "match_id": "tsdb-2489506",
-      "label": "Marseille vs Paris Saint-Germain",
+      "match_id": "tsdb-2489515",
+      "label": "Lens vs Lyon",
       "interest_score": 50
     },
     {
       "rank": 8,
-      "match_id": "tsdb-2508368",
-      "label": "Paderborn vs Hoffenheim",
+      "match_id": "tsdb-2508371",
+      "label": "Borussia Dortmund vs Werder Bremen",
       "interest_score": 50
     }
   ]
