@@ -1,6 +1,6 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-20T08:44:05.888389+00:00",
+  "last_updated": "2026-09-20T13:07:55.502014+00:00",
   "count": 8,
   "matches": [
     {
@@ -26,35 +26,35 @@
     },
     {
       "rank": 4,
-      "label": "Bayer Leverkusen vs RB Leipzig",
+      "label": "Juventus vs Atalanta",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Bournemouth vs Liverpool",
+      "label": "Fulham vs Manchester United",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Auxerre vs Brest",
+      "label": "Nice vs Lille",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "Getafe vs Málaga",
+      "label": "Atlético Madrid vs Real Madrid",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Fiorentina vs Napoli",
+      "label": "Bayer Leverkusen vs RB Leipzig",
       "sport": "football",
       "audience": null,
       "hot": false
