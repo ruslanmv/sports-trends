@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-20 08:42 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-21 09:05 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-20 08:42 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 11d) · NBA (in 31d)
+EuroLeague (in 10d) · NBA (in 30d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,11 @@ EuroLeague (in 11d) · NBA (in 31d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Bayer Leverkusen** vs **RB Leipzig** | German Bundesliga | 13:30 | Bayer Leverkusen favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Bournemouth** vs **Liverpool** | English Premier League | 13:00 | Bournemouth favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Auxerre** vs **Brest** | French Ligue 1 | 13:00 | Auxerre favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Getafe** vs **Málaga** | Spanish La Liga | 12:00 | Getafe favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Arsenal** vs **Leeds United** | English Premier League | 11:30 | Leeds United favoured | `█████████░` 90% |
+| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Genoa** vs **Fiorentina** | Italian Serie A | 13:00 | Genoa favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Málaga** vs **Espanyol** | Spanish La Liga | 19:00 | Málaga favoured | `██████░░░░` 60% |
+| 5 | ⚽ **Lens** vs **Lyon** | French Ligue 1 | 18:45 | Lens favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
