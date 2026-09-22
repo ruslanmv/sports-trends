@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-09-22T08:39:14.279116+00:00",
+  "last_updated": "2026-09-22T08:42:10.810640+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Arsenal vs Leeds United",
-      "sport": "football",
+      "label": "New York Yankees vs Tampa Bay Rays",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
+      "label": "Toronto Raptors vs Miami Heat",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
-      "label": "Genoa vs Fiorentina",
+      "label": "Arsenal vs Leeds United",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 4,
-      "label": "Málaga vs Espanyol",
+      "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 5,
-      "label": "Lens vs Lyon",
+      "label": "Genoa vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 6,
-      "label": "Borussia Dortmund vs Werder Bremen",
+      "label": "Málaga vs Espanyol",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 7,
-      "label": "New York Yankees vs Tampa Bay Rays",
-      "sport": "baseball",
+      "label": "Lens vs Lyon",
+      "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 8,
-      "label": "Toronto Raptors vs Miami Heat",
-      "sport": "basketball",
+      "label": "Borussia Dortmund vs Werder Bremen",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
