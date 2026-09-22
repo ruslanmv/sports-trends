@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T17:27:33.368455+00:00",
+  "last_updated": "2026-09-22T20:21:10.926220+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,7 +99,7 @@
       "league": "MLB",
       "home_team": "New York Yankees",
       "away_team": "Tampa Bay Rays",
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 0,
       "status": "finished",
       "status_detail": null,
