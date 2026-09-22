@@ -1,14 +1,14 @@
 {
   "date": "2026-09-22",
-  "last_updated": "2026-09-22T01:41:46.517328+00:00",
+  "last_updated": "2026-09-22T07:05:54.626039+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2605685",
+      "match_id": "tsdb-2387647",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Minnesota Twins",
+      "home_team": "New York Yankees",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

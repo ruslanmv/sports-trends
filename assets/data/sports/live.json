@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T01:41:45.428048+00:00",
+  "last_updated": "2026-09-22T07:05:53.577242+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,12 +94,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2605684",
+      "match_id": "tsdb-2605685",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Washington Nationals",
-      "home_score": 9,
+      "home_team": "San Francisco Giants",
+      "away_team": "Minnesota Twins",
+      "home_score": 5,
       "away_score": 2,
       "status": "finished",
       "status_detail": null,

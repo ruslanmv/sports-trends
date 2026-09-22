@@ -2,22 +2,22 @@
   "date": "2026-09-22",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-09-22T01:41:46.517339+00:00",
+  "last_updated": "2026-09-22T07:05:54.626051+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2605685",
+      "match_id": "tsdb-2387647",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Francisco Giants",
-      "away_team": "Minnesota Twins",
-      "kickoff": "2026-09-22T01:45:00",
-      "kickoff_label": "01:45",
+      "home_team": "New York Yankees",
+      "away_team": "Tampa Bay Rays",
+      "kickoff": "2026-09-22T17:05:00",
+      "kickoff_label": "17:05",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: San Francisco Giants favoured",
+      "prediction_label": "AI: New York Yankees favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,7 +25,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): San Francisco Giants 0.00 vs Minnesota Twins 0.00.",
+        "Recent form (last 5): New York Yankees 0.00 vs Tampa Bay Rays 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
