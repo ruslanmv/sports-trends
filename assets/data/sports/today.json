@@ -1,14 +1,14 @@
 {
   "date": "2026-09-22",
-  "last_updated": "2026-09-22T20:21:12.000521+00:00",
+  "last_updated": "2026-09-22T23:06:02.185187+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2606507",
+      "match_id": "tsdb-2606513",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Baltimore Orioles",
-      "away_team": "Toronto Blue Jays",
+      "home_team": "Atlanta Braves",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

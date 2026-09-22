@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T20:21:12.000567+00:00",
+  "last_updated": "2026-09-22T23:06:02.185236+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2606507",
-      "label": "Baltimore Orioles vs Toronto Blue Jays",
+      "match_id": "tsdb-2606513",
+      "label": "Atlanta Braves vs Cincinnati Reds",
       "interest_score": 50
     },
     {
