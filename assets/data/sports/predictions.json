@@ -1,12 +1,156 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-09-22T07:05:54.626055+00:00",
+  "last_updated": "2026-09-22T08:39:14.279044+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
+    {
+      "match_id": "tsdb-2494052",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Leeds United",
+      "kickoff": "2026-10-10T11:30:00",
+      "kickoff_label": "11:30",
+      "probabilities": {
+        "home_win": 0.103,
+        "away_win": 0.897
+      },
+      "prediction_label": "AI: Leeds United favoured",
+      "confidence": 0.897,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Arsenal 0.60 vs Leeds United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2594564",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Lens",
+      "away_team": "Sporting CP",
+      "kickoff": "2026-10-13T16:45:00",
+      "kickoff_label": "16:45",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482192",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Genoa",
+      "away_team": "Fiorentina",
+      "kickoff": "2026-10-10T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Genoa favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Genoa 0.00 vs Fiorentina 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506240",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Málaga",
+      "away_team": "Espanyol",
+      "kickoff": "2026-10-09T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Málaga favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Málaga 0.00 vs Espanyol 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489515",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Lens",
+      "away_team": "Lyon",
+      "kickoff": "2026-10-09T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Lens favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Lens 0.00 vs Lyon 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508371",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Werder Bremen",
+      "kickoff": "2026-10-09T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.597,
+        "away_win": 0.403
+      },
+      "prediction_label": "AI: Borussia Dortmund favoured",
+      "confidence": 0.597,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": true,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Borussia Dortmund 0.00 vs Werder Bremen 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
     {
       "match_id": "tsdb-2387647",
       "sport": "baseball",
@@ -40,168 +184,18 @@
       "kickoff": "2026-10-03T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
-        "home_win": 0.557,
-        "away_win": 0.443
+        "home_win": 0.5,
+        "away_win": 0.5
       },
       "prediction_label": "AI: Toronto Raptors favoured",
-      "confidence": 0.557,
+      "confidence": 0.5,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": false,
+      "model_used": true,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Toronto Raptors 0.00 vs Miami Heat 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494052",
-      "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Arsenal",
-      "away_team": "Leeds United",
-      "kickoff": "2026-10-10T11:30:00",
-      "kickoff_label": "11:30",
-      "probabilities": {
-        "home_win": 0.47,
-        "draw": 0.21,
-        "away_win": 0.319
-      },
-      "prediction_label": "AI: Arsenal favoured",
-      "confidence": 0.47,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Arsenal 0.60 vs Leeds United 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2594564",
-      "sport": "football",
-      "league": "UEFA Champions League",
-      "home_team": "Lens",
-      "away_team": "Sporting CP",
-      "kickoff": "2026-10-13T16:45:00",
-      "kickoff_label": "16:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lens favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482192",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Fiorentina",
-      "kickoff": "2026-10-10T13:00:00",
-      "kickoff_label": "13:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Genoa favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Genoa 0.00 vs Fiorentina 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506240",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Málaga",
-      "away_team": "Espanyol",
-      "kickoff": "2026-10-09T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Málaga favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Málaga 0.00 vs Espanyol 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2489515",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lens",
-      "away_team": "Lyon",
-      "kickoff": "2026-10-09T18:45:00",
-      "kickoff_label": "18:45",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Lens favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Lens 0.00 vs Lyon 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2508371",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Borussia Dortmund",
-      "away_team": "Werder Bremen",
-      "kickoff": "2026-10-09T18:30:00",
-      "kickoff_label": "18:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Borussia Dortmund favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Borussia Dortmund 0.00 vs Werder Bremen 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
