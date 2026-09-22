@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T12:43:44.085951+00:00",
+  "last_updated": "2026-09-22T17:27:34.739266+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2387647",
-      "label": "New York Yankees vs Tampa Bay Rays",
+      "match_id": "tsdb-2606507",
+      "label": "Baltimore Orioles vs Toronto Blue Jays",
       "interest_score": 50
     },
     {
