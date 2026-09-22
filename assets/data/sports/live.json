@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T23:26:18.923893+00:00",
+  "last_updated": "2026-09-22T01:41:45.428048+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Detroit Tigers",
       "away_team": "Washington Nationals",
-      "home_score": 2,
-      "away_score": null,
+      "home_score": 9,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
