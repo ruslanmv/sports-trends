@@ -1,14 +1,14 @@
 {
   "date": "2026-09-23",
-  "last_updated": "2026-09-23T01:36:12.333275+00:00",
+  "last_updated": "2026-09-23T07:03:51.645820+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2606518",
+      "match_id": "tsdb-2606522",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Athletics",
-      "away_team": "Los Angeles Angels",
+      "home_team": "Detroit Tigers",
+      "away_team": "Washington Nationals",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
