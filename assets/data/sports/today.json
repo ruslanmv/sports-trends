@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-23",
-  "last_updated": "2026-09-23T23:22:16.411743+00:00",
+  "date": "2026-09-24",
+  "last_updated": "2026-09-24T01:33:25.089057+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2606530",
+      "match_id": "tsdb-2606534",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Chicago Cubs",
-      "away_team": "Miami Marlins",
+      "home_team": "Athletics",
+      "away_team": "Los Angeles Angels",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

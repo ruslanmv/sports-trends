@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T23:22:16.411793+00:00",
+  "last_updated": "2026-09-24T01:33:25.089100+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2606530",
-      "label": "Chicago Cubs vs Miami Marlins",
+      "match_id": "tsdb-2606534",
+      "label": "Athletics vs Los Angeles Angels",
       "interest_score": 50
     },
     {
