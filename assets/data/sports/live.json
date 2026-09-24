@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T12:35:19.465696+00:00",
+  "last_updated": "2026-09-24T17:40:10.214331+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2606536",
+      "match_id": "tsdb-2606537",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Seattle Mariners",
-      "away_team": "Houston Astros",
-      "home_score": 6,
-      "away_score": 5,
+      "home_team": "Pittsburgh Pirates",
+      "away_team": "St. Louis Cardinals",
+      "home_score": 1,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
