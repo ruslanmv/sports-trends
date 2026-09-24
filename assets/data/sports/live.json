@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T17:40:10.214331+00:00",
+  "last_updated": "2026-09-24T20:58:27.626438+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2606537",
+      "match_id": "tsdb-2606541",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Pittsburgh Pirates",
-      "away_team": "St. Louis Cardinals",
+      "home_team": "Colorado Rockies",
+      "away_team": "Arizona Diamondbacks",
       "home_score": 1,
-      "away_score": 1,
+      "away_score": 11,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
