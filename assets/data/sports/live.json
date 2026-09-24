@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T20:58:27.626438+00:00",
+  "last_updated": "2026-09-24T23:46:42.846922+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2606541",
+      "match_id": "tsdb-2608245",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Colorado Rockies",
-      "away_team": "Arizona Diamondbacks",
-      "home_score": 1,
-      "away_score": 11,
+      "home_team": "Atlanta Braves",
+      "away_team": "Cincinnati Reds",
+      "home_score": 4,
+      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
