@@ -1,14 +1,14 @@
 {
   "date": "2026-09-25",
-  "last_updated": "2026-09-25T14:00:32.794057+00:00",
+  "last_updated": "2026-09-25T18:23:31.555592+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2608282",
+      "match_id": "tsdb-2608252",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Boston Red Sox",
-      "away_team": "Chicago Cubs",
+      "home_team": "New York Yankees",
+      "away_team": "Baltimore Orioles",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
