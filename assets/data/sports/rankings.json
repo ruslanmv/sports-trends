@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T18:23:31.555649+00:00",
+  "last_updated": "2026-09-25T21:44:09.559228+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2608252",
-      "label": "New York Yankees vs Baltimore Orioles",
+      "match_id": "tsdb-2608249",
+      "label": "Detroit Tigers vs Pittsburgh Pirates",
       "interest_score": 50
     },
     {

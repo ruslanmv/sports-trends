@@ -1,14 +1,14 @@
 {
   "date": "2026-09-25",
-  "last_updated": "2026-09-25T18:23:31.555592+00:00",
+  "last_updated": "2026-09-25T21:44:09.559179+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2608252",
+      "match_id": "tsdb-2608249",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "New York Yankees",
-      "away_team": "Baltimore Orioles",
+      "home_team": "Detroit Tigers",
+      "away_team": "Pittsburgh Pirates",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
