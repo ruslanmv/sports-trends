@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T18:11:21.490974+00:00",
+  "last_updated": "2026-09-26T21:20:58.597265+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2608265",
-      "label": "Toronto Blue Jays vs Cincinnati Reds",
+      "match_id": "tsdb-2608270",
+      "label": "Milwaukee Brewers vs St. Louis Cardinals",
       "interest_score": 50
     },
     {
