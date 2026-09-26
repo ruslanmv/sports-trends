@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-09-25T21:44:06.520408+00:00",
-  "today": "2026-09-25",
+  "last_updated": "2026-09-26T00:17:14.827048+00:00",
+  "today": "2026-09-26",
   "featured": {
     "key": "ucl",
     "name": "UEFA Champions League",
@@ -95,7 +95,7 @@
       "importance": 80,
       "emoji": "🏀",
       "start": "2026-10-01",
-      "starts_in_days": 6
+      "starts_in_days": 5
     },
     {
       "key": "nba",
@@ -105,7 +105,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 26
+      "starts_in_days": 25
     }
   ]
 }
