@@ -1,14 +1,14 @@
 {
   "date": "2026-09-26",
-  "last_updated": "2026-09-26T14:36:54.150244+00:00",
+  "last_updated": "2026-09-26T18:11:21.490923+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2608264",
+      "match_id": "tsdb-2608265",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Detroit Tigers",
-      "away_team": "Pittsburgh Pirates",
+      "home_team": "Toronto Blue Jays",
+      "away_team": "Cincinnati Reds",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
