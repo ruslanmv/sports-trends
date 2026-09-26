@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T08:42:21.723217+00:00",
-  "count": 4,
+  "last_updated": "2026-09-26T08:44:47.793144+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494042",
@@ -49,6 +49,58 @@
       "away_team": "Hoffenheim",
       "home_score": 3,
       "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2489506",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Marseille",
+      "away_team": "Paris Saint-Germain",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2594669",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "home_team": "Como",
+      "away_team": "RB Leipzig",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2483461",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "San Antonio Spurs",
+      "away_team": "New York Knicks",
+      "home_score": 90,
+      "away_score": 94,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2608263",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "San Francisco Giants",
+      "away_team": "Los Angeles Dodgers",
+      "home_score": 0,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
