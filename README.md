@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-27 09:23 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-28 09:56 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-27 09:23 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 4d) · NBA (in 24d)
+EuroLeague (in 3d) · NBA (in 23d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,7 @@ EuroLeague (in 4d) · NBA (in 24d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Arsenal** vs **Leeds United** | English Premier League | 11:30 | Leeds United favoured | `█████████░` 90% |
-| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Genoa** vs **Fiorentina** | Italian Serie A | 13:00 | Genoa favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Málaga** vs **Espanyol** | Spanish La Liga | 19:00 | Málaga favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Lens** vs **Lyon** | French Ligue 1 | 18:45 | Lens favoured | `██████░░░░` 60% |
+| 1 | ⚾ **Atlanta Braves** vs **Philadelphia Phillies** | MLB | 18:00 | Atlanta Braves favoured | `██████░░░░` 58% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
