@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T21:45:38.526680+00:00",
+  "last_updated": "2026-09-28T00:09:44.612064+00:00",
   "count": 8,
   "matches": [
     {
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Seattle Mariners",
       "away_team": "Los Angeles Angels",
-      "home_score": 6,
-      "away_score": 1,
+      "home_score": 7,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
