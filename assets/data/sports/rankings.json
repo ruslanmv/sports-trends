@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T00:55:27.855844+00:00",
+  "last_updated": "2026-09-30T06:12:24.906648+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,8 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2610871",
-      "label": "San Diego Padres vs Chicago Cubs",
+      "match_id": "tsdb-2610872",
+      "label": "Atlanta Braves vs Philadelphia Phillies",
       "interest_score": 50
     },
     {
