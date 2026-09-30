@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-29 09:58 UTC** — refreshed automatically every day._
+_Last updated: **2026-09-30 09:49 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-09-29 09:58 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-EuroLeague (in 2d) · NBA (in 22d)
+EuroLeague (in 1d) · NBA (in 21d)
 <!-- SEASON:END -->
 
 ---
