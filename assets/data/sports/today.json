@@ -1,14 +1,14 @@
 {
   "date": "2026-09-30",
-  "last_updated": "2026-09-30T12:53:14.993738+00:00",
+  "last_updated": "2026-09-30T18:13:23.443310+00:00",
   "count": 1,
   "matches": [
     {
-      "match_id": "tsdb-2610872",
+      "match_id": "tsdb-2610873",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Atlanta Braves",
-      "away_team": "Philadelphia Phillies",
+      "home_team": "Houston Astros",
+      "away_team": "Chicago White Sox",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
