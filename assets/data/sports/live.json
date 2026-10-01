@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T22:27:03.971449+00:00",
+  "last_updated": "2026-10-01T01:24:25.009437+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2610873",
+      "match_id": "tsdb-2610467",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Houston Astros",
-      "away_team": "Chicago White Sox",
-      "home_score": 2,
-      "away_score": 4,
+      "home_team": "New York Yankees",
+      "away_team": "Boston Red Sox",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

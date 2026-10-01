@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-09-30T22:27:02.323993+00:00",
-  "today": "2026-09-30",
+  "last_updated": "2026-10-01T01:24:23.679072+00:00",
+  "today": "2026-10-01",
   "featured": {
     "key": "ucl",
     "name": "UEFA Champions League",
@@ -70,6 +70,14 @@
       "emoji": "🇫🇷"
     },
     {
+      "key": "euroleague",
+      "name": "EuroLeague",
+      "sport": "basketball",
+      "scope": "franchise",
+      "importance": 80,
+      "emoji": "🏀"
+    },
+    {
       "key": "mlb",
       "name": "MLB",
       "sport": "baseball",
@@ -88,16 +96,6 @@
   ],
   "upcoming": [
     {
-      "key": "euroleague",
-      "name": "EuroLeague",
-      "sport": "basketball",
-      "scope": "franchise",
-      "importance": 80,
-      "emoji": "🏀",
-      "start": "2026-10-01",
-      "starts_in_days": 1
-    },
-    {
       "key": "nba",
       "name": "NBA",
       "sport": "basketball",
@@ -105,7 +103,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 21
+      "starts_in_days": 20
     }
   ]
 }
