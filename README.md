@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-09-30 09:49 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-01 10:16 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -30,11 +30,11 @@ _Last updated: **2026-09-30 09:49 UTC** — refreshed automatically every day._
 
 **In season today:**
 
-⭐ UEFA Champions League · 🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · ⚾ MLB · 🎮 Esports Majors
+⭐ UEFA Champions League · 🏴 Premier League · 🇪🇸 La Liga · 🇮🇹 Serie A · 🇩🇪 Bundesliga · 🇫🇷 Ligue 1 · 🏀 EuroLeague · ⚾ MLB
 
 **Starting soon:**
 
-EuroLeague (in 1d) · NBA (in 21d)
+NBA (in 20d)
 <!-- SEASON:END -->
 
 ---
