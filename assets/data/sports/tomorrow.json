@@ -2,33 +2,9 @@
   "date": "2026-10-02",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-02T09:57:27.191933+00:00",
-  "count": 2,
+  "last_updated": "2026-10-02T16:04:56.261304+00:00",
+  "count": 1,
   "matches": [
-    {
-      "match_id": "tsdb-2611747",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-10-03T17:00:00",
-      "kickoff_label": "17:00",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Cleveland Guardians favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
     {
       "match_id": "tsdb-2601616",
       "sport": "basketball",
