@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T16:04:56.261330+00:00",
+  "last_updated": "2026-10-02T20:50:55.172908+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,12 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2611747",
+      "label": "Cleveland Guardians vs Chicago White Sox",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
       "match_id": "tsdb-2601616",
       "label": "Toronto Raptors vs Miami Heat",
       "interest_score": 50
