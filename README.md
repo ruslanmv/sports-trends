@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-01 10:16 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-02 09:54 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-01 10:16 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 20d)
+NBA (in 19d)
 <!-- SEASON:END -->
 
 ---
@@ -46,11 +46,8 @@ NBA (in 20d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Arsenal** vs **Leeds United** | English Premier League | 11:30 | Leeds United favoured | `█████████░` 90% |
-| 2 | ⚽ **Lens** vs **Sporting CP** | UEFA Champions League | 16:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Genoa** vs **Fiorentina** | Italian Serie A | 13:00 | Genoa favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Málaga** vs **Espanyol** | Spanish La Liga | 19:00 | Málaga favoured | `██████░░░░` 60% |
-| 5 | ⚽ **Lens** vs **Lyon** | French Ligue 1 | 18:45 | Lens favoured | `██████░░░░` 60% |
+| 1 | ⚾ **Cleveland Guardians** vs **Chicago White Sox** | MLB | 17:00 | Cleveland Guardians favoured | `██████░░░░` 58% |
+| 2 | 🏀 **Toronto Raptors** vs **Miami Heat** | NBA | 23:00 | Toronto Raptors favoured | `█████░░░░░` 50% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
