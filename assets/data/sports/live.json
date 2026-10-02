@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T23:46:17.603381+00:00",
+  "last_updated": "2026-10-02T03:20:28.474147+00:00",
   "count": 8,
   "matches": [
     {
@@ -94,13 +94,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2610874",
+      "match_id": "tsdb-2611746",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Chicago Cubs",
-      "home_score": 4,
-      "away_score": 1,
+      "home_team": "Atlanta Braves",
+      "away_team": "Philadelphia Phillies",
+      "home_score": 6,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

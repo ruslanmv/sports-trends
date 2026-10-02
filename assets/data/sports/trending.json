@@ -1,14 +1,21 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-01T23:46:19.178020+00:00",
-  "count": 1,
+  "last_updated": "2026-10-02T03:20:29.459628+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
-      "label": "Atlanta Braves vs Philadelphia Phillies",
+      "label": "Cleveland Guardians vs Chicago White Sox",
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Toronto Raptors vs Miami Heat",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
     }
   ]
 }
