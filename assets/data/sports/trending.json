@@ -1,59 +1,45 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-04T06:07:17.439175+00:00",
-  "count": 8,
+  "last_updated": "2026-10-04T09:55:57.176832+00:00",
+  "count": 6,
   "matches": [
     {
       "rank": 1,
-      "label": "Milwaukee Brewers vs San Diego Padres",
-      "sport": "baseball",
+      "label": "Arsenal vs Leeds United",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Denver Nuggets vs Utah Jazz",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Leeds United",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 3,
       "label": "Genoa vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 4,
       "label": "Málaga vs Espanyol",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 5,
       "label": "Lens vs Lyon",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 8,
+      "rank": 6,
       "label": "Borussia Dortmund vs Werder Bremen",
       "sport": "football",
       "audience": null,
