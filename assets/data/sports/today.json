@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
-  "last_updated": "2026-10-04T17:12:39.339286+00:00",
-  "count": 2,
+  "last_updated": "2026-10-04T20:17:57.711217+00:00",
+  "count": 1,
   "matches": [
     {
       "match_id": "tsdb-2601617",
@@ -9,19 +9,6 @@
       "league": "NBA",
       "home_team": "Denver Nuggets",
       "away_team": "Utah Jazz",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2611750",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "San Diego Padres",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
