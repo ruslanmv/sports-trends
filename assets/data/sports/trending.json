@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-04T20:17:57.711250+00:00",
-  "count": 1,
+  "last_updated": "2026-10-04T23:22:20.580829+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
@@ -9,6 +9,13 @@
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Atlanta Hawks vs Memphis Grizzlies",
+      "sport": "basketball",
+      "audience": null,
+      "hot": false
     }
   ]
 }
