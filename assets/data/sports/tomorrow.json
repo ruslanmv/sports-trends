@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-03T21:55:31.273843+00:00",
+  "last_updated": "2026-10-04T00:16:24.077700+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2611748",
+      "match_id": "tsdb-2611749",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "New York Yankees",
-      "kickoff": "2026-10-03T22:30:00",
-      "kickoff_label": "22:30",
+      "home_team": "Milwaukee Brewers",
+      "away_team": "San Diego Padres",
+      "kickoff": "2026-10-04T00:30:00",
+      "kickoff_label": "00:30",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Tampa Bay Rays favoured",
+      "prediction_label": "AI: Milwaukee Brewers favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -25,23 +25,23 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Tampa Bay Rays 0.00 vs New York Yankees 0.00.",
+        "Recent form (last 5): Milwaukee Brewers 0.00 vs San Diego Padres 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2601616",
+      "match_id": "tsdb-2601617",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Toronto Raptors",
-      "away_team": "Miami Heat",
-      "kickoff": "2026-10-03T23:00:00",
+      "home_team": "Denver Nuggets",
+      "away_team": "Utah Jazz",
+      "kickoff": "2026-10-04T23:00:00",
       "kickoff_label": "23:00",
       "probabilities": {
         "home_win": 0.557,
         "away_win": 0.443
       },
-      "prediction_label": "AI: Toronto Raptors favoured",
+      "prediction_label": "AI: Denver Nuggets favoured",
       "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
@@ -49,7 +49,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Toronto Raptors 0.00 vs Miami Heat 0.00.",
+        "Recent form (last 5): Denver Nuggets 0.00 vs Utah Jazz 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

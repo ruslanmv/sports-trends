@@ -1,18 +1,18 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-03T21:55:31.273881+00:00",
+  "last_updated": "2026-10-04T00:16:24.077736+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Tampa Bay Rays vs New York Yankees",
+      "label": "Milwaukee Brewers vs San Diego Padres",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Toronto Raptors vs Miami Heat",
+      "label": "Denver Nuggets vs Utah Jazz",
       "sport": "basketball",
       "audience": null,
       "hot": false
