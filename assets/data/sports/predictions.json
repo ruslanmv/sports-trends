@@ -1,20 +1,20 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-04T00:16:24.077704+00:00",
+  "last_updated": "2026-10-04T06:07:17.439121+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2611749",
+      "match_id": "tsdb-2611750",
       "sport": "baseball",
       "league": "MLB",
       "home_team": "Milwaukee Brewers",
       "away_team": "San Diego Padres",
-      "kickoff": "2026-10-04T00:30:00",
-      "kickoff_label": "00:30",
+      "kickoff": "2026-10-04T20:00:00",
+      "kickoff_label": "20:00",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415

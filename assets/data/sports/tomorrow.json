@@ -2,17 +2,17 @@
   "date": "2026-10-04",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-04T00:16:24.077700+00:00",
+  "last_updated": "2026-10-04T06:07:17.439117+00:00",
   "count": 8,
   "matches": [
     {
-      "match_id": "tsdb-2611749",
+      "match_id": "tsdb-2611750",
       "sport": "baseball",
       "league": "MLB",
       "home_team": "Milwaukee Brewers",
       "away_team": "San Diego Padres",
-      "kickoff": "2026-10-04T00:30:00",
-      "kickoff_label": "00:30",
+      "kickoff": "2026-10-04T20:00:00",
+      "kickoff_label": "20:00",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415

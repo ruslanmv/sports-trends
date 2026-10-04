@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T00:16:23.028267+00:00",
-  "count": 7,
+  "last_updated": "2026-10-04T06:07:15.873452+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494042",
@@ -81,13 +81,26 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2611748",
+      "match_id": "tsdb-2601616",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Toronto Raptors",
+      "away_team": "Miami Heat",
+      "home_score": 129,
+      "away_score": 105,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2611749",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "New York Yankees",
-      "home_score": 1,
-      "away_score": null,
+      "home_team": "Milwaukee Brewers",
+      "away_team": "San Diego Padres",
+      "home_score": 3,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
