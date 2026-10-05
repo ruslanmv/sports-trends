@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T02:11:48.526151+00:00",
+  "last_updated": "2026-10-05T09:20:34.073917+00:00",
   "count": 8,
   "matches": [
     {
@@ -86,8 +86,8 @@
       "league": "NBA",
       "home_team": "Los Angeles Clippers",
       "away_team": "Golden State Warriors",
-      "home_score": 101,
-      "away_score": 104,
+      "home_score": 104,
+      "away_score": 101,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
@@ -99,8 +99,8 @@
       "league": "MLB",
       "home_team": "Los Angeles Dodgers",
       "away_team": "Atlanta Braves",
-      "home_score": 1,
-      "away_score": 1,
+      "home_score": 2,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
