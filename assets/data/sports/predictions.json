@@ -1,25 +1,25 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-05T18:40:01.949754+00:00",
+  "last_updated": "2026-10-06T00:31:02.859631+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2611751",
+      "match_id": "tsdb-2612218",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Cleveland Guardians",
-      "away_team": "Chicago White Sox",
-      "kickoff": "2026-10-05T21:00:00",
-      "kickoff_label": "21:00",
+      "home_team": "Atlanta Braves",
+      "away_team": "Los Angeles Dodgers",
+      "kickoff": "2026-10-06T22:00:00",
+      "kickoff_label": "22:00",
       "probabilities": {
         "home_win": 0.585,
         "away_win": 0.415
       },
-      "prediction_label": "AI: Cleveland Guardians favoured",
+      "prediction_label": "AI: Atlanta Braves favoured",
       "confidence": 0.585,
       "interest_score": 50,
       "trend_badge": null,
@@ -27,23 +27,23 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
+        "Recent form (last 5): Atlanta Braves 0.00 vs Los Angeles Dodgers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },
     {
-      "match_id": "tsdb-2548849",
+      "match_id": "tsdb-2601622",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Atlanta Hawks",
-      "away_team": "Memphis Grizzlies",
-      "kickoff": "2026-10-05T23:00:00",
-      "kickoff_label": "23:00",
+      "home_team": "Sacramento Kings",
+      "away_team": "Los Angeles Lakers",
+      "kickoff": "2026-10-06T02:00:00",
+      "kickoff_label": "02:00",
       "probabilities": {
         "home_win": 0.557,
         "away_win": 0.443
       },
-      "prediction_label": "AI: Atlanta Hawks favoured",
+      "prediction_label": "AI: Sacramento Kings favoured",
       "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
@@ -51,7 +51,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atlanta Hawks 0.00 vs Memphis Grizzlies 0.00.",
+        "Recent form (last 5): Sacramento Kings 0.00 vs Los Angeles Lakers 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

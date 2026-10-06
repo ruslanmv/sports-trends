@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-10-05T18:39:58.902378+00:00",
-  "today": "2026-10-05",
+  "last_updated": "2026-10-06T00:30:59.944227+00:00",
+  "today": "2026-10-06",
   "featured": {
     "key": "ucl",
     "name": "UEFA Champions League",
@@ -78,14 +78,6 @@
       "emoji": "🏀"
     },
     {
-      "key": "mlb",
-      "name": "MLB",
-      "sport": "baseball",
-      "scope": "franchise",
-      "importance": 78,
-      "emoji": "⚾"
-    },
-    {
       "key": "esports",
       "name": "Esports Majors",
       "sport": "esports",
@@ -103,7 +95,7 @@
       "importance": 90,
       "emoji": "🏀",
       "start": "2026-10-21",
-      "starts_in_days": 16
+      "starts_in_days": 15
     }
   ]
 }
