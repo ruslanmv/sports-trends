@@ -1,61 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-06T07:02:37.253643+00:00",
+  "last_updated": "2026-10-06T10:29:30.034406+00:00",
   "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "Atlanta Braves vs Los Angeles Dodgers",
-      "sport": "baseball",
+      "label": "Arsenal vs Leeds United",
+      "sport": "football",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Charlotte Hornets vs Brooklyn Nets",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Arsenal vs Leeds United",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
       "label": "Lens vs Sporting CP",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 5,
+      "rank": 3,
       "label": "Genoa vs Fiorentina",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 6,
+      "rank": 4,
       "label": "Málaga vs Espanyol",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 7,
+      "rank": 5,
       "label": "Lens vs Lyon",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
-      "rank": 8,
+      "rank": 6,
       "label": "Borussia Dortmund vs Werder Bremen",
       "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Atlanta Braves vs Los Angeles Dodgers",
+      "sport": "baseball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Charlotte Hornets vs Brooklyn Nets",
+      "sport": "basketball",
       "audience": null,
       "hot": false
     }

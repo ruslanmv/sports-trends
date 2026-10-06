@@ -1,11 +1,11 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "model_repo": "ruslanmv/sports-trends-models",
-  "last_trained": "2026-10-05T10:37:10.340746+00:00",
+  "last_trained": "2026-10-06T10:29:24.400093+00:00",
   "mode": "live",
   "models": {
     "football": {
-      "version": "football-hist_gradient_boosting-20261005",
+      "version": "football-hist_gradient_boosting-20261006",
       "algo": "hist_gradient_boosting",
       "model_name": "football-hgb",
       "task": "multiclass: home / draw / away",
@@ -18,7 +18,7 @@
       }
     },
     "basketball": {
-      "version": "basketball-logistic_regression-20261005",
+      "version": "basketball-logistic_regression-20261006",
       "algo": "logistic_regression",
       "model_name": "basketball-logreg",
       "task": "binary: home / away win",
@@ -31,7 +31,7 @@
       }
     },
     "tennis": {
-      "version": "tennis-gradient_boosting-20261005",
+      "version": "tennis-gradient_boosting-20261006",
       "algo": "gradient_boosting",
       "model_name": "tennis-gbdt",
       "task": "binary: player 1 / player 2 win",
@@ -44,7 +44,7 @@
       }
     },
     "cricket": {
-      "version": "cricket-random_forest-20261005",
+      "version": "cricket-random_forest-20261006",
       "algo": "random_forest",
       "model_name": "cricket-rf",
       "task": "binary: home / away win",
