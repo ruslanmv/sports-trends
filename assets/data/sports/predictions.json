@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-06T00:31:02.859631+00:00",
+  "last_updated": "2026-10-06T07:02:37.253612+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -32,18 +32,18 @@
       ]
     },
     {
-      "match_id": "tsdb-2601622",
+      "match_id": "tsdb-2601623",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Sacramento Kings",
-      "away_team": "Los Angeles Lakers",
-      "kickoff": "2026-10-06T02:00:00",
-      "kickoff_label": "02:00",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Brooklyn Nets",
+      "kickoff": "2026-10-06T23:00:00",
+      "kickoff_label": "23:00",
       "probabilities": {
         "home_win": 0.557,
         "away_win": 0.443
       },
-      "prediction_label": "AI: Sacramento Kings favoured",
+      "prediction_label": "AI: Charlotte Hornets favoured",
       "confidence": 0.557,
       "interest_score": 50,
       "trend_badge": null,
@@ -51,7 +51,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Sacramento Kings 0.00 vs Los Angeles Lakers 0.00.",
+        "Recent form (last 5): Charlotte Hornets 0.00 vs Brooklyn Nets 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     },

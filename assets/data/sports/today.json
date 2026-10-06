@@ -1,14 +1,14 @@
 {
   "date": "2026-10-06",
-  "last_updated": "2026-10-06T00:31:02.859617+00:00",
+  "last_updated": "2026-10-06T07:02:37.253598+00:00",
   "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2601622",
+      "match_id": "tsdb-2601623",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Sacramento Kings",
-      "away_team": "Los Angeles Lakers",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Brooklyn Nets",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
