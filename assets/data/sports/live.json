@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T10:29:29.783988+00:00",
-  "count": 6,
+  "last_updated": "2026-10-06T10:36:14.830714+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494042",
@@ -75,6 +75,32 @@
       "away_team": "RB Leipzig",
       "home_score": 4,
       "away_score": 1,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2601622",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Sacramento Kings",
+      "away_team": "Los Angeles Lakers",
+      "home_score": 127,
+      "away_score": 103,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2611752",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Tampa Bay Rays",
+      "away_team": "New York Yankees",
+      "home_score": 5,
+      "away_score": 2,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
