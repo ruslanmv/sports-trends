@@ -1,19 +1,61 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-06T23:28:44.460245+00:00",
-  "count": 2,
+  "last_updated": "2026-10-07T02:36:59.839452+00:00",
+  "count": 8,
   "matches": [
     {
       "rank": 1,
-      "label": "San Diego Padres vs Milwaukee Brewers",
+      "label": "Chicago White Sox vs Cleveland Guardians",
       "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Oklahoma City Thunder vs New Orleans Pelicans",
+      "label": "Indiana Pacers vs Minnesota Timberwolves",
       "sport": "basketball",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Arsenal vs Leeds United",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "label": "Lens vs Sporting CP",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "label": "Genoa vs Fiorentina",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "label": "Málaga vs Espanyol",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "label": "Lens vs Lyon",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "label": "Borussia Dortmund vs Werder Bremen",
+      "sport": "football",
       "audience": null,
       "hot": false
     }
