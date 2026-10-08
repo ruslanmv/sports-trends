@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T22:08:30.190639+00:00",
-  "count": 7,
+  "last_updated": "2026-10-08T02:08:13.853157+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2494042",
@@ -75,19 +75,6 @@
       "away_team": "RB Leipzig",
       "home_score": 4,
       "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2548850",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Golden State Warriors",
-      "away_team": "Los Angeles Lakers",
-      "home_score": 124,
-      "away_score": 98,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

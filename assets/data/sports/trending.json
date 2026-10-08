@@ -1,14 +1,28 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-07T22:08:31.137312+00:00",
-  "count": 1,
+  "last_updated": "2026-10-08T02:08:15.500494+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "New York Yankees vs Tampa Bay Rays",
-      "sport": "baseball",
+      "label": "Málaga vs Espanyol",
+      "sport": "football",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Lens vs Lyon",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Borussia Dortmund vs Werder Bremen",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
