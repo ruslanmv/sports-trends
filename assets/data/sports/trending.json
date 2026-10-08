@@ -1,24 +1,31 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-08T02:08:15.500494+00:00",
-  "count": 3,
+  "last_updated": "2026-10-08T09:14:42.466857+00:00",
+  "count": 4,
   "matches": [
     {
       "rank": 1,
-      "label": "Málaga vs Espanyol",
-      "sport": "football",
+      "label": "Chicago White Sox vs Cleveland Guardians",
+      "sport": "baseball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
-      "label": "Lens vs Lyon",
+      "label": "Málaga vs Espanyol",
       "sport": "football",
       "audience": null,
       "hot": false
     },
     {
       "rank": 3,
+      "label": "Lens vs Lyon",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 4,
       "label": "Borussia Dortmund vs Werder Bremen",
       "sport": "football",
       "audience": null,
