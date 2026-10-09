@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T21:40:42.953194+00:00",
-  "count": 7,
+  "last_updated": "2026-10-09T01:35:41.890590+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494042",
@@ -81,13 +81,26 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2615996",
+      "match_id": "tsdb-2548853",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Atlanta Hawks",
+      "home_score": 39,
+      "away_score": 20,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2616597",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "San Diego Padres",
-      "away_team": "Milwaukee Brewers",
-      "home_score": 1,
-      "away_score": 3,
+      "home_team": "Chicago White Sox",
+      "away_team": "Cleveland Guardians",
+      "home_score": 0,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
