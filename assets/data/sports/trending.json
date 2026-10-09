@@ -1,17 +1,24 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-09T10:46:58.246525+00:00",
-  "count": 2,
+  "last_updated": "2026-10-09T15:25:21.052642+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
-      "label": "Arsenal vs Leeds United",
-      "sport": "football",
+      "label": "Chicago Bulls vs Memphis Grizzlies",
+      "sport": "basketball",
       "audience": null,
       "hot": true
     },
     {
       "rank": 2,
+      "label": "Arsenal vs Leeds United",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
       "label": "Genoa vs Fiorentina",
       "sport": "football",
       "audience": null,
