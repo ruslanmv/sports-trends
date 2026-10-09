@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-08 10:44 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-09 10:43 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-08 10:44 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 13d)
+NBA (in 12d)
 <!-- SEASON:END -->
 
 ---
@@ -46,10 +46,8 @@ NBA (in 13d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Málaga** vs **Espanyol** | Spanish La Liga | 19:00 | Málaga favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Lens** vs **Lyon** | French Ligue 1 | 18:45 | Lens favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Borussia Dortmund** vs **Werder Bremen** | German Bundesliga | 18:30 | Borussia Dortmund favoured | `██████░░░░` 60% |
-| 4 | ⚾ **Chicago White Sox** vs **Cleveland Guardians** | MLB | 00:00 | Chicago White Sox favoured | `██████░░░░` 58% |
+| 1 | ⚽ **Arsenal** vs **Leeds United** | English Premier League | 11:30 | Leeds United favoured | `█████████░` 90% |
+| 2 | ⚽ **Genoa** vs **Fiorentina** | Italian Serie A | 13:00 | Genoa favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
