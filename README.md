@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-09 10:43 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-10 09:59 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-09 10:43 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 12d)
+NBA (in 11d)
 <!-- SEASON:END -->
 
 ---
@@ -46,8 +46,7 @@ NBA (in 12d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Arsenal** vs **Leeds United** | English Premier League | 11:30 | Leeds United favoured | `█████████░` 90% |
-| 2 | ⚽ **Genoa** vs **Fiorentina** | Italian Serie A | 13:00 | Genoa favoured | `██████░░░░` 60% |
+| 1 | ⚾ **Cleveland Guardians** vs **Chicago White Sox** | MLB | 00:00 | Cleveland Guardians favoured | `██████░░░░` 58% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>

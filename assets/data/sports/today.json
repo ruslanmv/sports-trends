@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "last_updated": "2026-10-10T06:07:37.332374+00:00",
-  "count": 6,
+  "last_updated": "2026-10-10T09:58:51.991218+00:00",
+  "count": 2,
   "matches": [
     {
       "match_id": "tsdb-2494052",
@@ -22,58 +22,6 @@
       "league": "Spanish La Liga",
       "home_team": "Rayo Vallecano",
       "away_team": "Athletic Bilbao",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2482192",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Genoa",
-      "away_team": "Fiorentina",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2508370",
-      "sport": "football",
-      "league": "German Bundesliga",
-      "home_team": "Mainz",
-      "away_team": "Bayer Leverkusen",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2489507",
-      "sport": "football",
-      "league": "French Ligue 1",
-      "home_team": "Lille",
-      "away_team": "Le Havre",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": false
-    },
-    {
-      "match_id": "tsdb-2601635",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Toronto Raptors",
-      "away_team": "Los Angeles Clippers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
