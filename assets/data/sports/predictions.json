@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-10T17:33:55.481683+00:00",
+  "last_updated": "2026-10-10T20:56:32.538701+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -78,6 +78,81 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Crystal Palace 0.00 vs Nottingham Forest 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489508",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Nice",
+      "away_team": "Strasbourg",
+      "kickoff": "2026-10-11T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Nice favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Nice 0.00 vs Strasbourg 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506247",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Elche",
+      "away_team": "Celta Vigo",
+      "kickoff": "2026-10-11T12:00:00",
+      "kickoff_label": "12:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Elche favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Elche 0.00 vs Celta Vigo 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482197",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Como",
+      "away_team": "Roma",
+      "kickoff": "2026-10-11T10:30:00",
+      "kickoff_label": "10:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Como favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Como 0.00 vs Roma 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
