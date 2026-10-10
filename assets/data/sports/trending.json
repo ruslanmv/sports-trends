@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-10T12:48:13.144883+00:00",
-  "count": 1,
+  "last_updated": "2026-10-10T17:33:55.481704+00:00",
+  "count": 3,
   "matches": [
     {
       "rank": 1,
@@ -9,6 +9,20 @@
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Köln vs Borussia Mönchengladbach",
+      "sport": "football",
+      "audience": null,
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "label": "Crystal Palace vs Nottingham Forest",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }

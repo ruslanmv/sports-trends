@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-10T12:48:13.144867+00:00",
+  "last_updated": "2026-10-10T17:33:55.481683+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
@@ -28,6 +28,56 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Cleveland Guardians 0.00 vs Chicago White Sox 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508377",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Köln",
+      "away_team": "Borussia Mönchengladbach",
+      "kickoff": "2026-10-11T13:30:00",
+      "kickoff_label": "13:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Köln favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Köln 0.00 vs Borussia Mönchengladbach 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2494054",
+      "sport": "football",
+      "league": "English Premier League",
+      "home_team": "Crystal Palace",
+      "away_team": "Nottingham Forest",
+      "kickoff": "2026-10-11T13:00:00",
+      "kickoff_label": "13:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Crystal Palace favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Crystal Palace 0.00 vs Nottingham Forest 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
