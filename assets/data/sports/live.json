@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T20:56:31.437913+00:00",
-  "count": 8,
+  "last_updated": "2026-10-11T00:03:54.195436+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2494050",
@@ -75,32 +75,6 @@
       "away_team": "RB Leipzig",
       "home_score": 4,
       "away_score": 1,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2601634",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Chicago Bulls",
-      "away_team": "Memphis Grizzlies",
-      "home_score": 100,
-      "away_score": 104,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2616597",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Chicago White Sox",
-      "away_team": "Cleveland Guardians",
-      "home_score": 5,
-      "away_score": 9,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

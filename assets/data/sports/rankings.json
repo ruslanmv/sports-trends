@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T20:56:32.538727+00:00",
+  "last_updated": "2026-10-11T00:03:55.759677+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,38 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2616722",
-      "label": "Cleveland Guardians vs Chicago White Sox",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2508377",
-      "label": "Köln vs Borussia Mönchengladbach",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2494054",
-      "label": "Crystal Palace vs Nottingham Forest",
-      "interest_score": 50
-    },
-    {
-      "rank": 4,
-      "match_id": "tsdb-2489508",
-      "label": "Nice vs Strasbourg",
-      "interest_score": 50
-    },
-    {
-      "rank": 5,
-      "match_id": "tsdb-2506247",
-      "label": "Elche vs Celta Vigo",
-      "interest_score": 50
-    },
-    {
-      "rank": 6,
-      "match_id": "tsdb-2482197",
-      "label": "Como vs Roma",
+      "match_id": "tsdb-2616723",
+      "label": "Milwaukee Brewers vs Los Angeles Dodgers",
       "interest_score": 50
     }
   ]

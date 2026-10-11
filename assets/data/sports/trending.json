@@ -1,49 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-10T20:56:32.538724+00:00",
-  "count": 6,
+  "last_updated": "2026-10-11T00:03:55.759673+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Cleveland Guardians vs Chicago White Sox",
+      "label": "Milwaukee Brewers vs Los Angeles Dodgers",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Köln vs Borussia Mönchengladbach",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Crystal Palace vs Nottingham Forest",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "label": "Nice vs Strasbourg",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "label": "Elche vs Celta Vigo",
-      "sport": "football",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "label": "Como vs Roma",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
