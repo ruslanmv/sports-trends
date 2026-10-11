@@ -2,8 +2,8 @@
   "date": "2026-10-11",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-11T18:13:26.699086+00:00",
-  "count": 2,
+  "last_updated": "2026-10-11T22:11:41.894204+00:00",
+  "count": 4,
   "matches": [
     {
       "match_id": "tsdb-2616723",
@@ -51,6 +51,56 @@
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Coventry City 0.00 vs Newcastle United 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2506241",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Levante",
+      "away_team": "Sevilla",
+      "kickoff": "2026-10-12T19:00:00",
+      "kickoff_label": "19:00",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Levante favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Levante 0.00 vs Sevilla 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482193",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Atalanta",
+      "away_team": "Venezia",
+      "kickoff": "2026-10-12T16:30:00",
+      "kickoff_label": "16:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Atalanta favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Atalanta 0.00 vs Venezia 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
