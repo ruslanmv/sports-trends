@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated": "2026-10-11T00:03:55.759644+00:00",
+  "last_updated": "2026-10-11T06:05:18.883063+00:00",
   "count": 6,
   "matches": [
     {
@@ -69,11 +69,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2548858",
+      "match_id": "tsdb-2548859",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Golden State Warriors",
-      "away_team": "Sacramento Kings",
+      "home_team": "Houston Rockets",
+      "away_team": "Dallas Mavericks",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
