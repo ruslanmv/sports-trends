@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-11T13:11:35.037999+00:00",
-  "count": 1,
+  "last_updated": "2026-10-11T18:13:26.699111+00:00",
+  "count": 2,
   "matches": [
     {
       "rank": 1,
@@ -9,6 +9,13 @@
       "sport": "baseball",
       "audience": null,
       "hot": true
+    },
+    {
+      "rank": 2,
+      "label": "Coventry City vs Newcastle United",
+      "sport": "football",
+      "audience": null,
+      "hot": false
     }
   ]
 }
