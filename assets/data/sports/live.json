@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T11:10:38.826287+00:00",
+  "last_updated": "2026-10-12T17:10:43.918700+00:00",
   "count": 8,
   "matches": [
     {
@@ -29,12 +29,12 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2482190",
+      "match_id": "tsdb-2482193",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Cagliari",
-      "away_team": "Juventus",
-      "home_score": 1,
+      "home_team": "Atalanta",
+      "away_team": "Venezia",
+      "home_score": 3,
       "away_score": 1,
       "status": "finished",
       "status_detail": null,

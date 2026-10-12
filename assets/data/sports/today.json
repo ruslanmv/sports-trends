@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "last_updated": "2026-10-12T11:10:40.390245+00:00",
+  "last_updated": "2026-10-12T17:10:45.201186+00:00",
   "count": 5,
   "matches": [
     {
@@ -30,11 +30,11 @@
       "is_finished": false
     },
     {
-      "match_id": "tsdb-2482193",
+      "match_id": "tsdb-2482194",
       "sport": "football",
       "league": "Italian Serie A",
-      "home_team": "Atalanta",
-      "away_team": "Venezia",
+      "home_team": "Torino",
+      "away_team": "Udinese",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",
