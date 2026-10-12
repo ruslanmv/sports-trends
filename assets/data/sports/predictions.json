@@ -1,50 +1,26 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
   "technical_name": "sports-trends",
-  "last_updated": "2026-10-11T22:11:41.894209+00:00",
+  "last_updated": "2026-10-12T01:27:45.752771+00:00",
   "source": "ruslanmv/sports-trends-dataset",
   "model_version": "baseline-v1",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
   "matches": [
     {
-      "match_id": "tsdb-2616723",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Los Angeles Dodgers",
-      "kickoff": "2026-10-12T00:00:00",
-      "kickoff_label": "00:00",
-      "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
-      },
-      "prediction_label": "AI: Milwaukee Brewers favoured",
-      "confidence": 0.585,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Milwaukee Brewers 0.00 vs Los Angeles Dodgers 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2494059",
+      "match_id": "tsdb-2594564",
       "sport": "football",
-      "league": "English Premier League",
-      "home_team": "Coventry City",
-      "away_team": "Newcastle United",
-      "kickoff": "2026-10-12T19:00:00",
-      "kickoff_label": "19:00",
+      "league": "UEFA Champions League",
+      "home_team": "Lens",
+      "away_team": "Sporting CP",
+      "kickoff": "2026-10-13T16:45:00",
+      "kickoff_label": "16:45",
       "probabilities": {
         "home_win": 0.459,
         "draw": 0.216,
         "away_win": 0.325
       },
-      "prediction_label": "AI: Coventry City favoured",
+      "prediction_label": "AI: Lens favoured",
       "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
@@ -52,57 +28,7 @@
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Coventry City 0.00 vs Newcastle United 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2506241",
-      "sport": "football",
-      "league": "Spanish La Liga",
-      "home_team": "Levante",
-      "away_team": "Sevilla",
-      "kickoff": "2026-10-12T19:00:00",
-      "kickoff_label": "19:00",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Levante favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Levante 0.00 vs Sevilla 0.00.",
-        "Head-to-head: 0–0–0 (home–draw–away)."
-      ]
-    },
-    {
-      "match_id": "tsdb-2482193",
-      "sport": "football",
-      "league": "Italian Serie A",
-      "home_team": "Atalanta",
-      "away_team": "Venezia",
-      "kickoff": "2026-10-12T16:30:00",
-      "kickoff_label": "16:30",
-      "probabilities": {
-        "home_win": 0.459,
-        "draw": 0.216,
-        "away_win": 0.325
-      },
-      "prediction_label": "AI: Atalanta favoured",
-      "confidence": 0.459,
-      "interest_score": 50,
-      "trend_badge": null,
-      "audience": null,
-      "model_used": false,
-      "explanation": [
-        "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Atalanta 0.00 vs Venezia 0.00.",
+        "Recent form (last 5): Lens 0.00 vs Sporting CP 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }
