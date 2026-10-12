@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T17:10:45.201223+00:00",
+  "last_updated": "2026-10-12T23:41:29.502010+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,6 +35,18 @@
   "top_matches": [
     {
       "rank": 1,
+      "match_id": "tsdb-2616981",
+      "label": "Tampa Bay Rays vs Cleveland Guardians",
+      "interest_score": 50
+    },
+    {
+      "rank": 2,
+      "match_id": "tsdb-2601643",
+      "label": "Utah Jazz vs San Antonio Spurs",
+      "interest_score": 50
+    },
+    {
+      "rank": 3,
       "match_id": "tsdb-2594564",
       "label": "Lens vs Sporting CP",
       "interest_score": 50
