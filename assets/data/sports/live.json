@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T23:41:27.265906+00:00",
-  "count": 7,
+  "last_updated": "2026-10-13T04:45:06.798873+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494059",
@@ -81,13 +81,26 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2616724",
+      "match_id": "tsdb-2601643",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Utah Jazz",
+      "away_team": "San Antonio Spurs",
+      "home_score": 119,
+      "away_score": 109,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2616981",
       "sport": "baseball",
       "league": "MLB",
-      "home_team": "Milwaukee Brewers",
-      "away_team": "Los Angeles Dodgers",
-      "home_score": 5,
-      "away_score": 4,
+      "home_team": "Tampa Bay Rays",
+      "away_team": "Cleveland Guardians",
+      "home_score": 3,
+      "away_score": 7,
       "status": "finished",
       "status_detail": null,
       "is_live": false,

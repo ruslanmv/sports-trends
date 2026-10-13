@@ -1,7 +1,7 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-12T23:41:29.502007+00:00",
-  "count": 3,
+  "last_updated": "2026-10-13T04:45:08.971068+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
@@ -9,20 +9,6 @@
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Utah Jazz vs San Antonio Spurs",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Lens vs Sporting CP",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
