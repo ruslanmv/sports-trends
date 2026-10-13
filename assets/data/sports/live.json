@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:22:55.845663+00:00",
+  "last_updated": "2026-10-13T19:24:32.103593+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594669",
+      "match_id": "tsdb-2594663",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "Como",
-      "away_team": "RB Leipzig",
-      "home_score": 4,
-      "away_score": 1,
+      "home_team": "Viking",
+      "away_team": "Bayern Munich",
+      "home_score": 1,
+      "away_score": 0,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
