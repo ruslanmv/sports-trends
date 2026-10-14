@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T18:05:12.741819+00:00",
+  "last_updated": "2026-10-14T21:50:48.683982+00:00",
   "count": 8,
   "matches": [
     {
@@ -68,13 +68,13 @@
       "is_finished": true
     },
     {
-      "match_id": "tsdb-2594671",
+      "match_id": "tsdb-2594659",
       "sport": "football",
       "league": "UEFA Champions League",
-      "home_team": "LASK",
-      "away_team": "Liverpool",
+      "home_team": "Slovan Bratislava",
+      "away_team": "Stuttgart",
       "home_score": 0,
-      "away_score": 4,
+      "away_score": 3,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
