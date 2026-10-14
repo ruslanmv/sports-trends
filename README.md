@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-13 10:46 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-14 08:50 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-13 10:46 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 8d)
+NBA (in 7d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,7 @@ NBA (in 8d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚾ **Tampa Bay Rays** vs **Cleveland Guardians** | MLB | 00:00 | Tampa Bay Rays favoured | `██████░░░░` 58% |
+| 1 | ⚾ **Los Angeles Dodgers** vs **Milwaukee Brewers** | MLB | 00:00 | Los Angeles Dodgers favoured | `██████░░░░` 58% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
