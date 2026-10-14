@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T23:21:18.492607+00:00",
+  "last_updated": "2026-10-14T02:02:05.348535+00:00",
   "explore_sports": [
     {
       "sport": "football",
@@ -35,20 +35,8 @@
   "top_matches": [
     {
       "rank": 1,
-      "match_id": "tsdb-2616982",
-      "label": "Tampa Bay Rays vs Cleveland Guardians",
-      "interest_score": 50
-    },
-    {
-      "rank": 2,
-      "match_id": "tsdb-2601646",
-      "label": "Oklahoma City Thunder vs Indiana Pacers",
-      "interest_score": 50
-    },
-    {
-      "rank": 3,
-      "match_id": "tsdb-2594590",
-      "label": "Feyenoord vs Como",
+      "match_id": "tsdb-2616725",
+      "label": "Los Angeles Dodgers vs Milwaukee Brewers",
       "interest_score": 50
     }
   ]

@@ -1,28 +1,14 @@
 {
   "region": "Worldwide",
-  "last_updated": "2026-10-13T23:21:18.492598+00:00",
-  "count": 3,
+  "last_updated": "2026-10-14T02:02:05.348531+00:00",
+  "count": 1,
   "matches": [
     {
       "rank": 1,
-      "label": "Tampa Bay Rays vs Cleveland Guardians",
+      "label": "Los Angeles Dodgers vs Milwaukee Brewers",
       "sport": "baseball",
       "audience": null,
       "hot": true
-    },
-    {
-      "rank": 2,
-      "label": "Oklahoma City Thunder vs Indiana Pacers",
-      "sport": "basketball",
-      "audience": null,
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "label": "Feyenoord vs Como",
-      "sport": "football",
-      "audience": null,
-      "hot": false
     }
   ]
 }
