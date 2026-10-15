@@ -1,14 +1,27 @@
 {
-  "date": "2026-10-14",
-  "last_updated": "2026-10-14T21:50:50.066064+00:00",
-  "count": 1,
+  "date": "2026-10-15",
+  "last_updated": "2026-10-15T00:12:18.720233+00:00",
+  "count": 2,
   "matches": [
     {
-      "match_id": "tsdb-2548861",
+      "match_id": "tsdb-2601653",
       "sport": "basketball",
       "league": "NBA",
-      "home_team": "Boston Celtics",
-      "away_team": "Charlotte Hornets",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Denver Nuggets",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": false
+    },
+    {
+      "match_id": "tsdb-2616983",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Cleveland Guardians",
+      "away_team": "Tampa Bay Rays",
       "home_score": null,
       "away_score": null,
       "status": "scheduled",

@@ -1,31 +1,107 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-14T21:50:50.066074+00:00",
-  "count": 1,
+  "last_updated": "2026-10-15T00:12:18.720246+00:00",
+  "count": 4,
   "matches": [
     {
-      "match_id": "tsdb-2616725",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Los Angeles Dodgers",
-      "away_team": "Milwaukee Brewers",
-      "kickoff": "2026-10-15T00:00:00",
-      "kickoff_label": "00:00",
+      "match_id": "tsdb-2506256",
+      "sport": "football",
+      "league": "Spanish La Liga",
+      "home_team": "Deportivo de A Coruña",
+      "away_team": "Levante",
+      "kickoff": "2026-10-16T19:00:00",
+      "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.585,
-        "away_win": 0.415
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
-      "prediction_label": "AI: Los Angeles Dodgers favoured",
-      "confidence": 0.585,
+      "prediction_label": "AI: Deportivo de A Coruña favoured",
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
       "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
-        "Recent form (last 5): Los Angeles Dodgers 0.00 vs Milwaukee Brewers 0.00.",
+        "Recent form (last 5): Deportivo de A Coruña 0.00 vs Levante 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2482204",
+      "sport": "football",
+      "league": "Italian Serie A",
+      "home_team": "Frosinone",
+      "away_team": "Sassuolo",
+      "kickoff": "2026-10-16T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Frosinone favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Frosinone 0.00 vs Sassuolo 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2489524",
+      "sport": "football",
+      "league": "French Ligue 1",
+      "home_team": "Le Mans",
+      "away_team": "Toulouse",
+      "kickoff": "2026-10-16T18:45:00",
+      "kickoff_label": "18:45",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Le Mans favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Le Mans 0.00 vs Toulouse 0.00.",
+        "Head-to-head: 0–0–0 (home–draw–away)."
+      ]
+    },
+    {
+      "match_id": "tsdb-2508382",
+      "sport": "football",
+      "league": "German Bundesliga",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Köln",
+      "kickoff": "2026-10-16T18:30:00",
+      "kickoff_label": "18:30",
+      "probabilities": {
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
+      },
+      "prediction_label": "AI: Eintracht Frankfurt favoured",
+      "confidence": 0.459,
+      "interest_score": 50,
+      "trend_badge": null,
+      "audience": null,
+      "model_used": false,
+      "explanation": [
+        "Elo difference is small — closely matched sides.",
+        "Recent form (last 5): Eintracht Frankfurt 0.00 vs Köln 0.00.",
         "Head-to-head: 0–0–0 (home–draw–away)."
       ]
     }

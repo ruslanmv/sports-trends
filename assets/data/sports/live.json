@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T21:50:48.683982+00:00",
-  "count": 8,
+  "last_updated": "2026-10-15T00:12:17.070455+00:00",
+  "count": 6,
   "matches": [
     {
       "match_id": "tsdb-2494059",
@@ -75,32 +75,6 @@
       "away_team": "Stuttgart",
       "home_score": 0,
       "away_score": 3,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2601648",
-      "sport": "basketball",
-      "league": "NBA",
-      "home_team": "Sacramento Kings",
-      "away_team": "Portland Trail Blazers",
-      "home_score": 98,
-      "away_score": 110,
-      "status": "finished",
-      "status_detail": null,
-      "is_live": false,
-      "is_finished": true
-    },
-    {
-      "match_id": "tsdb-2616982",
-      "sport": "baseball",
-      "league": "MLB",
-      "home_team": "Tampa Bay Rays",
-      "away_team": "Cleveland Guardians",
-      "home_score": 3,
-      "away_score": 1,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
