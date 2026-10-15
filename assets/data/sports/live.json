@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T00:12:17.070455+00:00",
-  "count": 6,
+  "last_updated": "2026-10-15T04:56:24.337109+00:00",
+  "count": 8,
   "matches": [
     {
       "match_id": "tsdb-2494059",
@@ -75,6 +75,32 @@
       "away_team": "Stuttgart",
       "home_score": 0,
       "away_score": 3,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2601653",
+      "sport": "basketball",
+      "league": "NBA",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Denver Nuggets",
+      "home_score": 92,
+      "away_score": 104,
+      "status": "finished",
+      "status_detail": null,
+      "is_live": false,
+      "is_finished": true
+    },
+    {
+      "match_id": "tsdb-2616725",
+      "sport": "baseball",
+      "league": "MLB",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "Milwaukee Brewers",
+      "home_score": 2,
+      "away_score": 6,
       "status": "finished",
       "status_detail": null,
       "is_live": false,
