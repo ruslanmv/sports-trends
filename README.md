@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-14 08:50 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-15 08:26 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-14 08:50 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 7d)
+NBA (in 6d)
 <!-- SEASON:END -->
 
 ---
@@ -46,7 +46,10 @@ NBA (in 7d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚾ **Los Angeles Dodgers** vs **Milwaukee Brewers** | MLB | 00:00 | Los Angeles Dodgers favoured | `██████░░░░` 58% |
+| 1 | ⚽ **Deportivo de A Coruña** vs **Levante** | Spanish La Liga | 19:00 | Deportivo de A Coruña favoured | `██████░░░░` 60% |
+| 2 | ⚽ **Frosinone** vs **Sassuolo** | Italian Serie A | 18:45 | Frosinone favoured | `██████░░░░` 60% |
+| 3 | ⚽ **Le Mans** vs **Toulouse** | French Ligue 1 | 18:45 | Le Mans favoured | `██████░░░░` 60% |
+| 4 | ⚽ **Eintracht Frankfurt** vs **Köln** | German Bundesliga | 18:30 | Eintracht Frankfurt favoured | `██████░░░░` 60% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
