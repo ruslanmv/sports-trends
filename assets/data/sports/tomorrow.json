@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "headline": "Tomorrow’s Biggest Games",
   "tagline": "AI predictions, live results, and trending games updated every 30 minutes.",
-  "last_updated": "2026-10-15T08:26:12.760839+00:00",
+  "last_updated": "2026-10-15T08:29:11.952554+00:00",
   "count": 4,
   "matches": [
     {
@@ -14,15 +14,16 @@
       "kickoff": "2026-10-16T19:00:00",
       "kickoff_label": "19:00",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Deportivo de A Coruña favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Deportivo de A Coruña 0.00 vs Levante 0.00.",
@@ -38,15 +39,16 @@
       "kickoff": "2026-10-16T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Frosinone favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Frosinone 0.00 vs Sassuolo 0.00.",
@@ -62,15 +64,16 @@
       "kickoff": "2026-10-16T18:45:00",
       "kickoff_label": "18:45",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Le Mans favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Le Mans 0.00 vs Toulouse 0.00.",
@@ -86,15 +89,16 @@
       "kickoff": "2026-10-16T18:30:00",
       "kickoff_label": "18:30",
       "probabilities": {
-        "home_win": 0.597,
-        "away_win": 0.403
+        "home_win": 0.459,
+        "draw": 0.216,
+        "away_win": 0.325
       },
       "prediction_label": "AI: Eintracht Frankfurt favoured",
-      "confidence": 0.597,
+      "confidence": 0.459,
       "interest_score": 50,
       "trend_badge": null,
       "audience": null,
-      "model_used": true,
+      "model_used": false,
       "explanation": [
         "Elo difference is small — closely matched sides.",
         "Recent form (last 5): Eintracht Frankfurt 0.00 vs Köln 0.00.",
