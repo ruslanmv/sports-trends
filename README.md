@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-15 08:26 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-17 07:55 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-15 08:26 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 6d)
+NBA (in 4d)
 <!-- SEASON:END -->
 
 ---
@@ -46,10 +46,11 @@ NBA (in 6d)
 <!-- TOP5:START -->
 | # | Match | League | Kickoff | AI Pick | Confidence |
 |:-:|:------|:-------|:-------:|:--------|:-----------|
-| 1 | ⚽ **Deportivo de A Coruña** vs **Levante** | Spanish La Liga | 19:00 | Deportivo de A Coruña favoured | `██████░░░░` 60% |
-| 2 | ⚽ **Frosinone** vs **Sassuolo** | Italian Serie A | 18:45 | Frosinone favoured | `██████░░░░` 60% |
-| 3 | ⚽ **Le Mans** vs **Toulouse** | French Ligue 1 | 18:45 | Le Mans favoured | `██████░░░░` 60% |
-| 4 | ⚽ **Eintracht Frankfurt** vs **Köln** | German Bundesliga | 18:30 | Eintracht Frankfurt favoured | `██████░░░░` 60% |
+| 1 | ⚽ **Real Madrid** vs **Man City** | UEFA Champions League | 21:00 | Real Madrid favoured | `██████░░░░` 56% |
+| 2 | 🏀 **Lakers** vs **Celtics** | NBA Finals | 08:30 | Lakers favoured | `█████░░░░░` 48% |
+| 3 | 🎾 **Jannik Sinner** vs **Carlos Alcaraz** | Wimbledon Men's SF | 15:00 | Jannik Sinner favoured | `████░░░░░░` 44% |
+| 4 | 🏏 **India** vs **Australia** | ICC Test Championship | 10:00 | India favoured | `████░░░░░░` 41% |
+| 5 | ⚽ **PSG** vs **Bayern Munich** | UEFA Champions League | 21:00 | PSG favoured | `████░░░░░░` 39% |
 <!-- TOP5:END -->
 
 <div align="center"><a href="https://ruslanmv.com/sports-trends/"><b>▶ See the full live dashboard →</b></a></div>
