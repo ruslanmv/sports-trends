@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-10-17 07:55 UTC** — refreshed automatically every day._
+_Last updated: **2026-10-18 08:09 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-10-17 07:55 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-NBA (in 4d)
+NBA (in 3d)
 <!-- SEASON:END -->
 
 ---
