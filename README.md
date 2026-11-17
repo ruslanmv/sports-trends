@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICENSE)
 
 <!-- UPDATED:START -->
-_Last updated: **2026-11-16 11:41 UTC** — refreshed automatically every day._
+_Last updated: **2026-11-17 12:02 UTC** — refreshed automatically every day._
 <!-- UPDATED:END -->
 
 </div>
@@ -34,7 +34,7 @@ _Last updated: **2026-11-16 11:41 UTC** — refreshed automatically every day._
 
 **Starting soon:**
 
-Australian Open (in 53d)
+Australian Open (in 52d)
 <!-- SEASON:END -->
 
 ---
