@@ -1,7 +1,7 @@
 {
   "product": "Ruslan Magana Sports Intelligence",
-  "last_updated": "2026-11-25T16:32:33.768789+00:00",
-  "today": "2026-11-25",
+  "last_updated": "2026-11-26T00:47:12.477668+00:00",
+  "today": "2026-11-26",
   "featured": {
     "key": "ucl",
     "name": "UEFA Champions League",
@@ -103,7 +103,7 @@
       "importance": 92,
       "emoji": "🎾",
       "start": "2027-01-08",
-      "starts_in_days": 44
+      "starts_in_days": 43
     }
   ]
 }
